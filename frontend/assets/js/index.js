@@ -1,41 +1,7 @@
-// Visualizing Stuff in Maps: https://developers.google.com/maps/documentation/javascript/earthquakes
-
-// -Define Incident Types, Make Pie Chart
-// -Click on Marker Window https://developers.google.com/maps/documentation/javascript/examples/infowindow-simple
-
-//Init Firebase: --> data in credentials.js
-firebase.initializeApp({
-    apiKey: data.apiKey,
-    authDomain: data.authDomain,
-    projectId: data.projectId
-});
-
-// Initialize Cloud Firestore through Firebase
-//var db = firebase.firestore();
-
-// Disable deprecated features
-db.settings({
-    timestampsInSnapshots: true
-});
-
 var jsonObject;
 var map;
 
-
-
-
-//Get JSON Data, then add to map.data
-db.collection("features").get().then((querySnapshot) => {
-    querySnapshot.forEach((doc) => {
-        //console.log(`${doc.id} => ${doc.data()}`);
-        jsonObject = doc.data();
-        console.log(jsonObject);
-        map.data.addGeoJson(jsonObject); //Data is added to Gmap and then setStyle in initMap--> Circle with magnitude
-    });
-});
-
 //Init GMap
-
 function initAutocomplete() {
     map = new google.maps.Map(document.getElementById('map'), {
         zoom: 4,
@@ -72,25 +38,6 @@ function initAutocomplete() {
         markers = [];
 
 
-        // console.log(places[0].geometry.viewport);
-        // console.log(places[0].geometry.viewport.ga.j); //long
-        // console.log(places[0].geometry.viewport.ga.l); //long
-        // console.log(places[0].geometry.viewport.ma.j); //lat
-        // console.log(places[0].geometry.viewport.ma.l); //lat
-
-        var longA = places[0].geometry.viewport.ga.j; //long
-        var longB = places[0].geometry.viewport.ga.l; //long
-        var latA = places[0].geometry.viewport.ma.j; //lat
-        var latB = places[0].geometry.viewport.ma.l; //lat
-     
-        var apiURL = "https://data.police.uk/api/crimes-street/all-crime?poly="
-            + latA + "," + longA + ":" + latA + "," + longB + ":" + latB + "," + longB + ":" + latB + "," + longA + ":" + latA + "," + longA + "&date=2017-01"
-
-        // Old, returns half of the area as triangle
-        // var apiURL = "https://data.police.uk/api/crimes-street/all-crime?poly="
-        //     + latA + "," + longA + ":" + latB + "," + longB + ":" + latA + "," + longB + "&date=2017-01"
-
-
 
         var apiData;
         var geoApiData = {
@@ -113,137 +60,170 @@ function initAutocomplete() {
         var plusOrMinus;
 
 
+        // var apiURL = XXX CONNECT TO PYTHON SERVER
+
+        // $.getJSON(apiURL, function (data) {
+        //     $.each(data, function (index, value) {
+
+        //         console.log(value);
+
+        //         plusOrMinus = Math.random() < 0.5 ? -1 : 1;
+        //         var longInt = parseFloat(value.location.longitude);
+        //         var longMath = 0.00002 / ((Math.floor(Math.random() * 5) + 0.001));
+        //         longRand = longInt + (longMath * plusOrMinus);
+
+        //         plusOrMinus = Math.random() < 0.5 ? -1 : 1;
+        //         var latInt = parseFloat(value.location.latitude);
+        //         var latMath = 0.00002 / ((Math.floor(Math.random() * 5) + 0.001));
+        //         latRand = latInt + (latMath * plusOrMinus);
 
 
-        $.getJSON(apiURL, function (data) {
-            $.each(data, function (index, value) {
+        //         // {
+        //         //     "geometry": {
+        //         //         "coordinates": [
+        //         //             longitude,
+        //         //             latitude
+        //         //         ],
+        //         //         "type": "Point"
+        //         //     },
+        //         //     "properties": {
+        //         //         "property1": 1234,
+        //         //         "property2": "add as many properties as you want"
+        //         //     },
+        //         //     "type": "Feature"
+        //         // }
 
-                if (value.outcome_status !== null) {
-                    objectStatus = value.outcome_status.category + ", " + value.outcome_status.date;
-                } else {
-                    objectStatus = "no data available";
-                }
-                if (value.category.includes("burglary") || value.category.includes("shoplifting") || value.category.includes("theft") || value.category.includes("robbery")) {
-                    value.genCategory = "Theft";
-                    value.skala = "5.5";
-                    countCategory.theft++;
-                } else
-                    if (value.category.includes("social") || value.category.includes("drugs") || value.category.includes("public") || value.category.includes("damage")) {
-                        value.genCategory = "Public Offenses";
-                        value.skala = "5";
-                        countCategory.publicOffenses++;
-                    } else
-                        if (value.category.includes("vehicle")) {
-                            value.genCategory = "Traffic"
-                            value.skala = "5";
-                            countCategory.traffic++;
-                        } else
-                            if (value.category.includes("violent")) {
-                                value.genCategory = "Violence"
-                                value.skala = "5.8";
-                                countCategory.violence++;
-                            } else {
-                                value.genCategory = "Undefined"
-                                countCategory.undefined++;
-                            }
-
-
-                // PUBLIC OFFENSES
-                // Anti-social-behaviour
-                // drugs
-                // public order
-                // criminal-damage-arson
-
-                // TRAFFIC
-                // vehicle crime
-
-                // Theft 
-                // shoplifting
-                // other-theft
-                // burglary
-                // robbery
-                // theft-from-the-person
-
-                // VIOLENCE
-                // violent-crime
+        //         geoApiData.features.push({
+        //             "geometry": {
+        //                 "coordinates": [
+        //                     parseFloat(longRand),
+        //                     parseFloat(latRand)
+        //                 ],
+        //                 "type": "Point"
+        //             },
+        //             "properties": {
+        //                 "skala": value.skala,
+        //                 "genCategory": value.genCategory,
+        //                 "category": value.category,
+        //                 "place": value.location.street.name,
+        //                 "time": value.month,
+        //                 "url": "https://data.police.uk/data/",
+        //                 "status": objectStatus,
+        //                 "sources": "UK Police Crime API"
+        //             },
+        //             "type": "Feature"
+        //         });
+        //     });
 
 
+        //     var bar1 = (countCategory.publicOffenses / countCategory.all) * 100;
+        //     var bar2 = (countCategory.traffic / countCategory.all) * 100;
+        //     var bar3 = (countCategory.theft / countCategory.all) * 100;
+        //     var bar4 = (countCategory.violence / countCategory.all) * 100;
+
+        //     // console.log(bar1)
+        //     // console.log(bar2)
+        //     // console.log(bar3)
+        //     // console.log(bar4)
+
+        //     var styleNode = document.createElement('style');
+        //     styleNode.type = "text/css";
+        //     var styleText = document.createTextNode('#bar1 { width: ' + bar1 + '%; } #bar2 { width: ' + bar2 + '%; } #bar3 { width: ' + bar3 + '%; } #bar4 { width: ' + bar4 + '%; }');
+        //     styleNode.appendChild(styleText);
+        //     document.getElementsByTagName('head')[0].appendChild(styleNode);
 
 
-                plusOrMinus = Math.random() < 0.5 ? -1 : 1;
-                var longInt = parseFloat(value.location.longitude);
-                var longMath = 0.00002 / ((Math.floor(Math.random() * 5) + 0.001));
-                longRand = longInt + (longMath * plusOrMinus);
+        //     map.data.addGeoJson(geoApiData); //Data is added to Gmap and then setStyle in initMap--> Circle with magnitude
 
-                plusOrMinus = Math.random() < 0.5 ? -1 : 1;
-                var latInt = parseFloat(value.location.latitude);
-                var latMath = 0.00002 / ((Math.floor(Math.random() * 5) + 0.001));
-                latRand = latInt + (latMath * plusOrMinus);
+        // }).fail(function (jqxhr) {
+        //     alert("Server Error");
+        // });
 
-                geoApiData.features.push({
-                    "geometry": {
-                        "coordinates": [
-                            parseFloat(longRand),
-                            parseFloat(latRand)
-                        ],
-                        "type": "Point"
-                    },
+        var testData = {
+            "type": "FeatureCollection",
+            "features": [
+                {
+                    "type": "Feature",
                     "properties": {
-                        "skala": value.skala,
-                        "genCategory": value.genCategory,
-                        "category": value.category,
-                        "place": value.location.street.name,
-                        "time": value.month,
-                        "url": "https://data.police.uk/data/",
-                        "status": objectStatus,
-                        "sources": "UK Police Crime API"
+                        "skala": 6,
+                        "category": "Awesomeness",
+                        "place": "Dresdner Straße 26 04317 Leipzig",
+                        "time": 1348174056,
+                        "url": "http://google.com",
+                        "status": "aktuell",
+                        "sources": "twitter"
                     },
-                    "type": "Feature"
-                });
-            });
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                            12.389230728149414,
+                            51.33372202647613
+                        ]
+                    }
+                },
+                {
+                    "type": "Feature",
+                    "properties": {
+                        "skala": 6,
+                        "category": "Awesomeness",
+                        "place": "Dresdner Straße 26 04317 Leipzig",
+                        "time": 1348174056,
+                        "url": "http://google.com",
+                        "status": "aktuell",
+                        "sources": "twitter"
+                    },
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                            12.397384643554688,
+                            51.34605424944661
+                        ]
+                    }
+                },
+                {
+                    "type": "Feature",
+                    "properties": {
+                        "skala": 6,
+                        "category": "Awesomeness",
+                        "place": "Dresdner Straße 26 04317 Leipzig",
+                        "time": 1348174056,
+                        "url": "http://google.com",
+                        "status": "aktuell",
+                        "sources": "twitter"
+                    },
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                            12.392749786376951,
+                            51.33870893358745
+                        ]
+                    }
+                },
+                {
+                    "type": "Feature",
+                    "properties": {
+                        "skala": 6,
+                        "category": "Awesomeness",
+                        "place": "Dresdner Straße 26 04317 Leipzig",
+                        "time": 1348174056,
+                        "url": "http://google.com",
+                        "status": "aktuell",
+                        "sources": "twitter"
+                    },
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                            12.398242950439453,
+                            51.34315915601202
+                        ]
+                    }
+                }
+            ]
+        }
 
-            countCategory.all = countCategory.publicOffenses + countCategory.traffic + countCategory.theft + countCategory.violence + countCategory.undefined;
-            $(".publicOffenses").html(countCategory.publicOffenses);
-            $(".traffic").html(countCategory.traffic);
-            $(".theft").html(countCategory.theft);
-            $(".violence").html(countCategory.violence);
-            $(".undefined").html(countCategory.undefined);
-            $(".all").html(countCategory.all);
-            window.countCategory = countCategory;
-            $(window).trigger('changeData', countCategory);
+        console.log(testData);
 
-
-            var bar1 = (countCategory.publicOffenses / countCategory.all) * 100;
-            var bar2 = (countCategory.traffic / countCategory.all) * 100;
-            var bar3 = (countCategory.theft / countCategory.all) * 100;
-            var bar4 = (countCategory.violence / countCategory.all) * 100;
-
-            // console.log(bar1)
-            // console.log(bar2)
-            // console.log(bar3)
-            // console.log(bar4)
-
-            var styleNode = document.createElement('style');
-            styleNode.type = "text/css";
-            var styleText = document.createTextNode('#bar1 { width: ' + bar1 + '%; } #bar2 { width: ' + bar2 + '%; } #bar3 { width: ' + bar3 + '%; } #bar4 { width: ' + bar4 + '%; }');
-            styleNode.appendChild(styleText);
-            document.getElementsByTagName('head')[0].appendChild(styleNode);
-
-
-
-
-            map.data.addGeoJson(geoApiData); //Data is added to Gmap and then setStyle in initMap--> Circle with magnitude
-
-
-
-
-        })
-            .fail(function (jqxhr) {
-                console.log("503?")
-                alert("To many results in this area. Please specify a smaller region");
-            });
-
-
+        map.data.addGeoJson(testData); //Data is added to Gmap and then setStyle in initMap--> Circle with magnitude
 
         // Clear out the old markers.
         markers.forEach(function (marker) {
@@ -251,8 +231,6 @@ function initAutocomplete() {
             console.log("delete");
         });
         markers = [];
-
-
 
 
 
@@ -290,23 +268,23 @@ function initAutocomplete() {
         var zoom = map.getZoom();
         // map.setZoom(zoom = zoom + 0.5);
 
-        var areaCoordinates = [
-            { lat: latA, lng: longA },
-            { lat: latA, lng: longB },
-            { lat: latB, lng: longB },
-            { lat: latB, lng: longA },
-            { lat: latA, lng: longA }
-        ];
+        // var areaCoordinates = [
+        //     { lat: latA, lng: longA },
+        //     { lat: latA, lng: longB },
+        //     { lat: latB, lng: longB },
+        //     { lat: latB, lng: longA },
+        //     { lat: latA, lng: longA }
+        // ];
 
-        var areaLiner = new google.maps.Polyline({
-            path: areaCoordinates,
-            geodesic: true,
-            strokeColor: '#FF0000',
-            strokeOpacity: 0.25,
-            strokeWeight: 2
-        });
+        // var areaLiner = new google.maps.Polyline({
+        //     path: areaCoordinates,
+        //     geodesic: true,
+        //     strokeColor: '#FF0000',
+        //     strokeOpacity: 0.25,
+        //     strokeWeight: 2
+        // });
 
-        areaLiner.setMap(map);
+        // areaLiner.setMap(map);
 
 
     })
@@ -316,7 +294,7 @@ function initAutocomplete() {
 
 
 
-    // OLD DATA FROM FIRESTORE RED CIRCLES
+    // InfoWindow Stuff
     var infowindow = new google.maps.InfoWindow();
 
     google.maps.event.addListener(map, 'click', function () {
@@ -331,9 +309,6 @@ function initAutocomplete() {
         var url = event.feature.getProperty("url");
         var status = event.feature.getProperty("status");
         var sources = event.feature.getProperty("sources");
-
-        //  var featureData = {"category": category, "skala": skala,"place": place,"url": url,"status": status,"sources": sources,}
-        //  console.log(featureData);
 
         String.prototype.capitalize = function () {
             return this.charAt(0).toUpperCase() + this.slice(1);
@@ -358,7 +333,7 @@ function initAutocomplete() {
 
     map.data.setStyle(function (feature) {
         var magnitude = feature.getProperty('skala');
-        var genProp = feature.getProperty('genCategory')
+        var genProp = feature.getProperty('category')
         var color;
 
         console.log
@@ -375,7 +350,7 @@ function initAutocomplete() {
                     if (genProp.includes("Violence")) {
                         color = 'red'
                     } else {
-                        color = 'grey'
+                        color = 'yellow'
                     }
         return {
             icon: getCircle(magnitude, color)
@@ -404,106 +379,3 @@ function eqfeed_callback(results) {
 
 
 
-
-
-
-
-//Realtime Updates https://firebase.google.com/docs/firestore/query-data/listen
-// db.collection("users").doc("SF")
-//     .onSnapshot(function(doc) {
-//         console.log("Current data: ", doc.data());
-//         console.log(doc.data());
-//     });
-
-
-
-// Add Stuff to DB
-
-
-// db.collection("features").add({
-//     "type": "FeatureCollection",
-//     "features": [
-//         {
-//             "type": "Feature",
-//             "properties": {
-//                 "skala": 6,
-//                 "category": "Awesomeness",
-//                 "place": "Dresdner Straße 26 04317 Leipzig",
-//                 "time": 1348174056,
-//                 "url": "http://google.com",
-//                 "status": "aktuell",
-//                 "sources": "twitter"
-//             },
-//             "geometry": {
-//                 "type": "Point",
-//                 "coordinates": [
-//                     12.389230728149414,
-//                     51.33372202647613
-//                 ]
-//             }
-//         },
-//         {
-//             "type": "Feature",
-//             "properties": {
-//                 "skala": 6,
-//                 "category": "Awesomeness",
-//                 "place": "Dresdner Straße 26 04317 Leipzig",
-//                 "time": 1348174056,
-//                 "url": "http://google.com",
-//                 "status": "aktuell",
-//                 "sources": "twitter"
-//             },
-//             "geometry": {
-//                 "type": "Point",
-//                 "coordinates": [
-//                     12.397384643554688,
-//                     51.34605424944661
-//                 ]
-//             }
-//         },
-//         {
-//             "type": "Feature",
-//             "properties": {
-//                 "skala": 6,
-//                 "category": "Awesomeness",
-//                 "place": "Dresdner Straße 26 04317 Leipzig",
-//                 "time": 1348174056,
-//                 "url": "http://google.com",
-//                 "status": "aktuell",
-//                 "sources": "twitter"
-//             },
-//             "geometry": {
-//                 "type": "Point",
-//                 "coordinates": [
-//                     12.392749786376951,
-//                     51.33870893358745
-//                 ]
-//             }
-//         },
-//         {
-//             "type": "Feature",
-//             "properties": {
-//                 "skala": 6,
-//                 "category": "Awesomeness",
-//                 "place": "Dresdner Straße 26 04317 Leipzig",
-//                 "time": 1348174056,
-//                 "url": "http://google.com",
-//                 "status": "aktuell",
-//                 "sources": "twitter"
-//             },
-//             "geometry": {
-//                 "type": "Point",
-//                 "coordinates": [
-//                     12.398242950439453,
-//                     51.34315915601202
-//                 ]
-//             }
-//         }
-//     ]
-// })
-//     .then(function (docRef) {
-//         console.log("Document written with ID: ", docRef.id);
-//     })
-//     .catch(function (error) {
-//         console.error("Error adding document: ", error);
-//     });
