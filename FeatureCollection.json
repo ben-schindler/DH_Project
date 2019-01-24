@@ -1,0 +1,2600 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "This",
+    "description": "An ancient place, cited: BAtlas 77 F4 This",
+    "count": 222
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     26.341487,
+     31.841893
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Assyria",
+    "description": "An ancient place, cited: BAtlas 86 E2 Assyria",
+    "count": 11
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     41.5,
+     34.5
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Hellas",
+    "description": "An ancient place, cited: BAtlas 102 D4 no. 10 (Hellas)",
+    "count": 1
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.5,
+     22.5
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Colchis",
+    "description": "An ancient place, cited: BAtlas 89 B2 Colchis",
+    "count": 3
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     38.52585,
+     39.228819
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Phasis",
+    "description": "An ancient place, cited: BAtlas 87 G2 Phasis",
+    "count": 8
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     42.135867,
+     41.692322499999996
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Alyattes",
+    "description": "The tumulus of the Lydian king Alyattes.",
+    "count": 20
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     38.572215,
+     28.044921000000002
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Euxine",
+    "description": "An ancient place, cited: BAtlas 65 A4 Euxine",
+    "count": 16
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     36.837326000000004,
+     28.715749
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Gyges",
+    "description": "An ancient place, cited: BAtlas 56 F4 Gyges",
+    "count": 21
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     38.551797,
+     27.991584000000003
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Thou",
+    "description": "An ancient place, cited: BAtlas 74 unlocated Thou",
+    "count": 23
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     NaN,
+     NaN
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Delphi",
+    "description": "The ancient pan-Hellenic sanctuary of Delphi in Greece, seat of the oracle of Apollo.",
+    "count": 56
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     38.482289,
+     22.501169
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Miletus",
+    "description": "A major ancient city in Caria.",
+    "count": 71
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.5229047333,
+     27.2783168333
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Colophon",
+    "description": "Colophon was an Ionian city in Lydia, located ca. 13 km north of the harbour of  Notion. Its ruins are located near modern De\u011firmendere.",
+    "count": 3
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     38.108253000000005,
+     27.148308500000002
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Arion",
+    "description": "An ancient place, cited: BAtlas 20 unlocated Arion fl.",
+    "count": 8
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     NaN,
+     NaN
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Methymna",
+    "description": "An ancient place, cited: BAtlas 56 C3 Methymna",
+    "count": 1
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     39.369167,
+     26.176891
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Libya",
+    "description": "An ancient place, cited: None",
+    "count": 96
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     31.5,
+     26.5
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Phocis",
+    "description": "An ancient place, cited: BAtlas 55 C4 Phocis",
+    "count": 3
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     38.25,
+     22.25
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Ammon",
+    "description": "The Siwa Oasis was, in antiquity, site of the oracular temple of Amun (Zeus Ammon).",
+    "count": 5
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     29.2051733333,
+     25.5435296667
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Haste",
+    "description": "An ancient place, cited: BAtlas 89 unlocated Haste",
+    "count": 1
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     NaN,
+     NaN
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Phthiotis",
+    "description": "An ancient place, cited: BAtlas 55 C2 Phthiotis",
+    "count": 1
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     38.8678937,
+     22.633767199999998
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Dryopis",
+    "description": "An ancient place, cited: BAtlas 54 C3 Dryopis",
+    "count": 2
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     39.25,
+     20.75
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Thessaliotis",
+    "description": "An ancient place, cited: BAtlas 55 B2 Thessaliotis",
+    "count": 1
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     39.25,
+     21.75
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Olympia",
+    "description": "Ancient sanctuary of Zeus and home of the ancient Olympic games.",
+    "count": 8
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.6386894206,
+     21.6308747804
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Attica",
+    "description": "Historical region of Greece, centered on the Attic peninsula.",
+    "count": 28
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     38.0519988333,
+     23.8189911
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Marathon",
+    "description": "An ancient place, cited: BAtlas 59 C2 Marathon",
+    "count": 18
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     38.1465515,
+     23.970146
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Sparta",
+    "description": "Sparta was a prominent city-state (polis) of ancient Greece.",
+    "count": 68
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.077905,
+     22.4272985
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Arcadia",
+    "description": "The ancient region of Arcadia comprised the highlands at the center of the Peloponnese.",
+    "count": 9
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.5674192684,
+     22.1653230973
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Thornax",
+    "description": "An ancient place, cited: BAtlas 58 unlocated Thornax",
+    "count": 1
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     NaN,
+     NaN
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Samos",
+    "description": "An ancient place, cited: BAtlas 61 D2 Samos",
+    "count": 57
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.68825,
+     26.944483
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Sinope",
+    "description": "Sinope (modern Sinop, Turkey) on the Black Sea has been a major port since the time of the Hittites. ",
+    "count": 4
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     42.025776,
+     35.143037
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Phocaea",
+    "description": "An ancient settlement of Asia Minor, modern Fo\u00e7a in Turkey.",
+    "count": 12
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     38.6703265,
+     26.754884000000004
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Thyrea",
+    "description": "An ancient settlement, attested by literary or documentary sources, whose precise location cannot be determined today",
+    "count": 5
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     NaN,
+     NaN
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Argolis",
+    "description": "Argolis (also known as 'the Argolid') occupied the eastern part of the Peloponnese; comprising primarily the Argolid peninsula and the coastal region lying to the east of Arcadia, and north of Laconia.",
+    "count": 2
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.621451801199996,
+     22.9620797704
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Meles",
+    "description": "An ancient place, cited: BAtlas 44 unlocated Meles",
+    "count": 2
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     NaN,
+     NaN
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Boeotia",
+    "description": "A region of central Greece inhabited since prehistoric times. ",
+    "count": 8
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     38.3466880333,
+     23.1846775333
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Lake",
+    "description": "An ancient place, cited: BAtlas 55 unlocated Lake",
+    "count": 21
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     NaN,
+     NaN
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Umbria",
+    "description": "The eponymous region of the Umbri, an ancient Italic people who spoke the Umbrian language. The physical geography of the landlocked region is hilly and dominated by the Appennine Mountains.",
+    "count": 1
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     42.8970275445,
+     12.5768282098
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Maeotis",
+    "description": "Maeotis, known in antiquity as a lake, is the modern Sea of Azov and is the shallowest of the world's seas.",
+    "count": 13
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     45.814417,
+     35.862586
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Babylonia",
+    "description": "An ancient place, cited: BAtlas 93 A1 Babylonia",
+    "count": 6
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     32.5,
+     44.5
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Mandane",
+    "description": "An ancient place, cited: BAtlas 66 C4 Mandane",
+    "count": 5
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     36.122172,
+     33.126265999999994
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Well",
+    "description": "An ancient place, cited: BAtlas 9 F6 Well",
+    "count": 1
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     54.232303,
+     -1.592433
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Aegae",
+    "description": "An ancient place, cited: BAtlas 56 E4 Aegae",
+    "count": 1
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     38.83379,
+     27.19367
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Bura",
+    "description": "An ancient place, cited: BAtlas 91 unlocated Bura",
+    "count": 1
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     NaN,
+     NaN
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Helice",
+    "description": "An ancient place, cited: BAtlas 49 F1 Helice",
+    "count": 1
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     42.438317,
+     23.816111
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Rhypes",
+    "description": "An ancient place, cited: BAtlas 58 C1 Rhypes",
+    "count": 1
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     38.213931,
+     22.018942000000003
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Cyme",
+    "description": "An ancient city of Aeolis.",
+    "count": 5
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     38.760689,
+     26.9392185
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Pitane",
+    "description": "An ancient place, cited: BAtlas 56 D4 Pitane",
+    "count": 1
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     38.928297,
+     26.937453
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Aeolis",
+    "description": "Sometimes defined as covering the entrance of the Hellespont to the mouth of the Hermus river, Aeolis was region centered on the North West coast of Asia Minor and some islands, notably Lesbos. Herodotus lists the eleven ancient cities of Aeolis as  Cyme, Lerisae, Neon Teichos, Temnos, Cilla, Notion, Aegiroessa, Pitane, Aegaeae, Myrina,  and Gryneia. He also claims that Smyrna was once an Aeolian city, but was taken by the Ionians at an unspecified date.",
+    "count": 2
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     38.80993465,
+     26.99339195
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Arisba",
+    "description": "An ancient place, cited: BAtlas 56 C3 Arisba",
+    "count": 1
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     39.244153999999995,
+     26.243273
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Sacae",
+    "description": "An ancient place, cited: BAtlas 6 C2 Sacae",
+    "count": 3
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.5,
+     72.5
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Mytilene",
+    "description": "An ancient place, cited: BAtlas 56 D3 Mytilene",
+    "count": 8
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     39.110475,
+     26.547047999999997
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Atarneus",
+    "description": "An ancient Greek city in Aeolis that lies on the mainland opposite the island of Lesbos, northeast of the town of Dikili in modern-day Turkey.",
+    "count": 4
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     39.093987,
+     26.927974
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Magnesia",
+    "description": "An ancient place, cited: BAtlas 55 D1 Magnesia",
+    "count": 3
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     39.75,
+     22.75
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Sardinia",
+    "description": "An ancient place, cited: BAtlas 101 H4 Sardinia",
+    "count": 4
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.5,
+     7.5
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Leleges",
+    "description": "Aboriginal peoples of the Aegean littoral.",
+    "count": 1
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     39.75,
+     26.75
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Europa",
+    "description": "An ancient place, cited: BAtlas 101 M3 Europa",
+    "count": 2
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     42.5,
+     27.5
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Milyas",
+    "description": "An ancient place, cited: BAtlas 65 C4 Milyas",
+    "count": 1
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     36.75,
+     29.75
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Lycus",
+    "description": "An ancient place, cited: BAtlas 66 unlocated Lycus fl.",
+    "count": 3
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     NaN,
+     NaN
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Pandion",
+    "description": "An ancient place, cited: BAtlas 5 D5 Pandion",
+    "count": 1
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     7.5,
+     77.5
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Syme",
+    "description": "An ancient place, cited: BAtlas 61 F4 Syme",
+    "count": 1
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     36.618390000000005,
+     27.843425
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Caunus",
+    "description": "An ancient city of Caria in southwest Asia Minor.",
+    "count": 2
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     36.827092,
+     28.623687
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Patara",
+    "description": "An ancient place, cited: BAtlas 87 E4 Patara",
+    "count": 2
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     40.543937,
+     39.648355
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Lycia",
+    "description": "Lycia was a region of southwestern Asia Minor.",
+    "count": 4
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     36.513688333299996,
+     29.1296185
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Opis",
+    "description": "Opis was an ancient city of Babylonia located on the Tigris river close to the site of modern Baghdad.",
+    "count": 4
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     33.185613000000004,
+     44.702767
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Araxes",
+    "description": "An ancient place, cited: BAtlas 91 unlocated Araxes fl.",
+    "count": 9
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     NaN,
+     NaN
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Vulcan",
+    "description": "An ancient place, cited: BAtlas 21 F4 Vulcan",
+    "count": 20
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     45.5,
+     23.5
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Heliopolis",
+    "description": "An ancient place, cited: BAtlas 74 E4 Heliopolis",
+    "count": 10
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     30.131757,
+     31.284785999999997
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Min",
+    "description": "An ancient place, cited: BAtlas 6 unlocated Min",
+    "count": 3
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     NaN,
+     NaN
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Pisa",
+    "description": "An ancient place, cited: BAtlas 58 B2 Pisa",
+    "count": 2
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.639534999999995,
+     21.653041
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Elephantine",
+    "description": "An ancient place, cited: BAtlas 80 inset Elephantine",
+    "count": 16
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     24.09,
+     32.889
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Teuthrania",
+    "description": "An ancient place, cited: BAtlas 56 E3 Teuthrania",
+    "count": 1
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     39.035222999999995,
+     27.054771000000002
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Achelous",
+    "description": "An ancient place, cited: BAtlas 56 unlocated Achelous fl.",
+    "count": 1
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     NaN,
+     NaN
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Acarnania",
+    "description": "Acarnania was a region of west-central Greece.",
+    "count": 1
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     38.6722875,
+     21.3178745
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Delta",
+    "description": "An ancient place, cited: BAtlas 74 unlocated Delta",
+    "count": 15
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     NaN,
+     NaN
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Pelusium",
+    "description": "Pelusium was a fortified ancient city located at the mouth of the eastern-most branch of the Nile river. Its ruins, now land-locked and located approximately 30km southeast of Port Said, are known as Tell Farama.",
+    "count": 3
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     31.049916999999997,
+     32.600128000000005
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Bolbitine",
+    "description": "An ancient place, cited: BAtlas 74 C2 Bolbitine",
+    "count": 1
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     31.400949,
+     30.414682
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Sais",
+    "description": "An ancient place, cited: BAtlas 74 D3 Sais",
+    "count": 14
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     30.96715,
+     30.774366999999998
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Syene",
+    "description": "The ancient city of Swenett in Egypt, called Syene by the Greeks.",
+    "count": 1
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     24.0885745,
+     32.901491
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Tachompso",
+    "description": "An ancient place, cited: BAtlas 81 C2 Tachompso",
+    "count": 1
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     23.079712,
+     32.69612
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Cyrene",
+    "description": "An ancient Greek city founded in eastern Libya ca. 630 B.C., Cyrene later became part of the Roman empire (ca. 74 B.C.). The site was added to the UNESCO World Heritage List in 1982.",
+    "count": 30
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     32.820348545,
+     21.8565546881
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Atarbechis",
+    "description": "An ancient place, cited: BAtlas 74 D3 Atarbechis",
+    "count": 1
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     30.713606,
+     30.828784000000002
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Thasos",
+    "description": "An ancient place, cited: BAtlas 51 D3 Thasos",
+    "count": 6
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     40.779818,
+     24.7106185
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Samothrace",
+    "description": "An ancient place, cited: BAtlas 51 F3 Samothrace",
+    "count": 2
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     40.50370085,
+     25.53004955
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Hermopolis",
+    "description": "An ancient place, cited: BAtlas 74 E3 Hermopolis",
+    "count": 1
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     31.037798,
+     31.379406
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Gaze",
+    "description": "An ancient place, cited: BAtlas 4 unlocated Gaze",
+    "count": 1
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     NaN,
+     NaN
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Chemmis",
+    "description": "An ancient place, cited: BAtlas 74 D2 Chemmis",
+    "count": 4
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     31.25,
+     30.75
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Danae",
+    "description": "An ancient place, cited: BAtlas 87 C4 Danae",
+    "count": 2
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     40.385616,
+     37.444731
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Naucratis",
+    "description": "Naucratis was a city of the Nile river delta, located on the Canopic branch. Capital of Ptolemaic Egypt, Naucratis was the site of permanent Greek habitation from the sixth century BC onward.",
+    "count": 6
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     30.900508000000002,
+     30.5919275
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Anthylla",
+    "description": "Anthylla was an ancient settlement located on the Canobic branch of the Nile.",
+    "count": 1
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     31.168065999999996,
+     30.205127
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Archandropolis",
+    "description": "An ancient place, cited: BAtlas 74 C2 Archandropolis",
+    "count": 2
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     31.25,
+     30.25
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Thonis",
+    "description": "An ancient place, cited: BAtlas 74 C2 Thonis",
+    "count": 4
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     31.314034999999997,
+     30.078252000000003
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Are",
+    "description": "An ancient place, cited: BAtlas 4 C2 Are",
+    "count": 1
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     17.5,
+     47.5
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Anysis",
+    "description": "An ancient place, cited: BAtlas 74 unlocated Anysis",
+    "count": 4
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     NaN,
+     NaN
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Artemis",
+    "description": "An ancient place, cited: BAtlas 52 H4 Artemis",
+    "count": 1
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     40.2863525,
+     30.593308
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Elbo",
+    "description": "An ancient island or island group, attested by literary or documentary sources, whose precise location cannot be determined today",
+    "count": 1
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     NaN,
+     NaN
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Momemphis",
+    "description": "An ancient place, cited: BAtlas 74 D3 Momemphis",
+    "count": 2
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     30.795054999999998,
+     30.600505
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Natho",
+    "description": "An ancient place, cited: BAtlas 74 E3 Natho",
+    "count": 1
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     30.713246,
+     31.266677
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Aphthis",
+    "description": "An ancient place, cited: BAtlas 74 unlocated Aphthis",
+    "count": 1
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     NaN,
+     NaN
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Athribis",
+    "description": "An ancient place, cited: BAtlas 74 E4 Athribis",
+    "count": 1
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     30.4707015,
+     31.18425
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Siouph",
+    "description": "An ancient place, cited: BAtlas 74 unlocated Siouph",
+    "count": 1
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     NaN,
+     NaN
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Phaselis",
+    "description": "An ancient place, cited: BAtlas 65 E4 Phaselis",
+    "count": 1
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     36.5228063333,
+     30.549049
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Phanes",
+    "description": "An ancient place, cited: BAtlas 60 F3 Phanes",
+    "count": 6
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     34.75,
+     26.25
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Corcyra",
+    "description": "An ancient place, cited: BAtlas 54 A2 Corcyra",
+    "count": 7
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     39.606285,
+     19.91558
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Melissa",
+    "description": "An ancient place, cited: BAtlas 62 unlocated Melissa",
+    "count": 5
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     NaN,
+     NaN
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Pitana",
+    "description": "An ancient place, cited: BAtlas 58 unlocated Pitana",
+    "count": 1
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     NaN,
+     NaN
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Siphnos",
+    "description": "An ancient place, cited: BAtlas 60 C5 Siphnos",
+    "count": 2
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     NaN,
+     NaN
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "120",
+    "description": "An ancient place, cited: BAtlas 87 L2 no. 120 (Taman' 11 RUS)",
+    "count": 1
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     45.25,
+     36.75
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Tibareni",
+    "description": "An ancient population of Scythian descent inhabiting the southern shores of the Black Sea in Asia Minor.",
+    "count": 1
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     40.5,
+     37.5
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "India",
+    "description": "An ancient place, cited: BAtlas 5 D2 India",
+    "count": 5
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     22.5,
+     77.5
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Borysthenes",
+    "description": "An ancient place, cited: BAtlas 84 unlocated Borysthenes",
+    "count": 18
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     NaN,
+     NaN
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Pontus",
+    "description": "A region of northeastern Anatolia consisting of the southeastern coast of the Black Sea and the surrounding inland region. ",
+    "count": 13
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     40.5,
+     36.5
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Bosphorus",
+    "description": "A strait that forms part of the boundary between Europe and Asia. ",
+    "count": 13
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     41.119444,
+     29.075278000000004
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Proconnesus",
+    "description": "An ancient place, cited: BAtlas 52 B3 Proconnesus",
+    "count": 5
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     40.591685999999996,
+     27.55568
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Issedones",
+    "description": "The Issedones were an ancient people of central Asia.",
+    "count": 1
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.5,
+     92.5
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Cyzicus",
+    "description": "An ancient city of Mysia in Anatolia. ",
+    "count": 6
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     40.3855645,
+     27.883190999999997
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Metapontum",
+    "description": "An important city of Magna Graecia, Metapontum was located on the Gulf of Tarentum. The Achaeans were responsible for its foundation, perhaps as early as the eighth century B.C.",
+    "count": 2
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     40.383868,
+     16.824063
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Neuri",
+    "description": "A tribe whose territory was located on the Hypanis to the west of the Borysthenes.",
+    "count": 6
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     NaN,
+     NaN
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Troas",
+    "description": "Troas (or the Troad) is an historical region that occupies the Biga peninsula in northwestern Asia Minor.",
+    "count": 2
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     39.837177197399996,
+     26.337210872100002
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Noes",
+    "description": "An ancient place, cited: BAtlas 22 unlocated Noes fl.",
+    "count": 1
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     NaN,
+     NaN
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Chalcedon",
+    "description": "Chalcedon was an ancient maritime city of Bithynia.",
+    "count": 1
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     40.983393,
+     29.025789000000003
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Propontis",
+    "description": "The Sea of Marmara.",
+    "count": 4
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     40.6666672,
+     28.249999900000002
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Byzantium",
+    "description": "An ancient place, cited: BAtlas 53 A2 Byzantium",
+    "count": 8
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     41.005902,
+     28.9738815
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Agrianes",
+    "description": "An ancient place, cited: BAtlas 49 E1 Agrianes",
+    "count": 1
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     42.5,
+     22.5
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Getae",
+    "description": "The Greek name given to Thracian tribes dwelling south of the Danube river.",
+    "count": 8
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     44.5,
+     25.5
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Mesembria",
+    "description": "Originally a Thracian site known as Menebria, Mesembria (or Nessebar) was subsequently settled by Dorian Greeks in the early sixth century BC, eventually becoming an important trading colony on the Black Sea coast. Listed as a UNESCO World Heritage Site in 1983.",
+    "count": 2
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     42.65958,
+     27.7244435
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Abydos",
+    "description": "A city of Mysia located on the Hellespont.",
+    "count": 3
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     40.1951155,
+     26.409131
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Platea",
+    "description": "An ancient place, cited: BAtlas 25 D4 Platea",
+    "count": 10
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     41.354378999999994,
+     -1.647023
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Aziris",
+    "description": "An ancient place, cited: BAtlas 38 D1 Aziris",
+    "count": 3
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     32.683784,
+     22.880611
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Salamis",
+    "description": "An ancient place, cited: BAtlas 59 B3 Salamis",
+    "count": 7
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.948091999999995,
+     23.5308043333
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Euesperides",
+    "description": "An ancient place, cited: BAtlas 38 B1 Euesperides",
+    "count": 2
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     32.109789,
+     20.091198000000002
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Augila",
+    "description": "An ancient place, cited: BAtlas 38 C4 Augila",
+    "count": 3
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     29.1521035,
+     21.2952075
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Psylli",
+    "description": "A Libyan People, cited: BAtlas 37 C2 Psylli",
+    "count": 3
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     30.5,
+     17.5
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Macae",
+    "description": "Macae, Libyan Tribe, cited: BAtlas 35 F3",
+    "count": 1
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     31.5,
+     13.5
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Triton",
+    "description": "An ancient place, cited: BAtlas 52 D3 Triton",
+    "count": 7
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     40.75,
+     28.75
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Pelion",
+    "description": "An ancient place, cited: BAtlas 49 C3 Pelion",
+    "count": 1
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     40.641298,
+     20.959876
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Pallas",
+    "description": "An ancient place, cited: BAtlas 80 B1 Pallas",
+    "count": 2
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     25.958496,
+     32.728704
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Zacynthus",
+    "description": "An ancient place, cited: BAtlas 54 inset Zacynthus",
+    "count": 2
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.787178000000004,
+     20.892091
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Pieria",
+    "description": "Originally the territory of the Pieres, later incoporated into Macedonia",
+    "count": 1
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     40.130028116,
+     22.4247924913
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Bactria",
+    "description": "An historic region at the eastern limits of the Iranian plateau connected with the Oxus civilization (Bactria\u2013Margiana Archaeological Complex).",
+    "count": 2
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.5,
+     67.5
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Doberes",
+    "description": "An ancient place, cited: BAtlas 51 unlocated Doberes",
+    "count": 1
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     NaN,
+     NaN
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Paros",
+    "description": "An ancient place, cited: BAtlas 61 A3 Paros",
+    "count": 4
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.08579,
+     25.150728
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Selinus",
+    "description": "A Greek colonial city located on the southern coast of Sicily, Selinus was said to have been founded as a colony of the city of Megara Hyblaia.",
+    "count": 1
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.5729367167,
+     12.872911766700001
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Messenia",
+    "description": "Messenia was the southwestern district of the Peloponnesus. It was bounded on the east by Laconia, on the north by Elis and Arcadia, and on the south and west by the sea.",
+    "count": 1
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.0694553333,
+     21.9323415
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "94",
+    "description": "An ancient place, cited: BAtlas 87 M2 no. 94 (Kuchugury 9 RUS)",
+    "count": 1
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     45.25,
+     37.25
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "28",
+    "description": "An ancient place, cited: BAtlas 87 K2 no. 28 (General'skoye-Zapadnoye UKR)",
+    "count": 1
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     45.25,
+     36.25
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "104",
+    "description": "An ancient place, cited: BAtlas 87 M2 no. 104 (Akhtanizovskaya 3 RUS)",
+    "count": 1
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     45.25,
+     37.25
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "15",
+    "description": "An ancient place, cited: BAtlas 87 J2 no. 15 (Kazantip-Zapadnyy UKR)",
+    "count": 2
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     45.25,
+     35.75
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "56",
+    "description": "An ancient place, cited: BAtlas 87 K2 no. 56 (Patiniotti UKR)",
+    "count": 1
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     45.25,
+     36.25
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "42",
+    "description": "An ancient place, cited: BAtlas 87 L2 no. 42 (Tsarskiy UKR)",
+    "count": 1
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     45.25,
+     36.75
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "13",
+    "description": "An ancient place, cited: BAtlas 87 J2 no. 13 (Chapayevka UKR)",
+    "count": 1
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     45.25,
+     35.75
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "150",
+    "description": "An ancient place, cited: BAtlas 87 L2 no. 150 (Vyshesteblievskaya 16 RUS)",
+    "count": 1
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     45.25,
+     36.75
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "14",
+    "description": "An ancient place, cited: BAtlas 87 J2 no. 14 (Rybnoye UKR)",
+    "count": 1
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     45.25,
+     35.75
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Chalcis",
+    "description": "An ancient place, cited: BAtlas 55 F4 Chalcis",
+    "count": 3
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     38.457139,
+     23.621937
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Thebe",
+    "description": "An ancient place, cited: BAtlas 56 E2 Thebe",
+    "count": 1
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     39.597431,
+     27.020171
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Oea",
+    "description": "An ancient place, cited: BAtlas 35 F2 Oea",
+    "count": 1
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     32.897586,
+     13.175266
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Thesprotia",
+    "description": "One of the three main ancient tribes of Epirus.",
+    "count": 1
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     39.75,
+     20.25
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Anthemus",
+    "description": "An ancient settlement, attested by literary or documentary sources, whose precise location cannot be determined today",
+    "count": 1
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     NaN,
+     NaN
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "10",
+    "description": "An ancient place, cited: BAtlas 87 J2 no. 10 (Batal'noye UKR)",
+    "count": 1
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     45.25,
+     35.75
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Cius",
+    "description": "An ancient place, cited: BAtlas 22 F4 Cius",
+    "count": 1
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     44.77792,
+     28.09352
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Leros",
+    "description": "An ancient place, cited: BAtlas 61 D3 Leros",
+    "count": 2
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.158037,
+     26.854663000000002
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Didyma",
+    "description": "An ancient island or island group, attested by literary or documentary sources, whose precise location cannot be determined today",
+    "count": 1
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     NaN,
+     NaN
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Ampe",
+    "description": "An ancient place, cited: BAtlas 93 unlocated Ampe",
+    "count": 1
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     NaN,
+     NaN
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Kale",
+    "description": "An ancient place, cited: BAtlas 64 H4 Kale",
+    "count": 3
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     38.390696999999996,
+     38.733046
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Gela",
+    "description": "A Greek colony of Sicily founded by Rhodians and Cretans ca. 688 B.C. The oikists were the Rhodian Antiphemos and the Cretan Entimos.",
+    "count": 1
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.063092499999996,
+     14.2584705
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Himera",
+    "description": "A colony on the north shore of Sicily founded in 649/8 BC by the Myletidai.",
+    "count": 1
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.970797,
+     13.822496
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Argeia",
+    "description": "An ancient place, cited: BAtlas 54 D4 Argeia",
+    "count": 1
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     38.75,
+     21.25
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Nauplia",
+    "description": "An ancient place, cited: BAtlas 58 D2 Nauplia",
+    "count": 1
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.568123,
+     22.808706
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Tiryns",
+    "description": "A fortified Mycenaean center in the Argolid that flourished between 1400 and 1200 B.C.",
+    "count": 2
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.599444,
+     22.799722
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Sepeia",
+    "description": "An ancient place, cited: BAtlas 58 unlocated Sepeia",
+    "count": 1
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     NaN,
+     NaN
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Valley",
+    "description": "An ancient place, cited: BAtlas 19 D2 Valley",
+    "count": 1
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     47.892828,
+     11.77918
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Siris",
+    "description": "Siris was an ancient Greek colonial city of Magna Graecia situated at the mouth of the Siris (modern Sinni) river. The city was founded by Ionian Greeks between 690 and 660 BC.",
+    "count": 1
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     40.149042,
+     16.54137
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Aetolia",
+    "description": "An ancient place, cited: BAtlas 55 A3 Aetolia",
+    "count": 1
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     38.5158610095,
+     21.7597149905
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Trapezus",
+    "description": "An ancient settlement of Asia Minor on the south coast of the Black Sea. Modern Trabzon in Turkey.",
+    "count": 1
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     41.0042695,
+     39.7233115
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Hermione",
+    "description": "An ancient place, cited: BAtlas 33 unlocated Hermione",
+    "count": 1
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     NaN,
+     NaN
+    ]
+   }
+  }
+ ]
+}
