@@ -5,7 +5,7 @@ var map;
 //Init GMap
 function initMap() {
     map = new google.maps.Map(document.getElementById('map'), {
-        zoom: 4,
+        zoom: 2,
         center: { lat: 54.5260, lng: 15.2551 },
         mapTypeId: 'satellite'
     });
@@ -62,21 +62,22 @@ function initMap() {
     var plusOrMinus;
 
 
-    var apiURL = "https://jsonplaceholder.typicode.com/todos"
+    // var apiURL = "https://jsonplaceholder.typicode.com/todos"
 
-    $.getJSON(apiURL, function (data) {
+    // $.getJSON(apiURL, function (data) {
 
-        console.log(data);
+    //     console.log(data);
 
-        $.each(data, function (index, value) {
-            //console.log(value);
-        }); // END LOOP EACH DATA ENTRY
+    //     $.each(data, function (index, value) {
+    //         //console.log(value);
+    //     }); // END LOOP EACH DATA ENTRY
 
-        // map.data.addGeoJson(geoApiData); //Data is added to Gmap and then setStyle in initMap--> Circle with magnitude
+    //     // map.data.addGeoJson(geoApiData); //Data is added to Gmap and then setStyle in initMap--> Circle with magnitude
 
-    }).fail(function (jqxhr) {
-        alert("Server Error");
-    });
+    // }).fail(function (jqxhr) {
+    //     alert("Server Error");
+    // });
+
 
     var testData = {
         "type": "FeatureCollection",
@@ -159,10 +160,39 @@ function initMap() {
             }
         ]
     }
+    //console.log(testData);
 
-    console.log(testData);
 
-    map.data.addGeoJson(testData); //Data is added to Gmap and then setStyle in initMap--> Circle with magnitude
+    //get placeFeatures variable from js import in index.html
+    console.log(placeFeatures);
+
+
+    // on button click 
+    $("#placesButton").click(function () {
+        map.data.addGeoJson(placeFeatures); //Data is added to Gmap and then setStyle in initMap--> Circle with magnitude
+
+        var chartData = [];
+
+        $.each(placeFeatures.features, function (i, item) {
+            chartData.push([item.properties.count, item.properties.title, item.properties.description]);
+        });
+
+        $('#chartData').DataTable({
+            data: chartData,
+            columns: [
+                { title: "Count" },
+                { title: "Title" },
+                { title: "Description" }
+            ]
+        });
+
+
+    });
+
+
+    $("#otherButton").click(function () {
+        alert("Not yet implemented");
+    });
 
     // Clear out the old markers.
     markers.forEach(function (marker) {
@@ -215,13 +245,11 @@ function initMap() {
     });
 
     map.data.addListener('click', function (event) {
-        var category = event.feature.getProperty("category");
-        var skala = event.feature.getProperty("skala");
-        var genCategory = event.feature.getProperty("genCategory");
-        var place = event.feature.getProperty("place");
-        var url = event.feature.getProperty("url");
-        var status = event.feature.getProperty("status");
-        var sources = event.feature.getProperty("sources");
+        var title = event.feature.getProperty("title");
+        var description = event.feature.getProperty("description");
+        var count = event.feature.getProperty("count");
+        var url = "https://pleiades.stoa.org/";
+
 
         String.prototype.capitalize = function () {
             return this.charAt(0).toUpperCase() + this.slice(1);
@@ -229,13 +257,11 @@ function initMap() {
 
         infowindow.setContent(
             '<div>' +
-            '<h3>' + category.capitalize().replace(/-/g, " ") + '</h3>' +
+            '<h3>' + title + '</h3>' +
             '<p></p>' +
-            '<p><b>Location:</b> ' + place + '<br /> ' +
-            '<b>Category:</b> ' + genCategory + '<br /> ' +
-            '<b>Current status:</b> ' + status + '<br /> ' +
-            '<b>Information Source:</b> ' + sources + '<br /> ' +
-            '<b>Link:</b> <a href=' + url + '>' + url + '</a> </p>' +
+            '<p><b>Occurences:</b> ' + count + '<br /> ' +
+            '<b>Description:</b> ' + description + '<br /> ' +
+            '<b>Source:</b> <a href=' + url + '>' + url + '</a> </p>' +
             '</div>'
 
         );
@@ -245,26 +271,20 @@ function initMap() {
     });
 
     map.data.setStyle(function (feature) {
-        var magnitude = feature.getProperty('skala');
-        var genProp = feature.getProperty('category')
+        var magnitude = feature.getProperty('count');
+        var topic = "places" //add topic to data when more than one
         var color;
 
         console.log
 
-        if (genProp.includes("Theft")) {
+        if (topic.includes("topic1")) {
             color = 'blue'
         } else
-            if (genProp.includes("Public")) {
+            if (topic.includes("topic2")) {
                 color = 'green'
-            } else
-                if (genProp.includes("Traffic")) {
-                    color = 'purple'
-                } else
-                    if (genProp.includes("Violence")) {
-                        color = 'red'
-                    } else {
-                        color = 'yellow'
-                    }
+            } else {
+                color = 'red'
+            }
         return {
             icon: getCircle(magnitude, color)
         };
@@ -274,11 +294,21 @@ function initMap() {
 
 
     function getCircle(magnitude, color) {
+
+        var calcScale
+        if (magnitude <= 15) {
+            calcScale = magnitude * 2;
+        } else {
+            // console.log(magnitude)
+            calcScale = 15 + (magnitude / 20)
+            // console.log(calcScale)
+        }
+
         return {
             path: google.maps.SymbolPath.CIRCLE,
             fillColor: color,
             fillOpacity: .2,
-            scale: Math.pow(2, magnitude) / 2,
+            scale: calcScale,
             strokeColor: 'white',
             strokeWeight: .5
         };
