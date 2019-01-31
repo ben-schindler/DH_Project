@@ -12,8 +12,8 @@ var placeFeatures =
    "geometry": {
     "type": "Point",
     "coordinates": [
-     40.749678100000004,
-     14.492317800000002
+     14.492317800000002,
+     40.749678100000004
     ]
    }
   },
@@ -27,8 +27,8 @@ var placeFeatures =
    "geometry": {
     "type": "Point",
     "coordinates": [
-     37.042901,
-     27.420201000000002
+     27.420201000000002,
+     37.042901
     ]
    }
   },
@@ -42,8 +42,8 @@ var placeFeatures =
    "geometry": {
     "type": "Point",
     "coordinates": [
-     26.341487,
-     31.841893
+     31.841893,
+     26.341487
     ]
    }
   },
@@ -57,8 +57,8 @@ var placeFeatures =
    "geometry": {
     "type": "Point",
     "coordinates": [
-     37.5,
-     22.5
+     22.5,
+     37.5
     ]
    }
   },
@@ -72,8 +72,8 @@ var placeFeatures =
    "geometry": {
     "type": "Point",
     "coordinates": [
-     39.9574327844,
-     26.2384586227
+     26.2384586227,
+     39.9574327844
     ]
    }
   },
@@ -87,8 +87,8 @@ var placeFeatures =
    "geometry": {
     "type": "Point",
     "coordinates": [
-     38.572215,
-     28.044921000000002
+     28.044921000000002,
+     38.572215
     ]
    }
   },
@@ -102,8 +102,8 @@ var placeFeatures =
    "geometry": {
     "type": "Point",
     "coordinates": [
-     41.6767598,
-     35.9295291
+     35.9295291,
+     41.6767598
     ]
    }
   },
@@ -117,8 +117,8 @@ var placeFeatures =
    "geometry": {
     "type": "Point",
     "coordinates": [
-     36.837326000000004,
-     28.715749
+     28.715749,
+     36.837326000000004
     ]
    }
   },
@@ -132,8 +132,8 @@ var placeFeatures =
    "geometry": {
     "type": "Point",
     "coordinates": [
-     22.5,
-     82.5
+     82.5,
+     22.5
     ]
    }
   },
@@ -147,8 +147,8 @@ var placeFeatures =
    "geometry": {
     "type": "Point",
     "coordinates": [
-     38.488314,
-     28.040286
+     28.040286,
+     38.488314
     ]
    }
   },
@@ -162,8 +162,8 @@ var placeFeatures =
    "geometry": {
     "type": "Point",
     "coordinates": [
-     37.5,
-     -0.5
+     -0.5,
+     37.5
     ]
    }
   },
@@ -177,8 +177,8 @@ var placeFeatures =
    "geometry": {
     "type": "Point",
     "coordinates": [
-     38.551797,
-     27.991584000000003
+     27.991584000000003,
+     38.551797
     ]
    }
   },
@@ -192,8 +192,8 @@ var placeFeatures =
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.5,
-     15.5
+     15.5,
+     30.5
     ]
    }
   },
@@ -222,8 +222,8 @@ var placeFeatures =
    "geometry": {
     "type": "Point",
     "coordinates": [
-     38.482289,
-     22.501169
+     22.501169,
+     38.482289
     ]
    }
   },
@@ -237,8 +237,8 @@ var placeFeatures =
    "geometry": {
     "type": "Point",
     "coordinates": [
-     37.5229047333,
-     27.2783168333
+     27.2783168333,
+     37.5229047333
     ]
    }
   },
@@ -252,8 +252,8 @@ var placeFeatures =
    "geometry": {
     "type": "Point",
     "coordinates": [
-     37.66,
-     27.298333000000003
+     27.298333000000003,
+     37.66
     ]
    }
   },
@@ -282,8 +282,8 @@ var placeFeatures =
    "geometry": {
     "type": "Point",
     "coordinates": [
-     37.6220196,
-     27.4713446
+     27.4713446,
+     37.6220196
     ]
    }
   },
@@ -297,8 +297,8 @@ var placeFeatures =
    "geometry": {
     "type": "Point",
     "coordinates": [
-     32.869316999999995,
-     22.278628766700002
+     22.278628766700002,
+     32.869316999999995
     ]
    }
   },
@@ -312,8 +312,8 @@ var placeFeatures =
    "geometry": {
     "type": "Point",
     "coordinates": [
-     37.8980016198,
-     22.899979542199997
+     22.899979542199997,
+     37.8980016198
     ]
    }
   },
@@ -327,8 +327,8 @@ var placeFeatures =
    "geometry": {
     "type": "Point",
     "coordinates": [
-     39.369167,
-     26.176891
+     26.176891,
+     39.369167
     ]
    }
   },
@@ -342,8 +342,8 @@ var placeFeatures =
    "geometry": {
     "type": "Point",
     "coordinates": [
-     37.5366761195,
-     14.086484645799999
+     14.086484645799999,
+     37.5366761195
     ]
    }
   },
@@ -357,8 +357,8 @@ var placeFeatures =
    "geometry": {
     "type": "Point",
     "coordinates": [
-     40.470940500000005,
-     17.2371455
+     17.2371455,
+     40.470940500000005
     ]
    }
   },
@@ -372,8 +372,8 @@ var placeFeatures =
    "geometry": {
     "type": "Point",
     "coordinates": [
-     36.75,
-     29.25
+     29.25,
+     36.75
     ]
    }
   },
@@ -387,8 +387,8 @@ var placeFeatures =
    "geometry": {
     "type": "Point",
     "coordinates": [
-     37.9407625,
-     27.340307
+     27.340307,
+     37.9407625
     ]
    }
   },
@@ -402,8 +402,8 @@ var placeFeatures =
    "geometry": {
     "type": "Point",
     "coordinates": [
-     44.6306823333,
-     22.563686999999998
+     22.563686999999998,
+     44.6306823333
     ]
    }
   },
@@ -432,8 +432,8 @@ var placeFeatures =
    "geometry": {
     "type": "Point",
     "coordinates": [
-     37.975176467800004,
-     23.7263451721
+     23.7263451721,
+     37.975176467800004
     ]
    }
   },
@@ -447,8 +447,8 @@ var placeFeatures =
    "geometry": {
     "type": "Point",
     "coordinates": [
-     38.5525,
-     44.947777
+     44.947777,
+     38.5525
     ]
    }
   },
@@ -462,8 +462,8 @@ var placeFeatures =
    "geometry": {
     "type": "Point",
     "coordinates": [
-     31.5,
-     26.5
+     26.5,
+     31.5
     ]
    }
   },
@@ -477,8 +477,8 @@ var placeFeatures =
    "geometry": {
     "type": "Point",
     "coordinates": [
-     38.25,
-     22.25
+     22.25,
+     38.25
     ]
    }
   },
@@ -492,8 +492,8 @@ var placeFeatures =
    "geometry": {
     "type": "Point",
     "coordinates": [
-     29.2051733333,
-     25.5435296667
+     25.5435296667,
+     29.2051733333
     ]
    }
   },
@@ -507,8 +507,8 @@ var placeFeatures =
    "geometry": {
     "type": "Point",
     "coordinates": [
-     38.319156,
-     23.317577
+     23.317577,
+     38.319156
     ]
    }
   },
@@ -522,8 +522,8 @@ var placeFeatures =
    "geometry": {
     "type": "Point",
     "coordinates": [
-     34.5,
-     46.5
+     46.5,
+     34.5
     ]
    }
   },
@@ -537,8 +537,8 @@ var placeFeatures =
    "geometry": {
     "type": "Point",
     "coordinates": [
-     38.5178164,
-     28.1112899
+     28.1112899,
+     38.5178164
     ]
    }
   },
@@ -567,8 +567,8 @@ var placeFeatures =
    "geometry": {
     "type": "Point",
     "coordinates": [
-     38.8678937,
-     22.633767199999998
+     22.633767199999998,
+     38.8678937
     ]
    }
   },
@@ -582,8 +582,8 @@ var placeFeatures =
    "geometry": {
     "type": "Point",
     "coordinates": [
-     35.25,
-     25.75
+     25.75,
+     35.25
     ]
    }
   },
@@ -597,8 +597,8 @@ var placeFeatures =
    "geometry": {
     "type": "Point",
     "coordinates": [
-     39.25,
-     20.75
+     20.75,
+     39.25
     ]
    }
   },
@@ -612,8 +612,8 @@ var placeFeatures =
    "geometry": {
     "type": "Point",
     "coordinates": [
-     39.25,
-     21.75
+     21.75,
+     39.25
     ]
    }
   },
@@ -642,8 +642,8 @@ var placeFeatures =
    "geometry": {
     "type": "Point",
     "coordinates": [
-     37.6386894206,
-     21.6308747804
+     21.6308747804,
+     37.6386894206
     ]
    }
   },
@@ -657,8 +657,8 @@ var placeFeatures =
    "geometry": {
     "type": "Point",
     "coordinates": [
-     38.1465515,
-     23.970146
+     23.970146,
+     38.1465515
     ]
    }
   },
@@ -672,8 +672,8 @@ var placeFeatures =
    "geometry": {
     "type": "Point",
     "coordinates": [
-     40.785833000000004,
-     23.848889
+     23.848889,
+     40.785833000000004
     ]
    }
   },
@@ -687,8 +687,8 @@ var placeFeatures =
    "geometry": {
     "type": "Point",
     "coordinates": [
-     37.077905,
-     22.4272985
+     22.4272985,
+     37.077905
     ]
    }
   },
@@ -702,8 +702,8 @@ var placeFeatures =
    "geometry": {
     "type": "Point",
     "coordinates": [
-     36.75,
-     36.25
+     36.25,
+     36.75
     ]
    }
   },
@@ -717,8 +717,8 @@ var placeFeatures =
    "geometry": {
     "type": "Point",
     "coordinates": [
-     37.5674192684,
-     22.1653230973
+     22.1653230973,
+     37.5674192684
     ]
    }
   },
@@ -747,8 +747,8 @@ var placeFeatures =
    "geometry": {
     "type": "Point",
     "coordinates": [
-     37.0762404208,
-     22.4608264518
+     22.4608264518,
+     37.0762404208
     ]
    }
   },
@@ -762,8 +762,8 @@ var placeFeatures =
    "geometry": {
     "type": "Point",
     "coordinates": [
-     38.6703265,
-     26.754884000000004
+     26.754884000000004,
+     38.6703265
     ]
    }
   },
@@ -777,8 +777,8 @@ var placeFeatures =
    "geometry": {
     "type": "Point",
     "coordinates": [
-     37.0762404208,
-     22.4608264518
+     22.4608264518,
+     37.0762404208
     ]
    }
   },
@@ -792,8 +792,8 @@ var placeFeatures =
    "geometry": {
     "type": "Point",
     "coordinates": [
-     37.621451801199996,
-     22.9620797704
+     22.9620797704,
+     37.621451801199996
     ]
    }
   },
@@ -807,8 +807,8 @@ var placeFeatures =
    "geometry": {
     "type": "Point",
     "coordinates": [
-     36.2400122314,
-     22.982942801500002
+     22.982942801500002,
+     36.2400122314
     ]
    }
   },
@@ -822,8 +822,8 @@ var placeFeatures =
    "geometry": {
     "type": "Point",
     "coordinates": [
-     38.3466880333,
-     23.1846775333
+     23.1846775333,
+     38.3466880333
     ]
    }
   },
@@ -852,8 +852,8 @@ var placeFeatures =
    "geometry": {
     "type": "Point",
     "coordinates": [
-     42.8970275445,
-     12.5768282098
+     12.5768282098,
+     42.8970275445
     ]
    }
   },
@@ -867,8 +867,8 @@ var placeFeatures =
    "geometry": {
     "type": "Point",
     "coordinates": [
-     34.799294,
-     48.512209000000006
+     48.512209000000006,
+     34.799294
     ]
    }
   },
@@ -882,8 +882,8 @@ var placeFeatures =
    "geometry": {
     "type": "Point",
     "coordinates": [
-     36.366841,
-     43.155403
+     43.155403,
+     36.366841
     ]
    }
   },
@@ -897,8 +897,8 @@ var placeFeatures =
    "geometry": {
     "type": "Point",
     "coordinates": [
-     45.814417,
-     35.862586
+     35.862586,
+     45.814417
     ]
    }
   },
@@ -912,8 +912,8 @@ var placeFeatures =
    "geometry": {
     "type": "Point",
     "coordinates": [
-     31.665978499999998,
-     34.545947
+     34.545947,
+     31.665978499999998
     ]
    }
   },
@@ -927,8 +927,8 @@ var placeFeatures =
    "geometry": {
     "type": "Point",
     "coordinates": [
-     32.5,
-     44.5
+     44.5,
+     32.5
     ]
    }
   },
@@ -942,8 +942,8 @@ var placeFeatures =
    "geometry": {
     "type": "Point",
     "coordinates": [
-     36.122172,
-     33.126265999999994
+     33.126265999999994,
+     36.122172
     ]
    }
   },
@@ -957,8 +957,8 @@ var placeFeatures =
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.191851725,
-     53.171660775
+     53.171660775,
+     30.191851725
     ]
    }
   },
@@ -972,8 +972,8 @@ var placeFeatures =
    "geometry": {
     "type": "Point",
     "coordinates": [
-     37.9838192179,
-     22.7121933108
+     22.7121933108,
+     37.9838192179
     ]
    }
   },
@@ -987,8 +987,8 @@ var placeFeatures =
    "geometry": {
     "type": "Point",
     "coordinates": [
-     38.83379,
-     27.19367
+     27.19367,
+     38.83379
     ]
    }
   },
@@ -1002,8 +1002,8 @@ var placeFeatures =
    "geometry": {
     "type": "Point",
     "coordinates": [
-     39.3801999,
-     16.2544973
+     16.2544973,
+     39.3801999
     ]
    }
   },
@@ -1032,8 +1032,8 @@ var placeFeatures =
    "geometry": {
     "type": "Point",
     "coordinates": [
-     42.438317,
-     23.816111
+     23.816111,
+     42.438317
     ]
    }
   },
@@ -1047,8 +1047,8 @@ var placeFeatures =
    "geometry": {
     "type": "Point",
     "coordinates": [
-     38.213931,
-     22.018942000000003
+     22.018942000000003,
+     38.213931
     ]
    }
   },
@@ -1062,8 +1062,8 @@ var placeFeatures =
    "geometry": {
     "type": "Point",
     "coordinates": [
-     38.1021214728,
-     22.2245859114
+     22.2245859114,
+     38.1021214728
     ]
    }
   },
@@ -1077,8 +1077,8 @@ var placeFeatures =
    "geometry": {
     "type": "Point",
     "coordinates": [
-     38.53,
-     23.87
+     23.87,
+     38.53
     ]
    }
   },
@@ -1092,8 +1092,8 @@ var placeFeatures =
    "geometry": {
     "type": "Point",
     "coordinates": [
-     38.4945753333,
-     22.978315
+     22.978315,
+     38.4945753333
     ]
    }
   },
@@ -1107,8 +1107,8 @@ var placeFeatures =
    "geometry": {
     "type": "Point",
     "coordinates": [
-     38.760689,
-     26.9392185
+     26.9392185,
+     38.760689
     ]
    }
   },
@@ -1122,8 +1122,8 @@ var placeFeatures =
    "geometry": {
     "type": "Point",
     "coordinates": [
-     38.928297,
-     26.937453
+     26.937453,
+     38.928297
     ]
    }
   },
@@ -1137,8 +1137,8 @@ var placeFeatures =
    "geometry": {
     "type": "Point",
     "coordinates": [
-     38.80993465,
-     26.99339195
+     26.99339195,
+     38.80993465
     ]
    }
   },
@@ -1152,8 +1152,8 @@ var placeFeatures =
    "geometry": {
     "type": "Point",
     "coordinates": [
-     39.207481099999995,
-     26.1342123
+     26.1342123,
+     39.207481099999995
     ]
    }
   },
@@ -1167,8 +1167,8 @@ var placeFeatures =
    "geometry": {
     "type": "Point",
     "coordinates": [
-     39.244153999999995,
-     26.243273
+     26.243273,
+     39.244153999999995
     ]
    }
   },
@@ -1182,8 +1182,8 @@ var placeFeatures =
    "geometry": {
     "type": "Point",
     "coordinates": [
-     38.111270000000005,
-     13.3534422
+     13.3534422,
+     38.111270000000005
     ]
    }
   },
@@ -1197,8 +1197,8 @@ var placeFeatures =
    "geometry": {
     "type": "Point",
     "coordinates": [
-     39.110475,
-     26.547047999999997
+     26.547047999999997,
+     39.110475
     ]
    }
   },
@@ -1212,8 +1212,8 @@ var placeFeatures =
    "geometry": {
     "type": "Point",
     "coordinates": [
-     39.093987,
-     26.927974
+     26.927974,
+     39.093987
     ]
    }
   },
@@ -1227,8 +1227,8 @@ var placeFeatures =
    "geometry": {
     "type": "Point",
     "coordinates": [
-     39.75,
-     22.75
+     22.75,
+     39.75
     ]
    }
   },
@@ -1242,8 +1242,8 @@ var placeFeatures =
    "geometry": {
     "type": "Point",
     "coordinates": [
-     41.836467999999996,
-     44.6891385
+     44.6891385,
+     41.836467999999996
     ]
    }
   },
@@ -1257,8 +1257,8 @@ var placeFeatures =
    "geometry": {
     "type": "Point",
     "coordinates": [
-     42.0047755,
-     12.10281885
+     12.10281885,
+     42.0047755
     ]
    }
   },
@@ -1272,8 +1272,8 @@ var placeFeatures =
    "geometry": {
     "type": "Point",
     "coordinates": [
-     40.42064875,
-     15.00532475
+     15.00532475,
+     40.42064875
     ]
    }
   },
@@ -1287,8 +1287,8 @@ var placeFeatures =
    "geometry": {
     "type": "Point",
     "coordinates": [
-     39.75,
-     26.75
+     26.75,
+     39.75
     ]
    }
   },
@@ -1302,8 +1302,8 @@ var placeFeatures =
    "geometry": {
     "type": "Point",
     "coordinates": [
-     42.5,
-     27.5
+     27.5,
+     42.5
     ]
    }
   },
@@ -1317,8 +1317,8 @@ var placeFeatures =
    "geometry": {
     "type": "Point",
     "coordinates": [
-     36.75,
-     29.75
+     29.75,
+     36.75
     ]
    }
   },
@@ -1332,8 +1332,8 @@ var placeFeatures =
    "geometry": {
     "type": "Point",
     "coordinates": [
-     7.5,
-     77.5
+     77.5,
+     7.5
     ]
    }
   },
@@ -1347,8 +1347,8 @@ var placeFeatures =
    "geometry": {
     "type": "Point",
     "coordinates": [
-     36.195597,
-     27.964125
+     27.964125,
+     36.195597
     ]
    }
   },
@@ -1362,8 +1362,8 @@ var placeFeatures =
    "geometry": {
     "type": "Point",
     "coordinates": [
-     36.827092,
-     28.623687
+     28.623687,
+     36.827092
     ]
    }
   },
@@ -1377,8 +1377,8 @@ var placeFeatures =
    "geometry": {
     "type": "Point",
     "coordinates": [
-     33.6436,
-     42.8215
+     42.8215,
+     33.6436
     ]
    }
   },
@@ -1392,8 +1392,8 @@ var placeFeatures =
    "geometry": {
     "type": "Point",
     "coordinates": [
-     34.749423777800004,
-     40.9364009444
+     40.9364009444,
+     34.749423777800004
     ]
    }
   },
@@ -1407,8 +1407,8 @@ var placeFeatures =
    "geometry": {
     "type": "Point",
     "coordinates": [
-     36.513688333299996,
-     29.1296185
+     29.1296185,
+     36.513688333299996
     ]
    }
   },
@@ -1437,8 +1437,8 @@ var placeFeatures =
    "geometry": {
     "type": "Point",
     "coordinates": [
-     33.185613000000004,
-     44.702767
+     44.702767,
+     33.185613000000004
     ]
    }
   },
@@ -1452,8 +1452,8 @@ var placeFeatures =
    "geometry": {
     "type": "Point",
     "coordinates": [
-     47.1149830333,
-     15.0772312333
+     15.0772312333,
+     47.1149830333
     ]
    }
   },
@@ -1482,8 +1482,8 @@ var placeFeatures =
    "geometry": {
     "type": "Point",
     "coordinates": [
-     24.09,
-     32.889
+     32.889,
+     24.09
     ]
    }
   },
@@ -1497,8 +1497,8 @@ var placeFeatures =
    "geometry": {
     "type": "Point",
     "coordinates": [
-     39.9574327844,
-     26.2384586227
+     26.2384586227,
+     39.9574327844
     ]
    }
   },
@@ -1512,8 +1512,8 @@ var placeFeatures =
    "geometry": {
     "type": "Point",
     "coordinates": [
-     19.2114087667,
-     30.567329633299998
+     30.567329633299998,
+     19.2114087667
     ]
    }
   },
@@ -1527,8 +1527,8 @@ var placeFeatures =
    "geometry": {
     "type": "Point",
     "coordinates": [
-     38.6722875,
-     21.3178745
+     21.3178745,
+     38.6722875
     ]
    }
   },
@@ -1542,8 +1542,8 @@ var placeFeatures =
    "geometry": {
     "type": "Point",
     "coordinates": [
-     38.25,
-     21.25
+     21.25,
+     38.25
     ]
    }
   },
@@ -1572,8 +1572,8 @@ var placeFeatures =
    "geometry": {
     "type": "Point",
     "coordinates": [
-     31.049916999999997,
-     32.600128000000005
+     32.600128000000005,
+     31.049916999999997
     ]
    }
   },
@@ -1587,8 +1587,8 @@ var placeFeatures =
    "geometry": {
     "type": "Point",
     "coordinates": [
-     31.400949,
-     30.414682
+     30.414682,
+     31.400949
     ]
    }
   },
@@ -1602,8 +1602,8 @@ var placeFeatures =
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.96715,
-     30.774366999999998
+     30.774366999999998,
+     30.96715
     ]
    }
   },
@@ -1617,8 +1617,8 @@ var placeFeatures =
    "geometry": {
     "type": "Point",
     "coordinates": [
-     24.0885745,
-     32.901491
+     32.901491,
+     24.0885745
     ]
    }
   },
@@ -1632,8 +1632,8 @@ var placeFeatures =
    "geometry": {
     "type": "Point",
     "coordinates": [
-     23.079712,
-     32.69612
+     32.69612,
+     23.079712
     ]
    }
   },
@@ -1662,8 +1662,8 @@ var placeFeatures =
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.713606,
-     30.828784000000002
+     30.828784000000002,
+     30.713606
     ]
    }
   },
@@ -1677,8 +1677,8 @@ var placeFeatures =
    "geometry": {
     "type": "Point",
     "coordinates": [
-     31.037798,
-     31.379406
+     31.379406,
+     31.037798
     ]
    }
   },
@@ -1707,8 +1707,8 @@ var placeFeatures =
    "geometry": {
     "type": "Point",
     "coordinates": [
-     31.25,
-     30.75
+     30.75,
+     31.25
     ]
    }
   },
@@ -1722,8 +1722,8 @@ var placeFeatures =
    "geometry": {
     "type": "Point",
     "coordinates": [
-     40.385616,
-     37.444731
+     37.444731,
+     40.385616
     ]
    }
   },
@@ -1737,8 +1737,8 @@ var placeFeatures =
    "geometry": {
     "type": "Point",
     "coordinates": [
-     43.433333000000005,
-     9.9
+     9.9,
+     43.433333000000005
     ]
    }
   },
@@ -1752,8 +1752,8 @@ var placeFeatures =
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.900508000000002,
-     30.5919275
+     30.5919275,
+     30.900508000000002
     ]
    }
   },
@@ -1767,8 +1767,8 @@ var placeFeatures =
    "geometry": {
     "type": "Point",
     "coordinates": [
-     31.168065999999996,
-     30.205127
+     30.205127,
+     31.168065999999996
     ]
    }
   },
@@ -1782,8 +1782,8 @@ var placeFeatures =
    "geometry": {
     "type": "Point",
     "coordinates": [
-     31.25,
-     30.25
+     30.25,
+     31.25
     ]
    }
   },
@@ -1797,8 +1797,8 @@ var placeFeatures =
    "geometry": {
     "type": "Point",
     "coordinates": [
-     41.1939559,
-     36.942497499999995
+     36.942497499999995,
+     41.1939559
     ]
    }
   },
@@ -1812,8 +1812,8 @@ var placeFeatures =
    "geometry": {
     "type": "Point",
     "coordinates": [
-     31.314034999999997,
-     30.078252000000003
+     30.078252000000003,
+     31.314034999999997
     ]
    }
   },
@@ -1827,8 +1827,8 @@ var placeFeatures =
    "geometry": {
     "type": "Point",
     "coordinates": [
-     17.5,
-     47.5
+     47.5,
+     17.5
     ]
    }
   },
@@ -1842,8 +1842,8 @@ var placeFeatures =
    "geometry": {
     "type": "Point",
     "coordinates": [
-     33.560328000000005,
-     35.37324
+     35.37324,
+     33.560328000000005
     ]
    }
   },
@@ -1872,8 +1872,8 @@ var placeFeatures =
    "geometry": {
     "type": "Point",
     "coordinates": [
-     40.2863525,
-     30.593308
+     30.593308,
+     40.2863525
     ]
    }
   },
@@ -1902,8 +1902,8 @@ var placeFeatures =
    "geometry": {
     "type": "Point",
     "coordinates": [
-     35.272833899999995,
-     36.482575399999995
+     36.482575399999995,
+     35.272833899999995
     ]
    }
   },
@@ -1917,8 +1917,8 @@ var placeFeatures =
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.795054999999998,
-     30.600505
+     30.600505,
+     30.795054999999998
     ]
    }
   },
@@ -1932,8 +1932,8 @@ var placeFeatures =
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.713246,
-     31.266677
+     31.266677,
+     30.713246
     ]
    }
   },
@@ -1977,8 +1977,8 @@ var placeFeatures =
    "geometry": {
     "type": "Point",
     "coordinates": [
-     36.5228063333,
-     30.549049
+     30.549049,
+     36.5228063333
     ]
    }
   },
@@ -1992,8 +1992,8 @@ var placeFeatures =
    "geometry": {
     "type": "Point",
     "coordinates": [
-     33.5,
-     44.5
+     44.5,
+     33.5
     ]
    }
   },
@@ -2007,8 +2007,8 @@ var placeFeatures =
    "geometry": {
     "type": "Point",
     "coordinates": [
-     36.850032500000005,
-     10.318
+     10.318,
+     36.850032500000005
     ]
    }
   },
@@ -2067,8 +2067,8 @@ var placeFeatures =
    "geometry": {
     "type": "Point",
     "coordinates": [
-     37.339,
-     23.484
+     23.484,
+     37.339
     ]
    }
   },
@@ -2082,8 +2082,8 @@ var placeFeatures =
    "geometry": {
     "type": "Point",
     "coordinates": [
-     40.5,
-     37.5
+     37.5,
+     40.5
     ]
    }
   },
@@ -2097,8 +2097,8 @@ var placeFeatures =
    "geometry": {
     "type": "Point",
     "coordinates": [
-     22.5,
-     77.5
+     77.5,
+     22.5
     ]
    }
   },
@@ -2112,8 +2112,8 @@ var placeFeatures =
    "geometry": {
     "type": "Point",
     "coordinates": [
-     44.932101878999994,
-     9.69183126173
+     9.69183126173,
+     44.932101878999994
     ]
    }
   },
@@ -2127,8 +2127,8 @@ var placeFeatures =
    "geometry": {
     "type": "Point",
     "coordinates": [
-     39.0811675,
-     17.127966
+     17.127966,
+     39.0811675
     ]
    }
   },
@@ -2142,8 +2142,8 @@ var placeFeatures =
    "geometry": {
     "type": "Point",
     "coordinates": [
-     40.5,
-     36.5
+     36.5,
+     40.5
     ]
    }
   },
@@ -2157,8 +2157,8 @@ var placeFeatures =
    "geometry": {
     "type": "Point",
     "coordinates": [
-     36.529277666700004,
-     -6.293120666669999
+     -6.293120666669999,
+     36.529277666700004
     ]
    }
   },
@@ -2172,8 +2172,8 @@ var placeFeatures =
    "geometry": {
     "type": "Point",
     "coordinates": [
-     50.0836435257,
-     34.667489697
+     34.667489697,
+     50.0836435257
     ]
    }
   },
@@ -2187,8 +2187,8 @@ var placeFeatures =
    "geometry": {
     "type": "Point",
     "coordinates": [
-     40.3855645,
-     27.883190999999997
+     27.883190999999997,
+     40.3855645
     ]
    }
   },
@@ -2202,8 +2202,8 @@ var placeFeatures =
    "geometry": {
     "type": "Point",
     "coordinates": [
-     40.383868,
-     16.824063
+     16.824063,
+     40.383868
     ]
    }
   },
@@ -2217,8 +2217,8 @@ var placeFeatures =
    "geometry": {
     "type": "Point",
     "coordinates": [
-     46.5,
-     32.5
+     32.5,
+     46.5
     ]
    }
   },
@@ -2232,8 +2232,8 @@ var placeFeatures =
    "geometry": {
     "type": "Point",
     "coordinates": [
-     45.5,
-     39.5
+     39.5,
+     45.5
     ]
    }
   },
@@ -2247,8 +2247,8 @@ var placeFeatures =
    "geometry": {
     "type": "Point",
     "coordinates": [
-     39.837177197399996,
-     26.337210872100002
+     26.337210872100002,
+     39.837177197399996
     ]
    }
   },
@@ -2262,8 +2262,8 @@ var placeFeatures =
    "geometry": {
     "type": "Point",
     "coordinates": [
-     44.5,
-     27.5
+     27.5,
+     44.5
     ]
    }
   },
@@ -2277,8 +2277,8 @@ var placeFeatures =
    "geometry": {
     "type": "Point",
     "coordinates": [
-     46.5,
-     20.5
+     20.5,
+     46.5
     ]
    }
   },
@@ -2292,8 +2292,8 @@ var placeFeatures =
    "geometry": {
     "type": "Point",
     "coordinates": [
-     43.062715999999995,
-     25.605923999999998
+     25.605923999999998,
+     43.062715999999995
     ]
    }
   },
@@ -2322,8 +2322,8 @@ var placeFeatures =
    "geometry": {
     "type": "Point",
     "coordinates": [
-     36.7652445,
-     10.5531225
+     10.5531225,
+     36.7652445
     ]
    }
   },
@@ -2337,8 +2337,8 @@ var placeFeatures =
    "geometry": {
     "type": "Point",
     "coordinates": [
-     37.2528977769,
-     22.312752688499998
+     22.312752688499998,
+     37.2528977769
     ]
    }
   },
@@ -2352,8 +2352,8 @@ var placeFeatures =
    "geometry": {
     "type": "Point",
     "coordinates": [
-     40.983393,
-     29.025789000000003
+     29.025789000000003,
+     40.983393
     ]
    }
   },
@@ -2367,8 +2367,8 @@ var placeFeatures =
    "geometry": {
     "type": "Point",
     "coordinates": [
-     40.6666672,
-     28.249999900000002
+     28.249999900000002,
+     40.6666672
     ]
    }
   },
@@ -2382,8 +2382,8 @@ var placeFeatures =
    "geometry": {
     "type": "Point",
     "coordinates": [
-     41.005902,
-     28.9738815
+     28.9738815,
+     41.005902
     ]
    }
   },
@@ -2397,8 +2397,8 @@ var placeFeatures =
    "geometry": {
     "type": "Point",
     "coordinates": [
-     40.971013,
-     27.952972999999997
+     27.952972999999997,
+     40.971013
     ]
    }
   },
@@ -2412,8 +2412,8 @@ var placeFeatures =
    "geometry": {
     "type": "Point",
     "coordinates": [
-     47.8442445167,
-     14.270576116700001
+     14.270576116700001,
+     47.8442445167
     ]
    }
   },
@@ -2427,8 +2427,8 @@ var placeFeatures =
    "geometry": {
     "type": "Point",
     "coordinates": [
-     44.5,
-     25.5
+     25.5,
+     44.5
     ]
    }
   },
@@ -2442,8 +2442,8 @@ var placeFeatures =
    "geometry": {
     "type": "Point",
     "coordinates": [
-     42.65958,
-     27.7244435
+     27.7244435,
+     42.65958
     ]
    }
   },
@@ -2457,8 +2457,8 @@ var placeFeatures =
    "geometry": {
     "type": "Point",
     "coordinates": [
-     40.346685,
-     26.699162
+     26.699162,
+     40.346685
     ]
    }
   },
@@ -2472,8 +2472,8 @@ var placeFeatures =
    "geometry": {
     "type": "Point",
     "coordinates": [
-     40.420499,
-     27.069096000000002
+     27.069096000000002,
+     40.420499
     ]
    }
   },
@@ -2487,8 +2487,8 @@ var placeFeatures =
    "geometry": {
     "type": "Point",
     "coordinates": [
-     39.916667,
-     25.25
+     25.25,
+     39.916667
     ]
    }
   },
@@ -2502,8 +2502,8 @@ var placeFeatures =
    "geometry": {
     "type": "Point",
     "coordinates": [
-     36.4,
-     25.4
+     25.4,
+     36.4
     ]
    }
   },
@@ -2517,8 +2517,8 @@ var placeFeatures =
    "geometry": {
     "type": "Point",
     "coordinates": [
-     32.683784,
-     22.880611
+     22.880611,
+     32.683784
     ]
    }
   },
@@ -2532,8 +2532,8 @@ var placeFeatures =
    "geometry": {
     "type": "Point",
     "coordinates": [
-     32.109789,
-     20.091198000000002
+     20.091198000000002,
+     32.109789
     ]
    }
   },
@@ -2547,8 +2547,8 @@ var placeFeatures =
    "geometry": {
     "type": "Point",
     "coordinates": [
-     29.1521035,
-     21.2952075
+     21.2952075,
+     29.1521035
     ]
    }
   },
@@ -2562,8 +2562,8 @@ var placeFeatures =
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.5,
-     17.5
+     17.5,
+     30.5
     ]
    }
   },
@@ -2577,8 +2577,8 @@ var placeFeatures =
    "geometry": {
     "type": "Point",
     "coordinates": [
-     40.641298,
-     20.959876
+     20.959876,
+     40.641298
     ]
    }
   },
@@ -2592,8 +2592,8 @@ var placeFeatures =
    "geometry": {
     "type": "Point",
     "coordinates": [
-     37.450394,
-     22.669501
+     22.669501,
+     37.450394
     ]
    }
   },
@@ -2607,8 +2607,8 @@ var placeFeatures =
    "geometry": {
     "type": "Point",
     "coordinates": [
-     25.958496,
-     32.728704
+     32.728704,
+     25.958496
     ]
    }
   },
@@ -2622,8 +2622,8 @@ var placeFeatures =
    "geometry": {
     "type": "Point",
     "coordinates": [
-     40.130028116,
-     22.4247924913
+     22.4247924913,
+     40.130028116
     ]
    }
   },
@@ -2637,8 +2637,8 @@ var placeFeatures =
    "geometry": {
     "type": "Point",
     "coordinates": [
-     32.109789,
-     20.091198000000002
+     20.091198000000002,
+     32.109789
     ]
    }
   },
@@ -2652,8 +2652,8 @@ var placeFeatures =
    "geometry": {
     "type": "Point",
     "coordinates": [
-     37.5,
-     67.5
+     67.5,
+     37.5
     ]
    }
   },
@@ -2667,8 +2667,8 @@ var placeFeatures =
    "geometry": {
     "type": "Point",
     "coordinates": [
-     43.296853999999996,
-     5.382499
+     5.382499,
+     43.296853999999996
     ]
    }
   },
@@ -2697,8 +2697,8 @@ var placeFeatures =
    "geometry": {
     "type": "Point",
     "coordinates": [
-     37.0415464154,
-     25.1395123769
+     25.1395123769,
+     37.0415464154
     ]
    }
   },
@@ -2712,8 +2712,8 @@ var placeFeatures =
    "geometry": {
     "type": "Point",
     "coordinates": [
-     37.0694553333,
-     21.9323415
+     21.9323415,
+     37.0694553333
     ]
    }
   },
@@ -2727,8 +2727,8 @@ var placeFeatures =
    "geometry": {
     "type": "Point",
     "coordinates": [
-     39.75,
-     26.25
+     26.25,
+     39.75
     ]
    }
   },
@@ -2742,8 +2742,8 @@ var placeFeatures =
    "geometry": {
     "type": "Point",
     "coordinates": [
-     38.457139,
-     23.621937
+     23.621937,
+     38.457139
     ]
    }
   },
@@ -2757,8 +2757,8 @@ var placeFeatures =
    "geometry": {
     "type": "Point",
     "coordinates": [
-     39.597431,
-     27.020171
+     27.020171,
+     39.597431
     ]
    }
   },
@@ -2772,8 +2772,8 @@ var placeFeatures =
    "geometry": {
     "type": "Point",
     "coordinates": [
-     32.897586,
-     13.175266
+     13.175266,
+     32.897586
     ]
    }
   },
@@ -2787,8 +2787,8 @@ var placeFeatures =
    "geometry": {
     "type": "Point",
     "coordinates": [
-     38.0304732,
-     27.4412386
+     27.4412386,
+     38.0304732
     ]
    }
   },
@@ -2802,8 +2802,8 @@ var placeFeatures =
    "geometry": {
     "type": "Point",
     "coordinates": [
-     38.4803822,
-     28.0627776
+     28.0627776,
+     38.4803822
     ]
    }
   },
@@ -2817,8 +2817,8 @@ var placeFeatures =
    "geometry": {
     "type": "Point",
     "coordinates": [
-     44.77792,
-     28.09352
+     28.09352,
+     44.77792
     ]
    }
   },
@@ -2832,8 +2832,8 @@ var placeFeatures =
    "geometry": {
     "type": "Point",
     "coordinates": [
-     39.837177197399996,
-     26.337210872100002
+     26.337210872100002,
+     39.837177197399996
     ]
    }
   },
@@ -2847,8 +2847,8 @@ var placeFeatures =
    "geometry": {
     "type": "Point",
     "coordinates": [
-     37.75,
-     27.25
+     27.25,
+     37.75
     ]
    }
   },
@@ -2862,8 +2862,8 @@ var placeFeatures =
    "geometry": {
     "type": "Point",
     "coordinates": [
-     36.7615135,
-     66.9006005
+     66.9006005,
+     36.7615135
     ]
    }
   },
@@ -2892,8 +2892,8 @@ var placeFeatures =
    "geometry": {
     "type": "Point",
     "coordinates": [
-     37.75,
-     24.25
+     24.25,
+     37.75
     ]
    }
   },
@@ -2907,8 +2907,8 @@ var placeFeatures =
    "geometry": {
     "type": "Point",
     "coordinates": [
-     37.970797,
-     13.822496
+     13.822496,
+     37.970797
     ]
    }
   },
@@ -2922,8 +2922,8 @@ var placeFeatures =
    "geometry": {
     "type": "Point",
     "coordinates": [
-     38.947167799999995,
-     27.0057354
+     27.0057354,
+     38.947167799999995
     ]
    }
   },
@@ -2952,8 +2952,8 @@ var placeFeatures =
    "geometry": {
     "type": "Point",
     "coordinates": [
-     40.2468341818,
-     24.2951477273
+     24.2951477273,
+     40.2468341818
     ]
    }
   },
@@ -2967,8 +2967,8 @@ var placeFeatures =
    "geometry": {
     "type": "Point",
     "coordinates": [
-     38.75,
-     21.25
+     21.25,
+     38.75
     ]
    }
   },
@@ -2982,8 +2982,8 @@ var placeFeatures =
    "geometry": {
     "type": "Point",
     "coordinates": [
-     38.25,
-     22.25
+     22.25,
+     38.25
     ]
    }
   },
@@ -2997,8 +2997,8 @@ var placeFeatures =
    "geometry": {
     "type": "Point",
     "coordinates": [
-     37.568123,
-     22.808706
+     22.808706,
+     37.568123
     ]
    }
   },
@@ -3012,8 +3012,8 @@ var placeFeatures =
    "geometry": {
     "type": "Point",
     "coordinates": [
-     37.599444,
-     22.799722
+     22.799722,
+     37.599444
     ]
    }
   },
@@ -3042,8 +3042,8 @@ var placeFeatures =
    "geometry": {
     "type": "Point",
     "coordinates": [
-     40.7488316,
-     14.4877038
+     14.4877038,
+     40.7488316
     ]
    }
   },
@@ -3057,8 +3057,8 @@ var placeFeatures =
    "geometry": {
     "type": "Point",
     "coordinates": [
-     37.44,
-     25.37
+     25.37,
+     37.44
     ]
    }
   },
@@ -3072,8 +3072,8 @@ var placeFeatures =
    "geometry": {
     "type": "Point",
     "coordinates": [
-     38.5158610095,
-     21.7597149905
+     21.7597149905,
+     38.5158610095
     ]
    }
   },
@@ -3087,8 +3087,8 @@ var placeFeatures =
    "geometry": {
     "type": "Point",
     "coordinates": [
-     41.0042695,
-     39.7233115
+     39.7233115,
+     41.0042695
     ]
    }
   },
@@ -3102,8 +3102,8 @@ var placeFeatures =
    "geometry": {
     "type": "Point",
     "coordinates": [
-     8.19228,
-     77.26502099999999
+     77.26502099999999,
+     8.19228
     ]
    }
   },
@@ -3117,8 +3117,8 @@ var placeFeatures =
    "geometry": {
     "type": "Point",
     "coordinates": [
-     38.3388321,
-     21.106711100000002
+     21.106711100000002,
+     38.3388321
     ]
    }
   }
