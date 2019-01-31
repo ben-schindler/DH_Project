@@ -5,8 +5,8 @@ var map;
 //Init GMap
 function initMap() {
     map = new google.maps.Map(document.getElementById('map'), {
-        zoom: 2,
-        center: { lat: 54.5260, lng: 15.2551 },
+        zoom: 3,
+        center: { lat: 30, lng: 35 },
         mapTypeId: 'satellite'
     });
 
@@ -166,27 +166,40 @@ function initMap() {
     //get placeFeatures variable from js import in index.html
     console.log(placeFeatures);
 
+    localStorage.setItem('placesloaded', 0);
 
     // on button click 
     $("#placesButton").click(function () {
-        map.data.addGeoJson(placeFeatures); //Data is added to Gmap and then setStyle in initMap--> Circle with magnitude
 
-        var chartData = [];
+        loadplaces = localStorage.getItem('placesloaded');
+        console.log(loadplaces);
 
-        $.each(placeFeatures.features, function (i, item) {
-            chartData.push([item.properties.count, item.properties.title, item.properties.description]);
-        });
+        
+        if (loadplaces == 0){
 
-        $('#chartData').DataTable({
-            data: chartData,
-            columns: [
-                { title: "Count" },
-                { title: "Title" },
-                { title: "Description" }
-            ]
-        });
+            map.data.addGeoJson(placeFeatures); //Data is added to Gmap and then setStyle in initMap--> Circle with magnitude
 
+            var chartData = [];
+    
+            $.each(placeFeatures.features, function (i, item) {
+                chartData.push([item.properties.count, item.properties.title, item.properties.description]);
+            });
+    
+            $('#chartData').DataTable({
+                data: chartData,
+                columns: [
+                    { title: "Count" },
+                    { title: "Title" },
+                    { title: "Description" }
+                ]
+            });
+            localStorage.setItem('placesloaded', 1);
+        }
 
+        if (loadplaces == 1){
+
+            alert("Places already loaded");
+        }
     });
 
 
@@ -294,15 +307,20 @@ function initMap() {
 
 
     function getCircle(magnitude, color) {
+        console.log(magnitude);
 
         var calcScale
-        if (magnitude <= 15) {
-            calcScale = magnitude * 2;
-        } else {
-            // console.log(magnitude)
-            calcScale = 15 + (magnitude / 20)
-            // console.log(calcScale)
-        }
+        calcScale = Math.sqrt(magnitude + 30);
+        console.log(calcScale);
+
+
+        // if (magnitude <= 15) {
+        //     calcScale = magnitude * 2;
+        // } else {
+        //     console.log(magnitude)
+        //     calcScale = 15 + ( (magnitude * 2 ) / 30)
+        //     console.log(calcScale)
+        // }
 
         return {
             path: google.maps.SymbolPath.CIRCLE,
