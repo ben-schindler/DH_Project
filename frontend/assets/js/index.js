@@ -5,7 +5,7 @@ var map;
 //Init GMap
 function initMap() {
     map = new google.maps.Map(document.getElementById('map'), {
-        zoom: 3,
+        zoom: 3.5,
         center: { lat: 30, lng: 35 },
         mapTypeId: 'satellite'
     });
@@ -310,7 +310,8 @@ function initMap() {
         console.log(magnitude);
 
         var calcScale
-        calcScale = Math.sqrt(magnitude + 30);
+       // calcScale = 9;
+        calcScale = Math.sqrt(magnitude + 60);
         console.log(calcScale);
 
 
