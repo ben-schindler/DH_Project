@@ -1,4 +1,5 @@
-var placeFeatures = {
+var placeFeatures = 
+{
  "type": "FeatureCollection",
  "features": [
   {
