@@ -65,6 +65,46 @@ var placeFeatures =
   {
    "type": "Feature",
    "properties": {
+    "title": "(As)Syria",
+    "description": "Assyria, a region of Upper Mesopotamia that formed the heartland of the Assyrian Empire. The region was known as Subartu prior to the rise of the city-state of A\u0161\u0161ur, the first capital of the Assyrian Empire. Other major cities of the region include Nineveh (the later capital of the Empire), Dur-Sharrukin, and Kalhu. After the fall of the Neo-Assyrian Empire in 609 BCE, the region fell under the control of a succession of other powers, generally remaining as a coherent administrative region. This persisted until the 7th century, when the Rashidun Caliphate incorporated the former Sasanian province of As\u014drist\u0101n within the larger province of al-Jazira.",
+    "count": 11,
+    "featureTypes": "region",
+    "timePeriodsKeys": "old-babylonian-assyrian-mesopotamia,later-2nd-millennium-bc-mesopotamia,archaic,neo-assyrian-babylonian-middle-east,classical,hellenistic-republican,roman,late-antique",
+    "timePeriodsRange": "-2000.0,640.0",
+    "minDate": -2000.0,
+    "maxDate": 640.0
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     43.2437443112,
+     36.106958272600004
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Argos",
+    "description": "Argos was a city of ancient Greece that reached its cultural highpoint under Pheidon in the seventh century BC.",
+    "count": 17,
+    "featureTypes": "settlement",
+    "timePeriodsKeys": "archaic,classical,hellenistic-republican,roman",
+    "timePeriodsRange": "-750.0,300.0",
+    "minDate": -750.0,
+    "maxDate": 300.0
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     22.719464000000002,
+     37.631561
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
     "title": "Hellas",
     "description": "An ancient place, cited: BAtlas 102 D4 no. 10 (Hellas)",
     "count": 1,
@@ -79,6 +119,46 @@ var placeFeatures =
     "coordinates": [
      22.5,
      37.5
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Colchis/Lazike",
+    "description": "Colchis/Lazike was an ancient region located to the east of the Black Sea. ",
+    "count": 3,
+    "featureTypes": "region",
+    "timePeriodsKeys": "archaic,classical,hellenistic-republican,roman,late-antique",
+    "timePeriodsRange": "-750.0,640.0",
+    "minDate": -750.0,
+    "maxDate": 640.0
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     42.5,
+     42.5
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Phasis/Rheon (river)",
+    "description": "An ancient place, cited: BAtlas 88 A2 Phasis/Rheon fl.",
+    "count": 8,
+    "featureTypes": "river",
+    "timePeriodsKeys": NaN,
+    "timePeriodsRange": NaN,
+    "minDate": NaN,
+    "maxDate": NaN
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     42.5,
+     42.5
     ]
    }
   },
@@ -145,6 +225,46 @@ var placeFeatures =
   {
    "type": "Feature",
    "properties": {
+    "title": "(As)Syria",
+    "description": "Assyria, a region of Upper Mesopotamia that formed the heartland of the Assyrian Empire. The region was known as Subartu prior to the rise of the city-state of A\u0161\u0161ur, the first capital of the Assyrian Empire. Other major cities of the region include Nineveh (the later capital of the Empire), Dur-Sharrukin, and Kalhu. After the fall of the Neo-Assyrian Empire in 609 BCE, the region fell under the control of a succession of other powers, generally remaining as a coherent administrative region. This persisted until the 7th century, when the Rashidun Caliphate incorporated the former Sasanian province of As\u014drist\u0101n within the larger province of al-Jazira.",
+    "count": 21,
+    "featureTypes": "region",
+    "timePeriodsKeys": "old-babylonian-assyrian-mesopotamia,later-2nd-millennium-bc-mesopotamia,archaic,neo-assyrian-babylonian-middle-east,classical,hellenistic-republican,roman,late-antique",
+    "timePeriodsRange": "-2000.0,640.0",
+    "minDate": -2000.0,
+    "maxDate": 640.0
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     43.2437443112,
+     36.106958272600004
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Paphlagonia (region)",
+    "description": "The ancient region as defined in the Barrington Atlas (BAtlas 86 C2 Paphlagonia)",
+    "count": 1,
+    "featureTypes": "region",
+    "timePeriodsKeys": "archaic,classical,hellenistic-republican,roman,late-antique",
+    "timePeriodsRange": "-750.0,640.0",
+    "minDate": -750.0,
+    "maxDate": 640.0
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     33.2385502167,
+     41.4484629667
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
     "title": "Euxine",
     "description": "An ancient place, cited: BAtlas 65 A4 Euxine",
     "count": 16,
@@ -185,6 +305,46 @@ var placeFeatures =
   {
    "type": "Feature",
    "properties": {
+    "title": "Ionia (region)",
+    "description": "The coast of Asia Minor between Aeolis and Caria.",
+    "count": 49,
+    "featureTypes": "region",
+    "timePeriodsKeys": "archaic,classical,hellenistic-republican,roman,late-antique",
+    "timePeriodsRange": "-750.0,640.0",
+    "minDate": -750.0,
+    "maxDate": 640.0
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     27.3660121333,
+     38.2585728556
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Lydia/Maionia",
+    "description": "Lydia was an Iron Age kingdom of western Asia Minor located east of ancient Ionia. Lydia (called Sparda by the Achaemenids) became a satrapy of the Persian Empire and with Sardis was its capital.",
+    "count": 16,
+    "featureTypes": "region",
+    "timePeriodsKeys": "archaic,classical,hellenistic-republican,roman,late-antique",
+    "timePeriodsRange": "-750.0,640.0",
+    "minDate": -750.0,
+    "maxDate": 640.0
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     27.963284499999997,
+     38.62477125
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
     "title": " Sardis/Hyde?",
     "description": "Sardis was the capital of the Lydian Empire located in western Turkey. In 188 B.C. Sardis became a part of the Attalid kingdom and thus it passed with the territory of Attalus III to Rome in 133 B.C. ",
     "count": 95,
@@ -219,6 +379,26 @@ var placeFeatures =
     "coordinates": [
      -0.5,
      37.5
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Orontes (river)",
+    "description": "The Orontes River is one of the chief rivers of the Levant.",
+    "count": 3,
+    "featureTypes": "river",
+    "timePeriodsKeys": "hellenistic-republican,roman,late-antique,modern",
+    "timePeriodsRange": "-330.0,2100.0",
+    "minDate": -330.0,
+    "maxDate": 2100.0
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     36.482575399999995,
+     35.272833899999995
     ]
    }
   },
@@ -305,6 +485,26 @@ var placeFeatures =
   {
    "type": "Feature",
    "properties": {
+    "title": "Phrygia II",
+    "description": "An ancient place, cited: BAtlas 101 N4 Phrygia II",
+    "count": 8,
+    "featureTypes": "province",
+    "timePeriodsKeys": NaN,
+    "timePeriodsRange": NaN,
+    "minDate": NaN,
+    "maxDate": NaN
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     32.5,
+     37.5
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
     "title": "Miletus",
     "description": "A major ancient city in Caria.",
     "count": 71,
@@ -319,6 +519,46 @@ var placeFeatures =
     "coordinates": [
      27.2783168333,
      37.5229047333
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Naulochon/Smyrna/Palaia Smyrna",
+    "description": "An ancient settlement located on the gulf of Smyrna, east of the town of Bayrakl\u0131 (some 4 km north of Izmir, Turkey). Archaeological evidence indicates that the earliest Hellenic evidence dates to the eleventh or tenth centuries B.C.",
+    "count": 7,
+    "featureTypes": "settlement",
+    "timePeriodsKeys": "middle-bronze-age-anatolia,early-iron-age-anatolia,1200-bc-middle-east,archaic,neo-assyrian-babylonian-middle-east,middle-late-iron-age-anatolia,classical,achaemenid-middle-east,hellenistic-middle-east,roman-middle-east,roman,roman-early-empire-parthian-middle-east,transition-roman-early-empire-late-antique,late-antique,late-antique-sasanian-middle-east,late-antique-late-byzantine,proto-byzantine,early-byzantine,abassid-middle-east,middle-byzantine,crusader-byzantine-seljuq-middle-east,ilkhanate-middle-east,mongol-middle-east,ottoman-rise,early-ottoman-empire,1500-ad-middle-east,ottoman-empire,late-ottoman-empire,modern,khedivate-egypt,ottoman-decline-mandate-middle-east,modern-middle-east",
+    "timePeriodsRange": "-1750.0,2100.0",
+    "minDate": -1750.0,
+    "maxDate": 2100.0
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     27.147809999999996,
+     38.440912
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Colophon",
+    "description": "Colophon was an Ionian city in Lydia, located ca. 13 km north of the harbour of  Notion. Its ruins are located near modern De\u011firmendere.",
+    "count": 3,
+    "featureTypes": "settlement",
+    "timePeriodsKeys": "archaic,classical,modern",
+    "timePeriodsRange": "-750.0,2100.0",
+    "minDate": -750.0,
+    "maxDate": 2100.0
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     27.148308500000002,
+     38.108253000000005
     ]
    }
   },
@@ -365,6 +605,26 @@ var placeFeatures =
   {
    "type": "Feature",
    "properties": {
+    "title": "Scythia",
+    "description": "An ancient place, cited: BAtlas 101 M3 Scythia",
+    "count": 60,
+    "featureTypes": "province",
+    "timePeriodsKeys": NaN,
+    "timePeriodsRange": NaN,
+    "minDate": NaN,
+    "maxDate": NaN
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     27.5,
+     42.5
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
     "title": "Maeander (river)",
     "description": "The Maeander (modern B\u00fcy\u00fck Menderes River) is a river of Caria in southwestern Asia Minor.",
     "count": 9,
@@ -379,6 +639,26 @@ var placeFeatures =
     "coordinates": [
      27.4713446,
      37.6220196
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Chios",
+    "description": "An ancient place, cited: BAtlas 56 C5 Chios",
+    "count": 19,
+    "featureTypes": "settlement",
+    "timePeriodsKeys": "archaic,classical,hellenistic-republican,roman,late-antique",
+    "timePeriodsRange": "-750.0,640.0",
+    "minDate": -750.0,
+    "maxDate": 640.0
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     26.1342335,
+     38.37641
     ]
    }
   },
@@ -419,6 +699,26 @@ var placeFeatures =
     "coordinates": [
      22.899979542199997,
      37.8980016198
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Arion? (river)",
+    "description": "An ancient place, cited: BAtlas 87 G3 Arion? fl.",
+    "count": 8,
+    "featureTypes": "river",
+    "timePeriodsKeys": "classical",
+    "timePeriodsRange": "-550.0,-330.0",
+    "minDate": -550.0,
+    "maxDate": -330.0
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     41.5,
+     41.5
     ]
    }
   },
@@ -585,6 +885,26 @@ var placeFeatures =
   {
    "type": "Feature",
    "properties": {
+    "title": "Eleusis",
+    "description": "Eleusis, located some 22 km west of Athens, was the site of the cult of Demeter and the sanctuary in which the Eleusinian Mysteries were celebrated from the Bronze Age to the Roman Imperial period.",
+    "count": 6,
+    "featureTypes": "settlement",
+    "timePeriodsKeys": "archaic,classical,hellenistic-republican,roman,late-antique,modern",
+    "timePeriodsRange": "-750.0,2100.0",
+    "minDate": -750.0,
+    "maxDate": 2100.0
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     23.537401000000003,
+     38.041101
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
     "title": "Chauon/Kaputa/Gobdi",
     "description": "An ancient place, cited: BAtlas 89 G2 Chauon/Kaputa/Gobdi",
     "count": 3,
@@ -599,6 +919,26 @@ var placeFeatures =
     "coordinates": [
      44.947777,
      38.5525
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Olympos (mountain in Greece)",
+    "description": "Olympus is the highest mountain in Greece, located in the Olympus Range. In Greek mythology, it is the home of the Olympian gods.",
+    "count": 4,
+    "featureTypes": "mountain",
+    "timePeriodsKeys": "archaic,classical,hellenistic-republican,roman,late-antique,modern",
+    "timePeriodsRange": "-750.0,2100.0",
+    "minDate": -750.0,
+    "maxDate": 2100.0
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     22.358611,
+     40.085556
     ]
    }
   },
@@ -639,6 +979,26 @@ var placeFeatures =
     "coordinates": [
      22.25,
      38.25
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Dodona",
+    "description": "An ancient site of northwestern Epirus, Dodona was home to one of the most ancient oracular traditions of the Hellenic world.",
+    "count": 7,
+    "featureTypes": "settlement, theatre",
+    "timePeriodsKeys": "archaic,classical,hellenistic-republican,roman,late-antique",
+    "timePeriodsRange": "-750.0,640.0",
+    "minDate": -750.0,
+    "maxDate": 640.0
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     20.789367966700002,
+     39.5463850667
     ]
    }
   },
@@ -785,6 +1145,26 @@ var placeFeatures =
   {
    "type": "Feature",
    "properties": {
+    "title": "Ossa (mountain range)",
+    "description": "A mountain range in central Greece (between Olympus and Pelion), important in Greek mythology. Several ancient cities and a shrine to the Muses were located on its western slopes. ",
+    "count": 1,
+    "featureTypes": "mountain",
+    "timePeriodsKeys": "classical,hellenistic-republican,roman,modern",
+    "timePeriodsRange": "-550.0,2100.0",
+    "minDate": -550.0,
+    "maxDate": 2100.0
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     22.685195800000002,
+     39.7957751
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
     "title": "Dryopis",
     "description": "An ancient place, cited: BAtlas 54 C3 Dryopis",
     "count": 2,
@@ -865,6 +1245,46 @@ var placeFeatures =
   {
    "type": "Feature",
    "properties": {
+    "title": "Attica",
+    "description": "Historical region of Greece, centered on the Attic peninsula.",
+    "count": 28,
+    "featureTypes": "region",
+    "timePeriodsKeys": "archaic,classical,hellenistic-republican,roman,late-antique",
+    "timePeriodsRange": "-750.0,640.0",
+    "minDate": -750.0,
+    "maxDate": 640.0
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     23.8189911,
+     38.0519988333
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Eretria",
+    "description": "Eretria was an ancient polis located in Euboea. ",
+    "count": 17,
+    "featureTypes": "settlement",
+    "timePeriodsKeys": "archaic,classical,hellenistic-republican,roman,late-antique",
+    "timePeriodsRange": "-750.0,640.0",
+    "minDate": -750.0,
+    "maxDate": 640.0
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     23.7918065,
+     38.399266
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
     "title": "Marathon",
     "description": "An ancient place, cited: BAtlas 59 C2 Marathon",
     "count": 18,
@@ -899,6 +1319,66 @@ var placeFeatures =
     "coordinates": [
      23.848889,
      40.785833000000004
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Naxos",
+    "description": "Naxos was the earliest Greek settlement in Sicily, according to Thucydides who places its foundation in 734 BC.",
+    "count": 14,
+    "featureTypes": "settlement",
+    "timePeriodsKeys": "archaic,classical,hellenistic-roman-early-empire,modern",
+    "timePeriodsRange": "-750.0,2100.0",
+    "minDate": -750.0,
+    "maxDate": 2100.0
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.267794699999998,
+     37.82248715
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Delos (island)",
+    "description": "The Aegean island of Delos, part of the Cyclades island group.",
+    "count": 17,
+    "featureTypes": "island",
+    "timePeriodsKeys": "archaic,classical,hellenistic-republican,hellenistic-roman-early-empire,roman,late-antique,modern",
+    "timePeriodsRange": "-750.0,2100.0",
+    "minDate": -750.0,
+    "maxDate": 2100.0
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     25.271110999999998,
+     37.393333
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Tegea",
+    "description": "Tegea was an ancient city of Arcadia. It is especially noted for its sanctuary dedicated to Athena Alea.",
+    "count": 9,
+    "featureTypes": "settlement, church",
+    "timePeriodsKeys": "archaic,classical,hellenistic-republican,roman,late-antique",
+    "timePeriodsRange": "-750.0,640.0",
+    "minDate": -750.0,
+    "maxDate": 640.0
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     22.4225816667,
+     37.4581353333
     ]
    }
   },
@@ -965,6 +1445,26 @@ var placeFeatures =
   {
    "type": "Feature",
    "properties": {
+    "title": "Alea",
+    "description": "An ancient place, cited: BAtlas 58 C2 Alea",
+    "count": 1,
+    "featureTypes": "settlement",
+    "timePeriodsKeys": "classical,hellenistic-republican,roman",
+    "timePeriodsRange": "-550.0,300.0",
+    "minDate": -550.0,
+    "maxDate": 300.0
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     22.450785,
+     37.794666
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
     "title": "Thornax",
     "description": "An ancient place, cited: BAtlas 58 unlocated Thornax",
     "count": 1,
@@ -999,6 +1499,166 @@ var placeFeatures =
     "coordinates": [
      22.4608264518,
      37.0762404208
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Samos (island)",
+    "description": "The island of Samos.",
+    "count": 57,
+    "featureTypes": "island",
+    "timePeriodsKeys": "classical,roman,modern",
+    "timePeriodsRange": "-550.0,2100.0",
+    "minDate": -550.0,
+    "maxDate": 2100.0
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     26.84,
+     37.73
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Cappadocia",
+    "description": "An ancient place, cited: BAtlas 64 B2 Cappadocia",
+    "count": 4,
+    "featureTypes": "labeled feature",
+    "timePeriodsKeys": "classical,hellenistic-republican,roman,late-antique",
+    "timePeriodsRange": "-550.0,640.0",
+    "minDate": -550.0,
+    "maxDate": 640.0
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     35.75,
+     39.25
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Armenia II",
+    "description": "An ancient place, cited: BAtlas 102 G4 no. 41 (Armenia II)",
+    "count": 9,
+    "featureTypes": "province",
+    "timePeriodsKeys": NaN,
+    "timePeriodsRange": NaN,
+    "minDate": NaN,
+    "maxDate": NaN
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.5,
+     37.5
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Cilicia",
+    "description": "An ancient region, stretching along the southern coast of Asia Minor as far north as the Taurus mountains and westward from the Amanus mountains to the river Melas or, according to some ancient commentators, all the way to the coastal city of Korakesion (modern Alanya in Turkey)",
+    "count": 11,
+    "featureTypes": "region",
+    "timePeriodsKeys": "classical,hellenistic-republican,roman,late-antique",
+    "timePeriodsRange": "-550.0,640.0",
+    "minDate": -550.0,
+    "maxDate": 640.0
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     33.25,
+     36.25
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Cyprus (island)",
+    "description": "Third largest island in the Mediterranean Sea.",
+    "count": 19,
+    "featureTypes": "island",
+    "timePeriodsKeys": "roman-early-empire-late-antique,modern",
+    "timePeriodsRange": "-30.0,2100.0",
+    "minDate": -30.0,
+    "maxDate": 2100.0
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     33.2753371642,
+     35.0408835298
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Babylon",
+    "description": "The ancient city of Babylon began as an Akkadian city-state founded by Amorites in 1894 B.C. The city was also the seat of the Neo-Babylonian Empire from 608 to 539 B.C.",
+    "count": 33,
+    "featureTypes": "urban, settlement",
+    "timePeriodsKeys": "old-babylonian-assyrian-mesopotamia,later-2nd-millennium-bc-mesopotamia,archaic,neo-assyrian-babylonian-middle-east,classical,achaemenid-middle-east,hellenistic-republican,hellenistic-central-asia,roman,late-antique",
+    "timePeriodsRange": "-2000.0,640.0",
+    "minDate": -2000.0,
+    "maxDate": 640.0
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     44.4236176449,
+     32.5387834636
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Pteria",
+    "description": "An ancient place, cited: BAtlas 87 A3 Pteria",
+    "count": 3,
+    "featureTypes": "settlement",
+    "timePeriodsKeys": "classical,late-antique",
+    "timePeriodsRange": "-550.0,640.0",
+    "minDate": -550.0,
+    "maxDate": 640.0
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     35.108768,
+     41.321531
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Sinope",
+    "description": "Sinope (modern Sinop, Turkey) on the Black Sea has been a major port since the time of the Hittites. ",
+    "count": 4,
+    "featureTypes": "settlement, port",
+    "timePeriodsKeys": "middle-bronze-age-anatolia,1200-bc-middle-east,archaic,middle-late-iron-age-anatolia,classical,achaemenid-middle-east,hellenistic-republican,hellenistic-middle-east,roman-middle-east,roman,roman-early-empire-parthian-middle-east,transition-roman-early-empire-late-antique,late-antique,late-antique-sasanian-middle-east,late-antique-late-byzantine,abassid-middle-east,rum-crusader-anatolia,crusader-byzantine-seljuq-middle-east,ottoman-rise,early-ottoman-empire,1500-ad-middle-east,late-ottoman-empire,ottoman-decline-mandate-middle-east,modern-middle-east",
+    "timePeriodsRange": "-1750.0,2000.0",
+    "minDate": -1750.0,
+    "maxDate": 2000.0
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     35.143037,
+     42.025776
     ]
    }
   },
@@ -1045,6 +1705,26 @@ var placeFeatures =
   {
    "type": "Feature",
    "properties": {
+    "title": "Thyrea(tis)",
+    "description": "An ancient district on the eastern shoreline of the Peloponnese, between the Argeia and Laconia.",
+    "count": 5,
+    "featureTypes": "region",
+    "timePeriodsKeys": "archaic,classical,hellenistic-republican,roman",
+    "timePeriodsRange": "-750.0,300.0",
+    "minDate": -750.0,
+    "maxDate": 300.0
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     22.75,
+     37.25
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
     "title": "Argolis",
     "description": "Argolis (also known as 'the Argolid') occupied the eastern part of the Peloponnese; comprising primarily the Argolid peninsula and the coastal region lying to the east of Arcadia, and north of Laconia.",
     "count": 2,
@@ -1059,6 +1739,26 @@ var placeFeatures =
     "coordinates": [
      22.9620797704,
      37.621451801199996
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Malea Pr.",
+    "description": "Cape Maleas is a cape located in the southeast of the Peloponnese.",
+    "count": 2,
+    "featureTypes": "cape",
+    "timePeriodsKeys": "archaic,modern",
+    "timePeriodsRange": "-750.0,2100.0",
+    "minDate": -750.0,
+    "maxDate": 2100.0
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     23.25,
+     36.25
     ]
    }
   },
@@ -1285,6 +1985,106 @@ var placeFeatures =
   {
    "type": "Feature",
    "properties": {
+    "title": "Caria",
+    "description": "An ancient place, cited: BAtlas 61 F2 Caria",
+    "count": 7,
+    "featureTypes": "labeled feature",
+    "timePeriodsKeys": "archaic,classical,hellenistic-republican,roman,late-antique",
+    "timePeriodsRange": "-750.0,640.0",
+    "minDate": -750.0,
+    "maxDate": 640.0
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     27.423639,
+     37.038339
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Teos",
+    "description": "An ancient Ionian settlement of Asia Minor, located at modern Si\u011facik in Turkey.",
+    "count": 4,
+    "featureTypes": "settlement",
+    "timePeriodsKeys": "archaic,classical,hellenistic-republican,roman,late-antique,modern",
+    "timePeriodsRange": "-750.0,2100.0",
+    "minDate": -750.0,
+    "maxDate": 2100.0
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     26.785396999999996,
+     38.185491
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Pentapolis",
+    "description": "An ancient place, cited: BAtlas 62 C5 Pentapolis",
+    "count": 1,
+    "featureTypes": "labeled feature",
+    "timePeriodsKeys": "late-antique",
+    "timePeriodsRange": "300.0,640.0",
+    "minDate": 300.0,
+    "maxDate": 640.0
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     29.75,
+     38.25
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Kos/Cos (island)",
+    "description": "A large island in the Aegean Sea, lying off the modern Turkish coast near Bodrum (ancient Halicarnassus).",
+    "count": 1,
+    "featureTypes": "island",
+    "timePeriodsKeys": "modern",
+    "timePeriodsRange": "1700.0,2100.0",
+    "minDate": 1700.0,
+    "maxDate": 2100.0
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     27.17,
+     36.844
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Cnidus",
+    "description": "An ancient settlement located at the western tip of what is now called the Dat\u00e7a peninsula in modern Turkey, which extends from the southwest corner of Asia Minor.",
+    "count": 4,
+    "featureTypes": "settlement",
+    "timePeriodsKeys": "hellenistic-republican,roman,late-antique",
+    "timePeriodsRange": "-330.0,640.0",
+    "minDate": -330.0,
+    "maxDate": 640.0
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     27.3728385,
+     36.6881795
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
     "title": "Sicyon/Demetrias",
     "description": "An ancient place, cited: BAtlas 58 D2 Sicyon/Demetrias",
     "count": 11,
@@ -1299,6 +2099,26 @@ var placeFeatures =
     "coordinates": [
      22.7121933108,
      37.9838192179
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Pellene",
+    "description": "Pellene was an ancient settlement in Achaea allied with Sparta during the Peloponnesian War.",
+    "count": 1,
+    "featureTypes": "settlement",
+    "timePeriodsKeys": "archaic,classical,hellenistic-republican,roman",
+    "timePeriodsRange": "-750.0,300.0",
+    "minDate": -750.0,
+    "maxDate": 300.0
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     22.548344,
+     38.043207
     ]
    }
   },
@@ -1405,6 +2225,26 @@ var placeFeatures =
   {
    "type": "Feature",
    "properties": {
+    "title": "Dyme",
+    "description": "An ancient place, cited: BAtlas 58 B1 Dyme",
+    "count": 1,
+    "featureTypes": "settlement",
+    "timePeriodsKeys": "archaic,classical,hellenistic-republican,roman",
+    "timePeriodsRange": "-750.0,300.0",
+    "minDate": -750.0,
+    "maxDate": 300.0
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     21.551425,
+     38.144625
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
     "title": "Achaea/Achaia (region)",
     "description": "An ancient Greek region on the northern coast of the Peloponnese. ",
     "count": 1,
@@ -1485,6 +2325,26 @@ var placeFeatures =
   {
    "type": "Feature",
    "properties": {
+    "title": "Larissa",
+    "description": "An ancient place, cited: BAtlas 55 C1 Larissa",
+    "count": 1,
+    "featureTypes": "settlement",
+    "timePeriodsKeys": "archaic,classical,hellenistic-republican,roman,late-antique",
+    "timePeriodsRange": "-750.0,640.0",
+    "minDate": -750.0,
+    "maxDate": 640.0
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     22.42097025,
+     39.634851
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
     "title": "Pitane",
     "description": "An ancient place, cited: BAtlas 56 D4 Pitane",
     "count": 1,
@@ -1499,6 +2359,26 @@ var placeFeatures =
     "coordinates": [
      26.937453,
      38.928297
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Myrina",
+    "description": "An ancient place, cited: BAtlas 56 A2 Myrina",
+    "count": 2,
+    "featureTypes": "settlement",
+    "timePeriodsKeys": "archaic,classical,hellenistic-republican,roman,late-antique",
+    "timePeriodsRange": "-750.0,640.0",
+    "minDate": -750.0,
+    "maxDate": 640.0
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     25.06186,
+     39.878652
     ]
    }
   },
@@ -1565,6 +2445,26 @@ var placeFeatures =
   {
    "type": "Feature",
    "properties": {
+    "title": "Tenedos (island)",
+    "description": "An island located in the Aegean Sea 5 km off the coast of Troas.",
+    "count": 4,
+    "featureTypes": "island",
+    "timePeriodsKeys": "archaic,classical,hellenistic-republican,roman,late-antique,modern",
+    "timePeriodsRange": "-750.0,2100.0",
+    "minDate": -750.0,
+    "maxDate": 2100.0
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     26.05,
+     39.816666999999995
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
     "title": "Pan(h)ormus",
     "description": "First founded in 734 BC by the Phoenicians as Ziz, Pan(h)ormus (modern Palermo) was an important ancient city of the Greek, Roman, and Arabic civilizations.",
     "count": 1,
@@ -1625,6 +2525,26 @@ var placeFeatures =
   {
    "type": "Feature",
    "properties": {
+    "title": "Mysia",
+    "description": "An ancient place, cited: BAtlas 52 B4 Mysia",
+    "count": 3,
+    "featureTypes": "unknown",
+    "timePeriodsKeys": "archaic,classical",
+    "timePeriodsRange": "-750.0,-330.0",
+    "minDate": -750.0,
+    "maxDate": -330.0
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     27.75,
+     40.25
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
     "title": "Magnesia",
     "description": "An ancient place, cited: BAtlas 55 D1 Magnesia",
     "count": 3,
@@ -1665,6 +2585,26 @@ var placeFeatures =
   {
    "type": "Feature",
    "properties": {
+    "title": "Corsica/Kyrnos (island)",
+    "description": "The island of Corsica, in the Mediterranean Sea.",
+    "count": 1,
+    "featureTypes": "island",
+    "timePeriodsKeys": "classical",
+    "timePeriodsRange": "-550.0,-330.0",
+    "minDate": -550.0,
+    "maxDate": -330.0
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     9.20007744,
+     42.1033316156
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
     "title": "Caere",
     "description": "Caere (also known as Cisra or Cerveteri) was a major Etruscan polis located ca. 50 km north-northwest of Rome in southern Etruria.",
     "count": 2,
@@ -1699,6 +2639,46 @@ var placeFeatures =
     "coordinates": [
      15.00532475,
      40.42064875
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Abdera",
+    "description": "Abdera was a coastal city located on Cape Bulustra, near the estuary of the river Nestos.",
+    "count": 4,
+    "featureTypes": "settlement",
+    "timePeriodsKeys": "archaic,classical,hellenistic-republican,hellenistic-roman-early-empire,roman",
+    "timePeriodsRange": "-750.0,300.0",
+    "minDate": -750.0,
+    "maxDate": 300.0
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     24.9795992,
+     40.93950935
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Sardinia (island)",
+    "description": "The second largest island in the Mediterranean Sea",
+    "count": 4,
+    "featureTypes": "island",
+    "timePeriodsKeys": "archaic,classical,hellenistic-republican,roman,late-antique,modern",
+    "timePeriodsRange": "-750.0,2100.0",
+    "minDate": -750.0,
+    "maxDate": 2100.0
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     8.895951166869999,
+     40.0680246226
     ]
    }
   },
@@ -1765,6 +2745,26 @@ var placeFeatures =
   {
    "type": "Feature",
    "properties": {
+    "title": "Lycus (river)",
+    "description": "An ancient place, cited: BAtlas 65 B2 Lycus fl.",
+    "count": 3,
+    "featureTypes": "river",
+    "timePeriodsKeys": "classical,roman,modern",
+    "timePeriodsRange": "-550.0,2100.0",
+    "minDate": -550.0,
+    "maxDate": 2100.0
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     29.1001262,
+     37.8809338
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
     "title": "Pandion",
     "description": "An ancient place, cited: BAtlas 5 D5 Pandion",
     "count": 1,
@@ -1779,6 +2779,26 @@ var placeFeatures =
     "coordinates": [
      77.5,
      7.5
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Syme",
+    "description": "An ancient place, cited: BAtlas 61 F4 Syme",
+    "count": 1,
+    "featureTypes": "settlement",
+    "timePeriodsKeys": "archaic,classical,hellenistic-republican,roman",
+    "timePeriodsRange": "-750.0,300.0",
+    "minDate": -750.0,
+    "maxDate": 300.0
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     27.843425,
+     36.618390000000005
     ]
    }
   },
@@ -1865,6 +2885,26 @@ var placeFeatures =
   {
    "type": "Feature",
    "properties": {
+    "title": "Patara M.",
+    "description": "An ancient place, cited: BAtlas 65 B5 Patara M.",
+    "count": 2,
+    "featureTypes": "mountain",
+    "timePeriodsKeys": "roman,late-antique,modern",
+    "timePeriodsRange": "-30.0,2100.0",
+    "minDate": -30.0,
+    "maxDate": 2100.0
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     29.3593733,
+     36.246651799999995
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
     "title": "Lycia",
     "description": "Lycia was a region of southwestern Asia Minor.",
     "count": 4,
@@ -1879,6 +2919,46 @@ var placeFeatures =
     "coordinates": [
      29.1296185,
      36.513688333299996
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Shaur/Choaspes?/Eulaeus?/Uknu? (river)",
+    "description": "An ancient place, cited: BAtlas 93 E2 Shaur/Choaspes?/Eulaeus?/Uknu? fl.",
+    "count": 4,
+    "featureTypes": "river",
+    "timePeriodsKeys": "modern",
+    "timePeriodsRange": "1700.0,2100.0",
+    "minDate": 1700.0,
+    "maxDate": 2100.0
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     47.525988399999996,
+     33.0958458
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Susa/Seleucia ad Eulaeum",
+    "description": "An ancient city of the Elamite, Persian, and Parthian empires of Iran. Located at modern Shush, Susa was inscribed on the UNESCO World Heritage List in 2015.",
+    "count": 32,
+    "featureTypes": "settlement",
+    "timePeriodsKeys": "chalcolithic-mesopotamia,ubaid-early-dynastic-ii-mesopotamia,chalcolithic-iran,early-dynastic-mesopotamia,old-babylonian-assyrian-mesopotamia,middle-bronze-early-iron-age-iran,later-2nd-millennium-bc-mesopotamia,1200-bc-middle-east,archaic,neo-assyrian-babylonian-middle-east,classical,achaemenid-middle-east,achaemenid-roman-republic-middle-east,hellenistic-republican,hellenistic-middle-east,roman-middle-east,roman,roman-early-empire-parthian-middle-east,transition-roman-early-empire-late-antique,late-antique,late-antique-sasanian-middle-east,caliphate-umayyad-middle-east,abassid-middle-east,samanid-ghaznavid-iran,khwarezmian-middle-east,ilkhanate-middle-east,safavid-middle-east,modern-middle-east",
+    "timePeriodsRange": "-6200.0,2000.0",
+    "minDate": -6200.0,
+    "maxDate": 2000.0
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     48.253728499999994,
+     32.1887935
     ]
    }
   },
@@ -1905,6 +2985,26 @@ var placeFeatures =
   {
    "type": "Feature",
    "properties": {
+    "title": "Tigris/Diglitus (river)",
+    "description": "The Tigris river, one of the two great rivers that define Mesopotamia, flows 1,850 km from the Taurus Mountains to the Persian Gulf. ",
+    "count": 6,
+    "featureTypes": "river",
+    "timePeriodsKeys": "mesolithic-middle-east,neolithic-middle-east,chalcolithic-mesopotamia,pottery-neolithic-middle-east,ubaid-early-dynastic-ii-mesopotamia,chalcolithic-iran,early-dynastic-mesopotamia,akkadian-ur-iii-mesopotamia,old-babylonian-assyrian-mesopotamia,middle-bronze-early-iron-age-iran,later-2nd-millennium-bc-mesopotamia,archaic,neo-assyrian-babylonian-middle-east,classical,achaemenid-middle-east,hellenistic-republican,hellenistic-middle-east,roman-middle-east,roman,roman-early-empire-parthian-middle-east,transition-roman-early-empire-late-antique,late-antique,late-antique-sasanian-middle-east,late-antique-late-byzantine,persian-medieval-caucasus,caliphate-umayyad-middle-east,abassid-middle-east,samanid-ghaznavid-iran,middle-byzantine,early-medieval-caucasus,seljuq-khwarezmian-middle-east,khwarezmian-middle-east,crusader-byzantine-seljuq-middle-east,crusader-seljuq-ayyubid-levant,mongol-middle-east,ottoman-rise,timurid-middle-east,early-ottoman-empire,1500-ad-middle-east,perso-ottoman-russian-caucasus,safavid-middle-east,late-ottoman-empire,modern-middle-east",
+    "timePeriodsRange": "-18000.0,2000.0",
+    "minDate": -18000.0,
+    "maxDate": 2000.0
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     43.7636685317,
+     34.9663286685
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
     "title": "Opis",
     "description": "Opis was an ancient city of Babylonia located on the Tigris river close to the site of modern Baghdad.",
     "count": 4,
@@ -1919,6 +3019,26 @@ var placeFeatures =
     "coordinates": [
      44.702767,
      33.185613000000004
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Araxes (river)",
+    "description": "Araxes fl. is one of the largest rivers of the Caucasus.",
+    "count": 9,
+    "featureTypes": "river",
+    "timePeriodsKeys": "classical,hellenistic-republican,roman,late-antique,modern",
+    "timePeriodsRange": "-550.0,2100.0",
+    "minDate": -550.0,
+    "maxDate": 2100.0
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     46.5,
+     38.5
     ]
    }
   },
@@ -1945,6 +3065,46 @@ var placeFeatures =
   {
    "type": "Feature",
    "properties": {
+    "title": "Memphis",
+    "description": "A city and capital of Ancient Egypt that remained an important center for most of Egyptian history (BAtlas 75 E1 Memphis).",
+    "count": 40,
+    "featureTypes": "urban, settlement",
+    "timePeriodsKeys": "neolithic-egypt,early-dynastic-egypt,old-kingdom-egypt,first-intermediate-period-egypt,middle-kingdom-egypt,2nd-millennium-bc-egypt,second-intermediate-period-egypt,new-kingdom-egypt,third-intermediate-period-egypt,archaic,neo-assyrian-babylonian-middle-east,late-period-egypt,classical,achaemenid-middle-east,achaemenid-roman-republic-middle-east,hellenistic-republican,hellenistic-middle-east,ptolemaic-roman-egypt,roman-middle-east,roman,roman-early-empire-parthian-middle-east,transition-roman-early-empire-late-antique,late-antique,late-antique-sasanian-middle-east,modern-middle-east",
+    "timePeriodsRange": "-6000.0,2000.0",
+    "minDate": -6000.0,
+    "maxDate": 2000.0
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     31.255060999999998,
+     29.849490999999997
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Heliopolis",
+    "description": "An ancient place, cited: BAtlas 74 E4 Heliopolis",
+    "count": 10,
+    "featureTypes": "settlement",
+    "timePeriodsKeys": "paleolithic-middle-east,neolithic-egypt,old-kingdom-egypt,middle-kingdom-egypt,second-intermediate-period-egypt,new-kingdom-egypt,archaic,neo-assyrian-babylonian-middle-east,classical,achaemenid-middle-east,hellenistic-republican,hellenistic-middle-east,ptolemaic-roman-egypt,roman,roman-early-empire-parthian-middle-east,late-antique,caliphate-umayyad-middle-east,abassid-middle-east,fatimid-middle-east,mamluk-middle-east,modern-middle-east",
+    "timePeriodsRange": "-2600000.0,2000.0",
+    "minDate": -2600000.0,
+    "maxDate": 2000.0
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     31.284785999999997,
+     30.131757
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
     "title": "Min",
     "description": "An ancient place, cited: BAtlas 6 unlocated Min",
     "count": 3,
@@ -1959,6 +3119,26 @@ var placeFeatures =
     "coordinates": [
      NaN,
      NaN
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Pisa",
+    "description": "An ancient place, cited: BAtlas 58 B2 Pisa",
+    "count": 2,
+    "featureTypes": "settlement",
+    "timePeriodsKeys": "archaic,classical",
+    "timePeriodsRange": "-750.0,-330.0",
+    "minDate": -750.0,
+    "maxDate": -330.0
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     21.653041,
+     37.639534999999995
     ]
    }
   },
@@ -2005,6 +3185,26 @@ var placeFeatures =
   {
    "type": "Feature",
    "properties": {
+    "title": "Teuthrania",
+    "description": "An ancient place, cited: BAtlas 56 E3 Teuthrania",
+    "count": 1,
+    "featureTypes": "settlement",
+    "timePeriodsKeys": "archaic,classical,hellenistic-republican,roman,late-antique",
+    "timePeriodsRange": "-750.0,640.0",
+    "minDate": -750.0,
+    "maxDate": 640.0
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     27.054771000000002,
+     39.035222999999995
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
     "title": "Nilus (river)",
     "description": "The Nile is a major river of northeastern Africa and is generally acknowledged as the longest river in the world, measuring some 6,650 km (4,130 miles) from source to mouth.",
     "count": 69,
@@ -2019,6 +3219,26 @@ var placeFeatures =
     "coordinates": [
      30.567329633299998,
      19.2114087667
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Achelous (river)",
+    "description": "A river of Western Greece. Its floods were noted by Herodotus.",
+    "count": 1,
+    "featureTypes": "river",
+    "timePeriodsKeys": "archaic,classical,hellenistic-republican,roman,late-antique,modern",
+    "timePeriodsRange": "-750.0,2100.0",
+    "minDate": -750.0,
+    "maxDate": 2100.0
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     21.106711100000002,
+     38.3388321
     ]
    }
   },
@@ -2065,6 +3285,26 @@ var placeFeatures =
   {
    "type": "Feature",
    "properties": {
+    "title": "Arabia",
+    "description": "An ancient place, cited: BAtlas 3 D4 Arabia",
+    "count": 19,
+    "featureTypes": "region",
+    "timePeriodsKeys": "neo-assyrian-babylonian-middle-east,classical,hellenistic-republican,roman,late-antique",
+    "timePeriodsRange": "-720.0,640.0",
+    "minDate": -720.0,
+    "maxDate": 640.0
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     42.5,
+     27.5
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
     "title": "Delta",
     "description": "An ancient place, cited: BAtlas 74 unlocated Delta",
     "count": 15,
@@ -2105,6 +3345,26 @@ var placeFeatures =
   {
    "type": "Feature",
    "properties": {
+    "title": "Thebais",
+    "description": "An ancient place, cited: BAtlas 101 N6 Thebais",
+    "count": 2,
+    "featureTypes": "province",
+    "timePeriodsKeys": NaN,
+    "timePeriodsRange": NaN,
+    "minDate": NaN,
+    "maxDate": NaN
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     32.5,
+     27.5
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
     "title": "Bolbitine",
     "description": "An ancient place, cited: BAtlas 74 C2 Bolbitine",
     "count": 1,
@@ -2119,6 +3379,26 @@ var placeFeatures =
     "coordinates": [
      30.414682,
      31.400949
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Apis",
+    "description": "An ancient place, cited: None",
+    "count": 13,
+    "featureTypes": "settlement",
+    "timePeriodsKeys": "archaic,classical,hellenistic-republican,roman,late-antique",
+    "timePeriodsRange": "-750.0,640.0",
+    "minDate": -750.0,
+    "maxDate": 640.0
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     27.042137,
+     31.398215999999998
     ]
    }
   },
@@ -2185,6 +3465,66 @@ var placeFeatures =
   {
    "type": "Feature",
    "properties": {
+    "title": "Meroe",
+    "description": "Mero\u00eb is an ancient city located on the east bank of the Nile river near Shendi, Sudan. The city was a center of the kingdom of Kush.",
+    "count": 1,
+    "featureTypes": "settlement",
+    "timePeriodsKeys": "classical,hellenistic-republican,roman,modern",
+    "timePeriodsRange": "-550.0,2100.0",
+    "minDate": -550.0,
+    "maxDate": 2100.0
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     33.7119202261,
+     16.9368579733
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Creta et Cyrene (Roman province)",
+    "description": "A province of the Roman Empire at the death of Trajan (117 CE).",
+    "count": 30,
+    "featureTypes": "province",
+    "timePeriodsKeys": NaN,
+    "timePeriodsRange": NaN,
+    "minDate": NaN,
+    "maxDate": NaN
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     22.5,
+     32.5
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Solous",
+    "description": "An ancient place, cited: BAtlas 47 D2 Solous",
+    "count": 2,
+    "featureTypes": "settlement",
+    "timePeriodsKeys": "archaic,classical",
+    "timePeriodsRange": "-750.0,-330.0",
+    "minDate": -750.0,
+    "maxDate": -330.0
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     13.527451999999998,
+     38.082498
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
     "title": "Isis (river)",
     "description": "An ancient place, cited: BAtlas 87 G3 Isis fl.",
     "count": 9,
@@ -2219,6 +3559,106 @@ var placeFeatures =
     "coordinates": [
      30.828784000000002,
      30.713606
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Mendes",
+    "description": "An ancient place, cited: BAtlas 74 F3 Mendes",
+    "count": 3,
+    "featureTypes": "settlement",
+    "timePeriodsKeys": "predynastic-egypt,early-dynastic-egypt,old-kingdom-egypt,first-intermediate-period-egypt,middle-kingdom-egypt,second-intermediate-period-egypt,new-kingdom-egypt,third-intermediate-period-egypt,archaic,late-period-egypt,classical,macedonian-egypt,hellenistic-republican,ptolemaic-egypt,roman,late-antique",
+    "timePeriodsRange": "-4500.0,640.0",
+    "minDate": -4500.0,
+    "maxDate": 640.0
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     31.517409999999998,
+     30.956115000000004
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Thasos (island)",
+    "description": "An ancient place, cited: BAtlas 51 D3 Thasos Ins.",
+    "count": 6,
+    "featureTypes": "island",
+    "timePeriodsKeys": "archaic,classical,hellenistic-republican,roman,late-antique,modern",
+    "timePeriodsRange": "-750.0,2100.0",
+    "minDate": -750.0,
+    "maxDate": 2100.0
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     24.65,
+     40.683333000000005
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Samothrace (island)",
+    "description": "Samothrace is an island of the northern Aegean Sea.",
+    "count": 2,
+    "featureTypes": "island",
+    "timePeriodsKeys": "roman,modern",
+    "timePeriodsRange": "-30.0,2100.0",
+    "minDate": -30.0,
+    "maxDate": 2100.0
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     25.581999999999997,
+     40.453
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Larisa Kremaste/Pelasgia",
+    "description": "An ancient settlement of Achaea Phthiotis, located in the area of the modern town of Pelasgia in Greece.",
+    "count": 1,
+    "featureTypes": "settlement, fort",
+    "timePeriodsKeys": "classical,hellenistic-republican,roman,late-antique",
+    "timePeriodsRange": "-550.0,640.0",
+    "minDate": -550.0,
+    "maxDate": 640.0
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     22.844823499999997,
+     38.955227
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Papremis",
+    "description": "An ancient place, cited: BAtlas 74 D3 Papremis",
+    "count": 5,
+    "featureTypes": "labeled feature",
+    "timePeriodsKeys": "classical,hellenistic-republican,roman",
+    "timePeriodsRange": "-550.0,300.0",
+    "minDate": -550.0,
+    "maxDate": 300.0
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     30.75,
+     30.75
     ]
    }
   },
@@ -2545,6 +3985,46 @@ var placeFeatures =
   {
    "type": "Feature",
    "properties": {
+    "title": "Nysa/Athymbra",
+    "description": "An ancient place, cited: BAtlas 61 G2 Nysa/Athymbra",
+    "count": 2,
+    "featureTypes": "settlement",
+    "timePeriodsKeys": "classical,hellenistic-republican,roman,late-antique",
+    "timePeriodsRange": "-550.0,640.0",
+    "minDate": -550.0,
+    "maxDate": 640.0
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.1480965,
+     37.895594
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Elis",
+    "description": "An ancient place, cited: BAtlas 58 A2 Elis",
+    "count": 8,
+    "featureTypes": "settlement, theatre",
+    "timePeriodsKeys": "archaic,classical,hellenistic-republican,roman",
+    "timePeriodsRange": "-750.0,300.0",
+    "minDate": -750.0,
+    "maxDate": 300.0
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     21.375091,
+     37.891781
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
     "title": "Momemphis",
     "description": "An ancient place, cited: BAtlas 74 D3 Momemphis",
     "count": 2,
@@ -2679,6 +4159,26 @@ var placeFeatures =
     "coordinates": [
      10.318,
      36.850032500000005
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Corcyra (island)",
+    "description": "Corcyra Ins. (Kerkyra/Corfu) is an island in the Ionian Sea.",
+    "count": 7,
+    "featureTypes": "island",
+    "timePeriodsKeys": "archaic,classical,hellenistic-republican,roman,late-antique,modern",
+    "timePeriodsRange": "-750.0,2100.0",
+    "minDate": -750.0,
+    "maxDate": 2100.0
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     19.75,
+     39.666667
     ]
    }
   },
@@ -2845,6 +4345,26 @@ var placeFeatures =
   {
    "type": "Feature",
    "properties": {
+    "title": "Borysthenes (island)",
+    "description": "An ancient place, cited: BAtlas 23 E2 Borysthenes Ins.",
+    "count": 18,
+    "featureTypes": "island",
+    "timePeriodsKeys": "archaic,classical,hellenistic-republican,roman,late-antique,modern",
+    "timePeriodsRange": "-750.0,2100.0",
+    "minDate": -750.0,
+    "maxDate": 2100.0
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     31.412539399999996,
+     46.5941693
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
     "title": "Pontus",
     "description": "A region of northeastern Anatolia consisting of the southeastern coast of the Black Sea and the surrounding inland region. ",
     "count": 13,
@@ -2905,6 +4425,86 @@ var placeFeatures =
   {
    "type": "Feature",
    "properties": {
+    "title": "Tyras/Ophioussa",
+    "description": "A Black Sea colony founded by Miletus.",
+    "count": 5,
+    "featureTypes": "settlement",
+    "timePeriodsKeys": "classical,hellenistic-republican,roman,late-antique",
+    "timePeriodsRange": "-550.0,640.0",
+    "minDate": -550.0,
+    "maxDate": 640.0
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     30.350134000000004,
+     46.2007555
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Pantikapaion/Bosp(h)orus",
+    "description": "The main city and port of the Kimmerian Bosporus, founded by Miletus in the late seventh or early sixth centuries B.C.",
+    "count": 13,
+    "featureTypes": "settlement, port",
+    "timePeriodsKeys": "classical,hellenistic-republican,roman,late-antique",
+    "timePeriodsRange": "-550.0,640.0",
+    "minDate": -550.0,
+    "maxDate": 640.0
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     36.470222,
+     45.3532623333
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Proconnesus",
+    "description": "An ancient place, cited: BAtlas 52 B3 Proconnesus",
+    "count": 5,
+    "featureTypes": "settlement",
+    "timePeriodsKeys": "archaic,classical,hellenistic-republican,roman,late-antique",
+    "timePeriodsRange": "-750.0,640.0",
+    "minDate": -750.0,
+    "maxDate": 640.0
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     27.55568,
+     40.591685999999996
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Issedones",
+    "description": "The Issedones were an ancient people of central Asia.",
+    "count": 1,
+    "featureTypes": "people",
+    "timePeriodsKeys": "roman,late-antique",
+    "timePeriodsRange": "-30.0,640.0",
+    "minDate": -30.0,
+    "maxDate": 640.0
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     92.5,
+     37.5
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
     "title": "Cyzicus",
     "description": "An ancient city of Mysia in Anatolia. ",
     "count": 6,
@@ -2945,6 +4545,26 @@ var placeFeatures =
   {
    "type": "Feature",
    "properties": {
+    "title": "Hypanis (river)",
+    "description": "An ancient place, cited: BAtlas 23 E1 Hypanis fl.",
+    "count": 12,
+    "featureTypes": "river",
+    "timePeriodsKeys": "classical,modern",
+    "timePeriodsRange": "-550.0,2100.0",
+    "minDate": -550.0,
+    "maxDate": 2100.0
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     31.334372700000003,
+     47.5349319
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
     "title": "Panticapes? (river)",
     "description": "An ancient place, cited: BAtlas 23 F2 Panticapes? fl.",
     "count": 5,
@@ -2959,6 +4579,26 @@ var placeFeatures =
     "coordinates": [
      32.5,
      46.5
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Tanais (river)",
+    "description": "The modern Don River.",
+    "count": 12,
+    "featureTypes": "river",
+    "timePeriodsKeys": "modern",
+    "timePeriodsRange": "1700.0,2100.0",
+    "minDate": 1700.0,
+    "maxDate": 2100.0
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     40.729175500000004,
+     47.5437096
     ]
    }
   },
@@ -2985,6 +4625,46 @@ var placeFeatures =
   {
    "type": "Feature",
    "properties": {
+    "title": "Tenos (island)",
+    "description": "Tenos Ins. (Tinos) is an island in the Aegean Sea and part of the Cyclades archipelago.",
+    "count": 2,
+    "featureTypes": "island",
+    "timePeriodsKeys": "modern",
+    "timePeriodsRange": "1700.0,2100.0",
+    "minDate": 1700.0,
+    "maxDate": 2100.0
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     25.114,
+     37.607
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Andros (island)",
+    "description": "The northernmost island of the Cyclades.",
+    "count": 2,
+    "featureTypes": "island",
+    "timePeriodsKeys": "hellenistic-republican,modern",
+    "timePeriodsRange": "-330.0,2100.0",
+    "minDate": -330.0,
+    "maxDate": 2100.0
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     24.86,
+     37.85
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
     "title": "Troas",
     "description": "Troas (or the Troad) is an historical region that occupies the Biga peninsula in northwestern Asia Minor.",
     "count": 2,
@@ -2999,6 +4679,26 @@ var placeFeatures =
     "coordinates": [
      26.337210872100002,
      39.837177197399996
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Indus/Sinthos/Phison (river)",
+    "description": "The Indus River flows 3,180 km (1,980 mi). from the Tibetan Plateau to the Arabian Sea.",
+    "count": 1,
+    "featureTypes": "river",
+    "timePeriodsKeys": "classical,hellenistic-republican,roman,late-antique,modern",
+    "timePeriodsRange": "-550.0,2100.0",
+    "minDate": -550.0,
+    "maxDate": 2100.0
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     70.12808435,
+     29.059230300000003
     ]
    }
   },
@@ -3079,6 +4779,46 @@ var placeFeatures =
     "coordinates": [
      NaN,
      NaN
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Artanes",
+    "description": "An ancient place, cited: BAtlas 52 F2 Artanes",
+    "count": 1,
+    "featureTypes": "settlement",
+    "timePeriodsKeys": "roman,late-antique",
+    "timePeriodsRange": "-30.0,640.0",
+    "minDate": -30.0,
+    "maxDate": 640.0
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     29.604165000000002,
+     41.17132
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Rhodope M.",
+    "description": "An ancient place, cited: BAtlas 51 C1 Rhodope M.",
+    "count": 1,
+    "featureTypes": "mountain",
+    "timePeriodsKeys": NaN,
+    "timePeriodsRange": NaN,
+    "minDate": NaN,
+    "maxDate": NaN
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     24.25,
+     41.75
     ]
    }
   },
@@ -3205,6 +4945,26 @@ var placeFeatures =
   {
    "type": "Feature",
    "properties": {
+    "title": "Apollonia",
+    "description": "An ancient place in Sicily, cited: BAtlas 47 F2 Apollonia",
+    "count": 2,
+    "featureTypes": "settlement, church",
+    "timePeriodsKeys": "hellenistic-republican,hellenistic-roman-early-empire,roman,late-byzantine,modern",
+    "timePeriodsRange": "-330.0,2100.0",
+    "minDate": -330.0,
+    "maxDate": 2100.0
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     14.5967106667,
+     38.026224766700004
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
     "title": "Aenus (river)",
     "description": "The Inn river is a right tributary of the Danube.",
     "count": 1,
@@ -3265,6 +5025,26 @@ var placeFeatures =
   {
    "type": "Feature",
    "properties": {
+    "title": "Abydos",
+    "description": "A city of Mysia located on the Hellespont.",
+    "count": 3,
+    "featureTypes": "settlement",
+    "timePeriodsKeys": "archaic,middle-late-iron-age-anatolia,classical,achaemenid-middle-east,hellenistic-republican,hellenistic-middle-east,roman-middle-east,roman,roman-early-empire-parthian-middle-east,late-antique,late-antique-sasanian-middle-east,late-antique-late-byzantine,early-byzantine,abassid-middle-east,middle-byzantine,rum-crusader-anatolia,crusader-byzantine-seljuq-middle-east,modern-middle-east",
+    "timePeriodsRange": "-750.0,2000.0",
+    "minDate": -750.0,
+    "maxDate": 2000.0
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     26.409131,
+     40.1951155
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
     "title": "Pityoussa/Lampsacus",
     "description": "A Greek city located on the eastern side of the Hellespont. ",
     "count": 4,
@@ -3305,6 +5085,26 @@ var placeFeatures =
   {
    "type": "Feature",
    "properties": {
+    "title": "Sestos",
+    "description": "An ancient place, cited: BAtlas 51 G4 Sestos",
+    "count": 1,
+    "featureTypes": "settlement",
+    "timePeriodsKeys": "archaic,classical,hellenistic-republican,hellenistic-roman-early-empire,roman",
+    "timePeriodsRange": "-750.0,300.0",
+    "minDate": -750.0,
+    "maxDate": 300.0
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     26.40291625,
+     40.2206527
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
     "title": "Lemnos (island)",
     "description": "An ancient place, cited: BAtlas 56 A2 Lemnos Ins.",
     "count": 13,
@@ -3319,6 +5119,26 @@ var placeFeatures =
     "coordinates": [
      25.25,
      39.916667
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Thera (island)",
+    "description": "An island of the southern Aegean Sea, Thera is the southernmost of the Cyclades. The island's present form is the result of a Middle Bronze Age volcanic eruption that destroyed a Minoan settlement on the island.",
+    "count": 15,
+    "featureTypes": "island",
+    "timePeriodsKeys": "modern",
+    "timePeriodsRange": "1700.0,2100.0",
+    "minDate": 1700.0,
+    "maxDate": 2100.0
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     25.433332999999998,
+     36.416667
     ]
    }
   },
@@ -3345,6 +5165,26 @@ var placeFeatures =
   {
    "type": "Feature",
    "properties": {
+    "title": "Platea? (island)",
+    "description": "An ancient place, cited: BAtlas 57 E6 Platea? Ins.",
+    "count": 10,
+    "featureTypes": "island",
+    "timePeriodsKeys": "modern",
+    "timePeriodsRange": "1700.0,2100.0",
+    "minDate": 1700.0,
+    "maxDate": 2100.0
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     26.232296500000004,
+     35.8634532
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
     "title": "Aziris",
     "description": "An ancient place, cited: BAtlas 38 D1 Aziris",
     "count": 3,
@@ -3359,6 +5199,46 @@ var placeFeatures =
     "coordinates": [
      22.880611,
      32.683784
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Salamis (island)",
+    "description": "Salamis is the largest island of the Saronic Gulf. ",
+    "count": 7,
+    "featureTypes": "island",
+    "timePeriodsKeys": "archaic,classical,hellenistic-republican,roman,late-antique,modern",
+    "timePeriodsRange": "-750.0,2100.0",
+    "minDate": -750.0,
+    "maxDate": 2100.0
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     23.51,
+     37.93
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Aphrodisias Pr.",
+    "description": "An ancient place, cited: BAtlas 61 F4 Aphrodisias Pr.",
+    "count": 1,
+    "featureTypes": "cape",
+    "timePeriodsKeys": "roman,modern",
+    "timePeriodsRange": "-30.0,2100.0",
+    "minDate": -30.0,
+    "maxDate": 2100.0
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     27.9642085,
+     36.675616600000005
     ]
    }
   },
@@ -3425,6 +5305,46 @@ var placeFeatures =
   {
    "type": "Feature",
    "properties": {
+    "title": "Gnade?",
+    "description": "An ancient place, cited: BAtlas 38 A2 Gnade?",
+    "count": 2,
+    "featureTypes": "unknown",
+    "timePeriodsKeys": "roman,late-antique",
+    "timePeriodsRange": "-30.0,640.0",
+    "minDate": -30.0,
+    "maxDate": 640.0
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     19.5,
+     31.5
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Triton",
+    "description": "An ancient place, cited: BAtlas 52 D3 Triton",
+    "count": 7,
+    "featureTypes": "labeled feature",
+    "timePeriodsKeys": "hellenistic-republican,roman",
+    "timePeriodsRange": "-330.0,300.0",
+    "minDate": -330.0,
+    "maxDate": 300.0
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.75,
+     40.75
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
     "title": "Pelion",
     "description": "An ancient place, cited: BAtlas 49 C3 Pelion",
     "count": 1,
@@ -3479,6 +5399,26 @@ var placeFeatures =
     "coordinates": [
      32.728704,
      25.958496
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Zacynthus (island)",
+    "description": "An ancient place, cited: BAtlas 54 inset Zacynthus Ins.",
+    "count": 2,
+    "featureTypes": "island",
+    "timePeriodsKeys": "archaic,classical,hellenistic-republican,roman,late-antique,modern",
+    "timePeriodsRange": "-750.0,2100.0",
+    "minDate": -750.0,
+    "maxDate": 2100.0
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     20.76,
+     37.77
     ]
    }
   },
@@ -3585,6 +5525,26 @@ var placeFeatures =
   {
    "type": "Feature",
    "properties": {
+    "title": "Macedonia (Roman province)",
+    "description": "A province of the Roman empire at the death of Trajan (117 CE).",
+    "count": 6,
+    "featureTypes": "province",
+    "timePeriodsKeys": "hellenistic-republican",
+    "timePeriodsRange": "-330.0,-30.0",
+    "minDate": -330.0,
+    "maxDate": -30.0
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     22.5,
+     42.5
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
     "title": "Cyclades Islands",
     "description": "An island group in the Aegean Sea composed of over 200 islands.",
     "count": 2,
@@ -3599,6 +5559,86 @@ var placeFeatures =
     "coordinates": [
      25.1395123769,
      37.0415464154
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Paros (island)",
+    "description": "An ancient place, cited: BAtlas 61 A3 Paros Ins.",
+    "count": 4,
+    "featureTypes": "island",
+    "timePeriodsKeys": "modern",
+    "timePeriodsRange": "1700.0,2100.0",
+    "minDate": 1700.0,
+    "maxDate": 2100.0
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     25.19,
+     37.05
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Eryx M.",
+    "description": "Mount Eryx is a mountain of western Sicily. The mountain is mentioned by numerous ancient authors; notably in the Aeneid Virgil discusses it in relation to Venus Erycina.",
+    "count": 1,
+    "featureTypes": "mountain",
+    "timePeriodsKeys": "classical,hellenistic-republican,roman,late-antique,modern",
+    "timePeriodsRange": "-550.0,2100.0",
+    "minDate": -550.0,
+    "maxDate": 2100.0
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     12.5921448,
+     38.035288200000004
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Sybaris (river)",
+    "description": "An ancient place, cited: BAtlas 46 D2 Sybaris fl.",
+    "count": 4,
+    "featureTypes": "river",
+    "timePeriodsKeys": NaN,
+    "timePeriodsRange": NaN,
+    "minDate": NaN,
+    "maxDate": NaN
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     16.25,
+     39.75
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Selinus",
+    "description": "A Greek colonial city located on the southern coast of Sicily, Selinus was said to have been founded as a colony of the city of Megara Hyblaia.",
+    "count": 1,
+    "featureTypes": "settlement",
+    "timePeriodsKeys": "archaic,classical,hellenistic-republican,modern",
+    "timePeriodsRange": "-750.0,2100.0",
+    "minDate": -750.0,
+    "maxDate": 2100.0
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     12.872911766700001,
+     37.5729367167
     ]
    }
   },
@@ -3625,6 +5665,26 @@ var placeFeatures =
   {
    "type": "Feature",
    "properties": {
+    "title": "Tanagra",
+    "description": "Tanagra was an ancient settlement of Boeotia. ",
+    "count": 2,
+    "featureTypes": "settlement",
+    "timePeriodsKeys": "archaic,classical,hellenistic-republican,roman",
+    "timePeriodsRange": "-750.0,300.0",
+    "minDate": -750.0,
+    "maxDate": 300.0
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     23.581173,
+     38.3001983333
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
     "title": "Scamander (river)",
     "description": "A river of the Troad (modern Karamenderes River).",
     "count": 1,
@@ -3639,6 +5699,26 @@ var placeFeatures =
     "coordinates": [
      26.25,
      39.75
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Megara",
+    "description": "Megara was an important ancient city of Greece, located in the northern part of the the Isthmus of Corinth opposite the island of Salamis.",
+    "count": 1,
+    "featureTypes": "settlement",
+    "timePeriodsKeys": "archaic,classical,hellenistic-republican,hellenistic-roman-early-empire,roman",
+    "timePeriodsRange": "-750.0,300.0",
+    "minDate": -750.0,
+    "maxDate": 300.0
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     23.340163,
+     37.985078
     ]
    }
   },
@@ -3705,6 +5785,46 @@ var placeFeatures =
   {
    "type": "Feature",
    "properties": {
+    "title": "Acheron (river)",
+    "description": "A river of Epirus.",
+    "count": 1,
+    "featureTypes": "river",
+    "timePeriodsKeys": "archaic,classical,hellenistic-republican,roman,late-antique,modern",
+    "timePeriodsRange": "-750.0,2100.0",
+    "minDate": -750.0,
+    "maxDate": 2100.0
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     20.483134600000003,
+     39.234829600000005
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Batnae/Markopolis",
+    "description": "An ancient place, cited: BAtlas 67 G3 Batnae/Markopolis",
+    "count": 1,
+    "featureTypes": "settlement",
+    "timePeriodsKeys": "hellenistic-republican,roman,late-antique",
+    "timePeriodsRange": "-330.0,640.0",
+    "minDate": -330.0,
+    "maxDate": 640.0
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     38.424374,
+     36.976384499999995
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
     "title": "Cayster (river)",
     "description": "The K\u00fc\u00e7\u00fckmenderes River.",
     "count": 1,
@@ -3739,6 +5859,46 @@ var placeFeatures =
     "coordinates": [
      28.0627776,
      38.4803822
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Chersis",
+    "description": "An ancient place, cited: BAtlas 38 D1 Chersis",
+    "count": 2,
+    "featureTypes": "settlement",
+    "timePeriodsKeys": "hellenistic-republican,roman",
+    "timePeriodsRange": "-330.0,300.0",
+    "minDate": -330.0,
+    "maxDate": 300.0
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     22.416823,
+     32.850093
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Mylasa",
+    "description": "An ancient place, cited: BAtlas 61 F3 Mylasa (1)",
+    "count": 1,
+    "featureTypes": "labeled feature",
+    "timePeriodsKeys": "classical",
+    "timePeriodsRange": "-550.0,-330.0",
+    "minDate": -550.0,
+    "maxDate": -330.0
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     27.75,
+     37.25
     ]
    }
   },
@@ -3785,6 +5945,26 @@ var placeFeatures =
   {
    "type": "Feature",
    "properties": {
+    "title": "Leros (island)",
+    "description": "One of the Sporades, ca. 40 km from the coast of Caria.",
+    "count": 2,
+    "featureTypes": "island",
+    "timePeriodsKeys": "roman,modern",
+    "timePeriodsRange": "-30.0,2100.0",
+    "minDate": -30.0,
+    "maxDate": 2100.0
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     26.8224439,
+     37.1953268
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
     "title": "Lade (island)",
     "description": "Formerly an island northwest of Miletus.",
     "count": 2,
@@ -3819,6 +5999,26 @@ var placeFeatures =
     "coordinates": [
      66.9006005,
      36.7615135
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Didyma/Branchidai/Ioustinianopolis",
+    "description": "The ancient sanctuary of Apollo near Miletos (modern Didim, Turkey).",
+    "count": 1,
+    "featureTypes": "sanctuary, temple-2",
+    "timePeriodsKeys": "archaic,classical,hellenistic-republican,hellenistic-roman-early-empire,roman,late-antique,modern",
+    "timePeriodsRange": "-750.0,2100.0",
+    "minDate": -750.0,
+    "maxDate": 2100.0
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     27.256115,
+     37.384828999999996
     ]
    }
   },
@@ -3865,6 +6065,26 @@ var placeFeatures =
   {
    "type": "Feature",
    "properties": {
+    "title": "Gela",
+    "description": "A Greek colony of Sicily founded by Rhodians and Cretans ca. 688 B.C. The oikists were the Rhodian Antiphemos and the Cretan Entimos.",
+    "count": 1,
+    "featureTypes": "settlement",
+    "timePeriodsKeys": "archaic,classical,hellenistic-republican,modern",
+    "timePeriodsRange": "-750.0,2100.0",
+    "minDate": -750.0,
+    "maxDate": 2100.0
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     14.2584705,
+     37.063092499999996
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
     "title": "Himera",
     "description": "A colony on the north shore of Sicily founded in 649/8 BC by the Myletidai.",
     "count": 1,
@@ -3885,6 +6105,26 @@ var placeFeatures =
   {
    "type": "Feature",
    "properties": {
+    "title": "Polichne",
+    "description": "An ancient place, cited: BAtlas 58 B3 Polichne",
+    "count": 1,
+    "featureTypes": "settlement",
+    "timePeriodsKeys": NaN,
+    "timePeriodsRange": NaN,
+    "minDate": NaN,
+    "maxDate": NaN
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     21.823641000000002,
+     37.29595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
     "title": "Caicus (river)",
     "description": "The modern Bak\u0131r\u00e7ay river, a river of southwest Asia Minor that flows from the Temnos mountains to the Elaitic Gulf.",
     "count": 1,
@@ -3899,6 +6139,26 @@ var placeFeatures =
     "coordinates": [
      27.0057354,
      38.947167799999995
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Melas? (river)",
+    "description": "An ancient place, cited: BAtlas 51 H3 Melas? fl.",
+    "count": 1,
+    "featureTypes": "river",
+    "timePeriodsKeys": NaN,
+    "timePeriodsRange": NaN,
+    "minDate": NaN,
+    "maxDate": NaN
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     26.75,
+     40.75
     ]
    }
   },
@@ -3939,6 +6199,26 @@ var placeFeatures =
     "coordinates": [
      24.2951477273,
      40.2468341818
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Hyle",
+    "description": "An ancient place, cited: BAtlas 55 E4 Hyle",
+    "count": 1,
+    "featureTypes": "settlement",
+    "timePeriodsKeys": "archaic,classical",
+    "timePeriodsRange": "-750.0,-330.0",
+    "minDate": -750.0,
+    "maxDate": -330.0
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     23.320012,
+     38.450114
     ]
    }
   },
@@ -4085,6 +6365,26 @@ var placeFeatures =
   {
    "type": "Feature",
    "properties": {
+    "title": "Siris/Semnus (river)",
+    "description": "The Siris/Semnus fl. (modern Sinni) is a river of south Italy flowing through the region of Basilicata.",
+    "count": 1,
+    "featureTypes": "river",
+    "timePeriodsKeys": "modern",
+    "timePeriodsRange": "1700.0,2100.0",
+    "minDate": 1700.0,
+    "maxDate": 2100.0
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     16.1384854,
+     40.0877137
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
     "title": "Aetolia",
     "description": "An ancient place, cited: BAtlas 55 A3 Aetolia",
     "count": 1,
@@ -4159,6 +6459,26 @@ var placeFeatures =
     "coordinates": [
      21.106711100000002,
      38.3388321
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Hermion(e)",
+    "description": "Hermion(e) was a settlement of the eastern Argolid.",
+    "count": 1,
+    "featureTypes": "settlement, port",
+    "timePeriodsKeys": "archaic,classical,hellenistic-republican,roman",
+    "timePeriodsRange": "-750.0,300.0",
+    "minDate": -750.0,
+    "maxDate": 300.0
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     23.243591000000002,
+     37.385218
     ]
    }
   }
