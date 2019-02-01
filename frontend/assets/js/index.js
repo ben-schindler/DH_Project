@@ -174,29 +174,31 @@ function initMap() {
         loadplaces = localStorage.getItem('placesloaded');
         console.log(loadplaces);
 
-        
-        if (loadplaces == 0){
+
+        if (loadplaces == 0) {
 
             map.data.addGeoJson(placeFeatures); //Data is added to Gmap and then setStyle in initMap--> Circle with magnitude
 
             var chartData = [];
-    
+
             $.each(placeFeatures.features, function (i, item) {
-                chartData.push([item.properties.count, item.properties.title, item.properties.description]);
+                chartData.push([item.properties.count, item.properties.title, item.properties.featureTypes, item.properties.timePeriodsKeys, item.properties.description]);
             });
-    
+
             $('#chartData').DataTable({
                 data: chartData,
                 columns: [
                     { title: "Count" },
                     { title: "Title" },
+                    { title: "Category" },
+                    { title: "Time Period" },
                     { title: "Description" }
                 ]
             });
             localStorage.setItem('placesloaded', 1);
         }
 
-        if (loadplaces == 1){
+        if (loadplaces == 1) {
 
             alert("Places already loaded");
         }
@@ -258,10 +260,17 @@ function initMap() {
     });
 
     map.data.addListener('click', function (event) {
+
         var title = event.feature.getProperty("title");
-        var description = event.feature.getProperty("description");
         var count = event.feature.getProperty("count");
+        var featureTypes = event.feature.getProperty("featureTypes");
+        var timePeriodsKeys = event.feature.getProperty("timePeriodsKeys");
+        var maxDate = event.feature.getProperty("maxDate");  
+        var minDate = event.feature.getProperty("minDate");
+        var count = event.feature.getProperty("count");
+        var description = event.feature.getProperty("description");
         var url = "https://pleiades.stoa.org/";
+    
 
 
         String.prototype.capitalize = function () {
@@ -273,6 +282,9 @@ function initMap() {
             '<h3>' + title + '</h3>' +
             '<p></p>' +
             '<p><b>Occurences:</b> ' + count + '<br /> ' +
+            '<b>Category:</b> ' + featureTypes + '<br /> ' +
+            '<b>Time Period:</b> ' + timePeriodsKeys + '<br /> ' +
+            '<b>Years active A.D.:</b> ' + minDate + ' until ' + maxDate + '<br /> ' +
             '<b>Description:</b> ' + description + '<br /> ' +
             '<b>Source:</b> <a href=' + url + '>' + url + '</a> </p>' +
             '</div>'
@@ -307,12 +319,12 @@ function initMap() {
 
 
     function getCircle(magnitude, color) {
-        console.log(magnitude);
+        // console.log(magnitude);
 
         var calcScale
-       // calcScale = 9;
+        // calcScale = 9;
         calcScale = Math.sqrt(magnitude + 60);
-        console.log(calcScale);
+        // console.log(calcScale);
 
 
         // if (magnitude <= 15) {
