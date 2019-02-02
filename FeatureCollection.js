@@ -5,26 +5,6 @@ var placeFeatures =
   {
    "type": "Feature",
    "properties": {
-    "title": "Garden of the Fugitives",
-    "description": "The so-called \"Garden of the Fugitives\" (I, 21,1) is an area of the city that was once given over to habitation but that in the final phase of the city was a vineyard with a summer triclinium. Excavation campaigns of the 1960s and 1970s discovered 13 human victims of the AD 79 eruption that destroyed the city.",
-    "count": 982,
-    "featureTypes": "garden-hortus",
-    "timePeriodsKeys": "roman,modern",
-    "timePeriodsRange": "-30.0,2100.0",
-    "minDate": -30.0,
-    "maxDate": 2100.0
-   },
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     14.492317800000002,
-     40.749678100000004
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "properties": {
     "title": "Halicarnassus/Halikarnassos",
     "description": "An ancient city in Caria, now known as Bodrum in Turkey.",
     "count": 5,
@@ -39,26 +19,6 @@ var placeFeatures =
     "coordinates": [
      27.420201000000002,
      37.042901
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "properties": {
-    "title": "This",
-    "description": "An ancient place, cited: BAtlas 77 F4 This",
-    "count": 222,
-    "featureTypes": "settlement",
-    "timePeriodsKeys": "hellenistic-republican,roman,late-antique,modern",
-    "timePeriodsRange": "-330.0,2100.0",
-    "minDate": -330.0,
-    "maxDate": 2100.0
-   },
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     31.841893,
-     26.341487
     ]
    }
   },
@@ -285,26 +245,6 @@ var placeFeatures =
   {
    "type": "Feature",
    "properties": {
-    "title": "Erannoboas/Sonus (river)",
-    "description": "A river which flowed into the Ganges river at  Patna, mentioned by both Arrian and Pliny.",
-    "count": 161,
-    "featureTypes": "river",
-    "timePeriodsKeys": "hellenistic-republican,roman",
-    "timePeriodsRange": "-330.0,300.0",
-    "minDate": -330.0,
-    "maxDate": 300.0
-   },
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     82.5,
-     22.5
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "properties": {
     "title": "Ionia (region)",
     "description": "The coast of Asia Minor between Aeolis and Caria.",
     "count": 49,
@@ -419,46 +359,6 @@ var placeFeatures =
     "coordinates": [
      27.991584000000003,
      38.551797
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "properties": {
-    "title": "Be (river)",
-    "description": "An ancient place, cited: BAtlas 35 H4 Be fl.",
-    "count": 6,
-    "featureTypes": "river",
-    "timePeriodsKeys": "roman,late-antique",
-    "timePeriodsRange": "-30.0,640.0",
-    "minDate": -30.0,
-    "maxDate": 640.0
-   },
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     15.5,
-     30.5
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "properties": {
-    "title": "Thou",
-    "description": "An ancient place, cited: BAtlas 74 unlocated Thou",
-    "count": 23,
-    "featureTypes": "unlocated",
-    "timePeriodsKeys": "roman,late-antique",
-    "timePeriodsRange": "-30.0,640.0",
-    "minDate": -30.0,
-    "maxDate": 640.0
-   },
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     NaN,
-     NaN
     ]
    }
   },
@@ -905,26 +805,6 @@ var placeFeatures =
   {
    "type": "Feature",
    "properties": {
-    "title": "Chauon/Kaputa/Gobdi",
-    "description": "An ancient place, cited: BAtlas 89 G2 Chauon/Kaputa/Gobdi",
-    "count": 3,
-    "featureTypes": "settlement",
-    "timePeriodsKeys": "hellenistic-republican,roman,late-antique",
-    "timePeriodsRange": "-330.0,640.0",
-    "minDate": -330.0,
-    "maxDate": 640.0
-   },
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     44.947777,
-     38.5525
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "properties": {
     "title": "Olympos (mountain in Greece)",
     "description": "Olympus is the highest mountain in Greece, located in the Olympus Range. In Greek mythology, it is the home of the Olympian gods.",
     "count": 4,
@@ -1025,6 +905,26 @@ var placeFeatures =
   {
    "type": "Feature",
    "properties": {
+    "title": "Pale",
+    "description": "An ancient place, cited: BAtlas 54 B5 Pale",
+    "count": 1,
+    "featureTypes": "settlement",
+    "timePeriodsKeys": "classical,hellenistic-republican,roman",
+    "timePeriodsRange": "-550.0,300.0",
+    "minDate": -550.0,
+    "maxDate": 300.0
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     20.437481,
+     38.222555
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
     "title": "Thebai/Thebae",
     "description": "The ancient city of Thebes in Boeotia (modern Greece).",
     "count": 30,
@@ -1039,26 +939,6 @@ var placeFeatures =
     "coordinates": [
      23.317577,
      38.319156
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "properties": {
-    "title": "Media/Mad(aya)",
-    "description": "Media/Mad(aya) was a region of northwestern Iran.",
-    "count": 16,
-    "featureTypes": "region",
-    "timePeriodsKeys": "archaic,classical,hellenistic-republican,roman,late-antique",
-    "timePeriodsRange": "-750.0,640.0",
-    "minDate": -750.0,
-    "maxDate": 640.0
-   },
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     46.5,
-     34.5
     ]
    }
   },
@@ -1087,7 +967,7 @@ var placeFeatures =
    "properties": {
     "title": "Haste",
     "description": "An ancient place, cited: BAtlas 89 unlocated Haste",
-    "count": 1,
+    "count": 7,
     "featureTypes": "unlocated",
     "timePeriodsKeys": "late-antique",
     "timePeriodsRange": "300.0,640.0",
@@ -1259,6 +1139,26 @@ var placeFeatures =
     "coordinates": [
      23.8189911,
      38.0519988333
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Anger? (river)",
+    "description": "An ancient place, cited: BAtlas 14 G1 Anger? fl.",
+    "count": 20,
+    "featureTypes": "river",
+    "timePeriodsKeys": "late-antique,modern",
+    "timePeriodsRange": "300.0,2100.0",
+    "minDate": 300.0,
+    "maxDate": 2100.0
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.6846846999999998,
+     46.812987799999995
     ]
    }
   },
@@ -1625,6 +1525,26 @@ var placeFeatures =
   {
    "type": "Feature",
    "properties": {
+    "title": "Spalatum",
+    "description": "Spalatum (modern Split, Croatia) is an ancient settlement on the Adriatic coast most noted for the palatial residence of the emperor Diocletian.",
+    "count": 1,
+    "featureTypes": "settlement",
+    "timePeriodsKeys": "roman,late-antique,modern",
+    "timePeriodsRange": "-30.0,2100.0",
+    "minDate": -30.0,
+    "maxDate": 2100.0
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     16.442449,
+     43.506883
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
     "title": "Pteria",
     "description": "An ancient place, cited: BAtlas 87 A3 Pteria",
     "count": 3,
@@ -1679,6 +1599,26 @@ var placeFeatures =
     "coordinates": [
      26.754884000000004,
      38.6703265
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Abydos",
+    "description": "A city of Mysia located on the Hellespont.",
+    "count": 3,
+    "featureTypes": "settlement",
+    "timePeriodsKeys": "archaic,middle-late-iron-age-anatolia,classical,achaemenid-middle-east,hellenistic-republican,hellenistic-middle-east,roman-middle-east,roman,roman-early-empire-parthian-middle-east,late-antique,late-antique-sasanian-middle-east,late-antique-late-byzantine,early-byzantine,abassid-middle-east,middle-byzantine,rum-crusader-anatolia,crusader-byzantine-seljuq-middle-east,modern-middle-east",
+    "timePeriodsRange": "-750.0,2000.0",
+    "minDate": -750.0,
+    "maxDate": 2000.0
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     26.409131,
+     40.1951155
     ]
    }
   },
@@ -1807,7 +1747,7 @@ var placeFeatures =
    "properties": {
     "title": "Lake",
     "description": "An ancient place, cited: BAtlas 55 unlocated Lake",
-    "count": 21,
+    "count": 74,
     "featureTypes": "unlocated",
     "timePeriodsKeys": NaN,
     "timePeriodsRange": NaN,
@@ -1859,6 +1799,26 @@ var placeFeatures =
     "coordinates": [
      48.512209000000006,
      34.799294
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Col. Arausio",
+    "description": "Founded as Colonia Julia Firma Secundanorum Arausio in 35 B.C.",
+    "count": 1,
+    "featureTypes": "settlement",
+    "timePeriodsKeys": "hellenistic-republican,roman,late-antique,modern",
+    "timePeriodsRange": "-330.0,2100.0",
+    "minDate": -330.0,
+    "maxDate": 2100.0
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.8079175,
+     44.1367875
     ]
    }
   },
@@ -1979,6 +1939,26 @@ var placeFeatures =
     "coordinates": [
      53.171660775,
      30.191851725
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Aquae Sulis",
+    "description": "An ancient Roman thermal spa and site of the Temple of Sulis Minerva.",
+    "count": 3,
+    "featureTypes": "bath",
+    "timePeriodsKeys": "roman,late-antique,modern",
+    "timePeriodsRange": "-30.0,2100.0",
+    "minDate": -30.0,
+    "maxDate": 2100.0
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.358575,
+     51.38123
     ]
    }
   },
@@ -2665,6 +2645,26 @@ var placeFeatures =
   {
    "type": "Feature",
    "properties": {
+    "title": "Ad Tygrem/Amida",
+    "description": "An ancient place, cited: BAtlas 89 C3 Ad Tygrem/Amida",
+    "count": 4,
+    "featureTypes": "settlement",
+    "timePeriodsKeys": "neo-assyrian-babylonian-middle-east,achaemenid-middle-east,roman-middle-east,transition-roman-early-empire-late-antique,late-antique,late-antique-sasanian-middle-east,proto-byzantine,persian-medieval-caucasus,caliphate-umayyad-middle-east,early-byzantine,abassid-middle-east,middle-byzantine,early-medieval-caucasus,crusader-byzantine-seljuq-middle-east,crusader-seljuq-ayyubid-levant,ilkhanate-middle-east,mongol-middle-east,ottoman-rise,timurid-middle-east,early-ottoman-empire,1500-ad-middle-east,perso-ottoman-russian-caucasus,ottoman-empire,late-ottoman-empire,ottoman-decline-mandate-middle-east,modern-middle-east",
+    "timePeriodsRange": "-720.0,2000.0",
+    "minDate": -720.0,
+    "maxDate": 2000.0
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     40.2334445,
+     37.912245500000004
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
     "title": "Sardinia (island)",
     "description": "The second largest island in the Mediterranean Sea",
     "count": 4,
@@ -2845,26 +2845,6 @@ var placeFeatures =
   {
    "type": "Feature",
    "properties": {
-    "title": "Idu/Diacira/Hit",
-    "description": "An Old Babylonian site in Iraq's Al Anbar province, Hit was renowned in antiquity for its bitumen springs.",
-    "count": 3,
-    "featureTypes": "settlement",
-    "timePeriodsKeys": "old-babylonian-assyrian-mesopotamia,later-2nd-millennium-bc-mesopotamia,1200-bc-middle-east,archaic,neo-assyrian-babylonian-middle-east,classical,achaemenid-middle-east,hellenistic-republican,hellenistic-middle-east,roman-middle-east,roman,roman-early-empire-parthian-middle-east,transition-roman-early-empire-late-antique,late-antique,late-antique-sasanian-middle-east,caliphate-umayyad-middle-east,abassid-middle-east,samanid-ghaznavid-iran,middle-byzantine,seljuq-khwarezmian-middle-east,crusader-byzantine-seljuq-middle-east,ilkhanate-middle-east,mongol-middle-east,1500-ad-middle-east,safavid-middle-east,modern-middle-east",
-    "timePeriodsRange": "-2000.0,2000.0",
-    "minDate": -2000.0,
-    "maxDate": 2000.0
-   },
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     42.8215,
-     33.6436
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "properties": {
     "title": "Euphrates (river)",
     "description": "The longest river of Western Asia, the Euphrates flows from the Kara Su and the Murat Su to the confluence with the Tigris river.",
     "count": 9,
@@ -3025,6 +3005,26 @@ var placeFeatures =
   {
    "type": "Feature",
    "properties": {
+    "title": "Sale",
+    "description": "An ancient place, cited: BAtlas 51 F3 Sale",
+    "count": 6,
+    "featureTypes": "settlement",
+    "timePeriodsKeys": "classical,hellenistic-republican,roman",
+    "timePeriodsRange": "-550.0,300.0",
+    "minDate": -550.0,
+    "maxDate": 300.0
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     25.875051000000003,
+     40.844659
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
     "title": "Araxes (river)",
     "description": "Araxes fl. is one of the largest rivers of the Caucasus.",
     "count": 9,
@@ -3059,6 +3059,46 @@ var placeFeatures =
     "coordinates": [
      15.0772312333,
      47.1149830333
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Media/Mad(aya)",
+    "description": "Media/Mad(aya) was a region of northwestern Iran.",
+    "count": 9,
+    "featureTypes": "region",
+    "timePeriodsKeys": "archaic,classical,hellenistic-republican,roman,late-antique",
+    "timePeriodsRange": "-750.0,640.0",
+    "minDate": -750.0,
+    "maxDate": 640.0
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     46.5,
+     34.5
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Colophon/Colophon ad Mare/Notion",
+    "description": "A port city founded by Aeolian settlers at the mouth of the River Avci.",
+    "count": 1,
+    "featureTypes": "settlement, port",
+    "timePeriodsKeys": "archaic,classical,hellenistic-republican,roman,late-antique",
+    "timePeriodsRange": "-750.0,640.0",
+    "minDate": -750.0,
+    "maxDate": 640.0
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     27.200852,
+     37.9952785
     ]
    }
   },
@@ -3325,6 +3365,26 @@ var placeFeatures =
   {
    "type": "Feature",
    "properties": {
+    "title": "Grannum",
+    "description": "Grannum was a Gallo-Roman town of the civitas Leucorum.",
+    "count": 4,
+    "featureTypes": "settlement",
+    "timePeriodsKeys": "roman,late-antique,modern",
+    "timePeriodsRange": "-30.0,2100.0",
+    "minDate": -30.0,
+    "maxDate": 2100.0
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.484948,
+     48.385397999999995
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
     "title": "Pelusium",
     "description": "Pelusium was a fortified ancient city located at the mouth of the eastern-most branch of the Nile river. Its ruins, now land-locked and located approximately 30km southeast of Port Said, are known as Tell Farama.",
     "count": 3,
@@ -3399,6 +3459,26 @@ var placeFeatures =
     "coordinates": [
      27.042137,
      31.398215999999998
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Gales",
+    "description": "An ancient place, cited: BAtlas 32 E4 Gales",
+    "count": 2,
+    "featureTypes": "settlement",
+    "timePeriodsKeys": "hellenistic-republican,roman,late-antique",
+    "timePeriodsRange": "-330.0,640.0",
+    "minDate": -330.0,
+    "maxDate": 640.0
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     9.69998,
+     36.266625
     ]
    }
   },
@@ -3845,6 +3925,26 @@ var placeFeatures =
   {
    "type": "Feature",
    "properties": {
+    "title": "Gale",
+    "description": "An ancient place, cited: BAtlas 82 unlocated Gale",
+    "count": 3,
+    "featureTypes": "unlocated",
+    "timePeriodsKeys": "roman",
+    "timePeriodsRange": "-30.0,300.0",
+    "minDate": -30.0,
+    "maxDate": 300.0
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     NaN,
+     NaN
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
     "title": "Thonis",
     "description": "An ancient place, cited: BAtlas 74 C2 Thonis",
     "count": 4,
@@ -3859,26 +3959,6 @@ var placeFeatures =
     "coordinates": [
      30.078252000000003,
      31.314034999999997
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "properties": {
-    "title": "Are",
-    "description": "An ancient place, cited: BAtlas 4 C2 Are",
-    "count": 1,
-    "featureTypes": "unknown",
-    "timePeriodsKeys": "roman",
-    "timePeriodsRange": "-30.0,300.0",
-    "minDate": -30.0,
-    "maxDate": 300.0
-   },
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     47.5,
-     17.5
     ]
    }
   },
@@ -4265,6 +4345,46 @@ var placeFeatures =
   {
    "type": "Feature",
    "properties": {
+    "title": "Liar",
+    "description": "An ancient place, cited: BAtlas 9 unlocated Liar fl.",
+    "count": 2,
+    "featureTypes": "river",
+    "timePeriodsKeys": "late-antique",
+    "timePeriodsRange": "300.0,640.0",
+    "minDate": 300.0,
+    "maxDate": 640.0
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     NaN,
+     NaN
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Lancia/Lance",
+    "description": "An ancient place, cited: BAtlas 24 F2 Lancia/Lance",
+    "count": 2,
+    "featureTypes": "settlement",
+    "timePeriodsKeys": "roman,late-antique",
+    "timePeriodsRange": "-30.0,640.0",
+    "minDate": -30.0,
+    "maxDate": 640.0
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.4308097,
+     42.5297477
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
     "title": "Tibareni",
     "description": "An ancient population of Scythian descent inhabiting the southern shores of the Black Sea in Asia Minor.",
     "count": 1,
@@ -4299,6 +4419,26 @@ var placeFeatures =
     "coordinates": [
      77.5,
      22.5
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Rider",
+    "description": "The chief town of the Dalmatae.",
+    "count": 4,
+    "featureTypes": "settlement",
+    "timePeriodsKeys": "roman,late-antique",
+    "timePeriodsRange": "-30.0,640.0",
+    "minDate": -30.0,
+    "maxDate": 640.0
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     16.055704000000002,
+     43.700462
     ]
    }
   },
