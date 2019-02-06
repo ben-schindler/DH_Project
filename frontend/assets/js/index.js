@@ -172,8 +172,6 @@ function initMap() {
     $("#placesButton").click(function () {
 
         loadplaces = localStorage.getItem('placesloaded');
-        console.log(loadplaces);
-
 
         if (loadplaces == 0) {
 
@@ -181,20 +179,64 @@ function initMap() {
 
             var chartData = [];
             var countPlaces;
-            var settlements;
+            var countCategory = {
+                "settlements": 0,
+                "geographical": 0,
+                "people": 0,
+                "other": 0
+            };
 
             $.each(placeFeatures.features, function (i, item) {
-                console.log(item.properties.featureTypes);
+                //console.log(item.properties.featureTypes);
                 countPlaces = i++;
-                // if (value.category.includes("vehicle")) {
-                //     value.genCategory = "Traffic"
-                //     value.skala = "5";
-                //     countCategory.traffic++;
-                // }
+                if (item.properties.featureTypes.includes("settlement")) {
+                    item.properties.genCategory = "Settlement"
+                    countCategory.settlements++;
+                } else if (item.properties.featureTypes.includes("river") || item.properties.featureTypes.includes("island") || item.properties.featureTypes.includes("mountain") || item.properties.featureTypes.includes("water")) {
+                    item.properties.genCategory = "Geographical"
+                    countCategory.geographical++;
+                } else if (item.properties.featureTypes.includes("province") || item.properties.featureTypes.includes("people") || item.properties.featureTypes.includes("station")) {
+                    item.properties.genCategory = "People"
+                    countCategory.people++;
+                } else {
+                    item.properties.genCategory = "Other"
+                    countCategory.other++;
+                }
                 chartData.push([item.properties.count, item.properties.title, item.properties.featureTypes, item.properties.timePeriodsKeys, item.properties.description]);
             });
 
             console.log(countPlaces);
+            console.log(countCategory.settlements)
+            console.log(countCategory.geographical)
+            console.log(countCategory.people)
+            console.log(countCategory.other)
+
+
+            countCategory.all = countCategory.settlements + countCategory.geographical + countCategory.people + countCategory.other;
+            $(".settlements").html(countCategory.settlements);
+            $(".geographical").html(countCategory.geographical);
+            $(".people").html(countCategory.people);
+            $(".other").html(countCategory.other);
+            window.countCategory = countCategory;
+            $(window).trigger('changeData', countCategory);
+            
+            
+            // var bar1 = (countCategory.publicOffenses / countCategory.all) * 100;
+            // var bar2 = (countCategory.traffic / countCategory.all) * 100;
+            // var bar3 = (countCategory.theft / countCategory.all) * 100;
+            // var bar4 = (countCategory.violence / countCategory.all) * 100;
+            // console.log(bar1)
+            // console.log(bar2)
+            // console.log(bar3)
+            // console.log(bar4)
+            // var styleNode = document.createElement('style');
+            // styleNode.type = "text/css";
+            // var styleText = document.createTextNode('#bar1 { width: ' + bar1 + '%; } #bar2 { width: ' + bar2 + '%; } #bar3 { width: ' + bar3 + '%; } #bar4 { width: ' + bar4 + '%; }');
+            // styleNode.appendChild(styleText);
+            // document.getElementsByTagName('head')[0].appendChild(styleNode);
+
+
+
 
             $('#chartData').DataTable({
                 data: chartData,
@@ -276,12 +318,12 @@ function initMap() {
         var count = event.feature.getProperty("count");
         var featureTypes = event.feature.getProperty("featureTypes");
         var timePeriodsKeys = event.feature.getProperty("timePeriodsKeys");
-        var maxDate = event.feature.getProperty("maxDate");  
+        var maxDate = event.feature.getProperty("maxDate");
         var minDate = event.feature.getProperty("minDate");
         var count = event.feature.getProperty("count");
         var description = event.feature.getProperty("description");
         var url = "https://pleiades.stoa.org/";
-    
+
 
 
         String.prototype.capitalize = function () {
