@@ -180,10 +180,21 @@ function initMap() {
             map.data.addGeoJson(placeFeatures); //Data is added to Gmap and then setStyle in initMap--> Circle with magnitude
 
             var chartData = [];
+            var countPlaces;
+            var settlements;
 
             $.each(placeFeatures.features, function (i, item) {
+                console.log(item.properties.featureTypes);
+                countPlaces = i++;
+                // if (value.category.includes("vehicle")) {
+                //     value.genCategory = "Traffic"
+                //     value.skala = "5";
+                //     countCategory.traffic++;
+                // }
                 chartData.push([item.properties.count, item.properties.title, item.properties.featureTypes, item.properties.timePeriodsKeys, item.properties.description]);
             });
+
+            console.log(countPlaces);
 
             $('#chartData').DataTable({
                 data: chartData,
@@ -325,7 +336,6 @@ function initMap() {
         // calcScale = 9;
         calcScale = Math.sqrt(magnitude + 60);
         // console.log(calcScale);
-
 
         // if (magnitude <= 15) {
         //     calcScale = magnitude * 2;
