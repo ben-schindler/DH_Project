@@ -219,24 +219,6 @@ function initMap() {
             $(".other").html(countCategory.other);
             window.countCategory = countCategory;
             $(window).trigger('changeData', countCategory);
-            
-            
-            // var bar1 = (countCategory.publicOffenses / countCategory.all) * 100;
-            // var bar2 = (countCategory.traffic / countCategory.all) * 100;
-            // var bar3 = (countCategory.theft / countCategory.all) * 100;
-            // var bar4 = (countCategory.violence / countCategory.all) * 100;
-            // console.log(bar1)
-            // console.log(bar2)
-            // console.log(bar3)
-            // console.log(bar4)
-            // var styleNode = document.createElement('style');
-            // styleNode.type = "text/css";
-            // var styleText = document.createTextNode('#bar1 { width: ' + bar1 + '%; } #bar2 { width: ' + bar2 + '%; } #bar3 { width: ' + bar3 + '%; } #bar4 { width: ' + bar4 + '%; }');
-            // styleNode.appendChild(styleText);
-            // document.getElementsByTagName('head')[0].appendChild(styleNode);
-
-
-
 
             $('#chartData').DataTable({
                 data: chartData,
@@ -257,7 +239,10 @@ function initMap() {
         }
     });
 
-       // on button click 
+
+    localStorage.setItem('warPlacesloaded', 0);
+
+    // on button click 
     $("#warButton").click(function () {
 
         loadWarPlaces = localStorage.getItem('warPlacesloaded');
@@ -308,23 +293,6 @@ function initMap() {
             $(".other").html(countCategory.other);
             window.countCategory = countCategory;
             $(window).trigger('changeData', countCategory);
-            
-            
-            // var bar1 = (countCategory.publicOffenses / countCategory.all) * 100;
-            // var bar2 = (countCategory.traffic / countCategory.all) * 100;
-            // var bar3 = (countCategory.theft / countCategory.all) * 100;
-            // var bar4 = (countCategory.violence / countCategory.all) * 100;
-            // console.log(bar1)
-            // console.log(bar2)
-            // console.log(bar3)
-            // console.log(bar4)
-            // var styleNode = document.createElement('style');
-            // styleNode.type = "text/css";
-            // var styleText = document.createTextNode('#bar1 { width: ' + bar1 + '%; } #bar2 { width: ' + bar2 + '%; } #bar3 { width: ' + bar3 + '%; } #bar4 { width: ' + bar4 + '%; }');
-            // styleNode.appendChild(styleText);
-            // document.getElementsByTagName('head')[0].appendChild(styleNode);
-
-
 
 
             $('#chartData').DataTable({
