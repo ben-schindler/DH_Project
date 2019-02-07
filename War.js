@@ -1,4 +1,4 @@
-var placeFeatures = 
+var warFeatures = 
 {
  "type": "FeatureCollection",
  "features": [

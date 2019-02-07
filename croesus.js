@@ -1,4 +1,4 @@
-var placeFeatures = 
+var croesusFeatures = 
 {
  "type": "FeatureCollection",
  "features": [

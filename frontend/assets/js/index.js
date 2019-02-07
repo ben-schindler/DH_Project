@@ -249,7 +249,7 @@ function initMap() {
 
         if (loadWarPlaces == 0) {
 
-            map.data.addGeoJson(placeFeatures); //Data is added to Gmap and then setStyle in initMap--> Circle with magnitude
+            map.data.addGeoJson(warFeatures); //Data is added to Gmap and then setStyle in initMap--> Circle with magnitude
 
             var chartData = [];
             var countPlaces;
