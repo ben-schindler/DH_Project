@@ -1,1 +1,1 @@
-var placeFeatures = 
+var placeFeatures =
