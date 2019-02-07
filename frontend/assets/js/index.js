@@ -314,6 +314,80 @@ function initMap() {
         }
     });
 
+    localStorage.setItem('croesusPlacesloaded', 0);
+
+    // on button click 
+    $("#croesusButton").click(function () {
+
+        loadCroesusPlaces = localStorage.getItem('croesusPlacesloaded');
+
+        if (loadCroesusPlaces == 0) {
+
+            map.data.addGeoJson(croesusFeatures); //Data is added to Gmap and then setStyle in initMap--> Circle with magnitude
+
+            var chartData = [];
+            var countPlaces;
+            var countCategory = {
+                "settlements": 0,
+                "geographical": 0,
+                "people": 0,
+                "other": 0
+            };
+
+            $.each(placeFeatures.features, function (i, item) {
+                //console.log(item.properties.featureTypes);
+                countPlaces = i++;
+                if (item.properties.featureTypes.includes("settlement")) {
+                    item.properties.genCategory = "Settlement"
+                    countCategory.settlements++;
+                } else if (item.properties.featureTypes.includes("river") || item.properties.featureTypes.includes("island") || item.properties.featureTypes.includes("mountain") || item.properties.featureTypes.includes("water")) {
+                    item.properties.genCategory = "Geographical"
+                    countCategory.geographical++;
+                } else if (item.properties.featureTypes.includes("province") || item.properties.featureTypes.includes("people") || item.properties.featureTypes.includes("station")) {
+                    item.properties.genCategory = "People"
+                    countCategory.people++;
+                } else {
+                    item.properties.genCategory = "Other"
+                    countCategory.other++;
+                }
+                chartData.push([item.properties.count, item.properties.title, item.properties.featureTypes, item.properties.timePeriodsKeys, item.properties.description]);
+            });
+
+            console.log(countPlaces);
+            console.log(countCategory.settlements)
+            console.log(countCategory.geographical)
+            console.log(countCategory.people)
+            console.log(countCategory.other)
+
+
+            countCategory.all = countCategory.settlements + countCategory.geographical + countCategory.people + countCategory.other;
+            $(".settlements").html(countCategory.settlements);
+            $(".geographical").html(countCategory.geographical);
+            $(".people").html(countCategory.people);
+            $(".other").html(countCategory.other);
+            window.countCategory = countCategory;
+            $(window).trigger('changeData', countCategory);
+
+
+            $('#chartData').DataTable({
+                data: chartData,
+                columns: [
+                    { title: "Count" },
+                    { title: "Title" },
+                    { title: "Category" },
+                    { title: "Time Period" },
+                    { title: "Description" }
+                ]
+            });
+            localStorage.setItem('CroesusPlacesloaded', 1);
+        }
+
+        if (loadCroesusPlaces == 1) {
+
+            alert("Places already loaded");
+        }
+    });
+
     // Clear out the old markers.
     markers.forEach(function (marker) {
         marker.setMap(null);
