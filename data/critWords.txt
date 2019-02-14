@@ -1,0 +1,131 @@
+NAME		Occurences	Using this?	PID	Comment
+'Assyria'	11	yes	29492
+'Argos'	17	yes	570106
+'Europe'	45	no	
+'Colchis'	3	yes	863770	
+'Phasis'	8	yes	863867	
+'Asia'	95	no	
+'Syria'	21	yes	29492
+'Paphlagonia'	1	yes	845034	region
+'Ionia'	49	yes	550597	region
+'Lydia'	16	yes	550701	region
+'Belus'	3	yes	658560
+'Phrygia'	8	yes	991394
+'Smyrna'	7	yes	550771
+'Colophon'	3	yes	599577
+'Scythia'	60	yes	991379
+'Chios'	19	yes	550496
+'Arion'	8	yes	857044	
+'Eleusis'	6	yes	579920
+'Olympus'	4	yes	491677
+'Dodona'	7	yes	530843
+'Ossa'	1	yes	540993
+'Attica'	28	yes	579888
+'Eretria'	17	yes	579925
+'Naxos'	14	yes	462386
+'Delos'	17	yes	599588
+'Tegea'	9	yes	570707
+'Alea'	1	yes	570062
+'Samos'	57	yes	599926
+'Cappadocia'	4	yes	628949
+'Armenia'	9	yes	1001927
+'Cilicia'	11	yes	658440
+'Cyprus'	19	yes	707498
+'Babylon'	33	yes	893951
+'Pteria'	3	yes	857294
+'Sinope'	4	yes	857321
+'Thyrea'	5	yes	570736
+'Malea'	2	yes	570455
+'Meles'	2	no				
+'Caria'	7	yes	599564
+'Teos'	4	yes	550913
+'Pentapolis'	1	yes	609497
+'Cos'	1	yes	599581
+'Cnidus'	4	yes	599575
+'Pellene'	1	yes	570576
+'Dyme'	1	yes	570205
+'Larissa'	1	yes	540905
+'Myrina'	2	yes	550755
+'Tenedos'	4	yes	550912
+'Sacae'	3	no
+'Mysia'	3	yes	511328
+'Corsica'	1	yes	472063
+'Abdera'	4	yes	501323
+'Sardinia'	4	yes	472014
+'Lycus'	3	yes	638967
+'Syme'	1	yes	599950
+'Patara'	2	yes	639041
+'Choaspes'	4	yes	912935
+'Susa'	32	yes	912936
+'Tigris'	6	yes	912964
+'Araxes'	9	yes	884118	
+'Memphis'	40	yes	736963
+'Heliopolis'	10	yes	727117
+'Pisa'	2	yes	570612
+'Teuthrania'	1	yes	550916
+'Achelous'	1	yes	530768
+'Arabia'	19	yes	29475
+'Thebais'	2	yes	991398
+'Apis'	13	yes	716526
+'Meroe'	1	yes	805630
+'Cyrene'	30	yes	981517
+'Soloeis'	2	yes	462497
+'Mendes'	3	yes	727156
+'Thasos'	6	yes	501635
+'Samothrace'	2	yes	501597
+'Pelasgia'	1	yes	540904 
+'Papremis'	5	yes	727185
+'Neapolis'	1	no		
+'Nysa'	2	yes	599832 
+'Elis'	8	yes	570220 
+'Tanis'	1	no
+'Athribis'	1	ney			
+'Aegyptus'	1	no	
+'Corcyra'	7	yes 	530835 
+'Borysthenes'	18	yes 	226545 
+'Tyras'	5	yes 	226800	
+'Bosphorus'	13	yes 	854719 
+'Proconnesus'	5	yes	511378 
+'Issedones'	1	yes	59853 
+'Hypanis'(river)	12	yes	226630 
+'Tanais'( river)	12	yes 	825398 
+'Tenos'	2	yes	590074	
+'Andros'	2	yes	589693	
+'Indus'	1	yes	59851	
+'Artanes'	1	yes	511161 
+'Rhodope'	1	yes	501592 
+'Apollonia'	2	yes	462097	
+'Agrianes'	1	no
+'Abydos'	3	yes	501325 
+'Sestos'	1	yes	501609	
+'Thera'	15	yes	599973 
+'Platea'	10	yes	560720 
+'Salamis'	7	yes	580101 
+'Aphrodisias'	1	yes	599500
+'Macae'	1	no
+'Gindanes'	2	yes	373821
+'Triton'	7	yes	511452
+'Zacynthus'	2	yes	531155
+'Macedonia'	6	yes	981531
+'Paros'	4	yes	599868
+'Heraclea'	1	no
+'Eryx'	1	yes	462202
+'Sybaris'	4	yes	452459
+'Minoa'	1	no
+'Selinus'	1	yes	462489
+'Tanagra'	2	yes	580114
+'Megara'	1	yes	570468
+'Petra'	2	no
+'Acheron'	1	yes	530769
+'Anthemus'	1	yes	658405
+'Chersis'	2	yes	373772
+'Marsyas'	2	no
+'Mylasa'	1	yes	599810
+'Leros'	2	yes	599764
+'Didyma'	1	yes	599593
+'Gela'	1	yes	462214
+'Polichne'	1	yes	570625
+'Melas'	1	yes	501514
+'Hyle'	1	yes	540825
+'Siris'	1	yes	452451
+'Hermione'	1	yes	570292

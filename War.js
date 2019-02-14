@@ -11,15 +11,15 @@ var War_Topic =
     "timePeriodsKeys": "archaic,classical,hellenistic-republican,roman,late-antique",
     "timePeriodsRange": "-750.0,640.0",
     "minDate": -750.0,
-    "maxDate": 640.0
-   },
-   "Analysis": {
-    "War": [
-     1,
-     [
-      0
+    "maxDate": 640.0,
+    "Analysis": {
+     "War": [
+      1,
+      [
+       0
+      ]
      ]
-    ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -38,15 +38,15 @@ var War_Topic =
     "timePeriodsKeys": NaN,
     "timePeriodsRange": NaN,
     "minDate": NaN,
-    "maxDate": NaN
-   },
-   "Analysis": {
-    "War": [
-     1,
-     [
-      0
+    "maxDate": NaN,
+    "Analysis": {
+     "War": [
+      1,
+      [
+       0
+      ]
      ]
-    ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -65,15 +65,15 @@ var War_Topic =
     "timePeriodsKeys": "classical,hellenistic-republican,roman,late-antique",
     "timePeriodsRange": "-550.0,640.0",
     "minDate": -550.0,
-    "maxDate": 640.0
-   },
-   "Analysis": {
-    "War": [
-     1,
-     [
-      2
+    "maxDate": 640.0,
+    "Analysis": {
+     "War": [
+      1,
+      [
+       2
+      ]
      ]
-    ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -92,17 +92,17 @@ var War_Topic =
     "timePeriodsKeys": "middle-bronze-age-anatolia,early-iron-age-anatolia,archaic,neo-assyrian-babylonian-middle-east,middle-late-iron-age-anatolia,classical,achaemenid-middle-east,hellenistic-republican,hellenistic-middle-east,roman-middle-east,roman,roman-early-empire-parthian-middle-east,transition-roman-early-empire-late-antique,late-antique,late-antique-sasanian-middle-east,late-antique-late-byzantine,proto-byzantine,early-byzantine,abassid-middle-east,middle-byzantine,ottoman-rise,early-ottoman-empire,modern-middle-east",
     "timePeriodsRange": "-1750.0,2000.0",
     "minDate": -1750.0,
-    "maxDate": 2000.0
-   },
-   "Analysis": {
-    "War": [
-     3,
-     [
-      2,
-      156,
-      160
+    "maxDate": 2000.0,
+    "Analysis": {
+     "War": [
+      3,
+      [
+       2,
+       156,
+       160
+      ]
      ]
-    ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -121,16 +121,16 @@ var War_Topic =
     "timePeriodsKeys": "archaic,classical,roman,modern",
     "timePeriodsRange": "-750.0,2100.0",
     "minDate": -750.0,
-    "maxDate": 2100.0
-   },
-   "Analysis": {
-    "War": [
-     2,
-     [
+    "maxDate": 2100.0,
+    "Analysis": {
+     "War": [
       2,
-      2
+      [
+       2,
+       2
+      ]
      ]
-    ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -149,18 +149,18 @@ var War_Topic =
     "timePeriodsKeys": "archaic,classical",
     "timePeriodsRange": "-750.0,-330.0",
     "minDate": -750.0,
-    "maxDate": -330.0
-   },
-   "Analysis": {
-    "War": [
-     4,
-     [
-      2,
-      2,
-      3,
-      13
+    "maxDate": -330.0,
+    "Analysis": {
+     "War": [
+      4,
+      [
+       2,
+       2,
+       3,
+       13
+      ]
      ]
-    ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -179,16 +179,16 @@ var War_Topic =
     "timePeriodsKeys": "archaic,classical,hellenistic-republican,roman,late-antique",
     "timePeriodsRange": "-750.0,640.0",
     "minDate": -750.0,
-    "maxDate": 640.0
-   },
-   "Analysis": {
-    "War": [
-     2,
-     [
+    "maxDate": 640.0,
+    "Analysis": {
+     "War": [
       2,
-      4
+      [
+       2,
+       4
+      ]
      ]
-    ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -207,16 +207,16 @@ var War_Topic =
     "timePeriodsKeys": "roman,roman-early-empire-late-antique,late-antique",
     "timePeriodsRange": "-30.0,640.0",
     "minDate": -30.0,
-    "maxDate": 640.0
-   },
-   "Analysis": {
-    "War": [
-     2,
-     [
+    "maxDate": 640.0,
+    "Analysis": {
+     "War": [
       2,
-      2
+      [
+       2,
+       2
+      ]
      ]
-    ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -235,15 +235,15 @@ var War_Topic =
     "timePeriodsKeys": "archaic,classical,hellenistic-republican,roman,late-antique,modern",
     "timePeriodsRange": "-750.0,2100.0",
     "minDate": -750.0,
-    "maxDate": 2100.0
-   },
-   "Analysis": {
-    "War": [
-     1,
-     [
-      4
+    "maxDate": 2100.0,
+    "Analysis": {
+     "War": [
+      1,
+      [
+       4
+      ]
      ]
-    ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -262,20 +262,20 @@ var War_Topic =
     "timePeriodsKeys": "middle-bronze-age-anatolia,early-iron-age-anatolia,1200-bc-middle-east,archaic,neo-assyrian-babylonian-middle-east,classical,achaemenid-middle-east,hellenistic-republican,hellenistic-middle-east,roman-middle-east,roman,roman-early-empire-parthian-middle-east,transition-roman-early-empire-late-antique,late-antique,late-antique-sasanian-middle-east,late-antique-late-byzantine,proto-byzantine,early-byzantine,abassid-middle-east,middle-byzantine,rum-crusader-anatolia,early-ottoman-empire,modern-middle-east",
     "timePeriodsRange": "-1750.0,2000.0",
     "minDate": -1750.0,
-    "maxDate": 2000.0
-   },
-   "Analysis": {
-    "War": [
-     6,
-     [
-      7,
-      12,
-      14,
-      150,
-      150,
-      159
+    "maxDate": 2000.0,
+    "Analysis": {
+     "War": [
+      6,
+      [
+       7,
+       12,
+       14,
+       150,
+       150,
+       159
+      ]
      ]
-    ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -294,19 +294,19 @@ var War_Topic =
     "timePeriodsKeys": "archaic,classical,hellenistic-republican,roman,late-antique,modern",
     "timePeriodsRange": "-750.0,2100.0",
     "minDate": -750.0,
-    "maxDate": 2100.0
-   },
-   "Analysis": {
-    "War": [
-     5,
-     [
-      11,
-      151,
-      181,
-      184,
-      185
+    "maxDate": 2100.0,
+    "Analysis": {
+     "War": [
+      5,
+      [
+       11,
+       151,
+       181,
+       184,
+       185
+      ]
      ]
-    ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -325,15 +325,15 @@ var War_Topic =
     "timePeriodsKeys": "archaic,classical,hellenistic-republican,roman,late-antique",
     "timePeriodsRange": "-750.0,640.0",
     "minDate": -750.0,
-    "maxDate": 640.0
-   },
-   "Analysis": {
-    "War": [
-     1,
-     [
-      11
+    "maxDate": 640.0,
+    "Analysis": {
+     "War": [
+      1,
+      [
+       11
+      ]
      ]
-    ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -352,16 +352,16 @@ var War_Topic =
     "timePeriodsKeys": "archaic,classical,hellenistic-republican,roman,late-antique,modern",
     "timePeriodsRange": "-750.0,2100.0",
     "minDate": -750.0,
-    "maxDate": 2100.0
-   },
-   "Analysis": {
-    "War": [
-     2,
-     [
-      11,
-      164
+    "maxDate": 2100.0,
+    "Analysis": {
+     "War": [
+      2,
+      [
+       11,
+       164
+      ]
      ]
-    ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -380,15 +380,15 @@ var War_Topic =
     "timePeriodsKeys": "classical,late-antique",
     "timePeriodsRange": "-550.0,640.0",
     "minDate": -550.0,
-    "maxDate": 640.0
-   },
-   "Analysis": {
-    "War": [
-     1,
-     [
-      14
+    "maxDate": 640.0,
+    "Analysis": {
+     "War": [
+      1,
+      [
+       14
+      ]
      ]
-    ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -407,15 +407,15 @@ var War_Topic =
     "timePeriodsKeys": "archaic,classical,hellenistic-republican,roman,late-antique,modern",
     "timePeriodsRange": "-750.0,2100.0",
     "minDate": -750.0,
-    "maxDate": 2100.0
-   },
-   "Analysis": {
-    "War": [
-     1,
-     [
-      15
+    "maxDate": 2100.0,
+    "Analysis": {
+     "War": [
+      1,
+      [
+       15
+      ]
      ]
-    ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -434,15 +434,15 @@ var War_Topic =
     "timePeriodsKeys": "archaic,classical,hellenistic-republican,roman",
     "timePeriodsRange": "-750.0,300.0",
     "minDate": -750.0,
-    "maxDate": 300.0
-   },
-   "Analysis": {
-    "War": [
-     1,
-     [
-      15
+    "maxDate": 300.0,
+    "Analysis": {
+     "War": [
+      1,
+      [
+       15
+      ]
      ]
-    ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -461,15 +461,15 @@ var War_Topic =
     "timePeriodsKeys": "akkadian-ur-iii-mesopotamia,2nd-millenium-bce,early-1st-millennium-mesopotamia,archaic,neo-assyrian-babylonian-middle-east,classical,hellenistic-republican,roman,late-antique,ottoman-empire-2,modern",
     "timePeriodsRange": "-2335.0,2100.0",
     "minDate": -2335.0,
-    "maxDate": 2100.0
-   },
-   "Analysis": {
-    "War": [
-     1,
-     [
-      20
+    "maxDate": 2100.0,
+    "Analysis": {
+     "War": [
+      1,
+      [
+       20
+      ]
      ]
-    ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -488,17 +488,17 @@ var War_Topic =
     "timePeriodsKeys": "old-babylonian-assyrian-mesopotamia,later-2nd-millennium-bc-mesopotamia,archaic,neo-assyrian-babylonian-middle-east,classical,achaemenid-middle-east,hellenistic-republican,hellenistic-central-asia,roman,late-antique",
     "timePeriodsRange": "-2000.0,640.0",
     "minDate": -2000.0,
-    "maxDate": 640.0
-   },
-   "Analysis": {
-    "War": [
-     3,
-     [
-      29,
-      36,
-      105
+    "maxDate": 640.0,
+    "Analysis": {
+     "War": [
+      3,
+      [
+       29,
+       36,
+       105
+      ]
      ]
-    ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -517,17 +517,17 @@ var War_Topic =
     "timePeriodsKeys": "archaic,classical,hellenistic-republican,roman,late-antique",
     "timePeriodsRange": "-750.0,640.0",
     "minDate": -750.0,
-    "maxDate": 640.0
-   },
-   "Analysis": {
-    "War": [
-     3,
-     [
-      31,
-      143,
-      159
+    "maxDate": 640.0,
+    "Analysis": {
+     "War": [
+      3,
+      [
+       31,
+       143,
+       159
+      ]
      ]
-    ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -546,15 +546,15 @@ var War_Topic =
     "timePeriodsKeys": "old-babylonian-assyrian-mesopotamia,later-2nd-millennium-bc-mesopotamia,archaic,neo-assyrian-babylonian-middle-east,classical,hellenistic-republican,roman,late-antique",
     "timePeriodsRange": "-2000.0,640.0",
     "minDate": -2000.0,
-    "maxDate": 640.0
-   },
-   "Analysis": {
-    "War": [
-     1,
-     [
-      34
+    "maxDate": 640.0,
+    "Analysis": {
+     "War": [
+      1,
+      [
+       34
+      ]
      ]
-    ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -573,15 +573,15 @@ var War_Topic =
     "timePeriodsKeys": "old-babylonian-assyrian-mesopotamia,later-2nd-millennium-bc-mesopotamia,archaic,neo-assyrian-babylonian-middle-east,classical,hellenistic-republican,roman,late-antique",
     "timePeriodsRange": "-2000.0,640.0",
     "minDate": -2000.0,
-    "maxDate": 640.0
-   },
-   "Analysis": {
-    "War": [
-     1,
-     [
-      72
+    "maxDate": 640.0,
+    "Analysis": {
+     "War": [
+      1,
+      [
+       72
+      ]
      ]
-    ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -600,15 +600,15 @@ var War_Topic =
     "timePeriodsKeys": "paleolithic-middle-east,2nd-millennium-bc-levant,egyptian-hittite-levant,1200-bc-middle-east,iron-age-southern-levant,archaic,neo-assyrian-babylonian-middle-east,classical,achaemenid-middle-east,achaemenid-roman-republic-middle-east,hellenistic-republican,hellenistic-middle-east,roman-middle-east,roman,roman-early-empire-parthian-middle-east,transition-roman-early-empire-late-antique,late-antique,late-antique-sasanian-middle-east,caliphate-umayyad-middle-east,abassid-middle-east,middle-byzantine,crusader-byzantine-seljuq-middle-east,crusader-seljuq-ayyubid-levant,ilkhanate-middle-east,early-ottoman-empire,1500-ad-middle-east,ottoman-empire,late-ottoman-empire,khedivate-egypt,modern-middle-east",
     "timePeriodsRange": "-2600000.0,2000.0",
     "minDate": -2600000.0,
-    "maxDate": 2000.0
-   },
-   "Analysis": {
-    "War": [
-     1,
-     [
-      72
+    "maxDate": 2000.0,
+    "Analysis": {
+     "War": [
+      1,
+      [
+       72
+      ]
      ]
-    ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -627,15 +627,15 @@ var War_Topic =
     "timePeriodsKeys": "archaic,classical,hellenistic-republican,roman,late-antique,modern",
     "timePeriodsRange": "-750.0,2100.0",
     "minDate": -750.0,
-    "maxDate": 2100.0
-   },
-   "Analysis": {
-    "War": [
-     1,
-     [
-      73
+    "maxDate": 2100.0,
+    "Analysis": {
+     "War": [
+      1,
+      [
+       73
+      ]
      ]
-    ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -654,15 +654,15 @@ var War_Topic =
     "timePeriodsKeys": "archaic,classical,hellenistic-republican,roman,modern",
     "timePeriodsRange": "-750.0,2100.0",
     "minDate": -750.0,
-    "maxDate": 2100.0
-   },
-   "Analysis": {
-    "War": [
-     1,
-     [
-      73
+    "maxDate": 2100.0,
+    "Analysis": {
+     "War": [
+      1,
+      [
+       73
+      ]
      ]
-    ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -681,15 +681,15 @@ var War_Topic =
     "timePeriodsKeys": "classical,hellenistic-republican,roman,late-antique",
     "timePeriodsRange": "-550.0,640.0",
     "minDate": -550.0,
-    "maxDate": 640.0
-   },
-   "Analysis": {
-    "War": [
-     1,
-     [
-      76
+    "maxDate": 640.0,
+    "Analysis": {
+     "War": [
+      1,
+      [
+       76
+      ]
      ]
-    ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -708,19 +708,19 @@ var War_Topic =
     "timePeriodsKeys": "classical,roman,modern",
     "timePeriodsRange": "-550.0,2100.0",
     "minDate": -550.0,
-    "maxDate": 2100.0
-   },
-   "Analysis": {
-    "War": [
-     5,
-     [
-      84,
-      85,
-      88,
-      103,
-      162
+    "maxDate": 2100.0,
+    "Analysis": {
+     "War": [
+      5,
+      [
+       84,
+       85,
+       88,
+       103,
+       162
+      ]
      ]
-    ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -739,15 +739,15 @@ var War_Topic =
     "timePeriodsKeys": "roman,late-antique",
     "timePeriodsRange": "-30.0,640.0",
     "minDate": -30.0,
-    "maxDate": 640.0
-   },
-   "Analysis": {
-    "War": [
-     1,
-     [
-      92
+    "maxDate": 640.0,
+    "Analysis": {
+     "War": [
+      1,
+      [
+       92
+      ]
      ]
-    ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -766,15 +766,15 @@ var War_Topic =
     "timePeriodsKeys": "classical,hellenistic-republican,roman,late-antique",
     "timePeriodsRange": "-550.0,640.0",
     "minDate": -550.0,
-    "maxDate": 640.0
-   },
-   "Analysis": {
-    "War": [
-     1,
-     [
-      95
+    "maxDate": 640.0,
+    "Analysis": {
+     "War": [
+      1,
+      [
+       95
+      ]
      ]
-    ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -793,17 +793,17 @@ var War_Topic =
     "timePeriodsKeys": NaN,
     "timePeriodsRange": NaN,
     "minDate": NaN,
-    "maxDate": NaN
-   },
-   "Analysis": {
-    "War": [
-     3,
-     [
-      102,
-      102,
-      124
+    "maxDate": NaN,
+    "Analysis": {
+     "War": [
+      3,
+      [
+       102,
+       102,
+       124
+      ]
      ]
-    ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -822,15 +822,15 @@ var War_Topic =
     "timePeriodsKeys": "hellenistic-republican",
     "timePeriodsRange": "-330.0,-30.0",
     "minDate": -330.0,
-    "maxDate": -30.0
-   },
-   "Analysis": {
-    "War": [
-     1,
-     [
-      113
+    "maxDate": -30.0,
+    "Analysis": {
+     "War": [
+      1,
+      [
+       113
+      ]
      ]
-    ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -849,15 +849,15 @@ var War_Topic =
     "timePeriodsKeys": "classical,hellenistic-republican,roman,late-antique,modern",
     "timePeriodsRange": "-550.0,2100.0",
     "minDate": -550.0,
-    "maxDate": 2100.0
-   },
-   "Analysis": {
-    "War": [
-     1,
-     [
-      123
+    "maxDate": 2100.0,
+    "Analysis": {
+     "War": [
+      1,
+      [
+       123
+      ]
      ]
-    ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -876,15 +876,15 @@ var War_Topic =
     "timePeriodsKeys": "classical,hellenistic-republican,roman,late-antique",
     "timePeriodsRange": "-550.0,640.0",
     "minDate": -550.0,
-    "maxDate": 640.0
-   },
-   "Analysis": {
-    "War": [
-     1,
-     [
-      124
+    "maxDate": 640.0,
+    "Analysis": {
+     "War": [
+      1,
+      [
+       124
+      ]
      ]
-    ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -903,15 +903,15 @@ var War_Topic =
     "timePeriodsKeys": "archaic,classical,hellenistic-republican,roman,late-antique,modern",
     "timePeriodsRange": "-750.0,2100.0",
     "minDate": -750.0,
-    "maxDate": 2100.0
-   },
-   "Analysis": {
-    "War": [
-     1,
-     [
-      127
+    "maxDate": 2100.0,
+    "Analysis": {
+     "War": [
+      1,
+      [
+       127
+      ]
      ]
-    ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -930,15 +930,15 @@ var War_Topic =
     "timePeriodsKeys": "roman,late-antique",
     "timePeriodsRange": "-30.0,640.0",
     "minDate": -30.0,
-    "maxDate": 640.0
-   },
-   "Analysis": {
-    "War": [
-     1,
-     [
-      132
+    "maxDate": 640.0,
+    "Analysis": {
+     "War": [
+      1,
+      [
+       132
+      ]
      ]
-    ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -957,15 +957,15 @@ var War_Topic =
     "timePeriodsKeys": "classical,hellenistic-republican",
     "timePeriodsRange": "-550.0,-30.0",
     "minDate": -550.0,
-    "maxDate": -30.0
-   },
-   "Analysis": {
-    "War": [
-     1,
-     [
-      133
+    "maxDate": -30.0,
+    "Analysis": {
+     "War": [
+      1,
+      [
+       133
+      ]
      ]
-    ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -984,15 +984,15 @@ var War_Topic =
     "timePeriodsKeys": "modern",
     "timePeriodsRange": "1700.0,2100.0",
     "minDate": 1700.0,
-    "maxDate": 2100.0
-   },
-   "Analysis": {
-    "War": [
-     1,
-     [
-      138
+    "maxDate": 2100.0,
+    "Analysis": {
+     "War": [
+      1,
+      [
+       138
+      ]
      ]
-    ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -1011,15 +1011,15 @@ var War_Topic =
     "timePeriodsKeys": "archaic,classical,hellenistic-republican,roman,late-antique",
     "timePeriodsRange": "-750.0,640.0",
     "minDate": -750.0,
-    "maxDate": 640.0
-   },
-   "Analysis": {
-    "War": [
-     1,
-     [
-      145
+    "maxDate": 640.0,
+    "Analysis": {
+     "War": [
+      1,
+      [
+       145
+      ]
      ]
-    ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -1038,15 +1038,15 @@ var War_Topic =
     "timePeriodsKeys": NaN,
     "timePeriodsRange": NaN,
     "minDate": NaN,
-    "maxDate": NaN
-   },
-   "Analysis": {
-    "War": [
-     1,
-     [
-      145
+    "maxDate": NaN,
+    "Analysis": {
+     "War": [
+      1,
+      [
+       145
+      ]
      ]
-    ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -1065,15 +1065,15 @@ var War_Topic =
     "timePeriodsKeys": "archaic,classical,hellenistic-republican,hellenistic-roman-early-empire,roman,late-antique,modern",
     "timePeriodsRange": "-750.0,2100.0",
     "minDate": -750.0,
-    "maxDate": 2100.0
-   },
-   "Analysis": {
-    "War": [
-     1,
-     [
-      145
+    "maxDate": 2100.0,
+    "Analysis": {
+     "War": [
+      1,
+      [
+       145
+      ]
      ]
-    ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -1092,16 +1092,16 @@ var War_Topic =
     "timePeriodsKeys": "archaic,classical,hellenistic-republican,roman",
     "timePeriodsRange": "-750.0,300.0",
     "minDate": -750.0,
-    "maxDate": 300.0
-   },
-   "Analysis": {
-    "War": [
-     2,
-     [
-      149,
-      149
+    "maxDate": 300.0,
+    "Analysis": {
+     "War": [
+      2,
+      [
+       149,
+       149
+      ]
      ]
-    ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -1120,15 +1120,15 @@ var War_Topic =
     "timePeriodsKeys": "archaic,classical,hellenistic-republican,roman",
     "timePeriodsRange": "-750.0,300.0",
     "minDate": -750.0,
-    "maxDate": 300.0
-   },
-   "Analysis": {
-    "War": [
-     1,
-     [
-      149
+    "maxDate": 300.0,
+    "Analysis": {
+     "War": [
+      1,
+      [
+       149
+      ]
      ]
-    ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -1147,17 +1147,17 @@ var War_Topic =
     "timePeriodsKeys": "archaic,classical,hellenistic-republican,roman,late-antique",
     "timePeriodsRange": "-750.0,640.0",
     "minDate": -750.0,
-    "maxDate": 640.0
-   },
-   "Analysis": {
-    "War": [
-     3,
-     [
-      151,
-      152,
-      179
+    "maxDate": 640.0,
+    "Analysis": {
+     "War": [
+      3,
+      [
+       151,
+       152,
+       179
+      ]
      ]
-    ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -1176,15 +1176,15 @@ var War_Topic =
     "timePeriodsKeys": "early-iron-age-anatolia,1200-bc-middle-east,archaic,neo-assyrian-babylonian-middle-east,middle-late-iron-age-anatolia,classical,achaemenid-middle-east,hellenistic-republican,hellenistic-middle-east,roman-middle-east,roman,roman-early-empire-parthian-middle-east,transition-roman-early-empire-late-antique,late-antique,late-antique-sasanian-middle-east,late-antique-late-byzantine,proto-byzantine,early-byzantine,abassid-middle-east,middle-byzantine,rum-crusader-anatolia,crusader-byzantine-seljuq-middle-east,ilkhanate-middle-east,mongol-middle-east,ottoman-rise,timurid-middle-east,early-ottoman-empire,late-ottoman-empire,modern-middle-east",
     "timePeriodsRange": "-1200.0,2000.0",
     "minDate": -1200.0,
-    "maxDate": 2000.0
-   },
-   "Analysis": {
-    "War": [
-     1,
-     [
-      157
+    "maxDate": 2000.0,
+    "Analysis": {
+     "War": [
+      1,
+      [
+       157
+      ]
      ]
-    ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -1203,15 +1203,15 @@ var War_Topic =
     "timePeriodsKeys": "archaic,classical,hellenistic-republican,roman,late-antique,modern",
     "timePeriodsRange": "-750.0,2100.0",
     "minDate": -750.0,
-    "maxDate": 2100.0
-   },
-   "Analysis": {
-    "War": [
-     1,
-     [
-      158
+    "maxDate": 2100.0,
+    "Analysis": {
+     "War": [
+      1,
+      [
+       158
+      ]
      ]
-    ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -1230,15 +1230,15 @@ var War_Topic =
     "timePeriodsKeys": "classical,hellenistic-republican,roman,late-antique,modern",
     "timePeriodsRange": "-550.0,2100.0",
     "minDate": -550.0,
-    "maxDate": 2100.0
-   },
-   "Analysis": {
-    "War": [
-     1,
-     [
-      159
+    "maxDate": 2100.0,
+    "Analysis": {
+     "War": [
+      1,
+      [
+       159
+      ]
      ]
-    ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -1257,15 +1257,15 @@ var War_Topic =
     "timePeriodsKeys": "archaic,classical,hellenistic-republican,roman",
     "timePeriodsRange": "-750.0,300.0",
     "minDate": -750.0,
-    "maxDate": 300.0
-   },
-   "Analysis": {
-    "War": [
-     1,
-     [
-      159
+    "maxDate": 300.0,
+    "Analysis": {
+     "War": [
+      1,
+      [
+       159
+      ]
      ]
-    ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -1284,15 +1284,15 @@ var War_Topic =
     "timePeriodsKeys": "archaic,classical,hellenistic-republican,roman,late-antique",
     "timePeriodsRange": "-750.0,640.0",
     "minDate": -750.0,
-    "maxDate": 640.0
-   },
-   "Analysis": {
-    "War": [
-     1,
-     [
-      159
+    "maxDate": 640.0,
+    "Analysis": {
+     "War": [
+      1,
+      [
+       159
+      ]
      ]
-    ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -1311,15 +1311,15 @@ var War_Topic =
     "timePeriodsKeys": "archaic,classical,hellenistic-republican,roman,late-antique",
     "timePeriodsRange": "-750.0,640.0",
     "minDate": -750.0,
-    "maxDate": 640.0
-   },
-   "Analysis": {
-    "War": [
-     1,
-     [
-      160
+    "maxDate": 640.0,
+    "Analysis": {
+     "War": [
+      1,
+      [
+       160
+      ]
      ]
-    ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -1338,15 +1338,15 @@ var War_Topic =
     "timePeriodsKeys": "archaic,classical,hellenistic-republican,roman",
     "timePeriodsRange": "-750.0,300.0",
     "minDate": -750.0,
-    "maxDate": 300.0
-   },
-   "Analysis": {
-    "War": [
-     1,
-     [
-      160
+    "maxDate": 300.0,
+    "Analysis": {
+     "War": [
+      1,
+      [
+       160
+      ]
      ]
-    ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -1365,15 +1365,15 @@ var War_Topic =
     "timePeriodsKeys": "archaic,classical,hellenistic-republican,roman",
     "timePeriodsRange": "-750.0,300.0",
     "minDate": -750.0,
-    "maxDate": 300.0
-   },
-   "Analysis": {
-    "War": [
-     1,
-     [
-      164
+    "maxDate": 300.0,
+    "Analysis": {
+     "War": [
+      1,
+      [
+       164
+      ]
      ]
-    ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -1392,15 +1392,15 @@ var War_Topic =
     "timePeriodsKeys": "archaic,classical,hellenistic-republican,roman",
     "timePeriodsRange": "-750.0,300.0",
     "minDate": -750.0,
-    "maxDate": 300.0
-   },
-   "Analysis": {
-    "War": [
-     1,
-     [
-      165
+    "maxDate": 300.0,
+    "Analysis": {
+     "War": [
+      1,
+      [
+       165
+      ]
      ]
-    ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -1419,15 +1419,15 @@ var War_Topic =
     "timePeriodsKeys": "2nd-millenium-bce,archaic,classical,hellenistic-republican,modern",
     "timePeriodsRange": "-2000.0,2100.0",
     "minDate": -2000.0,
-    "maxDate": 2100.0
-   },
-   "Analysis": {
-    "War": [
-     1,
-     [
-      172
+    "maxDate": 2100.0,
+    "Analysis": {
+     "War": [
+      1,
+      [
+       172
+      ]
      ]
-    ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -1446,15 +1446,15 @@ var War_Topic =
     "timePeriodsKeys": "hellenistic-republican,roman,modern",
     "timePeriodsRange": "-330.0,2100.0",
     "minDate": -330.0,
-    "maxDate": 2100.0
-   },
-   "Analysis": {
-    "War": [
-     1,
-     [
-      177
+    "maxDate": 2100.0,
+    "Analysis": {
+     "War": [
+      1,
+      [
+       177
+      ]
      ]
-    ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -1473,17 +1473,17 @@ var War_Topic =
     "timePeriodsKeys": "classical,hellenistic-republican,roman",
     "timePeriodsRange": "-550.0,300.0",
     "minDate": -550.0,
-    "maxDate": 300.0
-   },
-   "Analysis": {
-    "War": [
-     3,
-     [
-      178,
-      178,
-      183
+    "maxDate": 300.0,
+    "Analysis": {
+     "War": [
+      3,
+      [
+       178,
+       178,
+       183
+      ]
      ]
-    ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -1502,15 +1502,15 @@ var War_Topic =
     "timePeriodsKeys": "middle-geometric,archaic,classical,hellenistic-republican,roman",
     "timePeriodsRange": "-850.0,300.0",
     "minDate": -850.0,
-    "maxDate": 300.0
-   },
-   "Analysis": {
-    "War": [
-     1,
-     [
-      179
+    "maxDate": 300.0,
+    "Analysis": {
+     "War": [
+      1,
+      [
+       179
+      ]
      ]
-    ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -1529,15 +1529,15 @@ var War_Topic =
     "timePeriodsKeys": "modern",
     "timePeriodsRange": "1700.0,2100.0",
     "minDate": 1700.0,
-    "maxDate": 2100.0
-   },
-   "Analysis": {
-    "War": [
-     1,
-     [
-      181
+    "maxDate": 2100.0,
+    "Analysis": {
+     "War": [
+      1,
+      [
+       181
+      ]
      ]
-    ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -1556,15 +1556,15 @@ var War_Topic =
     "timePeriodsKeys": "modern",
     "timePeriodsRange": "1700.0,2100.0",
     "minDate": 1700.0,
-    "maxDate": 2100.0
-   },
-   "Analysis": {
-    "War": [
-     1,
-     [
-      183
+    "maxDate": 2100.0,
+    "Analysis": {
+     "War": [
+      1,
+      [
+       183
+      ]
      ]
-    ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -1583,15 +1583,15 @@ var War_Topic =
     "timePeriodsKeys": "hellenistic-republican",
     "timePeriodsRange": "-330.0,-30.0",
     "minDate": -330.0,
-    "maxDate": -30.0
-   },
-   "Analysis": {
-    "War": [
-     1,
-     [
-      185
+    "maxDate": -30.0,
+    "Analysis": {
+     "War": [
+      1,
+      [
+       185
+      ]
      ]
-    ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -1610,15 +1610,15 @@ var War_Topic =
     "timePeriodsKeys": "archaic,middle-late-iron-age-anatolia,classical,achaemenid-middle-east,hellenistic-republican,hellenistic-middle-east,roman-middle-east,roman,roman-early-empire-parthian-middle-east,late-antique,late-antique-sasanian-middle-east,late-antique-late-byzantine,early-byzantine,abassid-middle-east,middle-byzantine,rum-crusader-anatolia,crusader-byzantine-seljuq-middle-east,modern-middle-east",
     "timePeriodsRange": "-750.0,2000.0",
     "minDate": -750.0,
-    "maxDate": 2000.0
-   },
-   "Analysis": {
-    "War": [
-     1,
-     [
-      186
+    "maxDate": 2000.0,
+    "Analysis": {
+     "War": [
+      1,
+      [
+       186
+      ]
      ]
-    ]
+    }
    },
    "geometry": {
     "type": "Point",
