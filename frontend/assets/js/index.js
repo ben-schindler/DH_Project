@@ -164,7 +164,7 @@ function initMap() {
 
 
     //get placeFeatures variable from js import in index.html
-    console.log(placeFeatures);
+    // console.log(placeFeatures);
 
     localStorage.setItem('placesloaded', 0);
 
@@ -175,7 +175,7 @@ function initMap() {
 
         if (loadplaces == 0) {
 
-            map.data.addGeoJson(placeFeatures); //Data is added to Gmap and then setStyle in initMap--> Circle with magnitude
+            map.data.addGeoJson(count); //Data is added to Gmap and then setStyle in initMap--> Circle with magnitude
 
             var chartData = [];
             var countPlaces;
@@ -186,7 +186,7 @@ function initMap() {
                 "other": 0
             };
 
-            $.each(placeFeatures.features, function (i, item) {
+            $.each(count.features, function (i, item) {
                 //console.log(item.properties.featureTypes);
                 countPlaces = i++;
                 if (item.properties.featureTypes.includes("settlement")) {
@@ -202,7 +202,8 @@ function initMap() {
                     item.properties.genCategory = "Other"
                     countCategory.other++;
                 }
-                chartData.push([item.properties.count, item.properties.title, item.properties.featureTypes, item.properties.timePeriodsKeys, item.properties.description]);
+                //console.log(item.properties.Analysis.Count[0])
+                chartData.push([item.properties.Analysis.Count[0], item.properties.title, item.properties.featureTypes, item.properties.timePeriodsKeys, item.properties.description]);
             });
 
             console.log(countPlaces);
@@ -230,7 +231,7 @@ function initMap() {
                     { title: "Description" }
                 ]
             });
-            localStorage.setItem('placesloaded', 1);
+            localStorage.setItem('count', 1);
         }
 
         if (loadplaces == 1) {
@@ -248,7 +249,8 @@ function initMap() {
 
         if (loadWarPlaces == 0) {
 
-            map.data.addGeoJson(warFeatures); //Data is added to Gmap and then setStyle in initMap--> Circle with magnitude
+            console.log(War_Topic)
+            map.data.addGeoJson(War_Topic); //Data is added to Gmap and then setStyle in initMap--> Circle with magnitude
 
             var chartData = [];
             var countPlaces;
@@ -259,7 +261,7 @@ function initMap() {
                 "other": 0
             };
 
-            $.each(placeFeatures.features, function (i, item) {
+            $.each(War_Topic.features, function (i, item) {
                 //console.log(item.properties.featureTypes);
                 countPlaces = i++;
                 if (item.properties.featureTypes.includes("settlement")) {
@@ -275,7 +277,7 @@ function initMap() {
                     item.properties.genCategory = "Other"
                     countCategory.other++;
                 }
-                chartData.push([item.properties.count, item.properties.title, item.properties.featureTypes, item.properties.timePeriodsKeys, item.properties.description]);
+                chartData.push([item.properties.Analysis.War[0], item.properties.title, item.properties.featureTypes, item.properties.timePeriodsKeys, item.properties.description]);
             });
 
             console.log(countPlaces);
@@ -322,8 +324,8 @@ function initMap() {
 
         if (loadCroesusPlaces == 0) {
 
-            map.data.addGeoJson(croesusFeatures); //Data is added to Gmap and then setStyle in initMap--> Circle with magnitude
-
+            map.data.addGeoJson(Croesus); //Data is added to Gmap and then setStyle in initMap--> Circle with magnitude
+            console.log(Croesus)
             var chartData = [];
             var countPlaces;
             var countCategory = {
@@ -333,7 +335,7 @@ function initMap() {
                 "other": 0
             };
 
-            $.each(placeFeatures.features, function (i, item) {
+            $.each(Croesus.features, function (i, item) {
                 //console.log(item.properties.featureTypes);
                 countPlaces = i++;
                 if (item.properties.featureTypes.includes("settlement")) {
@@ -349,7 +351,7 @@ function initMap() {
                     item.properties.genCategory = "Other"
                     countCategory.other++;
                 }
-                chartData.push([item.properties.count, item.properties.title, item.properties.featureTypes, item.properties.timePeriodsKeys, item.properties.description]);
+                chartData.push([item.properties.Analysis.Count[0], item.properties.title, item.properties.featureTypes, item.properties.timePeriodsKeys, item.properties.description]);
             });
 
             console.log(countPlaces);
@@ -384,6 +386,186 @@ function initMap() {
         if (loadCroesusPlaces == 1) {
 
             alert("Places already loaded");
+        }
+    });
+
+    // on button click 
+    localStorage.setItem('religionPlacesloaded', 0);
+    $("#religionButton").click(function () {
+        console.log("Click Religion")
+
+        loadReligionPlaces = localStorage.getItem('religionPlacesloaded');
+
+        if (loadReligionPlaces == 0) {
+
+            console.log("run Religion")
+
+            map.data.addGeoJson(Religion_Topic); //Data is added to Gmap and then setStyle in initMap--> Circle with magnitude
+            var chartData = [];
+            var countPlaces;
+            var countCategory = {
+                "settlements": 0,
+                "geographical": 0,
+                "people": 0,
+                "other": 0
+            };
+
+            $.each(Religion_Topic.features, function (i, item) {
+                //console.log(item.properties.featureTypes);
+                countPlaces = i++;
+                if (item.properties.featureTypes.includes("settlement")) {
+                    item.properties.genCategory = "Settlement"
+                    countCategory.settlements++;
+                } else if (item.properties.featureTypes.includes("river") || item.properties.featureTypes.includes("island") || item.properties.featureTypes.includes("mountain") || item.properties.featureTypes.includes("water")) {
+                    item.properties.genCategory = "Geographical"
+                    countCategory.geographical++;
+                } else if (item.properties.featureTypes.includes("province") || item.properties.featureTypes.includes("people") || item.properties.featureTypes.includes("station")) {
+                    item.properties.genCategory = "People"
+                    countCategory.people++;
+                } else {
+                    item.properties.genCategory = "Other"
+                    countCategory.other++;
+                }
+                chartData.push([item.properties.Analysis.Religion[0], item.properties.title, item.properties.featureTypes, item.properties.timePeriodsKeys, item.properties.description]);
+            });
+
+            console.log(countPlaces);
+            console.log(countCategory.settlements)
+            console.log(countCategory.geographical)
+            console.log(countCategory.people)
+            console.log(countCategory.other)
+
+
+            countCategory.all = countCategory.settlements + countCategory.geographical + countCategory.people + countCategory.other;
+            $(".settlements").html(countCategory.settlements);
+            $(".geographical").html(countCategory.geographical);
+            $(".people").html(countCategory.people);
+            $(".other").html(countCategory.other);
+            window.countCategory = countCategory;
+            $(window).trigger('changeData', countCategory);
+
+
+            $('#chartData').DataTable({
+                data: chartData,
+                columns: [
+                    { title: "Count" },
+                    { title: "Title" },
+                    { title: "Category" },
+                    { title: "Time Period" },
+                    { title: "Description" }
+                ]
+            });
+            localStorage.setItem('ReligionPlacesloaded', 1);
+        }
+
+        if (loadReligionPlaces == 1) {
+
+            alert("Places already loaded");
+        }
+    });
+
+    // on button click 
+    localStorage.setItem('warReligionPlacesloaded', 0);
+    $("#warReligionButton").click(function () {
+        
+        loadwarReligionPlaces = localStorage.getItem('warReligionPlacesloaded');
+
+        if (loadwarReligionPlaces == 0) {
+
+            console.log("run War-Religion")
+
+            map.data.addGeoJson(War_Religion_Topic); //Data is added to Gmap and then setStyle in initMap--> Circle with magnitude
+            var chartData = [];
+            var countPlaces;
+            var countCategory = {
+                "settlements": 0,
+                "geographical": 0,
+                "people": 0,
+                "other": 0
+            };
+
+            $.each(War_Religion_Topic.features, function (i, item) {
+                //console.log(item.properties.featureTypes);
+                countPlaces = i++;
+                if (item.properties.featureTypes.includes("settlement")) {
+                    item.properties.genCategory = "Settlement"
+                    countCategory.settlements++;
+                } else if (item.properties.featureTypes.includes("river") || item.properties.featureTypes.includes("island") || item.properties.featureTypes.includes("mountain") || item.properties.featureTypes.includes("water")) {
+                    item.properties.genCategory = "Geographical"
+                    countCategory.geographical++;
+                } else if (item.properties.featureTypes.includes("province") || item.properties.featureTypes.includes("people") || item.properties.featureTypes.includes("station")) {
+                    item.properties.genCategory = "People"
+                    countCategory.people++;
+                } else {
+                    item.properties.genCategory = "Other"
+                    countCategory.other++;
+                }
+                chartData.push([item.properties.Analysis.War[0] + item.properties.Analysis.Religion[0], item.properties.title, item.properties.featureTypes, item.properties.timePeriodsKeys, item.properties.description]);
+            });
+
+            // console.log(countPlaces);
+            // console.log(countCategory.settlements)
+            // console.log(countCategory.geographical)
+            // console.log(countCategory.people)
+            // console.log(countCategory.other)
+
+
+            countCategory.all = countCategory.settlements + countCategory.geographical + countCategory.people + countCategory.other;
+            $(".settlements").html(countCategory.settlements);
+            $(".geographical").html(countCategory.geographical);
+            $(".people").html(countCategory.people);
+            $(".other").html(countCategory.other);
+            window.countCategory = countCategory;
+            $(window).trigger('changeData', countCategory);
+
+
+            $('#chartData').DataTable({
+                data: chartData,
+                columns: [
+                    { title: "Count" },
+                    { title: "Title" },
+                    { title: "Category" },
+                    { title: "Time Period" },
+                    { title: "Description" }
+                ]
+            });
+
+            console.log("Time Series Start")
+            //Labels for Time Series
+            function labelsForChart() {
+                var labels = ['Peter', 'Peter', 'Peter', 'Peter', 'Peter', 'Peter'];
+                console.log(labels)
+                return labels;
+            }
+            // Values for Time Series
+            function valuesForChart() {
+                var values = [
+                    [0, 18000, 35000, 25000, 22000, 0],
+                    [0, 33000, 15000, 20000, 15000, 300],
+                    [0, 15000, 28000, 15000, 30000, 5000]
+                ];
+                console.log(values)
+                return values;
+            }
+                // var labels = ['Peter', 'Peter', 'Peter', 'Peter', 'Peter', 'Peter'];
+                // var values = [
+                //     [0, 18000, 35000, 25000, 22000, 0],
+                //     [0, 33000, 15000, 20000, 15000, 300],
+                //     [0, 15000, 28000, 15000, 30000, 5000]
+                // ];
+        
+            $(window).trigger('changeStatData');
+            $(window).trigger('changeStatData', labels, values);
+
+            console.log("Triggered")
+
+
+
+            localStorage.setItem('warReligionPlacesloaded', 1);
+        }
+
+        if (loadwarReligionPlaces == 1) {
+            alert("War-Religion already loaded");
         }
     });
 
@@ -440,82 +622,154 @@ function initMap() {
     map.data.addListener('click', function (event) {
 
         var title = event.feature.getProperty("title");
-        var count = event.feature.getProperty("count");
+        // var count = event.feature.getProperty("count");
+        var Analysis = event.feature.getProperty('Analysis');
+        try {
+            var count = Analysis.Count[0]
+        }
+        catch (err) {
+            try {
+                var count = Analysis.War[0];
+            }
+            catch (err) {
+                var count = Analysis.Religion[0];
+            }
+        }
         var featureTypes = event.feature.getProperty("featureTypes");
         var timePeriodsKeys = event.feature.getProperty("timePeriodsKeys");
         var maxDate = event.feature.getProperty("maxDate");
         var minDate = event.feature.getProperty("minDate");
-        var count = event.feature.getProperty("count");
         var description = event.feature.getProperty("description");
         var url = "https://pleiades.stoa.org/";
-
-
 
         String.prototype.capitalize = function () {
             return this.charAt(0).toUpperCase() + this.slice(1);
         }
 
-        infowindow.setContent(
-            '<div>' +
-            '<h3>' + title + '</h3>' +
-            '<p></p>' +
-            '<p><b>Occurences:</b> ' + count + '<br /> ' +
-            '<b>Category:</b> ' + featureTypes + '<br /> ' +
-            '<b>Time Period:</b> ' + timePeriodsKeys + '<br /> ' +
-            '<b>Years active A.D.:</b> ' + minDate + ' until ' + maxDate + '<br /> ' +
-            '<b>Description:</b> ' + description + '<br /> ' +
-            '<b>Source:</b> <a href=' + url + '>' + url + '</a> </p>' +
-            '</div>'
+        try {
+            var countWar = Analysis.War[0]
+            var countReligion = Analysis.Religion[0]
 
-        );
+            console.log(countWar)
+            console.log(countReligion)
+
+            infowindow.setContent(
+                '<div>' +
+                '<h3>' + title + '</h3>' +
+                '<p></p>' +
+                '<p><b>Occurences:</b> ' + 'War ' + countWar + ', Religion ' + countReligion + '<br /> ' +
+                '<b>Category:</b> ' + featureTypes + '<br /> ' +
+                '<b>Time Period:</b> ' + timePeriodsKeys + '<br /> ' +
+                '<b>Years active A.D.:</b> ' + minDate + ' until ' + maxDate + '<br /> ' +
+                '<b>Description:</b> ' + description + '<br /> ' +
+                '<b>Source:</b> <a href=' + url + '>' + url + '</a> </p>' +
+                '</div>'
+
+            );
+        } catch{
+            infowindow.setContent(
+                '<div>' +
+                '<h3>' + title + '</h3>' +
+                '<p></p>' +
+                '<p><b>Occurences:</b> ' + count + '<br /> ' +
+                '<b>Category:</b> ' + featureTypes + '<br /> ' +
+                '<b>Time Period:</b> ' + timePeriodsKeys + '<br /> ' +
+                '<b>Years active A.D.:</b> ' + minDate + ' until ' + maxDate + '<br /> ' +
+                '<b>Description:</b> ' + description + '<br /> ' +
+                '<b>Source:</b> <a href=' + url + '>' + url + '</a> </p>' +
+                '</div>'
+
+            );
+        }
+
+
+
         infowindow.setPosition(event.feature.getGeometry().get());
         infowindow.setOptions({ pixelOffset: new google.maps.Size(0, -30) });
         infowindow.open(map);
     });
 
     map.data.setStyle(function (feature) {
-        var magnitude = feature.getProperty('count');
-        //var topic = "places" //add topic to data when more than one
-        var topic = feature.getProperty('genCategory')
-        var color;
 
-        //console.log(topic)
+        var Analysis = feature.getProperty('Analysis');
 
-        if(topic !== undefined){
-            if (topic.includes("Settlement")) {
-                color = 'green'
-            } else
-            if (topic.includes("People")) {
-                color = 'green'
-            }else
-            if (topic.includes("Geographical")) {
-                color = 'purple'
-            }else
-            if (topic.includes("Other")) {
-                color = 'blue'
-            }else{
-                color = 'red'
+        try {
+            var magnitude = Analysis.War[0] + Analysis.Religion[0]
+        }
+        catch{
+            try {
+                var magnitude = Analysis.Count[0]
             }
-            return {
-                icon: getCircle(magnitude, color)
-            }
-        }else{
-            console.log("No Category Data available");
-            color = 'red'
-            return {
-                icon: getCircle(magnitude, color)
+            catch (err) {
+                try {
+                    var magnitude = Analysis.War[0];
+                }
+                catch (err) {
+                    var magnitude = Analysis.Religion[0];
+                }
             }
         }
 
-        
+        var topic = feature.getProperty('genCategory')
+
+        var color;
+
+        //console.log(Analysis)
+
+        try {
+            var countWar = Analysis.War[0]
+            var countReligion = Analysis.Religion[0]
+
+            if (countWar > countReligion) {
+                color = 'red'
+            } else {
+                color = 'white'
+            }
+            return {
+                icon: getCircle(magnitude, color)
+            }
+
+
+        } catch{
+
+            if (topic !== undefined) {
+                if (topic.includes("Settlement")) {
+                    color = 'green'
+                } else
+                    if (topic.includes("People")) {
+                        color = 'green'
+                    } else
+                        if (topic.includes("Geographical")) {
+                            color = 'purple'
+                        } else
+                            if (topic.includes("Other")) {
+                                color = 'blue'
+                            } else {
+                                color = 'red'
+                            }
+                return {
+                    icon: getCircle(magnitude, color)
+                }
+            } else {
+                console.log("No Category Data available");
+                color = 'red'
+                return {
+                    icon: getCircle(magnitude, color)
+                }
+            }
+
+        }
+
+
+
+
+
     });
 
     //End Init Map
 
 
     function getCircle(magnitude, color) {
-        // console.log(magnitude);
-
         var calcScale
         // calcScale = 9;
         calcScale = Math.sqrt(magnitude + 60);
@@ -525,7 +779,7 @@ function initMap() {
             calcScale = magnitude * 2;
         } else {
             //console.log(magnitude)
-            calcScale = 15 + ( (magnitude * 2 ) / 30)
+            calcScale = 15 + ((magnitude * 2) / 30)
             //console.log(calcScale)
         }
 
