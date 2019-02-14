@@ -11,17 +11,19 @@ var count =
     "timePeriodsKeys": "classical,hellenistic-republican,roman,late-antique,mediaeval-byzantine,modern",
     "timePeriodsRange": "-550.0,2100.0",
     "minDate": -550.0,
-    "maxDate": 2100.0
-   },
-   "Analysis": {
-    "count": 5,
-    "occurrences": [
-     0,
-     28,
-     28,
-     33,
-     75
-    ]
+    "maxDate": 2100.0,
+    "Analysis": {
+     "Count": [
+      5,
+      [
+       0,
+       28,
+       28,
+       33,
+       75
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -40,23 +42,25 @@ var count =
     "timePeriodsKeys": "old-babylonian-assyrian-mesopotamia,later-2nd-millennium-bc-mesopotamia,archaic,neo-assyrian-babylonian-middle-east,classical,hellenistic-republican,roman,late-antique",
     "timePeriodsRange": "-2000.0,640.0",
     "minDate": -2000.0,
-    "maxDate": 640.0
-   },
-   "Analysis": {
-    "count": 11,
-    "occurrences": [
-     0,
-     20,
-     34,
-     35,
-     37,
-     37,
-     37,
-     44,
-     95,
-     112,
-     112
-    ]
+    "maxDate": 640.0,
+    "Analysis": {
+     "Count": [
+      11,
+      [
+       0,
+       20,
+       34,
+       35,
+       37,
+       37,
+       37,
+       44,
+       95,
+       112,
+       112
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -75,29 +79,31 @@ var count =
     "timePeriodsKeys": "archaic,classical,hellenistic-republican,roman",
     "timePeriodsRange": "-750.0,300.0",
     "minDate": -750.0,
-    "maxDate": 300.0
-   },
-   "Analysis": {
-    "count": 17,
-    "occurrences": [
-     0,
-     0,
-     5,
-     15,
-     146,
-     149,
-     149,
-     162,
-     171,
-     171,
-     172,
-     172,
-     172,
-     172,
-     172,
-     172,
-     174
-    ]
+    "maxDate": 300.0,
+    "Analysis": {
+     "Count": [
+      17,
+      [
+       0,
+       0,
+       5,
+       15,
+       146,
+       149,
+       149,
+       162,
+       171,
+       171,
+       172,
+       172,
+       172,
+       172,
+       172,
+       172,
+       174
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -116,13 +122,15 @@ var count =
     "timePeriodsKeys": "classical,modern",
     "timePeriodsRange": "-550.0,2100.0",
     "minDate": -550.0,
-    "maxDate": 2100.0
-   },
-   "Analysis": {
-    "count": 1,
-    "occurrences": [
-     0
-    ]
+    "maxDate": 2100.0,
+    "Analysis": {
+     "Count": [
+      1,
+      [
+       0
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -141,15 +149,17 @@ var count =
     "timePeriodsKeys": "archaic,classical,hellenistic-republican,roman,late-antique",
     "timePeriodsRange": "-750.0,640.0",
     "minDate": -750.0,
-    "maxDate": 640.0
-   },
-   "Analysis": {
-    "count": 3,
-    "occurrences": [
-     0,
-     20,
-     59
-    ]
+    "maxDate": 640.0,
+    "Analysis": {
+     "Count": [
+      3,
+      [
+       0,
+       20,
+       59
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -168,20 +178,22 @@ var count =
     "timePeriodsKeys": NaN,
     "timePeriodsRange": NaN,
     "minDate": NaN,
-    "maxDate": NaN
-   },
-   "Analysis": {
-    "count": 8,
-    "occurrences": [
-     0,
-     20,
-     59,
-     112,
-     112,
-     113,
-     120,
-     173
-    ]
+    "maxDate": NaN,
+    "Analysis": {
+     "Count": [
+      8,
+      [
+       0,
+       20,
+       59,
+       112,
+       112,
+       113,
+       120,
+       173
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -200,16 +212,18 @@ var count =
     "timePeriodsKeys": "3rd-millennium-bc,2nd-millenium-bce,archaic,classical,hellenistic-republican,roman,late-antique,modern",
     "timePeriodsRange": "-3000.0,2100.0",
     "minDate": -3000.0,
-    "maxDate": 2100.0
-   },
-   "Analysis": {
-    "count": 4,
-    "occurrences": [
-     0,
-     62,
-     136,
-     140
-    ]
+    "maxDate": 2100.0,
+    "Analysis": {
+     "Count": [
+      4,
+      [
+       0,
+       62,
+       136,
+       140
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -228,32 +242,34 @@ var count =
     "timePeriodsKeys": "archaic,classical",
     "timePeriodsRange": "-750.0,-330.0",
     "minDate": -750.0,
-    "maxDate": -330.0
-   },
-   "Analysis": {
-    "count": 20,
-    "occurrences": [
-     0,
-     2,
-     2,
-     3,
-     3,
-     3,
-     3,
-     3,
-     3,
-     4,
-     4,
-     7,
-     13,
-     13,
-     13,
-     13,
-     18,
-     18,
-     85,
-     85
-    ]
+    "maxDate": -330.0,
+    "Analysis": {
+     "Count": [
+      20,
+      [
+       0,
+       2,
+       2,
+       3,
+       3,
+       3,
+       3,
+       3,
+       3,
+       4,
+       4,
+       7,
+       13,
+       13,
+       13,
+       13,
+       18,
+       18,
+       85,
+       85
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -272,21 +288,23 @@ var count =
     "timePeriodsKeys": "middle-bronze-age-anatolia,middle-hittite-anatolia,early-iron-age-anatolia,1200-bc-middle-east,middle-late-iron-age-anatolia,classical,achaemenid-middle-east,hellenistic-republican,hellenistic-middle-east,roman-middle-east,roman,roman-early-empire-parthian-middle-east,transition-roman-early-empire-late-antique,late-antique,late-antique-sasanian-middle-east,late-antique-late-byzantine,early-byzantine,abassid-middle-east,middle-byzantine,rum-crusader-anatolia,crusader-byzantine-seljuq-middle-east,ottoman-rise,early-ottoman-empire,perso-ottoman-russian-caucasus,late-ottoman-empire,modern,modern-middle-east",
     "timePeriodsRange": "-1750.0,2100.0",
     "minDate": -1750.0,
-    "maxDate": 2100.0
-   },
-   "Analysis": {
-    "count": 9,
-    "occurrences": [
-     0,
-     4,
-     13,
-     13,
-     14,
-     20,
-     26,
-     147,
-     157
-    ]
+    "maxDate": 2100.0,
+    "Analysis": {
+     "Count": [
+      9,
+      [
+       0,
+       4,
+       13,
+       13,
+       14,
+       20,
+       26,
+       147,
+       157
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -305,33 +323,35 @@ var count =
     "timePeriodsKeys": "old-babylonian-assyrian-mesopotamia,later-2nd-millennium-bc-mesopotamia,archaic,neo-assyrian-babylonian-middle-east,classical,hellenistic-republican,roman,late-antique",
     "timePeriodsRange": "-2000.0,640.0",
     "minDate": -2000.0,
-    "maxDate": 640.0
-   },
-   "Analysis": {
-    "count": 21,
-    "occurrences": [
-     0,
-     20,
-     20,
-     43,
-     43,
-     43,
-     45,
-     60,
-     62,
-     62,
-     70,
-     71,
-     72,
-     72,
-     77,
-     77,
-     88,
-     89,
-     95,
-     95,
-     112
-    ]
+    "maxDate": 640.0,
+    "Analysis": {
+     "Count": [
+      21,
+      [
+       0,
+       20,
+       20,
+       43,
+       43,
+       43,
+       45,
+       60,
+       62,
+       62,
+       70,
+       71,
+       72,
+       72,
+       77,
+       77,
+       88,
+       89,
+       95,
+       95,
+       112
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -350,13 +370,15 @@ var count =
     "timePeriodsKeys": "archaic,classical,hellenistic-republican,roman,late-antique",
     "timePeriodsRange": "-750.0,640.0",
     "minDate": -750.0,
-    "maxDate": 640.0
-   },
-   "Analysis": {
-    "count": 1,
-    "occurrences": [
-     0
-    ]
+    "maxDate": 640.0,
+    "Analysis": {
+     "Count": [
+      1,
+      [
+       0
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -375,28 +397,30 @@ var count =
     "timePeriodsKeys": "hellenistic-republican",
     "timePeriodsRange": "-330.0,-30.0",
     "minDate": -330.0,
-    "maxDate": -30.0
-   },
-   "Analysis": {
-    "count": 16,
-    "occurrences": [
-     0,
-     13,
-     14,
-     21,
-     47,
-     47,
-     95,
-     110,
-     112,
-     113,
-     119,
-     120,
-     121,
-     160,
-     163,
-     164
-    ]
+    "maxDate": -30.0,
+    "Analysis": {
+     "Count": [
+      16,
+      [
+       0,
+       13,
+       14,
+       21,
+       47,
+       47,
+       95,
+       110,
+       112,
+       113,
+       119,
+       120,
+       121,
+       160,
+       163,
+       164
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -415,61 +439,63 @@ var count =
     "timePeriodsKeys": "archaic,classical,hellenistic-republican,roman,late-antique",
     "timePeriodsRange": "-750.0,640.0",
     "minDate": -750.0,
-    "maxDate": 640.0
-   },
-   "Analysis": {
-    "count": 49,
-    "occurrences": [
-     1,
-     18,
-     28,
-     28,
-     29,
-     29,
-     31,
-     31,
-     32,
-     32,
-     32,
-     32,
-     33,
-     54,
-     60,
-     84,
-     99,
-     100,
-     122,
-     127,
-     127,
-     128,
-     142,
-     142,
-     142,
-     143,
-     144,
-     149,
-     156,
-     157,
-     157,
-     158,
-     158,
-     158,
-     158,
-     159,
-     159,
-     160,
-     160,
-     161,
-     161,
-     162,
-     164,
-     164,
-     166,
-     166,
-     173,
-     173,
-     175
-    ]
+    "maxDate": 640.0,
+    "Analysis": {
+     "Count": [
+      49,
+      [
+       1,
+       18,
+       28,
+       28,
+       29,
+       29,
+       31,
+       31,
+       32,
+       32,
+       32,
+       32,
+       33,
+       54,
+       60,
+       84,
+       99,
+       100,
+       122,
+       127,
+       127,
+       128,
+       142,
+       142,
+       142,
+       143,
+       144,
+       149,
+       156,
+       157,
+       157,
+       158,
+       158,
+       158,
+       158,
+       159,
+       159,
+       160,
+       160,
+       161,
+       161,
+       162,
+       164,
+       164,
+       166,
+       166,
+       173,
+       173,
+       175
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -488,28 +514,30 @@ var count =
     "timePeriodsKeys": "archaic,classical,hellenistic-republican,roman,late-antique",
     "timePeriodsRange": "-750.0,640.0",
     "minDate": -750.0,
-    "maxDate": 640.0
-   },
-   "Analysis": {
-    "count": 16,
-    "occurrences": [
-     1,
-     2,
-     4,
-     7,
-     8,
-     13,
-     13,
-     18,
-     18,
-     18,
-     18,
-     27,
-     28,
-     100,
-     147,
-     165
-    ]
+    "maxDate": 640.0,
+    "Analysis": {
+     "Count": [
+      16,
+      [
+       1,
+       2,
+       4,
+       7,
+       8,
+       13,
+       13,
+       18,
+       18,
+       18,
+       18,
+       27,
+       28,
+       100,
+       147,
+       165
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -528,107 +556,109 @@ var count =
     "timePeriodsKeys": "middle-bronze-age-anatolia,early-iron-age-anatolia,1200-bc-middle-east,archaic,neo-assyrian-babylonian-middle-east,classical,achaemenid-middle-east,hellenistic-republican,hellenistic-middle-east,roman-middle-east,roman,roman-early-empire-parthian-middle-east,transition-roman-early-empire-late-antique,late-antique,late-antique-sasanian-middle-east,late-antique-late-byzantine,proto-byzantine,early-byzantine,abassid-middle-east,middle-byzantine,rum-crusader-anatolia,early-ottoman-empire,modern-middle-east",
     "timePeriodsRange": "-1750.0,2000.0",
     "minDate": -1750.0,
-    "maxDate": 2000.0
-   },
-   "Analysis": {
-    "count": 95,
-    "occurrences": [
-     1,
-     2,
-     3,
-     3,
-     4,
-     4,
-     4,
-     6,
-     7,
-     7,
-     8,
-     12,
-     12,
-     12,
-     12,
-     13,
-     14,
-     14,
-     14,
-     14,
-     14,
-     14,
-     14,
-     15,
-     15,
-     15,
-     15,
-     15,
-     16,
-     16,
-     16,
-     17,
-     17,
-     18,
-     18,
-     27,
-     29,
-     29,
-     30,
-     30,
-     30,
-     30,
-     30,
-     30,
-     60,
-     77,
-     85,
-     99,
-     100,
-     100,
-     101,
-     101,
-     101,
-     113,
-     139,
-     139,
-     139,
-     140,
-     141,
-     141,
-     142,
-     142,
-     143,
-     147,
-     147,
-     147,
-     147,
-     150,
-     150,
-     156,
-     156,
-     156,
-     156,
-     156,
-     156,
-     157,
-     157,
-     157,
-     157,
-     158,
-     159,
-     159,
-     159,
-     160,
-     160,
-     160,
-     164,
-     164,
-     166,
-     176,
-     180,
-     180,
-     183,
-     184,
-     186
-    ]
+    "maxDate": 2000.0,
+    "Analysis": {
+     "Count": [
+      95,
+      [
+       1,
+       2,
+       3,
+       3,
+       4,
+       4,
+       4,
+       6,
+       7,
+       7,
+       8,
+       12,
+       12,
+       12,
+       12,
+       13,
+       14,
+       14,
+       14,
+       14,
+       14,
+       14,
+       14,
+       15,
+       15,
+       15,
+       15,
+       15,
+       16,
+       16,
+       16,
+       17,
+       17,
+       18,
+       18,
+       27,
+       29,
+       29,
+       30,
+       30,
+       30,
+       30,
+       30,
+       30,
+       60,
+       77,
+       85,
+       99,
+       100,
+       100,
+       101,
+       101,
+       101,
+       113,
+       139,
+       139,
+       139,
+       140,
+       141,
+       141,
+       142,
+       142,
+       143,
+       147,
+       147,
+       147,
+       147,
+       150,
+       150,
+       156,
+       156,
+       156,
+       156,
+       156,
+       156,
+       157,
+       157,
+       157,
+       157,
+       158,
+       159,
+       159,
+       159,
+       160,
+       160,
+       160,
+       164,
+       164,
+       166,
+       176,
+       180,
+       180,
+       183,
+       184,
+       186
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -647,64 +677,66 @@ var count =
     "timePeriodsKeys": "hellenistic-republican,roman,modern",
     "timePeriodsRange": "-330.0,2100.0",
     "minDate": -330.0,
-    "maxDate": 2100.0
-   },
-   "Analysis": {
-    "count": 52,
-    "occurrences": [
-     1,
-     1,
-     39,
-     47,
-     49,
-     49,
-     49,
-     49,
-     49,
-     49,
-     49,
-     50,
-     50,
-     50,
-     50,
-     50,
-     50,
-     50,
-     50,
-     50,
-     50,
-     50,
-     50,
-     50,
-     56,
-     61,
-     69,
-     69,
-     69,
-     69,
-     69,
-     108,
-     108,
-     108,
-     108,
-     108,
-     108,
-     108,
-     112,
-     113,
-     113,
-     115,
-     119,
-     130,
-     134,
-     135,
-     137,
-     145,
-     148,
-     168,
-     177,
-     178
-    ]
+    "maxDate": 2100.0,
+    "Analysis": {
+     "Count": [
+      52,
+      [
+       1,
+       1,
+       39,
+       47,
+       49,
+       49,
+       49,
+       49,
+       49,
+       49,
+       49,
+       50,
+       50,
+       50,
+       50,
+       50,
+       50,
+       50,
+       50,
+       50,
+       50,
+       50,
+       50,
+       50,
+       56,
+       61,
+       69,
+       69,
+       69,
+       69,
+       69,
+       108,
+       108,
+       108,
+       108,
+       108,
+       108,
+       108,
+       112,
+       113,
+       113,
+       115,
+       119,
+       130,
+       134,
+       135,
+       137,
+       145,
+       148,
+       168,
+       177,
+       178
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -723,15 +755,17 @@ var count =
     "timePeriodsKeys": "hellenistic-republican,roman,late-antique,modern",
     "timePeriodsRange": "-330.0,2100.0",
     "minDate": -330.0,
-    "maxDate": 2100.0
-   },
-   "Analysis": {
-    "count": 3,
-    "occurrences": [
-     1,
-     34,
-     106
-    ]
+    "maxDate": 2100.0,
+    "Analysis": {
+     "Count": [
+      3,
+      [
+       1,
+       34,
+       106
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -750,33 +784,35 @@ var count =
     "timePeriodsKeys": "archaic,classical",
     "timePeriodsRange": "-750.0,-330.0",
     "minDate": -750.0,
-    "maxDate": -330.0
-   },
-   "Analysis": {
-    "count": 21,
-    "occurrences": [
-     1,
-     1,
-     1,
-     1,
-     1,
-     1,
-     1,
-     1,
-     2,
-     2,
-     2,
-     2,
-     2,
-     2,
-     2,
-     2,
-     2,
-     2,
-     2,
-     99,
-     159
-    ]
+    "maxDate": -330.0,
+    "Analysis": {
+     "Count": [
+      21,
+      [
+       1,
+       1,
+       1,
+       1,
+       1,
+       1,
+       1,
+       1,
+       2,
+       2,
+       2,
+       2,
+       2,
+       2,
+       2,
+       2,
+       2,
+       2,
+       2,
+       99,
+       159
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -795,68 +831,70 @@ var count =
     "timePeriodsKeys": "archaic,classical,hellenistic-republican,roman,late-antique,modern",
     "timePeriodsRange": "-750.0,2100.0",
     "minDate": -750.0,
-    "maxDate": 2100.0
-   },
-   "Analysis": {
-    "count": 56,
-    "occurrences": [
-     2,
-     2,
-     3,
-     4,
-     4,
-     5,
-     7,
-     7,
-     8,
-     8,
-     8,
-     8,
-     8,
-     11,
-     11,
-     16,
-     17,
-     17,
-     18,
-     18,
-     32,
-     33,
-     67,
-     75,
-     87,
-     109,
-     129,
-     130,
-     131,
-     131,
-     131,
-     132,
-     132,
-     132,
-     134,
-     145,
-     145,
-     148,
-     148,
-     149,
-     152,
-     153,
-     154,
-     154,
-     162,
-     163,
-     164,
-     165,
-     167,
-     168,
-     170,
-     171,
-     171,
-     173,
-     182,
-     183
-    ]
+    "maxDate": 2100.0,
+    "Analysis": {
+     "Count": [
+      56,
+      [
+       2,
+       2,
+       3,
+       4,
+       4,
+       5,
+       7,
+       7,
+       8,
+       8,
+       8,
+       8,
+       8,
+       11,
+       11,
+       16,
+       17,
+       17,
+       18,
+       18,
+       32,
+       33,
+       67,
+       75,
+       87,
+       109,
+       129,
+       130,
+       131,
+       131,
+       131,
+       132,
+       132,
+       132,
+       134,
+       145,
+       145,
+       148,
+       148,
+       149,
+       152,
+       153,
+       154,
+       154,
+       162,
+       163,
+       164,
+       165,
+       167,
+       168,
+       170,
+       171,
+       171,
+       173,
+       182,
+       183
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -875,20 +913,22 @@ var count =
     "timePeriodsKeys": NaN,
     "timePeriodsRange": NaN,
     "minDate": NaN,
-    "maxDate": NaN
-   },
-   "Analysis": {
-    "count": 8,
-    "occurrences": [
-     2,
-     6,
-     100,
-     147,
-     147,
-     156,
-     156,
-     156
-    ]
+    "maxDate": NaN,
+    "Analysis": {
+     "Count": [
+      8,
+      [
+       2,
+       6,
+       100,
+       147,
+       147,
+       156,
+       156,
+       156
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -907,83 +947,85 @@ var count =
     "timePeriodsKeys": "middle-bronze-age-anatolia,early-iron-age-anatolia,archaic,neo-assyrian-babylonian-middle-east,middle-late-iron-age-anatolia,classical,achaemenid-middle-east,hellenistic-republican,hellenistic-middle-east,roman-middle-east,roman,roman-early-empire-parthian-middle-east,transition-roman-early-empire-late-antique,late-antique,late-antique-sasanian-middle-east,late-antique-late-byzantine,proto-byzantine,early-byzantine,abassid-middle-east,middle-byzantine,ottoman-rise,early-ottoman-empire,modern-middle-east",
     "timePeriodsRange": "-1750.0,2000.0",
     "minDate": -1750.0,
-    "maxDate": 2000.0
-   },
-   "Analysis": {
-    "count": 71,
-    "occurrences": [
-     2,
-     2,
-     3,
-     3,
-     3,
-     3,
-     28,
-     29,
-     30,
-     32,
-     32,
-     32,
-     84,
-     128,
-     128,
-     139,
-     142,
-     142,
-     142,
-     142,
-     142,
-     142,
-     142,
-     142,
-     143,
-     143,
-     144,
-     144,
-     144,
-     144,
-     144,
-     144,
-     146,
-     155,
-     156,
-     156,
-     156,
-     156,
-     156,
-     157,
-     157,
-     157,
-     159,
-     160,
-     160,
-     160,
-     160,
-     160,
-     160,
-     160,
-     160,
-     160,
-     161,
-     161,
-     161,
-     162,
-     162,
-     162,
-     162,
-     162,
-     162,
-     163,
-     163,
-     163,
-     163,
-     163,
-     164,
-     164,
-     173,
-     184,
-     186
-    ]
+    "maxDate": 2000.0,
+    "Analysis": {
+     "Count": [
+      71,
+      [
+       2,
+       2,
+       3,
+       3,
+       3,
+       3,
+       28,
+       29,
+       30,
+       32,
+       32,
+       32,
+       84,
+       128,
+       128,
+       139,
+       142,
+       142,
+       142,
+       142,
+       142,
+       142,
+       142,
+       142,
+       143,
+       143,
+       144,
+       144,
+       144,
+       144,
+       144,
+       144,
+       146,
+       155,
+       156,
+       156,
+       156,
+       156,
+       156,
+       157,
+       157,
+       157,
+       159,
+       160,
+       160,
+       160,
+       160,
+       160,
+       160,
+       160,
+       160,
+       160,
+       161,
+       161,
+       161,
+       162,
+       162,
+       162,
+       162,
+       162,
+       162,
+       163,
+       163,
+       163,
+       163,
+       163,
+       164,
+       164,
+       173,
+       184,
+       186
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -1002,19 +1044,21 @@ var count =
     "timePeriodsKeys": "middle-bronze-age-anatolia,early-iron-age-anatolia,1200-bc-middle-east,archaic,neo-assyrian-babylonian-middle-east,middle-late-iron-age-anatolia,classical,achaemenid-middle-east,hellenistic-middle-east,roman-middle-east,roman,roman-early-empire-parthian-middle-east,transition-roman-early-empire-late-antique,late-antique,late-antique-sasanian-middle-east,late-antique-late-byzantine,proto-byzantine,early-byzantine,abassid-middle-east,middle-byzantine,crusader-byzantine-seljuq-middle-east,ilkhanate-middle-east,mongol-middle-east,ottoman-rise,early-ottoman-empire,1500-ad-middle-east,ottoman-empire,late-ottoman-empire,modern,khedivate-egypt,ottoman-decline-mandate-middle-east,modern-middle-east",
     "timePeriodsRange": "-1750.0,2100.0",
     "minDate": -1750.0,
-    "maxDate": 2100.0
-   },
-   "Analysis": {
-    "count": 7,
-    "occurrences": [
-     2,
-     2,
-     18,
-     28,
-     29,
-     29,
-     60
-    ]
+    "maxDate": 2100.0,
+    "Analysis": {
+     "Count": [
+      7,
+      [
+       2,
+       2,
+       18,
+       28,
+       29,
+       29,
+       60
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -1033,15 +1077,17 @@ var count =
     "timePeriodsKeys": "archaic,classical,modern",
     "timePeriodsRange": "-750.0,2100.0",
     "minDate": -750.0,
-    "maxDate": 2100.0
-   },
-   "Analysis": {
-    "count": 3,
-    "occurrences": [
-     2,
-     28,
-     29
-    ]
+    "maxDate": 2100.0,
+    "Analysis": {
+     "Count": [
+      3,
+      [
+       2,
+       28,
+       29
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -1060,17 +1106,19 @@ var count =
     "timePeriodsKeys": "classical,hellenistic-republican,roman,late-antique",
     "timePeriodsRange": "-550.0,640.0",
     "minDate": -550.0,
-    "maxDate": 640.0
-   },
-   "Analysis": {
-    "count": 5,
-    "occurrences": [
-     2,
-     4,
-     28,
-     31,
-     32
-    ]
+    "maxDate": 640.0,
+    "Analysis": {
+     "Count": [
+      5,
+      [
+       2,
+       4,
+       28,
+       31,
+       32
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -1089,22 +1137,24 @@ var count =
     "timePeriodsKeys": "archaic,classical,roman,modern",
     "timePeriodsRange": "-750.0,2100.0",
     "minDate": -750.0,
-    "maxDate": 2100.0
-   },
-   "Analysis": {
-    "count": 10,
-    "occurrences": [
-     2,
-     2,
-     20,
-     107,
-     108,
-     108,
-     108,
-     108,
-     108,
-     109
-    ]
+    "maxDate": 2100.0,
+    "Analysis": {
+     "Count": [
+      10,
+      [
+       2,
+       2,
+       20,
+       107,
+       108,
+       108,
+       108,
+       108,
+       108,
+       109
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -1123,72 +1173,74 @@ var count =
     "timePeriodsKeys": NaN,
     "timePeriodsRange": NaN,
     "minDate": NaN,
-    "maxDate": NaN
-   },
-   "Analysis": {
-    "count": 60,
-    "occurrences": [
-     2,
-     20,
-     59,
-     102,
-     102,
-     106,
-     107,
-     107,
-     107,
-     108,
-     108,
-     108,
-     109,
-     110,
-     111,
-     111,
-     111,
-     111,
-     111,
-     114,
-     114,
-     114,
-     114,
-     115,
-     115,
-     115,
-     116,
-     116,
-     118,
-     118,
-     118,
-     119,
-     119,
-     120,
-     121,
-     122,
-     122,
-     122,
-     122,
-     122,
-     122,
-     122,
-     122,
-     122,
-     122,
-     122,
-     123,
-     124,
-     124,
-     124,
-     124,
-     125,
-     125,
-     126,
-     127,
-     127,
-     128,
-     128,
-     142,
-     142
-    ]
+    "maxDate": NaN,
+    "Analysis": {
+     "Count": [
+      60,
+      [
+       2,
+       20,
+       59,
+       102,
+       102,
+       106,
+       107,
+       107,
+       107,
+       108,
+       108,
+       108,
+       109,
+       110,
+       111,
+       111,
+       111,
+       111,
+       111,
+       114,
+       114,
+       114,
+       114,
+       115,
+       115,
+       115,
+       116,
+       116,
+       118,
+       118,
+       118,
+       119,
+       119,
+       120,
+       121,
+       122,
+       122,
+       122,
+       122,
+       122,
+       122,
+       122,
+       122,
+       122,
+       122,
+       122,
+       123,
+       124,
+       124,
+       124,
+       124,
+       125,
+       125,
+       126,
+       127,
+       127,
+       128,
+       128,
+       142,
+       142
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -1207,21 +1259,23 @@ var count =
     "timePeriodsKeys": "classical,hellenistic-republican,roman,late-antique,modern",
     "timePeriodsRange": "-550.0,2100.0",
     "minDate": -550.0,
-    "maxDate": 2100.0
-   },
-   "Analysis": {
-    "count": 9,
-    "occurrences": [
-     2,
-     31,
-     43,
-     46,
-     99,
-     159,
-     159,
-     159,
-     159
-    ]
+    "maxDate": 2100.0,
+    "Analysis": {
+     "Count": [
+      9,
+      [
+       2,
+       31,
+       43,
+       46,
+       99,
+       159,
+       159,
+       159,
+       159
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -1240,31 +1294,33 @@ var count =
     "timePeriodsKeys": "archaic,classical,hellenistic-republican,roman,late-antique",
     "timePeriodsRange": "-750.0,640.0",
     "minDate": -750.0,
-    "maxDate": 640.0
-   },
-   "Analysis": {
-    "count": 19,
-    "occurrences": [
-     2,
-     28,
-     28,
-     31,
-     31,
-     31,
-     75,
-     128,
-     143,
-     143,
-     156,
-     156,
-     156,
-     160,
-     160,
-     162,
-     163,
-     163,
-     164
-    ]
+    "maxDate": 640.0,
+    "Analysis": {
+     "Count": [
+      19,
+      [
+       2,
+       28,
+       28,
+       31,
+       31,
+       31,
+       75,
+       128,
+       143,
+       143,
+       156,
+       156,
+       156,
+       160,
+       160,
+       162,
+       163,
+       163,
+       164
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -1283,15 +1339,17 @@ var count =
     "timePeriodsKeys": "roman,roman-early-empire-late-antique,late-antique",
     "timePeriodsRange": "-30.0,640.0",
     "minDate": -30.0,
-    "maxDate": 640.0
-   },
-   "Analysis": {
-    "count": 3,
-    "occurrences": [
-     2,
-     28,
-     28
-    ]
+    "maxDate": 640.0,
+    "Analysis": {
+     "Count": [
+      3,
+      [
+       2,
+       28,
+       28
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -1310,36 +1368,38 @@ var count =
     "timePeriodsKeys": "archaic,classical,hellenistic-republican,roman,modern",
     "timePeriodsRange": "-750.0,2100.0",
     "minDate": -750.0,
-    "maxDate": 2100.0
-   },
-   "Analysis": {
-    "count": 24,
-    "occurrences": [
-     3,
-     3,
-     3,
-     3,
-     3,
-     3,
-     73,
-     86,
-     86,
-     87,
-     87,
-     87,
-     153,
-     154,
-     154,
-     154,
-     154,
-     154,
-     154,
-     154,
-     155,
-     155,
-     155,
-     155
-    ]
+    "maxDate": 2100.0,
+    "Analysis": {
+     "Count": [
+      24,
+      [
+       3,
+       3,
+       3,
+       3,
+       3,
+       3,
+       73,
+       86,
+       86,
+       87,
+       87,
+       87,
+       153,
+       154,
+       154,
+       154,
+       154,
+       154,
+       154,
+       154,
+       155,
+       155,
+       155,
+       155
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -1358,20 +1418,22 @@ var count =
     "timePeriodsKeys": "classical",
     "timePeriodsRange": "-550.0,-330.0",
     "minDate": -550.0,
-    "maxDate": -330.0
-   },
-   "Analysis": {
-    "count": 8,
-    "occurrences": [
-     3,
-     3,
-     3,
-     3,
-     3,
-     3,
-     3,
-     3
-    ]
+    "maxDate": -330.0,
+    "Analysis": {
+     "Count": [
+      8,
+      [
+       3,
+       3,
+       3,
+       3,
+       3,
+       3,
+       3,
+       3
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -1390,13 +1452,15 @@ var count =
     "timePeriodsKeys": "archaic,classical,hellenistic-republican,roman,late-antique",
     "timePeriodsRange": "-750.0,640.0",
     "minDate": -750.0,
-    "maxDate": 640.0
-   },
-   "Analysis": {
-    "count": 1,
-    "occurrences": [
-     3
-    ]
+    "maxDate": 640.0,
+    "Analysis": {
+     "Count": [
+      1,
+      [
+       3
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -1415,19 +1479,21 @@ var count =
     "timePeriodsKeys": "archaic,classical,hellenistic-republican,hellenistic-roman-early-empire,roman,late-antique,modern",
     "timePeriodsRange": "-750.0,2100.0",
     "minDate": -750.0,
-    "maxDate": 2100.0
-   },
-   "Analysis": {
-    "count": 7,
-    "occurrences": [
-     3,
-     145,
-     145,
-     162,
-     163,
-     163,
-     163
-    ]
+    "maxDate": 2100.0,
+    "Analysis": {
+     "Count": [
+      7,
+      [
+       3,
+       145,
+       145,
+       162,
+       163,
+       163,
+       163
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -1446,17 +1512,19 @@ var count =
     "timePeriodsKeys": "archaic,classical,hellenistic-republican,roman,late-antique",
     "timePeriodsRange": "-750.0,640.0",
     "minDate": -750.0,
-    "maxDate": 640.0
-   },
-   "Analysis": {
-    "count": 5,
-    "occurrences": [
-     3,
-     3,
-     102,
-     102,
-     122
-    ]
+    "maxDate": 640.0,
+    "Analysis": {
+     "Count": [
+      5,
+      [
+       3,
+       3,
+       102,
+       102,
+       122
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -1475,24 +1543,26 @@ var count =
     "timePeriodsKeys": "roman",
     "timePeriodsRange": "-30.0,300.0",
     "minDate": -30.0,
-    "maxDate": 300.0
-   },
-   "Analysis": {
-    "count": 12,
-    "occurrences": [
-     4,
-     29,
-     173,
-     173,
-     173,
-     173,
-     173,
-     173,
-     173,
-     174,
-     174,
-     174
-    ]
+    "maxDate": 300.0,
+    "Analysis": {
+     "Count": [
+      12,
+      [
+       4,
+       29,
+       173,
+       173,
+       173,
+       173,
+       173,
+       173,
+       173,
+       174,
+       174,
+       174
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -1511,24 +1581,26 @@ var count =
     "timePeriodsKeys": "early-iron-age-anatolia,1200-bc-middle-east,archaic,neo-assyrian-babylonian-middle-east,middle-late-iron-age-anatolia,classical,achaemenid-middle-east,hellenistic-republican,hellenistic-middle-east,roman-middle-east,roman,roman-early-empire-parthian-middle-east,transition-roman-early-empire-late-antique,late-antique,late-antique-sasanian-middle-east,late-antique-late-byzantine,proto-byzantine,early-byzantine,abassid-middle-east,middle-byzantine,rum-crusader-anatolia,crusader-byzantine-seljuq-middle-east,ilkhanate-middle-east,mongol-middle-east,ottoman-rise,timurid-middle-east,early-ottoman-empire,late-ottoman-empire,modern-middle-east",
     "timePeriodsRange": "-1200.0,2000.0",
     "minDate": -1200.0,
-    "maxDate": 2000.0
-   },
-   "Analysis": {
-    "count": 12,
-    "occurrences": [
-     4,
-     18,
-     28,
-     43,
-     60,
-     69,
-     147,
-     147,
-     156,
-     157,
-     162,
-     173
-    ]
+    "maxDate": 2000.0,
+    "Analysis": {
+     "Count": [
+      12,
+      [
+       4,
+       18,
+       28,
+       43,
+       60,
+       69,
+       147,
+       147,
+       156,
+       157,
+       162,
+       173
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -1547,26 +1619,28 @@ var count =
     "timePeriodsKeys": "roman,late-antique",
     "timePeriodsRange": "-30.0,640.0",
     "minDate": -30.0,
-    "maxDate": 640.0
-   },
-   "Analysis": {
-    "count": 14,
-    "occurrences": [
-     4,
-     52,
-     56,
-     67,
-     71,
-     71,
-     71,
-     71,
-     85,
-     111,
-     112,
-     112,
-     120,
-     182
-    ]
+    "maxDate": 640.0,
+    "Analysis": {
+     "Count": [
+      14,
+      [
+       4,
+       52,
+       56,
+       67,
+       71,
+       71,
+       71,
+       71,
+       85,
+       111,
+       112,
+       112,
+       120,
+       182
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -1585,15 +1659,17 @@ var count =
     "timePeriodsKeys": "roman",
     "timePeriodsRange": "-30.0,300.0",
     "minDate": -30.0,
-    "maxDate": 300.0
-   },
-   "Analysis": {
-    "count": 3,
-    "occurrences": [
-     4,
-     32,
-     32
-    ]
+    "maxDate": 300.0,
+    "Analysis": {
+     "Count": [
+      3,
+      [
+       4,
+       32,
+       32
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -1612,122 +1688,124 @@ var count =
     "timePeriodsKeys": "archaic,classical,hellenistic-republican,roman,late-antique,modern",
     "timePeriodsRange": "-750.0,2100.0",
     "minDate": -750.0,
-    "maxDate": 2100.0
-   },
-   "Analysis": {
-    "count": 110,
-    "occurrences": [
-     4,
-     4,
-     4,
-     5,
-     9,
-     10,
-     10,
-     10,
-     10,
-     11,
-     11,
-     11,
-     19,
-     28,
-     29,
-     29,
-     33,
-     42,
-     42,
-     106,
-     147,
-     147,
-     148,
-     148,
-     148,
-     148,
-     148,
-     148,
-     149,
-     149,
-     149,
-     149,
-     150,
-     150,
-     150,
-     150,
-     150,
-     150,
-     150,
-     151,
-     151,
-     151,
-     152,
-     152,
-     152,
-     153,
-     153,
-     153,
-     153,
-     155,
-     155,
-     156,
-     156,
-     156,
-     156,
-     164,
-     164,
-     165,
-     165,
-     165,
-     165,
-     166,
-     166,
-     167,
-     173,
-     173,
-     173,
-     174,
-     175,
-     175,
-     175,
-     176,
-     176,
-     176,
-     177,
-     177,
-     177,
-     177,
-     177,
-     177,
-     178,
-     178,
-     178,
-     178,
-     178,
-     179,
-     179,
-     179,
-     179,
-     179,
-     179,
-     179,
-     179,
-     180,
-     180,
-     180,
-     181,
-     181,
-     181,
-     182,
-     183,
-     183,
-     183,
-     184,
-     184,
-     184,
-     184,
-     184,
-     184,
-     185
-    ]
+    "maxDate": 2100.0,
+    "Analysis": {
+     "Count": [
+      110,
+      [
+       4,
+       4,
+       4,
+       5,
+       9,
+       10,
+       10,
+       10,
+       10,
+       11,
+       11,
+       11,
+       19,
+       28,
+       29,
+       29,
+       33,
+       42,
+       42,
+       106,
+       147,
+       147,
+       148,
+       148,
+       148,
+       148,
+       148,
+       148,
+       149,
+       149,
+       149,
+       149,
+       150,
+       150,
+       150,
+       150,
+       150,
+       150,
+       150,
+       151,
+       151,
+       151,
+       152,
+       152,
+       152,
+       153,
+       153,
+       153,
+       153,
+       155,
+       155,
+       156,
+       156,
+       156,
+       156,
+       164,
+       164,
+       165,
+       165,
+       165,
+       165,
+       166,
+       166,
+       167,
+       173,
+       173,
+       173,
+       174,
+       175,
+       175,
+       175,
+       176,
+       176,
+       176,
+       177,
+       177,
+       177,
+       177,
+       177,
+       177,
+       178,
+       178,
+       178,
+       178,
+       178,
+       179,
+       179,
+       179,
+       179,
+       179,
+       179,
+       179,
+       179,
+       180,
+       180,
+       180,
+       181,
+       181,
+       181,
+       182,
+       183,
+       183,
+       183,
+       184,
+       184,
+       184,
+       184,
+       184,
+       184,
+       185
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -1746,18 +1824,20 @@ var count =
     "timePeriodsKeys": "archaic,classical,hellenistic-republican,roman,late-antique,modern",
     "timePeriodsRange": "-750.0,2100.0",
     "minDate": -750.0,
-    "maxDate": 2100.0
-   },
-   "Analysis": {
-    "count": 6,
-    "occurrences": [
-     4,
-     150,
-     150,
-     151,
-     169,
-     171
-    ]
+    "maxDate": 2100.0,
+    "Analysis": {
+     "Count": [
+      6,
+      [
+       4,
+       150,
+       150,
+       151,
+       169,
+       171
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -1776,16 +1856,18 @@ var count =
     "timePeriodsKeys": "archaic,classical,hellenistic-republican,roman,late-antique,modern",
     "timePeriodsRange": "-750.0,2100.0",
     "minDate": -750.0,
-    "maxDate": 2100.0
-   },
-   "Analysis": {
-    "count": 4,
-    "occurrences": [
-     6,
-     7,
-     9,
-     11
-    ]
+    "maxDate": 2100.0,
+    "Analysis": {
+     "Count": [
+      4,
+      [
+       6,
+       7,
+       9,
+       11
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -1804,108 +1886,110 @@ var count =
     "timePeriodsKeys": "roman,late-antique",
     "timePeriodsRange": "-30.0,640.0",
     "minDate": -30.0,
-    "maxDate": 640.0
-   },
-   "Analysis": {
-    "count": 96,
-    "occurrences": [
-     7,
-     7,
-     43,
-     43,
-     44,
-     44,
-     44,
-     44,
-     44,
-     44,
-     44,
-     44,
-     44,
-     45,
-     45,
-     45,
-     45,
-     46,
-     46,
-     47,
-     47,
-     47,
-     47,
-     47,
-     47,
-     48,
-     51,
-     52,
-     52,
-     52,
-     52,
-     52,
-     53,
-     57,
-     58,
-     62,
-     79,
-     95,
-     95,
-     98,
-     111,
-     112,
-     112,
-     112,
-     112,
-     113,
-     113,
-     113,
-     113,
-     113,
-     113,
-     113,
-     113,
-     113,
-     129,
-     130,
-     130,
-     130,
-     130,
-     130,
-     130,
-     131,
-     131,
-     131,
-     131,
-     131,
-     131,
-     131,
-     131,
-     131,
-     131,
-     131,
-     132,
-     133,
-     133,
-     134,
-     134,
-     135,
-     135,
-     135,
-     136,
-     136,
-     136,
-     136,
-     136,
-     137,
-     137,
-     137,
-     137,
-     137,
-     137,
-     138,
-     138,
-     145,
-     145,
-     145
-    ]
+    "maxDate": 640.0,
+    "Analysis": {
+     "Count": [
+      96,
+      [
+       7,
+       7,
+       43,
+       43,
+       44,
+       44,
+       44,
+       44,
+       44,
+       44,
+       44,
+       44,
+       44,
+       45,
+       45,
+       45,
+       45,
+       46,
+       46,
+       47,
+       47,
+       47,
+       47,
+       47,
+       47,
+       48,
+       51,
+       52,
+       52,
+       52,
+       52,
+       52,
+       53,
+       57,
+       58,
+       62,
+       79,
+       95,
+       95,
+       98,
+       111,
+       112,
+       112,
+       112,
+       112,
+       113,
+       113,
+       113,
+       113,
+       113,
+       113,
+       113,
+       113,
+       113,
+       129,
+       130,
+       130,
+       130,
+       130,
+       130,
+       130,
+       131,
+       131,
+       131,
+       131,
+       131,
+       131,
+       131,
+       131,
+       131,
+       131,
+       131,
+       132,
+       133,
+       133,
+       134,
+       134,
+       135,
+       135,
+       135,
+       136,
+       136,
+       136,
+       136,
+       136,
+       137,
+       137,
+       137,
+       137,
+       137,
+       137,
+       138,
+       138,
+       145,
+       145,
+       145
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -1924,15 +2008,17 @@ var count =
     "timePeriodsKeys": NaN,
     "timePeriodsRange": NaN,
     "minDate": NaN,
-    "maxDate": NaN
-   },
-   "Analysis": {
-    "count": 3,
-    "occurrences": [
-     7,
-     29,
-     164
-    ]
+    "maxDate": NaN,
+    "Analysis": {
+     "Count": [
+      3,
+      [
+       7,
+       29,
+       164
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -1951,19 +2037,21 @@ var count =
     "timePeriodsKeys": "archaic,classical,hellenistic-republican,roman,late-antique",
     "timePeriodsRange": "-750.0,640.0",
     "minDate": -750.0,
-    "maxDate": 640.0
-   },
-   "Analysis": {
-    "count": 7,
-    "occurrences": [
-     7,
-     51,
-     51,
-     51,
-     51,
-     52,
-     52
-    ]
+    "maxDate": 640.0,
+    "Analysis": {
+     "Count": [
+      7,
+      [
+       7,
+       51,
+       51,
+       51,
+       51,
+       52,
+       52
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -1982,17 +2070,19 @@ var count =
     "timePeriodsKeys": "archaic,classical,hellenistic-republican,hellenistic-middle-east,roman-middle-east,roman,late-antique,modern",
     "timePeriodsRange": "-750.0,2100.0",
     "minDate": -750.0,
-    "maxDate": 2100.0
-   },
-   "Analysis": {
-    "count": 5,
-    "occurrences": [
-     7,
-     44,
-     47,
-     51,
-     52
-    ]
+    "maxDate": 2100.0,
+    "Analysis": {
+     "Count": [
+      5,
+      [
+       7,
+       44,
+       47,
+       51,
+       52
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -2011,13 +2101,15 @@ var count =
     "timePeriodsKeys": "classical,hellenistic-republican,roman",
     "timePeriodsRange": "-550.0,300.0",
     "minDate": -550.0,
-    "maxDate": 300.0
-   },
-   "Analysis": {
-    "count": 1,
-    "occurrences": [
-     8
-    ]
+    "maxDate": 300.0,
+    "Analysis": {
+     "Count": [
+      1,
+      [
+       8
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -2036,42 +2128,44 @@ var count =
     "timePeriodsKeys": "archaic,classical,hellenistic-republican,roman,late-antique,modern",
     "timePeriodsRange": "-750.0,2100.0",
     "minDate": -750.0,
-    "maxDate": 2100.0
-   },
-   "Analysis": {
-    "count": 30,
-    "occurrences": [
-     8,
-     18,
-     34,
-     42,
-     42,
-     43,
-     43,
-     51,
-     52,
-     52,
-     52,
-     52,
-     52,
-     54,
-     55,
-     68,
-     73,
-     77,
-     77,
-     81,
-     81,
-     81,
-     81,
-     81,
-     134,
-     135,
-     135,
-     148,
-     149,
-     177
-    ]
+    "maxDate": 2100.0,
+    "Analysis": {
+     "Count": [
+      30,
+      [
+       8,
+       18,
+       34,
+       42,
+       42,
+       43,
+       43,
+       51,
+       52,
+       52,
+       52,
+       52,
+       52,
+       54,
+       55,
+       68,
+       73,
+       77,
+       77,
+       81,
+       81,
+       81,
+       81,
+       81,
+       134,
+       135,
+       135,
+       148,
+       149,
+       177
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -2090,15 +2184,17 @@ var count =
     "timePeriodsKeys": "archaic,classical,hellenistic-republican,roman,late-antique,modern",
     "timePeriodsRange": "-750.0,2100.0",
     "minDate": -750.0,
-    "maxDate": 2100.0
-   },
-   "Analysis": {
-    "count": 3,
-    "occurrences": [
-     9,
-     15,
-     156
-    ]
+    "maxDate": 2100.0,
+    "Analysis": {
+     "Count": [
+      3,
+      [
+       9,
+       15,
+       156
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -2117,19 +2213,21 @@ var count =
     "timePeriodsKeys": "late-antique",
     "timePeriodsRange": "300.0,640.0",
     "minDate": 300.0,
-    "maxDate": 640.0
-   },
-   "Analysis": {
-    "count": 7,
-    "occurrences": [
-     9,
-     9,
-     14,
-     89,
-     90,
-     102,
-     132
-    ]
+    "maxDate": 640.0,
+    "Analysis": {
+     "Count": [
+      7,
+      [
+       9,
+       9,
+       14,
+       89,
+       90,
+       102,
+       132
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -2148,13 +2246,15 @@ var count =
     "timePeriodsKeys": NaN,
     "timePeriodsRange": NaN,
     "minDate": NaN,
-    "maxDate": NaN
-   },
-   "Analysis": {
-    "count": 1,
-    "occurrences": [
-     9
-    ]
+    "maxDate": NaN,
+    "Analysis": {
+     "Count": [
+      1,
+      [
+       9
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -2173,13 +2273,15 @@ var count =
     "timePeriodsKeys": "hellenistic-republican",
     "timePeriodsRange": "-330.0,-30.0",
     "minDate": -330.0,
-    "maxDate": -30.0
-   },
-   "Analysis": {
-    "count": 1,
-    "occurrences": [
-     9
-    ]
+    "maxDate": -30.0,
+    "Analysis": {
+     "Count": [
+      1,
+      [
+       9
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -2198,13 +2300,15 @@ var count =
     "timePeriodsKeys": "classical,hellenistic-republican,roman,modern",
     "timePeriodsRange": "-550.0,2100.0",
     "minDate": -550.0,
-    "maxDate": 2100.0
-   },
-   "Analysis": {
-    "count": 1,
-    "occurrences": [
-     9
-    ]
+    "maxDate": 2100.0,
+    "Analysis": {
+     "Count": [
+      1,
+      [
+       9
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -2223,14 +2327,16 @@ var count =
     "timePeriodsKeys": "archaic,roman",
     "timePeriodsRange": "-750.0,300.0",
     "minDate": -750.0,
-    "maxDate": 300.0
-   },
-   "Analysis": {
-    "count": 2,
-    "occurrences": [
-     9,
-     9
-    ]
+    "maxDate": 300.0,
+    "Analysis": {
+     "Count": [
+      2,
+      [
+       9,
+       9
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -2249,13 +2355,15 @@ var count =
     "timePeriodsKeys": NaN,
     "timePeriodsRange": NaN,
     "minDate": NaN,
-    "maxDate": NaN
-   },
-   "Analysis": {
-    "count": 1,
-    "occurrences": [
-     9
-    ]
+    "maxDate": NaN,
+    "Analysis": {
+     "Count": [
+      1,
+      [
+       9
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -2274,13 +2382,15 @@ var count =
     "timePeriodsKeys": "hellenistic-republican,roman",
     "timePeriodsRange": "-330.0,300.0",
     "minDate": -330.0,
-    "maxDate": 300.0
-   },
-   "Analysis": {
-    "count": 1,
-    "occurrences": [
-     9
-    ]
+    "maxDate": 300.0,
+    "Analysis": {
+     "Count": [
+      1,
+      [
+       9
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -2299,20 +2409,22 @@ var count =
     "timePeriodsKeys": "archaic,classical,hellenistic-republican,roman,late-antique",
     "timePeriodsRange": "-750.0,640.0",
     "minDate": -750.0,
-    "maxDate": 640.0
-   },
-   "Analysis": {
-    "count": 8,
-    "occurrences": [
-     9,
-     141,
-     141,
-     165,
-     171,
-     176,
-     180,
-     180
-    ]
+    "maxDate": 640.0,
+    "Analysis": {
+     "Count": [
+      8,
+      [
+       9,
+       141,
+       141,
+       165,
+       171,
+       176,
+       180,
+       180
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -2331,40 +2443,42 @@ var count =
     "timePeriodsKeys": "archaic,classical,hellenistic-republican,roman,late-antique",
     "timePeriodsRange": "-750.0,640.0",
     "minDate": -750.0,
-    "maxDate": 640.0
-   },
-   "Analysis": {
-    "count": 28,
-    "occurrences": [
-     9,
-     10,
-     51,
-     122,
-     122,
-     122,
-     148,
-     148,
-     149,
-     149,
-     150,
-     151,
-     151,
-     151,
-     152,
-     152,
-     153,
-     153,
-     171,
-     176,
-     176,
-     179,
-     182,
-     182,
-     182,
-     183,
-     183,
-     186
-    ]
+    "maxDate": 640.0,
+    "Analysis": {
+     "Count": [
+      28,
+      [
+       9,
+       10,
+       51,
+       122,
+       122,
+       122,
+       148,
+       148,
+       149,
+       149,
+       150,
+       151,
+       151,
+       151,
+       152,
+       152,
+       153,
+       153,
+       171,
+       176,
+       176,
+       179,
+       182,
+       182,
+       182,
+       183,
+       183,
+       186
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -2383,32 +2497,34 @@ var count =
     "timePeriodsKeys": "late-antique,modern",
     "timePeriodsRange": "300.0,2100.0",
     "minDate": 300.0,
-    "maxDate": 2100.0
-   },
-   "Analysis": {
-    "count": 20,
-    "occurrences": [
-     10,
-     23,
-     28,
-     30,
-     30,
-     63,
-     65,
-     76,
-     77,
-     80,
-     86,
-     86,
-     86,
-     104,
-     138,
-     143,
-     171,
-     173,
-     179,
-     183
-    ]
+    "maxDate": 2100.0,
+    "Analysis": {
+     "Count": [
+      20,
+      [
+       10,
+       23,
+       28,
+       30,
+       30,
+       63,
+       65,
+       76,
+       77,
+       80,
+       86,
+       86,
+       86,
+       104,
+       138,
+       143,
+       171,
+       173,
+       179,
+       183
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -2427,29 +2543,31 @@ var count =
     "timePeriodsKeys": "archaic,classical,hellenistic-republican,roman,late-antique",
     "timePeriodsRange": "-750.0,640.0",
     "minDate": -750.0,
-    "maxDate": 640.0
-   },
-   "Analysis": {
-    "count": 17,
-    "occurrences": [
-     10,
-     10,
-     147,
-     166,
-     175,
-     175,
-     175,
-     175,
-     175,
-     176,
-     176,
-     176,
-     176,
-     176,
-     176,
-     177,
-     180
-    ]
+    "maxDate": 640.0,
+    "Analysis": {
+     "Count": [
+      17,
+      [
+       10,
+       10,
+       147,
+       166,
+       175,
+       175,
+       175,
+       175,
+       175,
+       176,
+       176,
+       176,
+       176,
+       176,
+       176,
+       177,
+       180
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -2468,30 +2586,32 @@ var count =
     "timePeriodsKeys": "classical,hellenistic-republican,roman",
     "timePeriodsRange": "-550.0,300.0",
     "minDate": -550.0,
-    "maxDate": 300.0
-   },
-   "Analysis": {
-    "count": 18,
-    "occurrences": [
-     10,
-     10,
-     10,
-     10,
-     176,
-     176,
-     177,
-     177,
-     177,
-     178,
-     178,
-     178,
-     178,
-     179,
-     181,
-     181,
-     182,
-     183
-    ]
+    "maxDate": 300.0,
+    "Analysis": {
+     "Count": [
+      18,
+      [
+       10,
+       10,
+       10,
+       10,
+       176,
+       176,
+       177,
+       177,
+       177,
+       178,
+       178,
+       178,
+       178,
+       179,
+       181,
+       181,
+       182,
+       183
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -2510,18 +2630,20 @@ var count =
     "timePeriodsKeys": "modern",
     "timePeriodsRange": "1700.0,2100.0",
     "minDate": 1700.0,
-    "maxDate": 2100.0
-   },
-   "Analysis": {
-    "count": 6,
-    "occurrences": [
-     11,
-     138,
-     140,
-     140,
-     141,
-     156
-    ]
+    "maxDate": 2100.0,
+    "Analysis": {
+     "Count": [
+      6,
+      [
+       11,
+       138,
+       140,
+       140,
+       141,
+       156
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -2540,26 +2662,28 @@ var count =
     "timePeriodsKeys": "archaic,classical,hellenistic-roman-early-empire,modern",
     "timePeriodsRange": "-750.0,2100.0",
     "minDate": -750.0,
-    "maxDate": 2100.0
-   },
-   "Analysis": {
-    "count": 14,
-    "occurrences": [
-     11,
-     142,
-     142,
-     142,
-     143,
-     143,
-     143,
-     143,
-     143,
-     143,
-     144,
-     175,
-     175,
-     175
-    ]
+    "maxDate": 2100.0,
+    "Analysis": {
+     "Count": [
+      14,
+      [
+       11,
+       142,
+       142,
+       142,
+       143,
+       143,
+       143,
+       143,
+       143,
+       143,
+       144,
+       175,
+       175,
+       175
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -2578,29 +2702,31 @@ var count =
     "timePeriodsKeys": "archaic,classical,hellenistic-republican,hellenistic-roman-early-empire,roman,late-antique,modern",
     "timePeriodsRange": "-750.0,2100.0",
     "minDate": -750.0,
-    "maxDate": 2100.0
-   },
-   "Analysis": {
-    "count": 17,
-    "occurrences": [
-     11,
-     74,
-     111,
-     111,
-     111,
-     112,
-     112,
-     112,
-     112,
-     175,
-     175,
-     175,
-     175,
-     175,
-     175,
-     175,
-     179
-    ]
+    "maxDate": 2100.0,
+    "Analysis": {
+     "Count": [
+      17,
+      [
+       11,
+       74,
+       111,
+       111,
+       111,
+       112,
+       112,
+       112,
+       112,
+       175,
+       175,
+       175,
+       175,
+       175,
+       175,
+       175,
+       179
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -2619,21 +2745,23 @@ var count =
     "timePeriodsKeys": "archaic,classical,hellenistic-republican,roman,late-antique",
     "timePeriodsRange": "-750.0,640.0",
     "minDate": -750.0,
-    "maxDate": 640.0
-   },
-   "Analysis": {
-    "count": 9,
-    "occurrences": [
-     11,
-     11,
-     11,
-     11,
-     11,
-     12,
-     12,
-     171,
-     176
-    ]
+    "maxDate": 640.0,
+    "Analysis": {
+     "Count": [
+      9,
+      [
+       11,
+       11,
+       11,
+       11,
+       11,
+       12,
+       12,
+       171,
+       176
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -2652,80 +2780,82 @@ var count =
     "timePeriodsKeys": "middle-geometric,archaic,classical,hellenistic-republican,roman",
     "timePeriodsRange": "-850.0,300.0",
     "minDate": -850.0,
-    "maxDate": 300.0
-   },
-   "Analysis": {
-    "count": 68,
-    "occurrences": [
-     11,
-     11,
-     11,
-     12,
-     12,
-     12,
-     12,
-     12,
-     14,
-     15,
-     28,
-     29,
-     61,
-     62,
-     85,
-     104,
-     104,
-     129,
-     129,
-     144,
-     145,
-     145,
-     146,
-     146,
-     146,
-     147,
-     147,
-     149,
-     151,
-     151,
-     151,
-     153,
-     154,
-     156,
-     156,
-     156,
-     167,
-     167,
-     167,
-     169,
-     169,
-     169,
-     169,
-     169,
-     170,
-     170,
-     170,
-     170,
-     171,
-     171,
-     171,
-     171,
-     171,
-     172,
-     173,
-     173,
-     173,
-     173,
-     173,
-     173,
-     173,
-     174,
-     176,
-     176,
-     176,
-     179,
-     183,
-     183
-    ]
+    "maxDate": 300.0,
+    "Analysis": {
+     "Count": [
+      68,
+      [
+       11,
+       11,
+       11,
+       12,
+       12,
+       12,
+       12,
+       12,
+       14,
+       15,
+       28,
+       29,
+       61,
+       62,
+       85,
+       104,
+       104,
+       129,
+       129,
+       144,
+       145,
+       145,
+       146,
+       146,
+       146,
+       147,
+       147,
+       149,
+       151,
+       151,
+       151,
+       153,
+       154,
+       156,
+       156,
+       156,
+       167,
+       167,
+       167,
+       169,
+       169,
+       169,
+       169,
+       169,
+       170,
+       170,
+       170,
+       170,
+       171,
+       171,
+       171,
+       171,
+       171,
+       172,
+       173,
+       173,
+       173,
+       173,
+       173,
+       173,
+       173,
+       174,
+       176,
+       176,
+       176,
+       179,
+       183,
+       183
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -2744,13 +2874,15 @@ var count =
     "timePeriodsKeys": "hellenistic-republican,roman",
     "timePeriodsRange": "-330.0,300.0",
     "minDate": -330.0,
-    "maxDate": 300.0
-   },
-   "Analysis": {
-    "count": 1,
-    "occurrences": [
-     11
-    ]
+    "maxDate": 300.0,
+    "Analysis": {
+     "Count": [
+      1,
+      [
+       11
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -2769,21 +2901,23 @@ var count =
     "timePeriodsKeys": "archaic,classical,hellenistic-republican,roman",
     "timePeriodsRange": "-750.0,300.0",
     "minDate": -750.0,
-    "maxDate": 300.0
-   },
-   "Analysis": {
-    "count": 9,
-    "occurrences": [
-     11,
-     11,
-     74,
-     132,
-     146,
-     171,
-     171,
-     173,
-     180
-    ]
+    "maxDate": 300.0,
+    "Analysis": {
+     "Count": [
+      9,
+      [
+       11,
+       11,
+       74,
+       132,
+       146,
+       171,
+       171,
+       173,
+       180
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -2802,13 +2936,15 @@ var count =
     "timePeriodsKeys": "classical,hellenistic-republican,roman",
     "timePeriodsRange": "-550.0,300.0",
     "minDate": -550.0,
-    "maxDate": 300.0
-   },
-   "Analysis": {
-    "count": 1,
-    "occurrences": [
-     11
-    ]
+    "maxDate": 300.0,
+    "Analysis": {
+     "Count": [
+      1,
+      [
+       11
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -2827,13 +2963,15 @@ var count =
     "timePeriodsKeys": "archaic,classical",
     "timePeriodsRange": "-750.0,-330.0",
     "minDate": -750.0,
-    "maxDate": -330.0
-   },
-   "Analysis": {
-    "count": 1,
-    "occurrences": [
-     12
-    ]
+    "maxDate": -330.0,
+    "Analysis": {
+     "Count": [
+      1,
+      [
+       12
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -2852,15 +2990,17 @@ var count =
     "timePeriodsKeys": "archaic,classical,hellenistic-republican,roman",
     "timePeriodsRange": "-750.0,300.0",
     "minDate": -750.0,
-    "maxDate": 300.0
-   },
-   "Analysis": {
-    "count": 3,
-    "occurrences": [
-     12,
-     168,
-     168
-    ]
+    "maxDate": 300.0,
+    "Analysis": {
+     "Count": [
+      3,
+      [
+       12,
+       168,
+       168
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -2879,69 +3019,71 @@ var count =
     "timePeriodsKeys": "classical,roman,modern",
     "timePeriodsRange": "-550.0,2100.0",
     "minDate": -550.0,
-    "maxDate": 2100.0
-   },
-   "Analysis": {
-    "count": 57,
-    "occurrences": [
-     12,
-     28,
-     28,
-     29,
-     69,
-     76,
-     84,
-     84,
-     84,
-     84,
-     85,
-     85,
-     85,
-     85,
-     85,
-     85,
-     87,
-     87,
-     87,
-     87,
-     87,
-     88,
-     88,
-     99,
-     99,
-     99,
-     100,
-     101,
-     103,
-     103,
-     103,
-     103,
-     103,
-     103,
-     104,
-     104,
-     104,
-     104,
-     105,
-     105,
-     113,
-     120,
-     120,
-     121,
-     121,
-     128,
-     130,
-     132,
-     132,
-     132,
-     142,
-     161,
-     162,
-     162,
-     163,
-     163,
-     175
-    ]
+    "maxDate": 2100.0,
+    "Analysis": {
+     "Count": [
+      57,
+      [
+       12,
+       28,
+       28,
+       29,
+       69,
+       76,
+       84,
+       84,
+       84,
+       84,
+       85,
+       85,
+       85,
+       85,
+       85,
+       85,
+       87,
+       87,
+       87,
+       87,
+       87,
+       88,
+       88,
+       99,
+       99,
+       99,
+       100,
+       101,
+       103,
+       103,
+       103,
+       103,
+       103,
+       103,
+       104,
+       104,
+       104,
+       104,
+       105,
+       105,
+       113,
+       120,
+       120,
+       121,
+       121,
+       128,
+       130,
+       132,
+       132,
+       132,
+       142,
+       161,
+       162,
+       162,
+       163,
+       163,
+       175
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -2960,16 +3102,18 @@ var count =
     "timePeriodsKeys": "classical,hellenistic-republican,roman,late-antique",
     "timePeriodsRange": "-550.0,640.0",
     "minDate": -550.0,
-    "maxDate": 640.0
-   },
-   "Analysis": {
-    "count": 4,
-    "occurrences": [
-     12,
-     13,
-     14,
-     147
-    ]
+    "maxDate": 640.0,
+    "Analysis": {
+     "Count": [
+      4,
+      [
+       12,
+       13,
+       14,
+       147
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -2988,21 +3132,23 @@ var count =
     "timePeriodsKeys": NaN,
     "timePeriodsRange": NaN,
     "minDate": NaN,
-    "maxDate": NaN
-   },
-   "Analysis": {
-    "count": 9,
-    "occurrences": [
-     13,
-     34,
-     37,
-     37,
-     95,
-     147,
-     147,
-     147,
-     147
-    ]
+    "maxDate": NaN,
+    "Analysis": {
+     "Count": [
+      9,
+      [
+       13,
+       34,
+       37,
+       37,
+       95,
+       147,
+       147,
+       147,
+       147
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -3021,23 +3167,25 @@ var count =
     "timePeriodsKeys": "classical,hellenistic-republican,roman,late-antique",
     "timePeriodsRange": "-550.0,640.0",
     "minDate": -550.0,
-    "maxDate": 640.0
-   },
-   "Analysis": {
-    "count": 11,
-    "occurrences": [
-     13,
-     13,
-     44,
-     47,
-     95,
-     147,
-     147,
-     147,
-     158,
-     166,
-     175
-    ]
+    "maxDate": 640.0,
+    "Analysis": {
+     "Count": [
+      11,
+      [
+       13,
+       13,
+       44,
+       47,
+       95,
+       147,
+       147,
+       147,
+       158,
+       166,
+       175
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -3056,31 +3204,33 @@ var count =
     "timePeriodsKeys": "roman-early-empire-late-antique,modern",
     "timePeriodsRange": "-30.0,2100.0",
     "minDate": -30.0,
-    "maxDate": 2100.0
-   },
-   "Analysis": {
-    "count": 19,
-    "occurrences": [
-     13,
-     20,
-     38,
-     55,
-     76,
-     95,
-     132,
-     132,
-     143,
-     146,
-     157,
-     158,
-     158,
-     158,
-     158,
-     158,
-     158,
-     159,
-     159
-    ]
+    "maxDate": 2100.0,
+    "Analysis": {
+     "Count": [
+      19,
+      [
+       13,
+       20,
+       38,
+       55,
+       76,
+       95,
+       132,
+       132,
+       143,
+       146,
+       157,
+       158,
+       158,
+       158,
+       158,
+       158,
+       158,
+       159,
+       159
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -3099,45 +3249,47 @@ var count =
     "timePeriodsKeys": "old-babylonian-assyrian-mesopotamia,later-2nd-millennium-bc-mesopotamia,archaic,neo-assyrian-babylonian-middle-east,classical,achaemenid-middle-east,hellenistic-republican,hellenistic-central-asia,roman,late-antique",
     "timePeriodsRange": "-2000.0,640.0",
     "minDate": -2000.0,
-    "maxDate": 640.0
-   },
-   "Analysis": {
-    "count": 33,
-    "occurrences": [
-     13,
-     18,
-     29,
-     34,
-     34,
-     34,
-     35,
-     35,
-     35,
-     35,
-     35,
-     35,
-     35,
-     36,
-     36,
-     36,
-     36,
-     36,
-     37,
-     37,
-     37,
-     37,
-     37,
-     105,
-     105,
-     105,
-     105,
-     105,
-     106,
-     106,
-     106,
-     106,
-     106
-    ]
+    "maxDate": 640.0,
+    "Analysis": {
+     "Count": [
+      33,
+      [
+       13,
+       18,
+       29,
+       34,
+       34,
+       34,
+       35,
+       35,
+       35,
+       35,
+       35,
+       35,
+       35,
+       36,
+       36,
+       36,
+       36,
+       36,
+       37,
+       37,
+       37,
+       37,
+       37,
+       105,
+       105,
+       105,
+       105,
+       105,
+       106,
+       106,
+       106,
+       106,
+       106
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -3156,13 +3308,15 @@ var count =
     "timePeriodsKeys": "roman,late-antique,modern",
     "timePeriodsRange": "-30.0,2100.0",
     "minDate": -30.0,
-    "maxDate": 2100.0
-   },
-   "Analysis": {
-    "count": 1,
-    "occurrences": [
-     14
-    ]
+    "maxDate": 2100.0,
+    "Analysis": {
+     "Count": [
+      1,
+      [
+       14
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -3181,15 +3335,17 @@ var count =
     "timePeriodsKeys": "classical,late-antique",
     "timePeriodsRange": "-550.0,640.0",
     "minDate": -550.0,
-    "maxDate": 640.0
-   },
-   "Analysis": {
-    "count": 3,
-    "occurrences": [
-     14,
-     14,
-     14
-    ]
+    "maxDate": 640.0,
+    "Analysis": {
+     "Count": [
+      3,
+      [
+       14,
+       14,
+       14
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -3208,16 +3364,18 @@ var count =
     "timePeriodsKeys": "middle-bronze-age-anatolia,1200-bc-middle-east,archaic,middle-late-iron-age-anatolia,classical,achaemenid-middle-east,hellenistic-republican,hellenistic-middle-east,roman-middle-east,roman,roman-early-empire-parthian-middle-east,transition-roman-early-empire-late-antique,late-antique,late-antique-sasanian-middle-east,late-antique-late-byzantine,abassid-middle-east,rum-crusader-anatolia,crusader-byzantine-seljuq-middle-east,ottoman-rise,early-ottoman-empire,1500-ad-middle-east,late-ottoman-empire,ottoman-decline-mandate-middle-east,modern-middle-east",
     "timePeriodsRange": "-1750.0,2000.0",
     "minDate": -1750.0,
-    "maxDate": 2000.0
-   },
-   "Analysis": {
-    "count": 4,
-    "occurrences": [
-     14,
-     47,
-     48,
-     108
-    ]
+    "maxDate": 2000.0,
+    "Analysis": {
+     "Count": [
+      4,
+      [
+       14,
+       47,
+       48,
+       108
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -3236,24 +3394,26 @@ var count =
     "timePeriodsKeys": "archaic,classical,hellenistic-republican,roman,late-antique,modern",
     "timePeriodsRange": "-750.0,2100.0",
     "minDate": -750.0,
-    "maxDate": 2100.0
-   },
-   "Analysis": {
-    "count": 12,
-    "occurrences": [
-     15,
-     28,
-     29,
-     31,
-     31,
-     31,
-     32,
-     32,
-     60,
-     75,
-     128,
-     162
-    ]
+    "maxDate": 2100.0,
+    "Analysis": {
+     "Count": [
+      12,
+      [
+       15,
+       28,
+       29,
+       31,
+       31,
+       31,
+       32,
+       32,
+       60,
+       75,
+       128,
+       162
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -3272,15 +3432,17 @@ var count =
     "timePeriodsKeys": "archaic,middle-late-iron-age-anatolia,classical,achaemenid-middle-east,hellenistic-republican,hellenistic-middle-east,roman-middle-east,roman,roman-early-empire-parthian-middle-east,late-antique,late-antique-sasanian-middle-east,late-antique-late-byzantine,early-byzantine,abassid-middle-east,middle-byzantine,rum-crusader-anatolia,crusader-byzantine-seljuq-middle-east,modern-middle-east",
     "timePeriodsRange": "-750.0,2000.0",
     "minDate": -750.0,
-    "maxDate": 2000.0
-   },
-   "Analysis": {
-    "count": 3,
-    "occurrences": [
-     15,
-     137,
-     186
-    ]
+    "maxDate": 2000.0,
+    "Analysis": {
+     "Count": [
+      3,
+      [
+       15,
+       137,
+       186
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -3299,28 +3461,30 @@ var count =
     "timePeriodsKeys": "archaic,classical,hellenistic-republican,roman",
     "timePeriodsRange": "-750.0,300.0",
     "minDate": -750.0,
-    "maxDate": 300.0
-   },
-   "Analysis": {
-    "count": 16,
-    "occurrences": [
-     15,
-     33,
-     85,
-     104,
-     129,
-     129,
-     129,
-     129,
-     144,
-     146,
-     148,
-     150,
-     155,
-     173,
-     173,
-     176
-    ]
+    "maxDate": 300.0,
+    "Analysis": {
+     "Count": [
+      16,
+      [
+       15,
+       33,
+       85,
+       104,
+       129,
+       129,
+       129,
+       129,
+       144,
+       146,
+       148,
+       150,
+       155,
+       173,
+       173,
+       176
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -3339,17 +3503,19 @@ var count =
     "timePeriodsKeys": "archaic,classical,hellenistic-republican,roman",
     "timePeriodsRange": "-750.0,300.0",
     "minDate": -750.0,
-    "maxDate": 300.0
-   },
-   "Analysis": {
-    "count": 5,
-    "occurrences": [
-     15,
-     15,
-     15,
-     15,
-     172
-    ]
+    "maxDate": 300.0,
+    "Analysis": {
+     "Count": [
+      5,
+      [
+       15,
+       15,
+       15,
+       15,
+       172
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -3368,14 +3534,16 @@ var count =
     "timePeriodsKeys": "archaic,classical,hellenistic-republican,roman",
     "timePeriodsRange": "-750.0,300.0",
     "minDate": -750.0,
-    "maxDate": 300.0
-   },
-   "Analysis": {
-    "count": 2,
-    "occurrences": [
-     15,
-     174
-    ]
+    "maxDate": 300.0,
+    "Analysis": {
+     "Count": [
+      2,
+      [
+       15,
+       174
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -3394,14 +3562,16 @@ var count =
     "timePeriodsKeys": "archaic,modern",
     "timePeriodsRange": "-750.0,2100.0",
     "minDate": -750.0,
-    "maxDate": 2100.0
-   },
-   "Analysis": {
-    "count": 2,
-    "occurrences": [
-     15,
-     134
-    ]
+    "maxDate": 2100.0,
+    "Analysis": {
+     "Count": [
+      2,
+      [
+       15,
+       134
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -3420,14 +3590,16 @@ var count =
     "timePeriodsKeys": "roman,late-antique,modern",
     "timePeriodsRange": "-30.0,2100.0",
     "minDate": -30.0,
-    "maxDate": 2100.0
-   },
-   "Analysis": {
-    "count": 2,
-    "occurrences": [
-     15,
-     20
-    ]
+    "maxDate": 2100.0,
+    "Analysis": {
+     "Count": [
+      2,
+      [
+       15,
+       20
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -3446,20 +3618,22 @@ var count =
     "timePeriodsKeys": "classical,roman",
     "timePeriodsRange": "-550.0,300.0",
     "minDate": -550.0,
-    "maxDate": 300.0
-   },
-   "Analysis": {
-    "count": 8,
-    "occurrences": [
-     18,
-     51,
-     147,
-     149,
-     151,
-     153,
-     164,
-     177
-    ]
+    "maxDate": 300.0,
+    "Analysis": {
+     "Count": [
+      8,
+      [
+       18,
+       51,
+       147,
+       149,
+       151,
+       153,
+       164,
+       177
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -3478,86 +3652,88 @@ var count =
     "timePeriodsKeys": NaN,
     "timePeriodsRange": NaN,
     "minDate": NaN,
-    "maxDate": NaN
-   },
-   "Analysis": {
-    "count": 74,
-    "occurrences": [
-     18,
-     18,
-     35,
-     35,
-     35,
-     35,
-     36,
-     42,
-     42,
-     42,
-     43,
-     46,
-     46,
-     54,
-     59,
-     59,
-     59,
-     59,
-     67,
-     69,
-     70,
-     70,
-     70,
-     70,
-     70,
-     70,
-     70,
-     70,
-     71,
-     74,
-     74,
-     74,
-     77,
-     77,
-     77,
-     95,
-     97,
-     97,
-     107,
-     114,
-     114,
-     114,
-     115,
-     115,
-     115,
-     115,
-     115,
-     120,
-     120,
-     122,
-     123,
-     134,
-     134,
-     134,
-     134,
-     134,
-     134,
-     134,
-     135,
-     135,
-     136,
-     136,
-     136,
-     136,
-     137,
-     140,
-     140,
-     140,
-     140,
-     140,
-     140,
-     140,
-     140,
-     171
-    ]
+    "maxDate": NaN,
+    "Analysis": {
+     "Count": [
+      74,
+      [
+       18,
+       18,
+       35,
+       35,
+       35,
+       35,
+       36,
+       42,
+       42,
+       42,
+       43,
+       46,
+       46,
+       54,
+       59,
+       59,
+       59,
+       59,
+       67,
+       69,
+       70,
+       70,
+       70,
+       70,
+       70,
+       70,
+       70,
+       70,
+       71,
+       74,
+       74,
+       74,
+       77,
+       77,
+       77,
+       95,
+       97,
+       97,
+       107,
+       114,
+       114,
+       114,
+       115,
+       115,
+       115,
+       115,
+       115,
+       120,
+       120,
+       122,
+       123,
+       134,
+       134,
+       134,
+       134,
+       134,
+       134,
+       134,
+       135,
+       135,
+       136,
+       136,
+       136,
+       136,
+       137,
+       140,
+       140,
+       140,
+       140,
+       140,
+       140,
+       140,
+       140,
+       171
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -3576,13 +3752,15 @@ var count =
     "timePeriodsKeys": "archaic,classical,hellenistic-republican,roman,late-antique",
     "timePeriodsRange": "-750.0,640.0",
     "minDate": -750.0,
-    "maxDate": 640.0
-   },
-   "Analysis": {
-    "count": 1,
-    "occurrences": [
-     19
-    ]
+    "maxDate": 640.0,
+    "Analysis": {
+     "Count": [
+      1,
+      [
+       19
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -3601,22 +3779,24 @@ var count =
     "timePeriodsKeys": "1200-bc-middle-east,archaic,neo-assyrian-babylonian-middle-east,classical,achaemenid-middle-east,hellenistic-republican,hellenistic-middle-east,roman,roman-early-empire-parthian-middle-east,roman-early-empire-late-antique,transition-roman-early-empire-late-antique,late-antique,late-antique-sasanian-middle-east,proto-byzantine,caliphate-umayyad-middle-east,abassid-middle-east,samanid-ghaznavid-iran,seljuq-khwarezmian-middle-east,khwarezmian-middle-east,ilkhanate-middle-east,mongol-middle-east,timurid-middle-east,1500-ad-middle-east,safavid-middle-east,late-ottoman-empire,ottoman-decline-mandate-middle-east,modern-middle-east",
     "timePeriodsRange": "-1200.0,2000.0",
     "minDate": -1200.0,
-    "maxDate": 2000.0
-   },
-   "Analysis": {
-    "count": 10,
-    "occurrences": [
-     19,
-     21,
-     29,
-     30,
-     88,
-     89,
-     89,
-     89,
-     89,
-     95
-    ]
+    "maxDate": 2000.0,
+    "Analysis": {
+     "Count": [
+      10,
+      [
+       19,
+       21,
+       29,
+       30,
+       88,
+       89,
+       89,
+       89,
+       89,
+       95
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -3635,13 +3815,15 @@ var count =
     "timePeriodsKeys": "hellenistic-republican,roman,late-antique,modern",
     "timePeriodsRange": "-330.0,2100.0",
     "minDate": -330.0,
-    "maxDate": 2100.0
-   },
-   "Analysis": {
-    "count": 1,
-    "occurrences": [
-     19
-    ]
+    "maxDate": 2100.0,
+    "Analysis": {
+     "Count": [
+      1,
+      [
+       19
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -3660,21 +3842,23 @@ var count =
     "timePeriodsKeys": "akkadian-ur-iii-mesopotamia,2nd-millenium-bce,early-1st-millennium-mesopotamia,archaic,neo-assyrian-babylonian-middle-east,classical,hellenistic-republican,roman,late-antique,ottoman-empire-2,modern",
     "timePeriodsRange": "-2335.0,2100.0",
     "minDate": -2335.0,
-    "maxDate": 2100.0
-   },
-   "Analysis": {
-    "count": 9,
-    "occurrences": [
-     20,
-     20,
-     20,
-     34,
-     35,
-     37,
-     70,
-     70,
-     105
-    ]
+    "maxDate": 2100.0,
+    "Analysis": {
+     "Count": [
+      9,
+      [
+       20,
+       20,
+       20,
+       34,
+       35,
+       37,
+       70,
+       70,
+       105
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -3693,25 +3877,27 @@ var count =
     "timePeriodsKeys": "archaic,classical,hellenistic-republican,roman,late-antique,modern",
     "timePeriodsRange": "-750.0,2100.0",
     "minDate": -750.0,
-    "maxDate": 2100.0
-   },
-   "Analysis": {
-    "count": 13,
-    "occurrences": [
-     20,
-     107,
-     110,
-     110,
-     115,
-     120,
-     122,
-     122,
-     123,
-     124,
-     125,
-     125,
-     127
-    ]
+    "maxDate": 2100.0,
+    "Analysis": {
+     "Count": [
+      13,
+      [
+       20,
+       107,
+       110,
+       110,
+       115,
+       120,
+       122,
+       122,
+       123,
+       124,
+       125,
+       125,
+       127
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -3730,14 +3916,16 @@ var count =
     "timePeriodsKeys": "pottery-neolithic-middle-east,early-bronze-age-southern-levant,transition-early-middle-bronze-age-southern-levant,middle-bronze-age-southern-levant,2nd-millennium-bc-egypt,2nd-millennium-bc-levant,late-bronze-age-southern-levant,egyptian-hittite-levant,iron-age-southern-levant,neo-assyrian-babylonian-middle-east,achaemenid-middle-east,achaemenid-roman-republic-middle-east,hellenistic-republican,hellenistic-middle-east,hellenistic-roman-early-empire,ptolemaic-roman-egypt,roman-middle-east,roman-early-byzantine-middle-east,roman,roman-early-empire-parthian-middle-east,roman-early-empire-late-antique,transition-roman-early-empire-late-antique,late-antique,late-antique-sasanian-middle-east,caliphate-umayyad-middle-east,abassid-middle-east,samanid-ghaznavid-iran,crusader-seljuq-ayyubid-levant,ilkhanate-middle-east,early-ottoman-empire,modern-middle-east",
     "timePeriodsRange": "-6000.0,2000.0",
     "minDate": -6000.0,
-    "maxDate": 2000.0
-   },
-   "Analysis": {
-    "count": 2,
-    "occurrences": [
-     20,
-     20
-    ]
+    "maxDate": 2000.0,
+    "Analysis": {
+     "Count": [
+      2,
+      [
+       20,
+       20
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -3756,18 +3944,20 @@ var count =
     "timePeriodsKeys": "later-2nd-millennium-bc-mesopotamia,archaic,neo-assyrian-babylonian-middle-east,classical,achaemenid-middle-east,hellenistic-republican,roman,late-antique",
     "timePeriodsRange": "-1600.0,640.0",
     "minDate": -1600.0,
-    "maxDate": 640.0
-   },
-   "Analysis": {
-    "count": 6,
-    "occurrences": [
-     20,
-     37,
-     37,
-     95,
-     106,
-     137
-    ]
+    "maxDate": 640.0,
+    "Analysis": {
+     "Count": [
+      6,
+      [
+       20,
+       37,
+       37,
+       95,
+       106,
+       137
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -3786,17 +3976,19 @@ var count =
     "timePeriodsKeys": "hellenistic-republican,roman,late-antique",
     "timePeriodsRange": "-330.0,640.0",
     "minDate": -330.0,
-    "maxDate": 640.0
-   },
-   "Analysis": {
-    "count": 5,
-    "occurrences": [
-     21,
-     21,
-     21,
-     21,
-     22
-    ]
+    "maxDate": 640.0,
+    "Analysis": {
+     "Count": [
+      5,
+      [
+       21,
+       21,
+       21,
+       21,
+       22
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -3815,15 +4007,17 @@ var count =
     "timePeriodsKeys": "classical,achaemenid-middle-east,hellenistic-republican,roman,modern",
     "timePeriodsRange": "-550.0,2100.0",
     "minDate": -550.0,
-    "maxDate": 2100.0
-   },
-   "Analysis": {
-    "count": 3,
-    "occurrences": [
-     25,
-     25,
-     133
-    ]
+    "maxDate": 2100.0,
+    "Analysis": {
+     "Count": [
+      3,
+      [
+       25,
+       25,
+       133
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -3842,15 +4036,17 @@ var count =
     "timePeriodsKeys": "roman,late-antique,modern",
     "timePeriodsRange": "-30.0,2100.0",
     "minDate": -30.0,
-    "maxDate": 2100.0
-   },
-   "Analysis": {
-    "count": 3,
-    "occurrences": [
-     25,
-     118,
-     118
-    ]
+    "maxDate": 2100.0,
+    "Analysis": {
+     "Count": [
+      3,
+      [
+       25,
+       118,
+       118
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -3869,19 +4065,21 @@ var count =
     "timePeriodsKeys": "archaic,classical,hellenistic-republican,roman,late-antique",
     "timePeriodsRange": "-750.0,640.0",
     "minDate": -750.0,
-    "maxDate": 640.0
-   },
-   "Analysis": {
-    "count": 7,
-    "occurrences": [
-     28,
-     33,
-     33,
-     157,
-     159,
-     159,
-     163
-    ]
+    "maxDate": 640.0,
+    "Analysis": {
+     "Count": [
+      7,
+      [
+       28,
+       33,
+       33,
+       157,
+       159,
+       159,
+       163
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -3900,16 +4098,18 @@ var count =
     "timePeriodsKeys": "archaic,classical,hellenistic-republican,roman,late-antique,modern",
     "timePeriodsRange": "-750.0,2100.0",
     "minDate": -750.0,
-    "maxDate": 2100.0
-   },
-   "Analysis": {
-    "count": 4,
-    "occurrences": [
-     28,
-     32,
-     32,
-     75
-    ]
+    "maxDate": 2100.0,
+    "Analysis": {
+     "Count": [
+      4,
+      [
+       28,
+       32,
+       32,
+       75
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -3928,13 +4128,15 @@ var count =
     "timePeriodsKeys": "late-antique",
     "timePeriodsRange": "300.0,640.0",
     "minDate": 300.0,
-    "maxDate": 640.0
-   },
-   "Analysis": {
-    "count": 1,
-    "occurrences": [
-     28
-    ]
+    "maxDate": 640.0,
+    "Analysis": {
+     "Count": [
+      1,
+      [
+       28
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -3953,13 +4155,15 @@ var count =
     "timePeriodsKeys": "modern",
     "timePeriodsRange": "1700.0,2100.0",
     "minDate": 1700.0,
-    "maxDate": 2100.0
-   },
-   "Analysis": {
-    "count": 1,
-    "occurrences": [
-     28
-    ]
+    "maxDate": 2100.0,
+    "Analysis": {
+     "Count": [
+      1,
+      [
+       28
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -3978,16 +4182,18 @@ var count =
     "timePeriodsKeys": "hellenistic-republican,roman,late-antique",
     "timePeriodsRange": "-330.0,640.0",
     "minDate": -330.0,
-    "maxDate": 640.0
-   },
-   "Analysis": {
-    "count": 4,
-    "occurrences": [
-     28,
-     75,
-     103,
-     132
-    ]
+    "maxDate": 640.0,
+    "Analysis": {
+     "Count": [
+      4,
+      [
+       28,
+       75,
+       103,
+       132
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -4006,23 +4212,25 @@ var count =
     "timePeriodsKeys": "archaic,classical,hellenistic-republican,roman",
     "timePeriodsRange": "-750.0,300.0",
     "minDate": -750.0,
-    "maxDate": 300.0
-   },
-   "Analysis": {
-    "count": 11,
-    "occurrences": [
-     28,
-     149,
-     149,
-     149,
-     149,
-     150,
-     174,
-     180,
-     180,
-     180,
-     181
-    ]
+    "maxDate": 300.0,
+    "Analysis": {
+     "Count": [
+      11,
+      [
+       28,
+       149,
+       149,
+       149,
+       149,
+       150,
+       174,
+       180,
+       180,
+       180,
+       181
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -4041,13 +4249,15 @@ var count =
     "timePeriodsKeys": "archaic,classical,hellenistic-republican,roman",
     "timePeriodsRange": "-750.0,300.0",
     "minDate": -750.0,
-    "maxDate": 300.0
-   },
-   "Analysis": {
-    "count": 1,
-    "occurrences": [
-     28
-    ]
+    "maxDate": 300.0,
+    "Analysis": {
+     "Count": [
+      1,
+      [
+       28
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -4066,13 +4276,15 @@ var count =
     "timePeriodsKeys": "archaic,classical,hellenistic-republican,roman,late-antique",
     "timePeriodsRange": "-750.0,640.0",
     "minDate": -750.0,
-    "maxDate": 640.0
-   },
-   "Analysis": {
-    "count": 1,
-    "occurrences": [
-     28
-    ]
+    "maxDate": 640.0,
+    "Analysis": {
+     "Count": [
+      1,
+      [
+       28
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -4091,14 +4303,16 @@ var count =
     "timePeriodsKeys": "roman,modern",
     "timePeriodsRange": "-30.0,2100.0",
     "minDate": -30.0,
-    "maxDate": 2100.0
-   },
-   "Analysis": {
-    "count": 2,
-    "occurrences": [
-     28,
-     28
-    ]
+    "maxDate": 2100.0,
+    "Analysis": {
+     "Count": [
+      2,
+      [
+       28,
+       28
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -4117,13 +4331,15 @@ var count =
     "timePeriodsKeys": "roman",
     "timePeriodsRange": "-30.0,300.0",
     "minDate": -30.0,
-    "maxDate": 300.0
-   },
-   "Analysis": {
-    "count": 1,
-    "occurrences": [
-     28
-    ]
+    "maxDate": 300.0,
+    "Analysis": {
+     "Count": [
+      1,
+      [
+       28
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -4142,13 +4358,15 @@ var count =
     "timePeriodsKeys": "roman,late-antique",
     "timePeriodsRange": "-30.0,640.0",
     "minDate": -30.0,
-    "maxDate": 640.0
-   },
-   "Analysis": {
-    "count": 1,
-    "occurrences": [
-     28
-    ]
+    "maxDate": 640.0,
+    "Analysis": {
+     "Count": [
+      1,
+      [
+       28
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -4167,13 +4385,15 @@ var count =
     "timePeriodsKeys": "archaic,classical,hellenistic-republican",
     "timePeriodsRange": "-750.0,-30.0",
     "minDate": -750.0,
-    "maxDate": -30.0
-   },
-   "Analysis": {
-    "count": 1,
-    "occurrences": [
-     28
-    ]
+    "maxDate": -30.0,
+    "Analysis": {
+     "Count": [
+      1,
+      [
+       28
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -4192,13 +4412,15 @@ var count =
     "timePeriodsKeys": "archaic,classical,hellenistic-republican,roman",
     "timePeriodsRange": "-750.0,300.0",
     "minDate": -750.0,
-    "maxDate": 300.0
-   },
-   "Analysis": {
-    "count": 1,
-    "occurrences": [
-     28
-    ]
+    "maxDate": 300.0,
+    "Analysis": {
+     "Count": [
+      1,
+      [
+       28
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -4217,13 +4439,15 @@ var count =
     "timePeriodsKeys": "archaic,classical,hellenistic-republican,roman,late-antique",
     "timePeriodsRange": "-750.0,640.0",
     "minDate": -750.0,
-    "maxDate": 640.0
-   },
-   "Analysis": {
-    "count": 1,
-    "occurrences": [
-     28
-    ]
+    "maxDate": 640.0,
+    "Analysis": {
+     "Count": [
+      1,
+      [
+       28
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -4242,17 +4466,19 @@ var count =
     "timePeriodsKeys": "classical,modern",
     "timePeriodsRange": "-550.0,2100.0",
     "minDate": -550.0,
-    "maxDate": 2100.0
-   },
-   "Analysis": {
-    "count": 5,
-    "occurrences": [
-     28,
-     111,
-     143,
-     151,
-     175
-    ]
+    "maxDate": 2100.0,
+    "Analysis": {
+     "Count": [
+      5,
+      [
+       28,
+       111,
+       143,
+       151,
+       175
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -4271,13 +4497,15 @@ var count =
     "timePeriodsKeys": "archaic,classical,hellenistic-republican,roman,late-antique",
     "timePeriodsRange": "-750.0,640.0",
     "minDate": -750.0,
-    "maxDate": 640.0
-   },
-   "Analysis": {
-    "count": 1,
-    "occurrences": [
-     28
-    ]
+    "maxDate": 640.0,
+    "Analysis": {
+     "Count": [
+      1,
+      [
+       28
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -4296,17 +4524,19 @@ var count =
     "timePeriodsKeys": "archaic,classical,hellenistic-republican,roman,late-antique",
     "timePeriodsRange": "-750.0,640.0",
     "minDate": -750.0,
-    "maxDate": 640.0
-   },
-   "Analysis": {
-    "count": 5,
-    "occurrences": [
-     29,
-     30,
-     30,
-     128,
-     159
-    ]
+    "maxDate": 640.0,
+    "Analysis": {
+     "Count": [
+      5,
+      [
+       29,
+       30,
+       30,
+       128,
+       159
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -4325,13 +4555,15 @@ var count =
     "timePeriodsKeys": "archaic,classical,hellenistic-republican,roman,late-antique",
     "timePeriodsRange": "-750.0,640.0",
     "minDate": -750.0,
-    "maxDate": 640.0
-   },
-   "Analysis": {
-    "count": 1,
-    "occurrences": [
-     29
-    ]
+    "maxDate": 640.0,
+    "Analysis": {
+     "Count": [
+      1,
+      [
+       29
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -4350,13 +4582,15 @@ var count =
     "timePeriodsKeys": "archaic,classical,hellenistic-republican,roman,late-antique",
     "timePeriodsRange": "-750.0,640.0",
     "minDate": -750.0,
-    "maxDate": 640.0
-   },
-   "Analysis": {
-    "count": 1,
-    "occurrences": [
-     29
-    ]
+    "maxDate": 640.0,
+    "Analysis": {
+     "Count": [
+      1,
+      [
+       29
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -4375,14 +4609,16 @@ var count =
     "timePeriodsKeys": "archaic,classical,hellenistic-republican,roman,late-antique",
     "timePeriodsRange": "-750.0,640.0",
     "minDate": -750.0,
-    "maxDate": 640.0
-   },
-   "Analysis": {
-    "count": 2,
-    "occurrences": [
-     29,
-     183
-    ]
+    "maxDate": 640.0,
+    "Analysis": {
+     "Count": [
+      2,
+      [
+       29,
+       183
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -4401,14 +4637,16 @@ var count =
     "timePeriodsKeys": "archaic,classical,hellenistic-republican,roman",
     "timePeriodsRange": "-750.0,300.0",
     "minDate": -750.0,
-    "maxDate": 300.0
-   },
-   "Analysis": {
-    "count": 2,
-    "occurrences": [
-     29,
-     159
-    ]
+    "maxDate": 300.0,
+    "Analysis": {
+     "Count": [
+      2,
+      [
+       29,
+       159
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -4427,22 +4665,24 @@ var count =
     "timePeriodsKeys": "archaic,classical,hellenistic-republican,roman,modern",
     "timePeriodsRange": "-750.0,2100.0",
     "minDate": -750.0,
-    "maxDate": 2100.0
-   },
-   "Analysis": {
-    "count": 10,
-    "occurrences": [
-     29,
-     29,
-     31,
-     31,
-     38,
-     156,
-     160,
-     164,
-     164,
-     164
-    ]
+    "maxDate": 2100.0,
+    "Analysis": {
+     "Count": [
+      10,
+      [
+       29,
+       29,
+       31,
+       31,
+       38,
+       156,
+       160,
+       164,
+       164,
+       164
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -4461,13 +4701,15 @@ var count =
     "timePeriodsKeys": "archaic,classical,hellenistic-republican,roman",
     "timePeriodsRange": "-750.0,300.0",
     "minDate": -750.0,
-    "maxDate": 300.0
-   },
-   "Analysis": {
-    "count": 1,
-    "occurrences": [
-     29
-    ]
+    "maxDate": 300.0,
+    "Analysis": {
+     "Count": [
+      1,
+      [
+       29
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -4486,16 +4728,18 @@ var count =
     "timePeriodsKeys": "archaic,classical,hellenistic-republican,roman,late-antique,modern",
     "timePeriodsRange": "-750.0,2100.0",
     "minDate": -750.0,
-    "maxDate": 2100.0
-   },
-   "Analysis": {
-    "count": 4,
-    "occurrences": [
-     29,
-     29,
-     164,
-     165
-    ]
+    "maxDate": 2100.0,
+    "Analysis": {
+     "Count": [
+      4,
+      [
+       29,
+       29,
+       164,
+       165
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -4514,13 +4758,15 @@ var count =
     "timePeriodsKeys": "archaic,classical,hellenistic-republican,hellenistic-roman-early-empire,roman,late-antique,modern",
     "timePeriodsRange": "-750.0,2100.0",
     "minDate": -750.0,
-    "maxDate": 2100.0
-   },
-   "Analysis": {
-    "count": 1,
-    "occurrences": [
-     30
-    ]
+    "maxDate": 2100.0,
+    "Analysis": {
+     "Count": [
+      1,
+      [
+       30
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -4539,20 +4785,22 @@ var count =
     "timePeriodsKeys": "archaic,classical,hellenistic-republican,roman,late-antique",
     "timePeriodsRange": "-750.0,640.0",
     "minDate": -750.0,
-    "maxDate": 640.0
-   },
-   "Analysis": {
-    "count": 8,
-    "occurrences": [
-     31,
-     67,
-     75,
-     139,
-     144,
-     155,
-     155,
-     160
-    ]
+    "maxDate": 640.0,
+    "Analysis": {
+     "Count": [
+      8,
+      [
+       31,
+       67,
+       75,
+       139,
+       144,
+       155,
+       155,
+       160
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -4571,16 +4819,18 @@ var count =
     "timePeriodsKeys": "archaic,classical,hellenistic-republican,roman",
     "timePeriodsRange": "-750.0,300.0",
     "minDate": -750.0,
-    "maxDate": 300.0
-   },
-   "Analysis": {
-    "count": 4,
-    "occurrences": [
-     31,
-     31,
-     160,
-     164
-    ]
+    "maxDate": 300.0,
+    "Analysis": {
+     "Count": [
+      4,
+      [
+       31,
+       31,
+       160,
+       164
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -4599,15 +4849,17 @@ var count =
     "timePeriodsKeys": "archaic,classical",
     "timePeriodsRange": "-750.0,-330.0",
     "minDate": -750.0,
-    "maxDate": -330.0
-   },
-   "Analysis": {
-    "count": 3,
-    "occurrences": [
-     31,
-     159,
-     164
-    ]
+    "maxDate": -330.0,
+    "Analysis": {
+     "Count": [
+      3,
+      [
+       31,
+       159,
+       164
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -4626,15 +4878,17 @@ var count =
     "timePeriodsKeys": NaN,
     "timePeriodsRange": NaN,
     "minDate": NaN,
-    "maxDate": NaN
-   },
-   "Analysis": {
-    "count": 3,
-    "occurrences": [
-     31,
-     99,
-     100
-    ]
+    "maxDate": NaN,
+    "Analysis": {
+     "Count": [
+      3,
+      [
+       31,
+       99,
+       100
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -4653,13 +4907,15 @@ var count =
     "timePeriodsKeys": "hellenistic-republican,roman,late-antique",
     "timePeriodsRange": "-330.0,640.0",
     "minDate": -330.0,
-    "maxDate": 640.0
-   },
-   "Analysis": {
-    "count": 1,
-    "occurrences": [
-     31
-    ]
+    "maxDate": 640.0,
+    "Analysis": {
+     "Count": [
+      1,
+      [
+       31
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -4678,13 +4934,15 @@ var count =
     "timePeriodsKeys": "classical",
     "timePeriodsRange": "-550.0,-330.0",
     "minDate": -550.0,
-    "maxDate": -330.0
-   },
-   "Analysis": {
-    "count": 1,
-    "occurrences": [
-     31
-    ]
+    "maxDate": -330.0,
+    "Analysis": {
+     "Count": [
+      1,
+      [
+       31
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -4703,14 +4961,16 @@ var count =
     "timePeriodsKeys": "archaic,classical,hellenistic-republican,roman,late-antique,modern",
     "timePeriodsRange": "-750.0,2100.0",
     "minDate": -750.0,
-    "maxDate": 2100.0
-   },
-   "Analysis": {
-    "count": 2,
-    "occurrences": [
-     32,
-     32
-    ]
+    "maxDate": 2100.0,
+    "Analysis": {
+     "Count": [
+      2,
+      [
+       32,
+       32
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -4729,13 +4989,15 @@ var count =
     "timePeriodsKeys": "archaic,classical,hellenistic-republican,roman,late-antique,mediaeval-byzantine,modern",
     "timePeriodsRange": "-750.0,2100.0",
     "minDate": -750.0,
-    "maxDate": 2100.0
-   },
-   "Analysis": {
-    "count": 1,
-    "occurrences": [
-     32
-    ]
+    "maxDate": 2100.0,
+    "Analysis": {
+     "Count": [
+      1,
+      [
+       32
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -4754,16 +5016,18 @@ var count =
     "timePeriodsKeys": "archaic,classical,hellenistic-republican,hellenistic-roman-early-empire,roman",
     "timePeriodsRange": "-750.0,300.0",
     "minDate": -750.0,
-    "maxDate": 300.0
-   },
-   "Analysis": {
-    "count": 4,
-    "occurrences": [
-     32,
-     32,
-     166,
-     167
-    ]
+    "maxDate": 300.0,
+    "Analysis": {
+     "Count": [
+      4,
+      [
+       32,
+       32,
+       166,
+       167
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -4782,16 +5046,18 @@ var count =
     "timePeriodsKeys": "neo-assyrian-babylonian-middle-east,achaemenid-middle-east,roman-middle-east,transition-roman-early-empire-late-antique,late-antique,late-antique-sasanian-middle-east,proto-byzantine,persian-medieval-caucasus,caliphate-umayyad-middle-east,early-byzantine,abassid-middle-east,middle-byzantine,early-medieval-caucasus,crusader-byzantine-seljuq-middle-east,crusader-seljuq-ayyubid-levant,ilkhanate-middle-east,mongol-middle-east,ottoman-rise,timurid-middle-east,early-ottoman-empire,1500-ad-middle-east,perso-ottoman-russian-caucasus,ottoman-empire,late-ottoman-empire,ottoman-decline-mandate-middle-east,modern-middle-east",
     "timePeriodsRange": "-720.0,2000.0",
     "minDate": -720.0,
-    "maxDate": 2000.0
-   },
-   "Analysis": {
-    "count": 4,
-    "occurrences": [
-     32,
-     84,
-     96,
-     100
-    ]
+    "maxDate": 2000.0,
+    "Analysis": {
+     "Count": [
+      4,
+      [
+       32,
+       84,
+       96,
+       100
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -4810,16 +5076,18 @@ var count =
     "timePeriodsKeys": "archaic,classical,hellenistic-republican,roman,late-antique,modern",
     "timePeriodsRange": "-750.0,2100.0",
     "minDate": -750.0,
-    "maxDate": 2100.0
-   },
-   "Analysis": {
-    "count": 4,
-    "occurrences": [
-     32,
-     157,
-     159,
-     160
-    ]
+    "maxDate": 2100.0,
+    "Analysis": {
+     "Count": [
+      4,
+      [
+       32,
+       157,
+       159,
+       160
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -4838,13 +5106,15 @@ var count =
     "timePeriodsKeys": "archaic,roman",
     "timePeriodsRange": "-750.0,300.0",
     "minDate": -750.0,
-    "maxDate": 300.0
-   },
-   "Analysis": {
-    "count": 1,
-    "occurrences": [
-     32
-    ]
+    "maxDate": 300.0,
+    "Analysis": {
+     "Count": [
+      1,
+      [
+       32
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -4863,14 +5133,16 @@ var count =
     "timePeriodsKeys": NaN,
     "timePeriodsRange": NaN,
     "minDate": NaN,
-    "maxDate": NaN
-   },
-   "Analysis": {
-    "count": 2,
-    "occurrences": [
-     33,
-     50
-    ]
+    "maxDate": NaN,
+    "Analysis": {
+     "Count": [
+      2,
+      [
+       33,
+       50
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -4889,13 +5161,15 @@ var count =
     "timePeriodsKeys": "classical,hellenistic-republican,roman",
     "timePeriodsRange": "-550.0,300.0",
     "minDate": -550.0,
-    "maxDate": 300.0
-   },
-   "Analysis": {
-    "count": 1,
-    "occurrences": [
-     33
-    ]
+    "maxDate": 300.0,
+    "Analysis": {
+     "Count": [
+      1,
+      [
+       33
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -4914,15 +5188,17 @@ var count =
     "timePeriodsKeys": "classical,roman,modern",
     "timePeriodsRange": "-550.0,2100.0",
     "minDate": -550.0,
-    "maxDate": 2100.0
-   },
-   "Analysis": {
-    "count": 3,
-    "occurrences": [
-     33,
-     118,
-     125
-    ]
+    "maxDate": 2100.0,
+    "Analysis": {
+     "Count": [
+      3,
+      [
+       33,
+       118,
+       125
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -4941,13 +5217,15 @@ var count =
     "timePeriodsKeys": "hellenistic-republican,roman,late-antique",
     "timePeriodsRange": "-330.0,640.0",
     "minDate": -330.0,
-    "maxDate": 640.0
-   },
-   "Analysis": {
-    "count": 1,
-    "occurrences": [
-     33
-    ]
+    "maxDate": 640.0,
+    "Analysis": {
+     "Count": [
+      1,
+      [
+       33
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -4966,13 +5244,15 @@ var count =
     "timePeriodsKeys": "archaic,classical,hellenistic-republican,roman",
     "timePeriodsRange": "-750.0,300.0",
     "minDate": -750.0,
-    "maxDate": 300.0
-   },
-   "Analysis": {
-    "count": 1,
-    "occurrences": [
-     33
-    ]
+    "maxDate": 300.0,
+    "Analysis": {
+     "Count": [
+      1,
+      [
+       33
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -4991,14 +5271,16 @@ var count =
     "timePeriodsKeys": "archaic,classical,hellenistic-republican,roman,late-antique,modern",
     "timePeriodsRange": "-750.0,2100.0",
     "minDate": -750.0,
-    "maxDate": 2100.0
-   },
-   "Analysis": {
-    "count": 2,
-    "occurrences": [
-     33,
-     75
-    ]
+    "maxDate": 2100.0,
+    "Analysis": {
+     "Count": [
+      2,
+      [
+       33,
+       75
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -5017,14 +5299,16 @@ var count =
     "timePeriodsKeys": "classical,hellenistic-republican,roman,late-antique",
     "timePeriodsRange": "-550.0,640.0",
     "minDate": -550.0,
-    "maxDate": 640.0
-   },
-   "Analysis": {
-    "count": 2,
-    "occurrences": [
-     34,
-     157
-    ]
+    "maxDate": 640.0,
+    "Analysis": {
+     "Count": [
+      2,
+      [
+       34,
+       157
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -5043,21 +5327,23 @@ var count =
     "timePeriodsKeys": "mesolithic-levant,mesolithic-middle-east,neolithic-middle-east,chalcolithic-mesopotamia,pottery-neolithic-middle-east,ubaid-early-dynastic-ii-mesopotamia,chalcolithic-iran,early-dynastic-mesopotamia,akkadian-ur-iii-mesopotamia,old-babylonian-assyrian-mesopotamia,2nd-millennium-bc-levant,middle-bronze-early-iron-age-iran,middle-bronze-age-anatolia,later-2nd-millennium-bc-mesopotamia,middle-hittite-anatolia,egyptian-hittite-levant,early-iron-age-anatolia,1200-bc-middle-east,archaic,neo-assyrian-babylonian-middle-east,middle-late-iron-age-anatolia,classical,achaemenid-middle-east,hellenistic-republican,hellenistic-middle-east,roman-middle-east,roman,roman-early-empire-parthian-middle-east,transition-roman-early-empire-late-antique,late-antique,late-antique-sasanian-middle-east,late-antique-late-byzantine,persian-medieval-caucasus,caliphate-umayyad-middle-east,early-byzantine,abassid-middle-east,samanid-ghaznavid-iran,middle-byzantine,early-medieval-caucasus,khwarezmian-middle-east,rum-crusader-anatolia,crusader-byzantine-seljuq-middle-east,crusader-seljuq-ayyubid-levant,ottoman-rise,early-ottoman-empire,late-ottoman-empire,modern,modern-middle-east",
     "timePeriodsRange": "-18000.0,2100.0",
     "minDate": -18000.0,
-    "maxDate": 2100.0
-   },
-   "Analysis": {
-    "count": 9,
-    "occurrences": [
-     34,
-     34,
-     35,
-     35,
-     35,
-     36,
-     36,
-     37,
-     147
-    ]
+    "maxDate": 2100.0,
+    "Analysis": {
+     "Count": [
+      9,
+      [
+       34,
+       34,
+       35,
+       35,
+       35,
+       36,
+       36,
+       37,
+       147
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -5076,14 +5362,16 @@ var count =
     "timePeriodsKeys": "roman,late-antique,modern",
     "timePeriodsRange": "-30.0,2100.0",
     "minDate": -30.0,
-    "maxDate": 2100.0
-   },
-   "Analysis": {
-    "count": 2,
-    "occurrences": [
-     34,
-     34
-    ]
+    "maxDate": 2100.0,
+    "Analysis": {
+     "Count": [
+      2,
+      [
+       34,
+       34
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -5102,16 +5390,18 @@ var count =
     "timePeriodsKeys": "classical,hellenistic-republican,roman,late-antique",
     "timePeriodsRange": "-550.0,640.0",
     "minDate": -550.0,
-    "maxDate": 640.0
-   },
-   "Analysis": {
-    "count": 4,
-    "occurrences": [
-     34,
-     76,
-     112,
-     113
-    ]
+    "maxDate": 640.0,
+    "Analysis": {
+     "Count": [
+      4,
+      [
+       34,
+       76,
+       112,
+       113
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -5130,16 +5420,18 @@ var count =
     "timePeriodsKeys": "modern",
     "timePeriodsRange": "1700.0,2100.0",
     "minDate": 1700.0,
-    "maxDate": 2100.0
-   },
-   "Analysis": {
-    "count": 4,
-    "occurrences": [
-     36,
-     36,
-     146,
-     147
-    ]
+    "maxDate": 2100.0,
+    "Analysis": {
+     "Count": [
+      4,
+      [
+       36,
+       36,
+       146,
+       147
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -5158,44 +5450,46 @@ var count =
     "timePeriodsKeys": "chalcolithic-mesopotamia,ubaid-early-dynastic-ii-mesopotamia,chalcolithic-iran,early-dynastic-mesopotamia,old-babylonian-assyrian-mesopotamia,middle-bronze-early-iron-age-iran,later-2nd-millennium-bc-mesopotamia,1200-bc-middle-east,archaic,neo-assyrian-babylonian-middle-east,classical,achaemenid-middle-east,achaemenid-roman-republic-middle-east,hellenistic-republican,hellenistic-middle-east,roman-middle-east,roman,roman-early-empire-parthian-middle-east,transition-roman-early-empire-late-antique,late-antique,late-antique-sasanian-middle-east,caliphate-umayyad-middle-east,abassid-middle-east,samanid-ghaznavid-iran,khwarezmian-middle-east,ilkhanate-middle-east,safavid-middle-east,modern-middle-east",
     "timePeriodsRange": "-6200.0,2000.0",
     "minDate": -6200.0,
-    "maxDate": 2000.0
-   },
-   "Analysis": {
-    "count": 32,
-    "occurrences": [
-     36,
-     82,
-     89,
-     89,
-     89,
-     90,
-     95,
-     101,
-     103,
-     120,
-     120,
-     142,
-     142,
-     142,
-     142,
-     143,
-     144,
-     144,
-     146,
-     147,
-     147,
-     147,
-     157,
-     160,
-     162,
-     164,
-     179,
-     179,
-     183,
-     184,
-     184,
-     184
-    ]
+    "maxDate": 2000.0,
+    "Analysis": {
+     "Count": [
+      32,
+      [
+       36,
+       82,
+       89,
+       89,
+       89,
+       90,
+       95,
+       101,
+       103,
+       120,
+       120,
+       142,
+       142,
+       142,
+       142,
+       143,
+       144,
+       144,
+       146,
+       147,
+       147,
+       147,
+       157,
+       160,
+       162,
+       164,
+       179,
+       179,
+       183,
+       184,
+       184,
+       184
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -5214,18 +5508,20 @@ var count =
     "timePeriodsKeys": "classical",
     "timePeriodsRange": "-550.0,-330.0",
     "minDate": -550.0,
-    "maxDate": -330.0
-   },
-   "Analysis": {
-    "count": 6,
-    "occurrences": [
-     36,
-     36,
-     36,
-     36,
-     39,
-     147
-    ]
+    "maxDate": -330.0,
+    "Analysis": {
+     "Count": [
+      6,
+      [
+       36,
+       36,
+       36,
+       36,
+       39,
+       147
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -5244,18 +5540,20 @@ var count =
     "timePeriodsKeys": "mesolithic-middle-east,neolithic-middle-east,chalcolithic-mesopotamia,pottery-neolithic-middle-east,ubaid-early-dynastic-ii-mesopotamia,chalcolithic-iran,early-dynastic-mesopotamia,akkadian-ur-iii-mesopotamia,old-babylonian-assyrian-mesopotamia,middle-bronze-early-iron-age-iran,later-2nd-millennium-bc-mesopotamia,archaic,neo-assyrian-babylonian-middle-east,classical,achaemenid-middle-east,hellenistic-republican,hellenistic-middle-east,roman-middle-east,roman,roman-early-empire-parthian-middle-east,transition-roman-early-empire-late-antique,late-antique,late-antique-sasanian-middle-east,late-antique-late-byzantine,persian-medieval-caucasus,caliphate-umayyad-middle-east,abassid-middle-east,samanid-ghaznavid-iran,middle-byzantine,early-medieval-caucasus,seljuq-khwarezmian-middle-east,khwarezmian-middle-east,crusader-byzantine-seljuq-middle-east,crusader-seljuq-ayyubid-levant,mongol-middle-east,ottoman-rise,timurid-middle-east,early-ottoman-empire,1500-ad-middle-east,perso-ottoman-russian-caucasus,safavid-middle-east,late-ottoman-empire,modern-middle-east",
     "timePeriodsRange": "-18000.0,2000.0",
     "minDate": -18000.0,
-    "maxDate": 2000.0
-   },
-   "Analysis": {
-    "count": 6,
-    "occurrences": [
-     36,
-     36,
-     37,
-     70,
-     147,
-     162
-    ]
+    "maxDate": 2000.0,
+    "Analysis": {
+     "Count": [
+      6,
+      [
+       36,
+       36,
+       37,
+       70,
+       147,
+       162
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -5274,16 +5572,18 @@ var count =
     "timePeriodsKeys": "early-dynastic-mesopotamia,akkadian-ur-iii-mesopotamia,old-babylonian-assyrian-mesopotamia,archaic,neo-assyrian-babylonian-middle-east,classical,achaemenid-middle-east,achaemenid-roman-republic-middle-east,hellenistic-republican",
     "timePeriodsRange": "-2950.0,-30.0",
     "minDate": -2950.0,
-    "maxDate": -30.0
-   },
-   "Analysis": {
-    "count": 4,
-    "occurrences": [
-     36,
-     112,
-     112,
-     112
-    ]
+    "maxDate": -30.0,
+    "Analysis": {
+     "Count": [
+      4,
+      [
+       36,
+       112,
+       112,
+       112
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -5302,18 +5602,20 @@ var count =
     "timePeriodsKeys": "classical,hellenistic-republican,roman",
     "timePeriodsRange": "-550.0,300.0",
     "minDate": -550.0,
-    "maxDate": 300.0
-   },
-   "Analysis": {
-    "count": 6,
-    "occurrences": [
-     37,
-     38,
-     38,
-     77,
-     109,
-     179
-    ]
+    "maxDate": 300.0,
+    "Analysis": {
+     "Count": [
+      6,
+      [
+       37,
+       38,
+       38,
+       77,
+       109,
+       179
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -5332,21 +5634,23 @@ var count =
     "timePeriodsKeys": "classical,hellenistic-republican,roman,late-antique,modern",
     "timePeriodsRange": "-550.0,2100.0",
     "minDate": -550.0,
-    "maxDate": 2100.0
-   },
-   "Analysis": {
-    "count": 9,
-    "occurrences": [
-     38,
-     38,
-     39,
-     39,
-     40,
-     41,
-     83,
-     108,
-     112
-    ]
+    "maxDate": 2100.0,
+    "Analysis": {
+     "Count": [
+      9,
+      [
+       38,
+       38,
+       39,
+       39,
+       40,
+       41,
+       83,
+       108,
+       112
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -5365,13 +5669,15 @@ var count =
     "timePeriodsKeys": "classical,roman,late-antique,modern",
     "timePeriodsRange": "-550.0,2100.0",
     "minDate": -550.0,
-    "maxDate": 2100.0
-   },
-   "Analysis": {
-    "count": 1,
-    "occurrences": [
-     38
-    ]
+    "maxDate": 2100.0,
+    "Analysis": {
+     "Count": [
+      1,
+      [
+       38
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -5390,21 +5696,23 @@ var count =
     "timePeriodsKeys": "archaic,classical,hellenistic-republican,roman,late-antique",
     "timePeriodsRange": "-750.0,640.0",
     "minDate": -750.0,
-    "maxDate": 640.0
-   },
-   "Analysis": {
-    "count": 9,
-    "occurrences": [
-     40,
-     74,
-     82,
-     82,
-     83,
-     83,
-     83,
-     83,
-     141
-    ]
+    "maxDate": 640.0,
+    "Analysis": {
+     "Count": [
+      9,
+      [
+       40,
+       74,
+       82,
+       82,
+       83,
+       83,
+       83,
+       83,
+       141
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -5423,13 +5731,15 @@ var count =
     "timePeriodsKeys": "archaic,classical,hellenistic-republican,roman,late-antique",
     "timePeriodsRange": "-750.0,640.0",
     "minDate": -750.0,
-    "maxDate": 640.0
-   },
-   "Analysis": {
-    "count": 1,
-    "occurrences": [
-     41
-    ]
+    "maxDate": 640.0,
+    "Analysis": {
+     "Count": [
+      1,
+      [
+       41
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -5448,52 +5758,54 @@ var count =
     "timePeriodsKeys": "neolithic-egypt,early-dynastic-egypt,old-kingdom-egypt,first-intermediate-period-egypt,middle-kingdom-egypt,2nd-millennium-bc-egypt,second-intermediate-period-egypt,new-kingdom-egypt,third-intermediate-period-egypt,archaic,neo-assyrian-babylonian-middle-east,late-period-egypt,classical,achaemenid-middle-east,achaemenid-roman-republic-middle-east,hellenistic-republican,hellenistic-middle-east,ptolemaic-roman-egypt,roman-middle-east,roman,roman-early-empire-parthian-middle-east,transition-roman-early-empire-late-antique,late-antique,late-antique-sasanian-middle-east,modern-middle-east",
     "timePeriodsRange": "-6000.0,2000.0",
     "minDate": -6000.0,
-    "maxDate": 2000.0
-   },
-   "Analysis": {
-    "count": 40,
-    "occurrences": [
-     42,
-     42,
-     42,
-     42,
-     43,
-     43,
-     43,
-     43,
-     58,
-     58,
-     58,
-     59,
-     59,
-     61,
-     61,
-     61,
-     61,
-     62,
-     70,
-     71,
-     71,
-     72,
-     74,
-     75,
-     75,
-     75,
-     77,
-     78,
-     78,
-     78,
-     78,
-     79,
-     81,
-     81,
-     81,
-     81,
-     83,
-     95,
-     95,
-     103
-    ]
+    "maxDate": 2000.0,
+    "Analysis": {
+     "Count": [
+      40,
+      [
+       42,
+       42,
+       42,
+       42,
+       43,
+       43,
+       43,
+       43,
+       58,
+       58,
+       58,
+       59,
+       59,
+       61,
+       61,
+       61,
+       61,
+       62,
+       70,
+       71,
+       71,
+       72,
+       74,
+       75,
+       75,
+       75,
+       77,
+       78,
+       78,
+       78,
+       78,
+       79,
+       81,
+       81,
+       81,
+       81,
+       83,
+       95,
+       95,
+       103
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -5512,22 +5824,24 @@ var count =
     "timePeriodsKeys": "paleolithic-middle-east,neolithic-egypt,old-kingdom-egypt,middle-kingdom-egypt,second-intermediate-period-egypt,new-kingdom-egypt,archaic,neo-assyrian-babylonian-middle-east,classical,achaemenid-middle-east,hellenistic-republican,hellenistic-middle-east,ptolemaic-roman-egypt,roman,roman-early-empire-parthian-middle-east,late-antique,caliphate-umayyad-middle-east,abassid-middle-east,fatimid-middle-east,mamluk-middle-east,modern-middle-east",
     "timePeriodsRange": "-2600000.0,2000.0",
     "minDate": -2600000.0,
-    "maxDate": 2000.0
-   },
-   "Analysis": {
-    "count": 10,
-    "occurrences": [
-     42,
-     42,
-     42,
-     42,
-     42,
-     42,
-     42,
-     52,
-     53,
-     54
-    ]
+    "maxDate": 2000.0,
+    "Analysis": {
+     "Count": [
+      10,
+      [
+       42,
+       42,
+       42,
+       42,
+       42,
+       42,
+       42,
+       52,
+       53,
+       54
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -5546,15 +5860,17 @@ var count =
     "timePeriodsKeys": "roman",
     "timePeriodsRange": "-30.0,300.0",
     "minDate": -30.0,
-    "maxDate": 300.0
-   },
-   "Analysis": {
-    "count": 3,
-    "occurrences": [
-     42,
-     58,
-     59
-    ]
+    "maxDate": 300.0,
+    "Analysis": {
+     "Count": [
+      3,
+      [
+       42,
+       58,
+       59
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -5573,14 +5889,16 @@ var count =
     "timePeriodsKeys": "archaic,classical",
     "timePeriodsRange": "-750.0,-330.0",
     "minDate": -750.0,
-    "maxDate": -330.0
-   },
-   "Analysis": {
-    "count": 2,
-    "occurrences": [
-     42,
-     42
-    ]
+    "maxDate": -330.0,
+    "Analysis": {
+     "Count": [
+      2,
+      [
+       42,
+       42
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -5599,28 +5917,30 @@ var count =
     "timePeriodsKeys": "old-kingdom-egypt,first-intermediate-period-egypt,middle-kingdom-egypt,second-intermediate-period-egypt,new-kingdom-egypt,archaic,classical,achaemenid-roman-republic-middle-east,hellenistic-republican,hellenistic-middle-east,ptolemaic-roman-egypt,roman,late-antique,modern",
     "timePeriodsRange": "-2670.0,2100.0",
     "minDate": -2670.0,
-    "maxDate": 2100.0
-   },
-   "Analysis": {
-    "count": 16,
-    "occurrences": [
-     43,
-     44,
-     44,
-     46,
-     46,
-     46,
-     46,
-     46,
-     46,
-     47,
-     47,
-     54,
-     74,
-     74,
-     79,
-     79
-    ]
+    "maxDate": 2100.0,
+    "Analysis": {
+     "Count": [
+      16,
+      [
+       43,
+       44,
+       44,
+       46,
+       46,
+       46,
+       46,
+       46,
+       46,
+       47,
+       47,
+       54,
+       74,
+       74,
+       79,
+       79
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -5639,16 +5959,18 @@ var count =
     "timePeriodsKeys": "3rd-millennium-bc,2nd-millenium-bce,archaic,classical,hellenistic-republican,roman,late-antique,modern",
     "timePeriodsRange": "-3000.0,2100.0",
     "minDate": -3000.0,
-    "maxDate": 2100.0
-   },
-   "Analysis": {
-    "count": 4,
-    "occurrences": [
-     43,
-     62,
-     62,
-     62
-    ]
+    "maxDate": 2100.0,
+    "Analysis": {
+     "Count": [
+      4,
+      [
+       43,
+       62,
+       62,
+       62
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -5667,13 +5989,15 @@ var count =
     "timePeriodsKeys": "archaic,classical,hellenistic-republican,roman,late-antique",
     "timePeriodsRange": "-750.0,640.0",
     "minDate": -750.0,
-    "maxDate": 640.0
-   },
-   "Analysis": {
-    "count": 1,
-    "occurrences": [
-     43
-    ]
+    "maxDate": 640.0,
+    "Analysis": {
+     "Count": [
+      1,
+      [
+       43
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -5692,81 +6016,83 @@ var count =
     "timePeriodsKeys": "neolithic-egypt,pottery-neolithic-middle-east,2nd-millennium-bc-egypt,new-kingdom-egypt,1200-bc-middle-east,archaic,classical,achaemenid-middle-east,achaemenid-roman-republic-middle-east,hellenistic-republican,hellenistic-middle-east,ptolemaic-roman-egypt,roman-middle-east,roman,roman-early-empire-parthian-middle-east,transition-roman-early-empire-late-antique,late-antique,late-antique-sasanian-middle-east,caliphate-umayyad-middle-east,abassid-middle-east,samanid-ghaznavid-iran,early-ottoman-empire,1500-ad-middle-east,ottoman-empire,late-ottoman-empire,modern,khedivate-egypt,modern-middle-east",
     "timePeriodsRange": "-6000.0,2100.0",
     "minDate": -6000.0,
-    "maxDate": 2100.0
-   },
-   "Analysis": {
-    "count": 69,
-    "occurrences": [
-     43,
-     43,
-     43,
-     43,
-     44,
-     44,
-     44,
-     44,
-     44,
-     44,
-     45,
-     45,
-     45,
-     45,
-     45,
-     45,
-     45,
-     45,
-     45,
-     45,
-     45,
-     45,
-     46,
-     46,
-     46,
-     46,
-     46,
-     46,
-     46,
-     46,
-     47,
-     47,
-     47,
-     47,
-     47,
-     48,
-     54,
-     54,
-     57,
-     57,
-     57,
-     58,
-     58,
-     58,
-     58,
-     59,
-     60,
-     61,
-     65,
-     65,
-     65,
-     65,
-     67,
-     70,
-     70,
-     71,
-     71,
-     71,
-     71,
-     75,
-     77,
-     78,
-     112,
-     112,
-     113,
-     114,
-     114,
-     115,
-     115
-    ]
+    "maxDate": 2100.0,
+    "Analysis": {
+     "Count": [
+      69,
+      [
+       43,
+       43,
+       43,
+       43,
+       44,
+       44,
+       44,
+       44,
+       44,
+       44,
+       45,
+       45,
+       45,
+       45,
+       45,
+       45,
+       45,
+       45,
+       45,
+       45,
+       45,
+       45,
+       46,
+       46,
+       46,
+       46,
+       46,
+       46,
+       46,
+       46,
+       47,
+       47,
+       47,
+       47,
+       47,
+       48,
+       54,
+       54,
+       57,
+       57,
+       57,
+       58,
+       58,
+       58,
+       58,
+       59,
+       60,
+       61,
+       65,
+       65,
+       65,
+       65,
+       67,
+       70,
+       70,
+       71,
+       71,
+       71,
+       71,
+       75,
+       77,
+       78,
+       112,
+       112,
+       113,
+       114,
+       114,
+       115,
+       115
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -5785,13 +6111,15 @@ var count =
     "timePeriodsKeys": "archaic,classical,hellenistic-republican,roman,late-antique,modern",
     "timePeriodsRange": "-750.0,2100.0",
     "minDate": -750.0,
-    "maxDate": 2100.0
-   },
-   "Analysis": {
-    "count": 1,
-    "occurrences": [
-     43
-    ]
+    "maxDate": 2100.0,
+    "Analysis": {
+     "Count": [
+      1,
+      [
+       43
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -5810,13 +6138,15 @@ var count =
     "timePeriodsKeys": "classical,hellenistic-republican,roman,late-antique",
     "timePeriodsRange": "-550.0,640.0",
     "minDate": -550.0,
-    "maxDate": 640.0
-   },
-   "Analysis": {
-    "count": 1,
-    "occurrences": [
-     43
-    ]
+    "maxDate": 640.0,
+    "Analysis": {
+     "Count": [
+      1,
+      [
+       43
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -5835,13 +6165,15 @@ var count =
     "timePeriodsKeys": "classical,hellenistic-republican,roman",
     "timePeriodsRange": "-550.0,300.0",
     "minDate": -550.0,
-    "maxDate": 300.0
-   },
-   "Analysis": {
-    "count": 1,
-    "occurrences": [
-     43
-    ]
+    "maxDate": 300.0,
+    "Analysis": {
+     "Count": [
+      1,
+      [
+       43
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -5860,31 +6192,33 @@ var count =
     "timePeriodsKeys": "neo-assyrian-babylonian-middle-east,classical,hellenistic-republican,roman,late-antique",
     "timePeriodsRange": "-720.0,640.0",
     "minDate": -720.0,
-    "maxDate": 640.0
-   },
-   "Analysis": {
-    "count": 19,
-    "occurrences": [
-     43,
-     43,
-     43,
-     43,
-     44,
-     44,
-     54,
-     55,
-     55,
-     72,
-     77,
-     95,
-     97,
-     97,
-     97,
-     97,
-     98,
-     98,
-     112
-    ]
+    "maxDate": 640.0,
+    "Analysis": {
+     "Count": [
+      19,
+      [
+       43,
+       43,
+       43,
+       43,
+       44,
+       44,
+       54,
+       55,
+       55,
+       72,
+       77,
+       95,
+       97,
+       97,
+       97,
+       97,
+       98,
+       98,
+       112
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -5903,27 +6237,29 @@ var count =
     "timePeriodsKeys": "roman,late-antique",
     "timePeriodsRange": "-30.0,640.0",
     "minDate": -30.0,
-    "maxDate": 640.0
-   },
-   "Analysis": {
-    "count": 15,
-    "occurrences": [
-     43,
-     44,
-     44,
-     44,
-     44,
-     44,
-     44,
-     44,
-     44,
-     44,
-     44,
-     49,
-     52,
-     58,
-     75
-    ]
+    "maxDate": 640.0,
+    "Analysis": {
+     "Count": [
+      15,
+      [
+       43,
+       44,
+       44,
+       44,
+       44,
+       44,
+       44,
+       44,
+       44,
+       44,
+       44,
+       49,
+       52,
+       58,
+       75
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -5942,16 +6278,18 @@ var count =
     "timePeriodsKeys": "roman,late-antique,modern",
     "timePeriodsRange": "-30.0,2100.0",
     "minDate": -30.0,
-    "maxDate": 2100.0
-   },
-   "Analysis": {
-    "count": 4,
-    "occurrences": [
-     43,
-     71,
-     103,
-     142
-    ]
+    "maxDate": 2100.0,
+    "Analysis": {
+     "Count": [
+      4,
+      [
+       43,
+       71,
+       103,
+       142
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -5970,15 +6308,17 @@ var count =
     "timePeriodsKeys": "old-kingdom-egypt,middle-kingdom-egypt,new-kingdom-egypt,1200-bc-middle-east,archaic,classical,achaemenid-middle-east,achaemenid-roman-republic-middle-east,hellenistic-republican,hellenistic-middle-east,ptolemaic-roman-egypt,roman-middle-east,roman,roman-early-empire-parthian-middle-east,transition-roman-early-empire-late-antique,late-antique,late-antique-sasanian-middle-east,proto-byzantine,caliphate-umayyad-middle-east,abassid-middle-east,fatimid-middle-east,mamluk-middle-east",
     "timePeriodsRange": "-2670.0,1516.0",
     "minDate": -2670.0,
-    "maxDate": 1516.0
-   },
-   "Analysis": {
-    "count": 3,
-    "occurrences": [
-     44,
-     60,
-     68
-    ]
+    "maxDate": 1516.0,
+    "Analysis": {
+     "Count": [
+      3,
+      [
+       44,
+       60,
+       68
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -5997,14 +6337,16 @@ var count =
     "timePeriodsKeys": NaN,
     "timePeriodsRange": NaN,
     "minDate": NaN,
-    "maxDate": NaN
-   },
-   "Analysis": {
-    "count": 2,
-    "occurrences": [
-     44,
-     46
-    ]
+    "maxDate": NaN,
+    "Analysis": {
+     "Count": [
+      2,
+      [
+       44,
+       46
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -6023,13 +6365,15 @@ var count =
     "timePeriodsKeys": "classical,hellenistic-republican,roman,late-antique",
     "timePeriodsRange": "-550.0,640.0",
     "minDate": -550.0,
-    "maxDate": 640.0
-   },
-   "Analysis": {
-    "count": 1,
-    "occurrences": [
-     44
-    ]
+    "maxDate": 640.0,
+    "Analysis": {
+     "Count": [
+      1,
+      [
+       44
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -6048,25 +6392,27 @@ var count =
     "timePeriodsKeys": "archaic,classical,hellenistic-republican,roman,late-antique",
     "timePeriodsRange": "-750.0,640.0",
     "minDate": -750.0,
-    "maxDate": 640.0
-   },
-   "Analysis": {
-    "count": 13,
-    "occurrences": [
-     44,
-     71,
-     71,
-     71,
-     81,
-     81,
-     81,
-     81,
-     81,
-     81,
-     81,
-     82,
-     89
-    ]
+    "maxDate": 640.0,
+    "Analysis": {
+     "Count": [
+      13,
+      [
+       44,
+       71,
+       71,
+       71,
+       81,
+       81,
+       81,
+       81,
+       81,
+       81,
+       81,
+       82,
+       89
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -6085,14 +6431,16 @@ var count =
     "timePeriodsKeys": "hellenistic-republican,roman,late-antique",
     "timePeriodsRange": "-330.0,640.0",
     "minDate": -330.0,
-    "maxDate": 640.0
-   },
-   "Analysis": {
-    "count": 2,
-    "occurrences": [
-     46,
-     187
-    ]
+    "maxDate": 640.0,
+    "Analysis": {
+     "Count": [
+      2,
+      [
+       46,
+       187
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -6111,26 +6459,28 @@ var count =
     "timePeriodsKeys": "archaic,classical,hellenistic-republican,roman,late-antique",
     "timePeriodsRange": "-750.0,640.0",
     "minDate": -750.0,
-    "maxDate": 640.0
-   },
-   "Analysis": {
-    "count": 14,
-    "occurrences": [
-     46,
-     52,
-     52,
-     53,
-     66,
-     66,
-     73,
-     73,
-     73,
-     74,
-     74,
-     74,
-     74,
-     79
-    ]
+    "maxDate": 640.0,
+    "Analysis": {
+     "Count": [
+      14,
+      [
+       46,
+       52,
+       52,
+       53,
+       66,
+       66,
+       73,
+       73,
+       73,
+       74,
+       74,
+       74,
+       74,
+       79
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -6149,13 +6499,15 @@ var count =
     "timePeriodsKeys": "neolithic-egypt,old-nubian,old-kingdom-egypt,middle-nubian,first-intermediate-period-egypt,middle-kingdom-egypt,late-nubian,new-kingdom-egypt,1200-bc-middle-east,archaic,classical,achaemenid-roman-republic-middle-east,hellenistic-republican,hellenistic-middle-east,ptolemaic-roman-egypt,roman,roman-early-empire-parthian-middle-east,late-antique,caliphate-umayyad-middle-east,abassid-middle-east,samanid-ghaznavid-iran,early-ottoman-empire,1500-ad-middle-east,ottoman-empire,late-ottoman-empire,modern,khedivate-egypt,ottoman-decline-mandate-middle-east,modern-middle-east",
     "timePeriodsRange": "-6000.0,2100.0",
     "minDate": -6000.0,
-    "maxDate": 2100.0
-   },
-   "Analysis": {
-    "count": 1,
-    "occurrences": [
-     46
-    ]
+    "maxDate": 2100.0,
+    "Analysis": {
+     "Count": [
+      1,
+      [
+       46
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -6174,13 +6526,15 @@ var count =
     "timePeriodsKeys": "archaic,classical,hellenistic-republican,roman,late-antique",
     "timePeriodsRange": "-750.0,640.0",
     "minDate": -750.0,
-    "maxDate": 640.0
-   },
-   "Analysis": {
-    "count": 1,
-    "occurrences": [
-     46
-    ]
+    "maxDate": 640.0,
+    "Analysis": {
+     "Count": [
+      1,
+      [
+       46
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -6199,13 +6553,15 @@ var count =
     "timePeriodsKeys": "classical,hellenistic-republican,roman,modern",
     "timePeriodsRange": "-550.0,2100.0",
     "minDate": -550.0,
-    "maxDate": 2100.0
-   },
-   "Analysis": {
-    "count": 1,
-    "occurrences": [
-     46
-    ]
+    "maxDate": 2100.0,
+    "Analysis": {
+     "Count": [
+      1,
+      [
+       46
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -6224,42 +6580,44 @@ var count =
     "timePeriodsKeys": NaN,
     "timePeriodsRange": NaN,
     "minDate": NaN,
-    "maxDate": NaN
-   },
-   "Analysis": {
-    "count": 30,
-    "occurrences": [
-     47,
-     72,
-     75,
-     75,
-     75,
-     75,
-     75,
-     95,
-     101,
-     130,
-     131,
-     131,
-     131,
-     131,
-     132,
-     132,
-     132,
-     132,
-     132,
-     132,
-     132,
-     132,
-     133,
-     133,
-     133,
-     135,
-     138,
-     138,
-     138,
-     146
-    ]
+    "maxDate": NaN,
+    "Analysis": {
+     "Count": [
+      30,
+      [
+       47,
+       72,
+       75,
+       75,
+       75,
+       75,
+       75,
+       95,
+       101,
+       130,
+       131,
+       131,
+       131,
+       131,
+       132,
+       132,
+       132,
+       132,
+       132,
+       132,
+       132,
+       132,
+       133,
+       133,
+       133,
+       135,
+       138,
+       138,
+       138,
+       146
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -6278,14 +6636,16 @@ var count =
     "timePeriodsKeys": "archaic,classical",
     "timePeriodsRange": "-750.0,-330.0",
     "minDate": -750.0,
-    "maxDate": -330.0
-   },
-   "Analysis": {
-    "count": 2,
-    "occurrences": [
-     47,
-     113
-    ]
+    "maxDate": -330.0,
+    "Analysis": {
+     "Count": [
+      2,
+      [
+       47,
+       113
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -6304,21 +6664,23 @@ var count =
     "timePeriodsKeys": "hellenistic-republican,roman,late-antique,modern",
     "timePeriodsRange": "-330.0,2100.0",
     "minDate": -330.0,
-    "maxDate": 2100.0
-   },
-   "Analysis": {
-    "count": 9,
-    "occurrences": [
-     49,
-     49,
-     52,
-     52,
-     71,
-     71,
-     71,
-     75,
-     135
-    ]
+    "maxDate": 2100.0,
+    "Analysis": {
+     "Count": [
+      9,
+      [
+       49,
+       49,
+       52,
+       52,
+       71,
+       71,
+       71,
+       75,
+       135
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -6337,13 +6699,15 @@ var count =
     "timePeriodsKeys": "classical,hellenistic-republican,roman",
     "timePeriodsRange": "-550.0,300.0",
     "minDate": -550.0,
-    "maxDate": 300.0
-   },
-   "Analysis": {
-    "count": 1,
-    "occurrences": [
-     49
-    ]
+    "maxDate": 300.0,
+    "Analysis": {
+     "Count": [
+      1,
+      [
+       49
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -6362,15 +6726,17 @@ var count =
     "timePeriodsKeys": "predynastic-egypt,early-dynastic-egypt,old-kingdom-egypt,first-intermediate-period-egypt,middle-kingdom-egypt,second-intermediate-period-egypt,new-kingdom-egypt,third-intermediate-period-egypt,archaic,late-period-egypt,classical,macedonian-egypt,hellenistic-republican,ptolemaic-egypt,roman,late-antique",
     "timePeriodsRange": "-4500.0,640.0",
     "minDate": -4500.0,
-    "maxDate": 640.0
-   },
-   "Analysis": {
-    "count": 3,
-    "occurrences": [
-     49,
-     50,
-     73
-    ]
+    "maxDate": 640.0,
+    "Analysis": {
+     "Count": [
+      3,
+      [
+       49,
+       50,
+       73
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -6389,18 +6755,20 @@ var count =
     "timePeriodsKeys": "archaic,classical,hellenistic-republican,roman,late-antique,modern",
     "timePeriodsRange": "-750.0,2100.0",
     "minDate": -750.0,
-    "maxDate": 2100.0
-   },
-   "Analysis": {
-    "count": 6,
-    "occurrences": [
-     50,
-     164,
-     164,
-     166,
-     166,
-     166
-    ]
+    "maxDate": 2100.0,
+    "Analysis": {
+     "Count": [
+      6,
+      [
+       50,
+       164,
+       164,
+       166,
+       166,
+       166
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -6419,14 +6787,16 @@ var count =
     "timePeriodsKeys": "roman,modern",
     "timePeriodsRange": "-30.0,2100.0",
     "minDate": -30.0,
-    "maxDate": 2100.0
-   },
-   "Analysis": {
-    "count": 2,
-    "occurrences": [
-     51,
-     166
-    ]
+    "maxDate": 2100.0,
+    "Analysis": {
+     "Count": [
+      2,
+      [
+       51,
+       166
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -6445,13 +6815,15 @@ var count =
     "timePeriodsKeys": "classical,hellenistic-republican,roman,late-antique",
     "timePeriodsRange": "-550.0,640.0",
     "minDate": -550.0,
-    "maxDate": 640.0
-   },
-   "Analysis": {
-    "count": 1,
-    "occurrences": [
-     52
-    ]
+    "maxDate": 640.0,
+    "Analysis": {
+     "Count": [
+      1,
+      [
+       52
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -6470,17 +6842,19 @@ var count =
     "timePeriodsKeys": "classical,hellenistic-republican,roman",
     "timePeriodsRange": "-550.0,300.0",
     "minDate": -550.0,
-    "maxDate": 300.0
-   },
-   "Analysis": {
-    "count": 5,
-    "occurrences": [
-     52,
-     53,
-     54,
-     73,
-     78
-    ]
+    "maxDate": 300.0,
+    "Analysis": {
+     "Count": [
+      5,
+      [
+       52,
+       53,
+       54,
+       73,
+       78
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -6499,13 +6873,15 @@ var count =
     "timePeriodsKeys": "new-kingdom-egypt,ptolemaic-roman-egypt,roman,late-antique,ottoman-empire,late-ottoman-empire,modern,ottoman-decline-mandate-middle-east,modern-middle-east",
     "timePeriodsRange": "-1548.0,2100.0",
     "minDate": -1548.0,
-    "maxDate": 2100.0
-   },
-   "Analysis": {
-    "count": 1,
-    "occurrences": [
-     54
-    ]
+    "maxDate": 2100.0,
+    "Analysis": {
+     "Count": [
+      1,
+      [
+       54
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -6524,13 +6900,15 @@ var count =
     "timePeriodsKeys": "roman",
     "timePeriodsRange": "-30.0,300.0",
     "minDate": -30.0,
-    "maxDate": 300.0
-   },
-   "Analysis": {
-    "count": 1,
-    "occurrences": [
-     55
-    ]
+    "maxDate": 300.0,
+    "Analysis": {
+     "Count": [
+      1,
+      [
+       55
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -6549,16 +6927,18 @@ var count =
     "timePeriodsKeys": "archaic,classical,hellenistic-republican,roman,late-antique",
     "timePeriodsRange": "-750.0,640.0",
     "minDate": -750.0,
-    "maxDate": 640.0
-   },
-   "Analysis": {
-    "count": 4,
-    "occurrences": [
-     57,
-     57,
-     71,
-     73
-    ]
+    "maxDate": 640.0,
+    "Analysis": {
+     "Count": [
+      4,
+      [
+       57,
+       57,
+       71,
+       73
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -6577,14 +6957,16 @@ var count =
     "timePeriodsKeys": "late-antique",
     "timePeriodsRange": "300.0,640.0",
     "minDate": 300.0,
-    "maxDate": 640.0
-   },
-   "Analysis": {
-    "count": 2,
-    "occurrences": [
-     57,
-     168
-    ]
+    "maxDate": 640.0,
+    "Analysis": {
+     "Count": [
+      2,
+      [
+       57,
+       168
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -6603,13 +6985,15 @@ var count =
     "timePeriodsKeys": "modern",
     "timePeriodsRange": "1700.0,2100.0",
     "minDate": 1700.0,
-    "maxDate": 2100.0
-   },
-   "Analysis": {
-    "count": 1,
-    "occurrences": [
-     57
-    ]
+    "maxDate": 2100.0,
+    "Analysis": {
+     "Count": [
+      1,
+      [
+       57
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -6628,18 +7012,20 @@ var count =
     "timePeriodsKeys": "archaic,classical,hellenistic-republican,roman,late-antique,modern",
     "timePeriodsRange": "-750.0,2100.0",
     "minDate": -750.0,
-    "maxDate": 2100.0
-   },
-   "Analysis": {
-    "count": 6,
-    "occurrences": [
-     58,
-     58,
-     67,
-     75,
-     75,
-     75
-    ]
+    "maxDate": 2100.0,
+    "Analysis": {
+     "Count": [
+      6,
+      [
+       58,
+       58,
+       67,
+       75,
+       75,
+       75
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -6658,13 +7044,15 @@ var count =
     "timePeriodsKeys": "classical,hellenistic-republican,roman",
     "timePeriodsRange": "-550.0,300.0",
     "minDate": -550.0,
-    "maxDate": 300.0
-   },
-   "Analysis": {
-    "count": 1,
-    "occurrences": [
-     58
-    ]
+    "maxDate": 300.0,
+    "Analysis": {
+     "Count": [
+      1,
+      [
+       58
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -6683,14 +7071,16 @@ var count =
     "timePeriodsKeys": "hellenistic-republican,roman",
     "timePeriodsRange": "-330.0,300.0",
     "minDate": -330.0,
-    "maxDate": 300.0
-   },
-   "Analysis": {
-    "count": 2,
-    "occurrences": [
-     58,
-     58
-    ]
+    "maxDate": 300.0,
+    "Analysis": {
+     "Count": [
+      2,
+      [
+       58,
+       58
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -6709,15 +7099,17 @@ var count =
     "timePeriodsKeys": "classical,hellenistic-republican,roman,late-antique,modern",
     "timePeriodsRange": "-550.0,2100.0",
     "minDate": -550.0,
-    "maxDate": 2100.0
-   },
-   "Analysis": {
-    "count": 3,
-    "occurrences": [
-     59,
-     120,
-     123
-    ]
+    "maxDate": 2100.0,
+    "Analysis": {
+     "Count": [
+      3,
+      [
+       59,
+       120,
+       123
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -6736,15 +7128,17 @@ var count =
     "timePeriodsKeys": "roman",
     "timePeriodsRange": "-30.0,300.0",
     "minDate": -30.0,
-    "maxDate": 300.0
-   },
-   "Analysis": {
-    "count": 3,
-    "occurrences": [
-     61,
-     130,
-     134
-    ]
+    "maxDate": 300.0,
+    "Analysis": {
+     "Count": [
+      3,
+      [
+       61,
+       130,
+       134
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -6763,16 +7157,18 @@ var count =
     "timePeriodsKeys": "hellenistic-republican,roman",
     "timePeriodsRange": "-330.0,300.0",
     "minDate": -330.0,
-    "maxDate": 300.0
-   },
-   "Analysis": {
-    "count": 4,
-    "occurrences": [
-     61,
-     61,
-     61,
-     62
-    ]
+    "maxDate": 300.0,
+    "Analysis": {
+     "Count": [
+      4,
+      [
+       61,
+       61,
+       61,
+       62
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -6791,18 +7187,20 @@ var count =
     "timePeriodsKeys": "paleolithic-middle-east,2nd-millennium-bc-levant,egyptian-hittite-levant,1200-bc-middle-east,iron-age-southern-levant,archaic,neo-assyrian-babylonian-middle-east,classical,achaemenid-middle-east,achaemenid-roman-republic-middle-east,hellenistic-republican,hellenistic-middle-east,roman-middle-east,roman,roman-early-empire-parthian-middle-east,transition-roman-early-empire-late-antique,late-antique,late-antique-sasanian-middle-east,caliphate-umayyad-middle-east,abassid-middle-east,middle-byzantine,crusader-byzantine-seljuq-middle-east,crusader-seljuq-ayyubid-levant,ilkhanate-middle-east,early-ottoman-empire,1500-ad-middle-east,ottoman-empire,late-ottoman-empire,khedivate-egypt,modern-middle-east",
     "timePeriodsRange": "-2600000.0,2000.0",
     "minDate": -2600000.0,
-    "maxDate": 2000.0
-   },
-   "Analysis": {
-    "count": 6,
-    "occurrences": [
-     62,
-     62,
-     62,
-     62,
-     72,
-     102
-    ]
+    "maxDate": 2000.0,
+    "Analysis": {
+     "Count": [
+      6,
+      [
+       62,
+       62,
+       62,
+       62,
+       72,
+       102
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -6821,16 +7219,18 @@ var count =
     "timePeriodsKeys": "classical,hellenistic-republican,roman",
     "timePeriodsRange": "-550.0,300.0",
     "minDate": -550.0,
-    "maxDate": 300.0
-   },
-   "Analysis": {
-    "count": 4,
-    "occurrences": [
-     67,
-     67,
-     67,
-     73
-    ]
+    "maxDate": 300.0,
+    "Analysis": {
+     "Count": [
+      4,
+      [
+       67,
+       67,
+       67,
+       73
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -6849,13 +7249,15 @@ var count =
     "timePeriodsKeys": "late-antique",
     "timePeriodsRange": "300.0,640.0",
     "minDate": 300.0,
-    "maxDate": 640.0
-   },
-   "Analysis": {
-    "count": 1,
-    "occurrences": [
-     67
-    ]
+    "maxDate": 640.0,
+    "Analysis": {
+     "Count": [
+      1,
+      [
+       67
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -6874,13 +7276,15 @@ var count =
     "timePeriodsKeys": "classical,hellenistic-republican",
     "timePeriodsRange": "-550.0,-30.0",
     "minDate": -550.0,
-    "maxDate": -30.0
-   },
-   "Analysis": {
-    "count": 1,
-    "occurrences": [
-     68
-    ]
+    "maxDate": -30.0,
+    "Analysis": {
+     "Count": [
+      1,
+      [
+       68
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -6899,15 +7303,17 @@ var count =
     "timePeriodsKeys": "hellenistic-republican,roman,late-antique,modern",
     "timePeriodsRange": "-330.0,2100.0",
     "minDate": -330.0,
-    "maxDate": 2100.0
-   },
-   "Analysis": {
-    "count": 3,
-    "occurrences": [
-     69,
-     71,
-     77
-    ]
+    "maxDate": 2100.0,
+    "Analysis": {
+     "Count": [
+      3,
+      [
+       69,
+       71,
+       77
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -6926,14 +7332,16 @@ var count =
     "timePeriodsKeys": "classical,hellenistic-republican,roman,late-antique",
     "timePeriodsRange": "-550.0,640.0",
     "minDate": -550.0,
-    "maxDate": 640.0
-   },
-   "Analysis": {
-    "count": 2,
-    "occurrences": [
-     69,
-     95
-    ]
+    "maxDate": 640.0,
+    "Analysis": {
+     "Count": [
+      2,
+      [
+       69,
+       95
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -6952,20 +7360,22 @@ var count =
     "timePeriodsKeys": "archaic,classical,hellenistic-republican,roman",
     "timePeriodsRange": "-750.0,300.0",
     "minDate": -750.0,
-    "maxDate": 300.0
-   },
-   "Analysis": {
-    "count": 8,
-    "occurrences": [
-     72,
-     72,
-     72,
-     111,
-     111,
-     170,
-     171,
-     180
-    ]
+    "maxDate": 300.0,
+    "Analysis": {
+     "Count": [
+      8,
+      [
+       72,
+       72,
+       72,
+       111,
+       111,
+       170,
+       171,
+       180
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -6984,14 +7394,16 @@ var count =
     "timePeriodsKeys": "old-kingdom-egypt,archaic,classical,hellenistic-republican,roman,late-antique,modern",
     "timePeriodsRange": "-2670.0,2100.0",
     "minDate": -2670.0,
-    "maxDate": 2100.0
-   },
-   "Analysis": {
-    "count": 2,
-    "occurrences": [
-     73,
-     73
-    ]
+    "maxDate": 2100.0,
+    "Analysis": {
+     "Count": [
+      2,
+      [
+       73,
+       73
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -7010,13 +7422,15 @@ var count =
     "timePeriodsKeys": "classical,late-antique",
     "timePeriodsRange": "-550.0,640.0",
     "minDate": -550.0,
-    "maxDate": 640.0
-   },
-   "Analysis": {
-    "count": 1,
-    "occurrences": [
-     73
-    ]
+    "maxDate": 640.0,
+    "Analysis": {
+     "Count": [
+      1,
+      [
+       73
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -7035,13 +7449,15 @@ var count =
     "timePeriodsKeys": "classical,hellenistic-republican,roman",
     "timePeriodsRange": "-550.0,300.0",
     "minDate": -550.0,
-    "maxDate": 300.0
-   },
-   "Analysis": {
-    "count": 1,
-    "occurrences": [
-     73
-    ]
+    "maxDate": 300.0,
+    "Analysis": {
+     "Count": [
+      1,
+      [
+       73
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -7060,13 +7476,15 @@ var count =
     "timePeriodsKeys": "classical,hellenistic-republican",
     "timePeriodsRange": "-550.0,-30.0",
     "minDate": -550.0,
-    "maxDate": -30.0
-   },
-   "Analysis": {
-    "count": 1,
-    "occurrences": [
-     74
-    ]
+    "maxDate": -30.0,
+    "Analysis": {
+     "Count": [
+      1,
+      [
+       74
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -7085,13 +7503,15 @@ var count =
     "timePeriodsKeys": "classical,hellenistic-republican,roman,late-antique",
     "timePeriodsRange": "-550.0,640.0",
     "minDate": -550.0,
-    "maxDate": 640.0
-   },
-   "Analysis": {
-    "count": 1,
-    "occurrences": [
-     75
-    ]
+    "maxDate": 640.0,
+    "Analysis": {
+     "Count": [
+      1,
+      [
+       75
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -7110,13 +7530,15 @@ var count =
     "timePeriodsKeys": "classical,hellenistic-republican,roman",
     "timePeriodsRange": "-550.0,300.0",
     "minDate": -550.0,
-    "maxDate": 300.0
-   },
-   "Analysis": {
-    "count": 1,
-    "occurrences": [
-     77
-    ]
+    "maxDate": 300.0,
+    "Analysis": {
+     "Count": [
+      1,
+      [
+       77
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -7135,14 +7557,16 @@ var count =
     "timePeriodsKeys": "archaic,classical,hellenistic-republican,roman,late-antique,modern",
     "timePeriodsRange": "-750.0,2100.0",
     "minDate": -750.0,
-    "maxDate": 2100.0
-   },
-   "Analysis": {
-    "count": 2,
-    "occurrences": [
-     79,
-     79
-    ]
+    "maxDate": 2100.0,
+    "Analysis": {
+     "Count": [
+      2,
+      [
+       79,
+       79
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -7161,19 +7585,21 @@ var count =
     "timePeriodsKeys": "archaic,classical,hellenistic-republican,roman,late-antique,modern",
     "timePeriodsRange": "-750.0,2100.0",
     "minDate": -750.0,
-    "maxDate": 2100.0
-   },
-   "Analysis": {
-    "count": 7,
-    "occurrences": [
-     85,
-     85,
-     86,
-     86,
-     86,
-     87,
-     87
-    ]
+    "maxDate": 2100.0,
+    "Analysis": {
+     "Count": [
+      7,
+      [
+       85,
+       85,
+       86,
+       86,
+       86,
+       87,
+       87
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -7192,17 +7618,19 @@ var count =
     "timePeriodsKeys": "classical,roman",
     "timePeriodsRange": "-550.0,300.0",
     "minDate": -550.0,
-    "maxDate": 300.0
-   },
-   "Analysis": {
-    "count": 5,
-    "occurrences": [
-     86,
-     155,
-     155,
-     155,
-     155
-    ]
+    "maxDate": 300.0,
+    "Analysis": {
+     "Count": [
+      5,
+      [
+       86,
+       155,
+       155,
+       155,
+       155
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -7221,13 +7649,15 @@ var count =
     "timePeriodsKeys": NaN,
     "timePeriodsRange": NaN,
     "minDate": NaN,
-    "maxDate": NaN
-   },
-   "Analysis": {
-    "count": 1,
-    "occurrences": [
-     87
-    ]
+    "maxDate": NaN,
+    "Analysis": {
+     "Count": [
+      1,
+      [
+       87
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -7246,14 +7676,16 @@ var count =
     "timePeriodsKeys": "archaic,classical,hellenistic-republican,roman,late-antique",
     "timePeriodsRange": "-750.0,640.0",
     "minDate": -750.0,
-    "maxDate": 640.0
-   },
-   "Analysis": {
-    "count": 2,
-    "occurrences": [
-     87,
-     87
-    ]
+    "maxDate": 640.0,
+    "Analysis": {
+     "Count": [
+      2,
+      [
+       87,
+       87
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -7272,13 +7704,15 @@ var count =
     "timePeriodsKeys": "modern",
     "timePeriodsRange": "1700.0,2100.0",
     "minDate": 1700.0,
-    "maxDate": 2100.0
-   },
-   "Analysis": {
-    "count": 1,
-    "occurrences": [
-     87
-    ]
+    "maxDate": 2100.0,
+    "Analysis": {
+     "Count": [
+      1,
+      [
+       87
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -7297,14 +7731,16 @@ var count =
     "timePeriodsKeys": "late-antique",
     "timePeriodsRange": "300.0,640.0",
     "minDate": 300.0,
-    "maxDate": 640.0
-   },
-   "Analysis": {
-    "count": 2,
-    "occurrences": [
-     91,
-     91
-    ]
+    "maxDate": 640.0,
+    "Analysis": {
+     "Count": [
+      2,
+      [
+       91,
+       91
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -7323,14 +7759,16 @@ var count =
     "timePeriodsKeys": "roman,late-antique",
     "timePeriodsRange": "-30.0,640.0",
     "minDate": -30.0,
-    "maxDate": 640.0
-   },
-   "Analysis": {
-    "count": 2,
-    "occurrences": [
-     92,
-     92
-    ]
+    "maxDate": 640.0,
+    "Analysis": {
+     "Count": [
+      2,
+      [
+       92,
+       92
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -7349,13 +7787,15 @@ var count =
     "timePeriodsKeys": "classical,hellenistic-republican,roman,late-antique",
     "timePeriodsRange": "-550.0,640.0",
     "minDate": -550.0,
-    "maxDate": 640.0
-   },
-   "Analysis": {
-    "count": 1,
-    "occurrences": [
-     95
-    ]
+    "maxDate": 640.0,
+    "Analysis": {
+     "Count": [
+      1,
+      [
+       95
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -7374,17 +7814,19 @@ var count =
     "timePeriodsKeys": "hellenistic-republican,roman",
     "timePeriodsRange": "-330.0,300.0",
     "minDate": -330.0,
-    "maxDate": 300.0
-   },
-   "Analysis": {
-    "count": 5,
-    "occurrences": [
-     95,
-     96,
-     96,
-     97,
-     112
-    ]
+    "maxDate": 300.0,
+    "Analysis": {
+     "Count": [
+      5,
+      [
+       95,
+       96,
+       96,
+       97,
+       112
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -7403,16 +7845,18 @@ var count =
     "timePeriodsKeys": "roman,late-antique",
     "timePeriodsRange": "-30.0,640.0",
     "minDate": -30.0,
-    "maxDate": 640.0
-   },
-   "Analysis": {
-    "count": 4,
-    "occurrences": [
-     96,
-     158,
-     158,
-     158
-    ]
+    "maxDate": 640.0,
+    "Analysis": {
+     "Count": [
+      4,
+      [
+       96,
+       158,
+       158,
+       158
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -7431,14 +7875,16 @@ var count =
     "timePeriodsKeys": "hellenistic-republican,roman,late-antique,modern",
     "timePeriodsRange": "-330.0,2100.0",
     "minDate": -330.0,
-    "maxDate": 2100.0
-   },
-   "Analysis": {
-    "count": 2,
-    "occurrences": [
-     98,
-     98
-    ]
+    "maxDate": 2100.0,
+    "Analysis": {
+     "Count": [
+      2,
+      [
+       98,
+       98
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -7457,23 +7903,25 @@ var count =
     "timePeriodsKeys": "archaic,classical,hellenistic-republican,roman,late-antique",
     "timePeriodsRange": "-750.0,640.0",
     "minDate": -750.0,
-    "maxDate": 640.0
-   },
-   "Analysis": {
-    "count": 11,
-    "occurrences": [
-     100,
-     101,
-     101,
-     102,
-     102,
-     102,
-     103,
-     145,
-     145,
-     146,
-     146
-    ]
+    "maxDate": 640.0,
+    "Analysis": {
+     "Count": [
+      11,
+      [
+       100,
+       101,
+       101,
+       102,
+       102,
+       102,
+       103,
+       145,
+       145,
+       146,
+       146
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -7492,30 +7940,32 @@ var count =
     "timePeriodsKeys": "archaic,classical,hellenistic-republican,roman,late-antique,modern",
     "timePeriodsRange": "-750.0,2100.0",
     "minDate": -750.0,
-    "maxDate": 2100.0
-   },
-   "Analysis": {
-    "count": 18,
-    "occurrences": [
-     107,
-     109,
-     109,
-     109,
-     110,
-     114,
-     115,
-     115,
-     115,
-     115,
-     115,
-     115,
-     117,
-     119,
-     119,
-     119,
-     122,
-     122
-    ]
+    "maxDate": 2100.0,
+    "Analysis": {
+     "Count": [
+      18,
+      [
+       107,
+       109,
+       109,
+       109,
+       110,
+       114,
+       115,
+       115,
+       115,
+       115,
+       115,
+       115,
+       117,
+       119,
+       119,
+       119,
+       122,
+       122
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -7534,25 +7984,27 @@ var count =
     "timePeriodsKeys": "classical,hellenistic-republican,roman,late-antique",
     "timePeriodsRange": "-550.0,640.0",
     "minDate": -550.0,
-    "maxDate": 640.0
-   },
-   "Analysis": {
-    "count": 13,
-    "occurrences": [
-     107,
-     108,
-     108,
-     120,
-     120,
-     120,
-     120,
-     120,
-     120,
-     120,
-     120,
-     121,
-     122
-    ]
+    "maxDate": 640.0,
+    "Analysis": {
+     "Count": [
+      13,
+      [
+       107,
+       108,
+       108,
+       120,
+       120,
+       120,
+       120,
+       120,
+       120,
+       120,
+       120,
+       121,
+       122
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -7571,13 +8023,15 @@ var count =
     "timePeriodsKeys": "archaic,classical,hellenistic-republican,roman,late-antique,modern",
     "timePeriodsRange": "-750.0,2100.0",
     "minDate": -750.0,
-    "maxDate": 2100.0
-   },
-   "Analysis": {
-    "count": 1,
-    "occurrences": [
-     108
-    ]
+    "maxDate": 2100.0,
+    "Analysis": {
+     "Count": [
+      1,
+      [
+       108
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -7596,15 +8050,17 @@ var count =
     "timePeriodsKeys": "neolithic-eastern-med,classical,modern",
     "timePeriodsRange": "-10000.0,2100.0",
     "minDate": -10000.0,
-    "maxDate": 2100.0
-   },
-   "Analysis": {
-    "count": 3,
-    "occurrences": [
-     108,
-     108,
-     123
-    ]
+    "maxDate": 2100.0,
+    "Analysis": {
+     "Count": [
+      3,
+      [
+       108,
+       108,
+       123
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -7623,17 +8079,19 @@ var count =
     "timePeriodsKeys": "classical,hellenistic-republican,roman,late-antique",
     "timePeriodsRange": "-550.0,640.0",
     "minDate": -550.0,
-    "maxDate": 640.0
-   },
-   "Analysis": {
-    "count": 5,
-    "occurrences": [
-     108,
-     114,
-     114,
-     114,
-     120
-    ]
+    "maxDate": 640.0,
+    "Analysis": {
+     "Count": [
+      5,
+      [
+       108,
+       114,
+       114,
+       114,
+       120
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -7652,25 +8110,27 @@ var count =
     "timePeriodsKeys": "classical,hellenistic-republican,roman,late-antique",
     "timePeriodsRange": "-550.0,640.0",
     "minDate": -550.0,
-    "maxDate": 640.0
-   },
-   "Analysis": {
-    "count": 13,
-    "occurrences": [
-     108,
-     111,
-     120,
-     120,
-     120,
-     120,
-     120,
-     120,
-     120,
-     121,
-     122,
-     124,
-     186
-    ]
+    "maxDate": 640.0,
+    "Analysis": {
+     "Count": [
+      13,
+      [
+       108,
+       111,
+       120,
+       120,
+       120,
+       120,
+       120,
+       120,
+       120,
+       121,
+       122,
+       124,
+       186
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -7689,17 +8149,19 @@ var count =
     "timePeriodsKeys": "archaic,classical,hellenistic-republican,roman,late-antique",
     "timePeriodsRange": "-750.0,640.0",
     "minDate": -750.0,
-    "maxDate": 640.0
-   },
-   "Analysis": {
-    "count": 5,
-    "occurrences": [
-     109,
-     109,
-     109,
-     109,
-     128
-    ]
+    "maxDate": 640.0,
+    "Analysis": {
+     "Count": [
+      5,
+      [
+       109,
+       109,
+       109,
+       109,
+       128
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -7718,13 +8180,15 @@ var count =
     "timePeriodsKeys": "roman,late-antique",
     "timePeriodsRange": "-30.0,640.0",
     "minDate": -30.0,
-    "maxDate": 640.0
-   },
-   "Analysis": {
-    "count": 1,
-    "occurrences": [
-     109
-    ]
+    "maxDate": 640.0,
+    "Analysis": {
+     "Count": [
+      1,
+      [
+       109
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -7743,18 +8207,20 @@ var count =
     "timePeriodsKeys": "1200-bc-middle-east,archaic,middle-late-iron-age-anatolia,classical,achaemenid-middle-east,hellenistic-republican,hellenistic-middle-east,roman-middle-east,roman,roman-early-empire-parthian-middle-east,transition-roman-early-empire-late-antique,late-antique,late-antique-sasanian-middle-east,late-antique-late-byzantine,proto-byzantine,early-byzantine,abassid-middle-east,middle-byzantine,modern-middle-east",
     "timePeriodsRange": "-1200.0,2000.0",
     "minDate": -1200.0,
-    "maxDate": 2000.0
-   },
-   "Analysis": {
-    "count": 6,
-    "occurrences": [
-     109,
-     109,
-     118,
-     118,
-     128,
-     164
-    ]
+    "maxDate": 2000.0,
+    "Analysis": {
+     "Count": [
+      6,
+      [
+       109,
+       109,
+       118,
+       118,
+       128,
+       164
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -7773,14 +8239,16 @@ var count =
     "timePeriodsKeys": "archaic,classical,hellenistic-republican,roman,late-antique,modern",
     "timePeriodsRange": "-750.0,2100.0",
     "minDate": -750.0,
-    "maxDate": 2100.0
-   },
-   "Analysis": {
-    "count": 2,
-    "occurrences": [
-     109,
-     109
-    ]
+    "maxDate": 2100.0,
+    "Analysis": {
+     "Count": [
+      2,
+      [
+       109,
+       109
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -7799,24 +8267,26 @@ var count =
     "timePeriodsKeys": "classical,modern",
     "timePeriodsRange": "-550.0,2100.0",
     "minDate": -550.0,
-    "maxDate": 2100.0
-   },
-   "Analysis": {
-    "count": 12,
-    "occurrences": [
-     109,
-     109,
-     114,
-     114,
-     114,
-     114,
-     114,
-     114,
-     115,
-     115,
-     119,
-     119
-    ]
+    "maxDate": 2100.0,
+    "Analysis": {
+     "Count": [
+      12,
+      [
+       109,
+       109,
+       114,
+       114,
+       114,
+       114,
+       114,
+       114,
+       115,
+       115,
+       119,
+       119
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -7835,17 +8305,19 @@ var count =
     "timePeriodsKeys": "hellenistic-republican,roman,modern",
     "timePeriodsRange": "-330.0,2100.0",
     "minDate": -330.0,
-    "maxDate": 2100.0
-   },
-   "Analysis": {
-    "count": 5,
-    "occurrences": [
-     109,
-     109,
-     114,
-     115,
-     115
-    ]
+    "maxDate": 2100.0,
+    "Analysis": {
+     "Count": [
+      5,
+      [
+       109,
+       109,
+       114,
+       115,
+       115
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -7864,24 +8336,26 @@ var count =
     "timePeriodsKeys": "modern",
     "timePeriodsRange": "1700.0,2100.0",
     "minDate": 1700.0,
-    "maxDate": 2100.0
-   },
-   "Analysis": {
-    "count": 12,
-    "occurrences": [
-     110,
-     110,
-     113,
-     114,
-     115,
-     115,
-     122,
-     124,
-     124,
-     125,
-     125,
-     125
-    ]
+    "maxDate": 2100.0,
+    "Analysis": {
+     "Count": [
+      12,
+      [
+       110,
+       110,
+       113,
+       114,
+       115,
+       115,
+       122,
+       124,
+       124,
+       125,
+       125,
+       125
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -7900,24 +8374,26 @@ var count =
     "timePeriodsKeys": "classical,hellenistic-republican,roman,late-antique",
     "timePeriodsRange": "-550.0,640.0",
     "minDate": -550.0,
-    "maxDate": 640.0
-   },
-   "Analysis": {
-    "count": 12,
-    "occurrences": [
-     110,
-     115,
-     122,
-     123,
-     124,
-     124,
-     125,
-     125,
-     125,
-     125,
-     126,
-     127
-    ]
+    "maxDate": 640.0,
+    "Analysis": {
+     "Count": [
+      12,
+      [
+       110,
+       115,
+       122,
+       123,
+       124,
+       124,
+       125,
+       125,
+       125,
+       125,
+       126,
+       127
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -7936,14 +8412,16 @@ var count =
     "timePeriodsKeys": "modern",
     "timePeriodsRange": "1700.0,2100.0",
     "minDate": 1700.0,
-    "maxDate": 2100.0
-   },
-   "Analysis": {
-    "count": 2,
-    "occurrences": [
-     111,
-     175
-    ]
+    "maxDate": 2100.0,
+    "Analysis": {
+     "Count": [
+      2,
+      [
+       111,
+       175
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -7962,14 +8440,16 @@ var count =
     "timePeriodsKeys": "hellenistic-republican,modern",
     "timePeriodsRange": "-330.0,2100.0",
     "minDate": -330.0,
-    "maxDate": 2100.0
-   },
-   "Analysis": {
-    "count": 2,
-    "occurrences": [
-     111,
-     143
-    ]
+    "maxDate": 2100.0,
+    "Analysis": {
+     "Count": [
+      2,
+      [
+       111,
+       143
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -7988,14 +8468,16 @@ var count =
     "timePeriodsKeys": "archaic,classical,hellenistic-republican,roman",
     "timePeriodsRange": "-750.0,300.0",
     "minDate": -750.0,
-    "maxDate": 300.0
-   },
-   "Analysis": {
-    "count": 2,
-    "occurrences": [
-     112,
-     142
-    ]
+    "maxDate": 300.0,
+    "Analysis": {
+     "Count": [
+      2,
+      [
+       112,
+       142
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -8014,13 +8496,15 @@ var count =
     "timePeriodsKeys": "classical,hellenistic-republican,roman,late-antique,modern",
     "timePeriodsRange": "-550.0,2100.0",
     "minDate": -550.0,
-    "maxDate": 2100.0
-   },
-   "Analysis": {
-    "count": 1,
-    "occurrences": [
-     113
-    ]
+    "maxDate": 2100.0,
+    "Analysis": {
+     "Count": [
+      1,
+      [
+       113
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -8039,14 +8523,16 @@ var count =
     "timePeriodsKeys": "classical",
     "timePeriodsRange": "-550.0,-330.0",
     "minDate": -550.0,
-    "maxDate": -330.0
-   },
-   "Analysis": {
-    "count": 2,
-    "occurrences": [
-     114,
-     114
-    ]
+    "maxDate": -330.0,
+    "Analysis": {
+     "Count": [
+      2,
+      [
+       114,
+       114
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -8065,13 +8551,15 @@ var count =
     "timePeriodsKeys": "roman,modern",
     "timePeriodsRange": "-30.0,2100.0",
     "minDate": -30.0,
-    "maxDate": 2100.0
-   },
-   "Analysis": {
-    "count": 1,
-    "occurrences": [
-     114
-    ]
+    "maxDate": 2100.0,
+    "Analysis": {
+     "Count": [
+      1,
+      [
+       114
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -8090,13 +8578,15 @@ var count =
     "timePeriodsKeys": "classical,roman,late-antique,modern",
     "timePeriodsRange": "-550.0,2100.0",
     "minDate": -550.0,
-    "maxDate": 2100.0
-   },
-   "Analysis": {
-    "count": 1,
-    "occurrences": [
-     114
-    ]
+    "maxDate": 2100.0,
+    "Analysis": {
+     "Count": [
+      1,
+      [
+       114
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -8115,13 +8605,15 @@ var count =
     "timePeriodsKeys": "classical",
     "timePeriodsRange": "-550.0,-330.0",
     "minDate": -550.0,
-    "maxDate": -330.0
-   },
-   "Analysis": {
-    "count": 1,
-    "occurrences": [
-     114
-    ]
+    "maxDate": -330.0,
+    "Analysis": {
+     "Count": [
+      1,
+      [
+       114
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -8140,13 +8632,15 @@ var count =
     "timePeriodsKeys": "roman,late-antique",
     "timePeriodsRange": "-30.0,640.0",
     "minDate": -30.0,
-    "maxDate": 640.0
-   },
-   "Analysis": {
-    "count": 1,
-    "occurrences": [
-     114
-    ]
+    "maxDate": 640.0,
+    "Analysis": {
+     "Count": [
+      1,
+      [
+       114
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -8165,13 +8659,15 @@ var count =
     "timePeriodsKeys": NaN,
     "timePeriodsRange": NaN,
     "minDate": NaN,
-    "maxDate": NaN
-   },
-   "Analysis": {
-    "count": 1,
-    "occurrences": [
-     114
-    ]
+    "maxDate": NaN,
+    "Analysis": {
+     "Count": [
+      1,
+      [
+       114
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -8190,13 +8686,15 @@ var count =
     "timePeriodsKeys": "hellenistic-republican,roman,late-antique",
     "timePeriodsRange": "-330.0,640.0",
     "minDate": -330.0,
-    "maxDate": 640.0
-   },
-   "Analysis": {
-    "count": 1,
-    "occurrences": [
-     114
-    ]
+    "maxDate": 640.0,
+    "Analysis": {
+     "Count": [
+      1,
+      [
+       114
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -8215,13 +8713,15 @@ var count =
     "timePeriodsKeys": "classical,hellenistic-roman-early-empire,roman,late-antique,mediaeval-byzantine,modern",
     "timePeriodsRange": "-550.0,2100.0",
     "minDate": -550.0,
-    "maxDate": 2100.0
-   },
-   "Analysis": {
-    "count": 1,
-    "occurrences": [
-     115
-    ]
+    "maxDate": 2100.0,
+    "Analysis": {
+     "Count": [
+      1,
+      [
+       115
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -8240,13 +8740,15 @@ var count =
     "timePeriodsKeys": "archaic,classical,hellenistic-republican,roman,late-antique",
     "timePeriodsRange": "-750.0,640.0",
     "minDate": -750.0,
-    "maxDate": 640.0
-   },
-   "Analysis": {
-    "count": 1,
-    "occurrences": [
-     120
-    ]
+    "maxDate": 640.0,
+    "Analysis": {
+     "Count": [
+      1,
+      [
+       120
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -8265,16 +8767,18 @@ var count =
     "timePeriodsKeys": "classical,hellenistic-republican,roman,late-antique,modern",
     "timePeriodsRange": "-550.0,2100.0",
     "minDate": -550.0,
-    "maxDate": 2100.0
-   },
-   "Analysis": {
-    "count": 4,
-    "occurrences": [
-     120,
-     120,
-     159,
-     159
-    ]
+    "maxDate": 2100.0,
+    "Analysis": {
+     "Count": [
+      4,
+      [
+       120,
+       120,
+       159,
+       159
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -8293,20 +8797,22 @@ var count =
     "timePeriodsKeys": "archaic,classical,hellenistic-republican,roman,late-antique",
     "timePeriodsRange": "-750.0,640.0",
     "minDate": -750.0,
-    "maxDate": 640.0
-   },
-   "Analysis": {
-    "count": 8,
-    "occurrences": [
-     120,
-     120,
-     128,
-     128,
-     142,
-     157,
-     163,
-     164
-    ]
+    "maxDate": 640.0,
+    "Analysis": {
+     "Count": [
+      8,
+      [
+       120,
+       120,
+       128,
+       128,
+       142,
+       157,
+       163,
+       164
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -8325,17 +8831,19 @@ var count =
     "timePeriodsKeys": "hellenistic-republican,roman,late-antique",
     "timePeriodsRange": "-330.0,640.0",
     "minDate": -330.0,
-    "maxDate": 640.0
-   },
-   "Analysis": {
-    "count": 5,
-    "occurrences": [
-     121,
-     138,
-     138,
-     138,
-     164
-    ]
+    "maxDate": 640.0,
+    "Analysis": {
+     "Count": [
+      5,
+      [
+       121,
+       138,
+       138,
+       138,
+       164
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -8354,14 +8862,16 @@ var count =
     "timePeriodsKeys": "hellenistic-republican,hellenistic-roman-early-empire,roman,late-byzantine,modern",
     "timePeriodsRange": "-330.0,2100.0",
     "minDate": -330.0,
-    "maxDate": 2100.0
-   },
-   "Analysis": {
-    "count": 2,
-    "occurrences": [
-     121,
-     121
-    ]
+    "maxDate": 2100.0,
+    "Analysis": {
+     "Count": [
+      2,
+      [
+       121,
+       121
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -8380,13 +8890,15 @@ var count =
     "timePeriodsKeys": "modern",
     "timePeriodsRange": "1700.0,2100.0",
     "minDate": 1700.0,
-    "maxDate": 2100.0
-   },
-   "Analysis": {
-    "count": 1,
-    "occurrences": [
-     121
-    ]
+    "maxDate": 2100.0,
+    "Analysis": {
+     "Count": [
+      1,
+      [
+       121
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -8405,20 +8917,22 @@ var count =
     "timePeriodsKeys": "classical,hellenistic-republican,roman,late-antique",
     "timePeriodsRange": "-550.0,640.0",
     "minDate": -550.0,
-    "maxDate": 640.0
-   },
-   "Analysis": {
-    "count": 8,
-    "occurrences": [
-     121,
-     121,
-     121,
-     121,
-     121,
-     125,
-     138,
-     138
-    ]
+    "maxDate": 640.0,
+    "Analysis": {
+     "Count": [
+      8,
+      [
+       121,
+       121,
+       121,
+       121,
+       121,
+       125,
+       138,
+       138
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -8437,14 +8951,16 @@ var count =
     "timePeriodsKeys": "classical,hellenistic-republican,roman,late-antique,modern",
     "timePeriodsRange": "-550.0,2100.0",
     "minDate": -550.0,
-    "maxDate": 2100.0
-   },
-   "Analysis": {
-    "count": 2,
-    "occurrences": [
-     121,
-     164
-    ]
+    "maxDate": 2100.0,
+    "Analysis": {
+     "Count": [
+      2,
+      [
+       121,
+       164
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -8463,15 +8979,17 @@ var count =
     "timePeriodsKeys": "archaic,middle-late-iron-age-anatolia,classical,achaemenid-middle-east,hellenistic-republican,hellenistic-middle-east,roman-middle-east,roman,roman-early-empire-parthian-middle-east,late-antique,late-antique-sasanian-middle-east,late-antique-late-byzantine,early-byzantine,abassid-middle-east,middle-byzantine,rum-crusader-anatolia,crusader-byzantine-seljuq-middle-east,modern-middle-east",
     "timePeriodsRange": "-750.0,2000.0",
     "minDate": -750.0,
-    "maxDate": 2000.0
-   },
-   "Analysis": {
-    "count": 3,
-    "occurrences": [
-     128,
-     159,
-     163
-    ]
+    "maxDate": 2000.0,
+    "Analysis": {
+     "Count": [
+      3,
+      [
+       128,
+       159,
+       163
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -8490,16 +9008,18 @@ var count =
     "timePeriodsKeys": "archaic,classical,hellenistic-republican,roman",
     "timePeriodsRange": "-750.0,300.0",
     "minDate": -750.0,
-    "maxDate": 300.0
-   },
-   "Analysis": {
-    "count": 4,
-    "occurrences": [
-     128,
-     159,
-     165,
-     165
-    ]
+    "maxDate": 300.0,
+    "Analysis": {
+     "Count": [
+      4,
+      [
+       128,
+       159,
+       165,
+       165
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -8518,14 +9038,16 @@ var count =
     "timePeriodsKeys": "classical,hellenistic-republican,roman,late-antique",
     "timePeriodsRange": "-550.0,640.0",
     "minDate": -550.0,
-    "maxDate": 640.0
-   },
-   "Analysis": {
-    "count": 2,
-    "occurrences": [
-     128,
-     159
-    ]
+    "maxDate": 640.0,
+    "Analysis": {
+     "Count": [
+      2,
+      [
+       128,
+       159
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -8544,13 +9066,15 @@ var count =
     "timePeriodsKeys": "archaic,classical,hellenistic-republican,hellenistic-roman-early-empire,roman",
     "timePeriodsRange": "-750.0,300.0",
     "minDate": -750.0,
-    "maxDate": 300.0
-   },
-   "Analysis": {
-    "count": 1,
-    "occurrences": [
-     128
-    ]
+    "maxDate": 300.0,
+    "Analysis": {
+     "Count": [
+      1,
+      [
+       128
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -8569,25 +9093,27 @@ var count =
     "timePeriodsKeys": "modern",
     "timePeriodsRange": "1700.0,2100.0",
     "minDate": 1700.0,
-    "maxDate": 2100.0
-   },
-   "Analysis": {
-    "count": 13,
-    "occurrences": [
-     129,
-     129,
-     129,
-     142,
-     182,
-     182,
-     182,
-     182,
-     182,
-     183,
-     183,
-     183,
-     184
-    ]
+    "maxDate": 2100.0,
+    "Analysis": {
+     "Count": [
+      13,
+      [
+       129,
+       129,
+       129,
+       142,
+       182,
+       182,
+       182,
+       182,
+       182,
+       183,
+       183,
+       183,
+       184
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -8606,27 +9132,29 @@ var count =
     "timePeriodsKeys": "modern",
     "timePeriodsRange": "1700.0,2100.0",
     "minDate": 1700.0,
-    "maxDate": 2100.0
-   },
-   "Analysis": {
-    "count": 15,
-    "occurrences": [
-     129,
-     129,
-     129,
-     129,
-     130,
-     130,
-     130,
-     130,
-     130,
-     130,
-     130,
-     130,
-     131,
-     131,
-     132
-    ]
+    "maxDate": 2100.0,
+    "Analysis": {
+     "Count": [
+      15,
+      [
+       129,
+       129,
+       129,
+       129,
+       130,
+       130,
+       130,
+       130,
+       130,
+       130,
+       130,
+       130,
+       131,
+       131,
+       132
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -8645,14 +9173,16 @@ var count =
     "timePeriodsKeys": "classical,modern,modern-middle-east",
     "timePeriodsRange": "-550.0,2100.0",
     "minDate": -550.0,
-    "maxDate": 2100.0
-   },
-   "Analysis": {
-    "count": 2,
-    "occurrences": [
-     129,
-     129
-    ]
+    "maxDate": 2100.0,
+    "Analysis": {
+     "Count": [
+      2,
+      [
+       129,
+       129
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -8671,22 +9201,24 @@ var count =
     "timePeriodsKeys": "modern",
     "timePeriodsRange": "1700.0,2100.0",
     "minDate": 1700.0,
-    "maxDate": 2100.0
-   },
-   "Analysis": {
-    "count": 10,
-    "occurrences": [
-     130,
-     130,
-     130,
-     130,
-     130,
-     131,
-     131,
-     131,
-     133,
-     133
-    ]
+    "maxDate": 2100.0,
+    "Analysis": {
+     "Count": [
+      10,
+      [
+       130,
+       130,
+       130,
+       130,
+       130,
+       131,
+       131,
+       131,
+       133,
+       133
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -8705,15 +9237,17 @@ var count =
     "timePeriodsKeys": "archaic,classical,hellenistic-republican,roman,late-antique",
     "timePeriodsRange": "-750.0,640.0",
     "minDate": -750.0,
-    "maxDate": 640.0
-   },
-   "Analysis": {
-    "count": 3,
-    "occurrences": [
-     131,
-     131,
-     133
-    ]
+    "maxDate": 640.0,
+    "Analysis": {
+     "Count": [
+      3,
+      [
+       131,
+       131,
+       133
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -8732,19 +9266,21 @@ var count =
     "timePeriodsKeys": "archaic,classical,hellenistic-republican,roman,late-antique,modern",
     "timePeriodsRange": "-750.0,2100.0",
     "minDate": -750.0,
-    "maxDate": 2100.0
-   },
-   "Analysis": {
-    "count": 7,
-    "occurrences": [
-     132,
-     132,
-     157,
-     157,
-     158,
-     158,
-     159
-    ]
+    "maxDate": 2100.0,
+    "Analysis": {
+     "Count": [
+      7,
+      [
+       132,
+       132,
+       157,
+       157,
+       158,
+       158,
+       159
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -8763,13 +9299,15 @@ var count =
     "timePeriodsKeys": "roman,modern",
     "timePeriodsRange": "-30.0,2100.0",
     "minDate": -30.0,
-    "maxDate": 2100.0
-   },
-   "Analysis": {
-    "count": 1,
-    "occurrences": [
-     133
-    ]
+    "maxDate": 2100.0,
+    "Analysis": {
+     "Count": [
+      1,
+      [
+       133
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -8788,14 +9326,16 @@ var count =
     "timePeriodsKeys": "archaic,classical,hellenistic-republican,roman",
     "timePeriodsRange": "-750.0,300.0",
     "minDate": -750.0,
-    "maxDate": 300.0
-   },
-   "Analysis": {
-    "count": 2,
-    "occurrences": [
-     133,
-     138
-    ]
+    "maxDate": 300.0,
+    "Analysis": {
+     "Count": [
+      2,
+      [
+       133,
+       138
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -8814,15 +9354,17 @@ var count =
     "timePeriodsKeys": "classical,hellenistic-republican,roman,late-antique",
     "timePeriodsRange": "-550.0,640.0",
     "minDate": -550.0,
-    "maxDate": 640.0
-   },
-   "Analysis": {
-    "count": 3,
-    "occurrences": [
-     133,
-     135,
-     135
-    ]
+    "maxDate": 640.0,
+    "Analysis": {
+     "Count": [
+      3,
+      [
+       133,
+       135,
+       135
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -8841,15 +9383,17 @@ var count =
     "timePeriodsKeys": "classical,hellenistic-republican",
     "timePeriodsRange": "-550.0,-30.0",
     "minDate": -550.0,
-    "maxDate": -30.0
-   },
-   "Analysis": {
-    "count": 3,
-    "occurrences": [
-     133,
-     133,
-     134
-    ]
+    "maxDate": -30.0,
+    "Analysis": {
+     "Count": [
+      3,
+      [
+       133,
+       133,
+       134
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -8868,14 +9412,16 @@ var count =
     "timePeriodsKeys": "roman,late-antique",
     "timePeriodsRange": "-30.0,640.0",
     "minDate": -30.0,
-    "maxDate": 640.0
-   },
-   "Analysis": {
-    "count": 2,
-    "occurrences": [
-     134,
-     134
-    ]
+    "maxDate": 640.0,
+    "Analysis": {
+     "Count": [
+      2,
+      [
+       134,
+       134
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -8894,19 +9440,21 @@ var count =
     "timePeriodsKeys": "hellenistic-republican,roman",
     "timePeriodsRange": "-330.0,300.0",
     "minDate": -330.0,
-    "maxDate": 300.0
-   },
-   "Analysis": {
-    "count": 7,
-    "occurrences": [
-     134,
-     134,
-     134,
-     134,
-     136,
-     136,
-     136
-    ]
+    "maxDate": 300.0,
+    "Analysis": {
+     "Count": [
+      7,
+      [
+       134,
+       134,
+       134,
+       134,
+       136,
+       136,
+       136
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -8925,13 +9473,15 @@ var count =
     "timePeriodsKeys": "hellenistic-republican",
     "timePeriodsRange": "-330.0,-30.0",
     "minDate": -330.0,
-    "maxDate": -30.0
-   },
-   "Analysis": {
-    "count": 1,
-    "occurrences": [
-     134
-    ]
+    "maxDate": -30.0,
+    "Analysis": {
+     "Count": [
+      1,
+      [
+       134
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -8950,13 +9500,15 @@ var count =
     "timePeriodsKeys": "classical,hellenistic-republican,roman",
     "timePeriodsRange": "-550.0,300.0",
     "minDate": -550.0,
-    "maxDate": 300.0
-   },
-   "Analysis": {
-    "count": 1,
-    "occurrences": [
-     134
-    ]
+    "maxDate": 300.0,
+    "Analysis": {
+     "Count": [
+      1,
+      [
+       134
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -8975,14 +9527,16 @@ var count =
     "timePeriodsKeys": "roman,late-antique",
     "timePeriodsRange": "-30.0,640.0",
     "minDate": -30.0,
-    "maxDate": 640.0
-   },
-   "Analysis": {
-    "count": 2,
-    "occurrences": [
-     136,
-     151
-    ]
+    "maxDate": 640.0,
+    "Analysis": {
+     "Count": [
+      2,
+      [
+       136,
+       151
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -9001,14 +9555,16 @@ var count =
     "timePeriodsKeys": "archaic,classical,hellenistic-republican,roman,late-antique,modern",
     "timePeriodsRange": "-750.0,2100.0",
     "minDate": -750.0,
-    "maxDate": 2100.0
-   },
-   "Analysis": {
-    "count": 2,
-    "occurrences": [
-     136,
-     171
-    ]
+    "maxDate": 2100.0,
+    "Analysis": {
+     "Count": [
+      2,
+      [
+       136,
+       171
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -9027,13 +9583,15 @@ var count =
     "timePeriodsKeys": "classical,hellenistic-republican,roman",
     "timePeriodsRange": "-550.0,300.0",
     "minDate": -550.0,
-    "maxDate": 300.0
-   },
-   "Analysis": {
-    "count": 1,
-    "occurrences": [
-     136
-    ]
+    "maxDate": 300.0,
+    "Analysis": {
+     "Count": [
+      1,
+      [
+       136
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -9052,13 +9610,15 @@ var count =
     "timePeriodsKeys": "archaic,classical,hellenistic-republican,roman",
     "timePeriodsRange": "-750.0,300.0",
     "minDate": -750.0,
-    "maxDate": 300.0
-   },
-   "Analysis": {
-    "count": 1,
-    "occurrences": [
-     137
-    ]
+    "maxDate": 300.0,
+    "Analysis": {
+     "Count": [
+      1,
+      [
+       137
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -9077,14 +9637,16 @@ var count =
     "timePeriodsKeys": "classical,hellenistic-republican,roman,late-antique",
     "timePeriodsRange": "-550.0,640.0",
     "minDate": -550.0,
-    "maxDate": 640.0
-   },
-   "Analysis": {
-    "count": 2,
-    "occurrences": [
-     138,
-     138
-    ]
+    "maxDate": 640.0,
+    "Analysis": {
+     "Count": [
+      2,
+      [
+       138,
+       138
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -9103,13 +9665,15 @@ var count =
     "timePeriodsKeys": "archaic,classical,hellenistic-republican,roman,late-antique,modern",
     "timePeriodsRange": "-750.0,2100.0",
     "minDate": -750.0,
-    "maxDate": 2100.0
-   },
-   "Analysis": {
-    "count": 1,
-    "occurrences": [
-     139
-    ]
+    "maxDate": 2100.0,
+    "Analysis": {
+     "Count": [
+      1,
+      [
+       139
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -9128,13 +9692,15 @@ var count =
     "timePeriodsKeys": "classical",
     "timePeriodsRange": "-550.0,-330.0",
     "minDate": -550.0,
-    "maxDate": -330.0
-   },
-   "Analysis": {
-    "count": 1,
-    "occurrences": [
-     140
-    ]
+    "maxDate": -330.0,
+    "Analysis": {
+     "Count": [
+      1,
+      [
+       140
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -9153,18 +9719,20 @@ var count =
     "timePeriodsKeys": "hellenistic-republican",
     "timePeriodsRange": "-330.0,-30.0",
     "minDate": -330.0,
-    "maxDate": -30.0
-   },
-   "Analysis": {
-    "count": 6,
-    "occurrences": [
-     140,
-     140,
-     141,
-     166,
-     185,
-     185
-    ]
+    "maxDate": -30.0,
+    "Analysis": {
+     "Count": [
+      6,
+      [
+       140,
+       140,
+       141,
+       166,
+       185,
+       185
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -9183,14 +9751,16 @@ var count =
     "timePeriodsKeys": "classical,roman",
     "timePeriodsRange": "-550.0,300.0",
     "minDate": -550.0,
-    "maxDate": 300.0
-   },
-   "Analysis": {
-    "count": 2,
-    "occurrences": [
-     143,
-     143
-    ]
+    "maxDate": 300.0,
+    "Analysis": {
+     "Count": [
+      2,
+      [
+       143,
+       143
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -9209,16 +9779,18 @@ var count =
     "timePeriodsKeys": "modern",
     "timePeriodsRange": "1700.0,2100.0",
     "minDate": 1700.0,
-    "maxDate": 2100.0
-   },
-   "Analysis": {
-    "count": 4,
-    "occurrences": [
-     143,
-     181,
-     182,
-     182
-    ]
+    "maxDate": 2100.0,
+    "Analysis": {
+     "Count": [
+      4,
+      [
+       143,
+       181,
+       182,
+       182
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -9237,13 +9809,15 @@ var count =
     "timePeriodsKeys": "classical,hellenistic-republican,roman,late-antique,modern",
     "timePeriodsRange": "-550.0,2100.0",
     "minDate": -550.0,
-    "maxDate": 2100.0
-   },
-   "Analysis": {
-    "count": 1,
-    "occurrences": [
-     145
-    ]
+    "maxDate": 2100.0,
+    "Analysis": {
+     "Count": [
+      1,
+      [
+       145
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -9262,16 +9836,18 @@ var count =
     "timePeriodsKeys": NaN,
     "timePeriodsRange": NaN,
     "minDate": NaN,
-    "maxDate": NaN
-   },
-   "Analysis": {
-    "count": 4,
-    "occurrences": [
-     145,
-     162,
-     162,
-     180
-    ]
+    "maxDate": NaN,
+    "Analysis": {
+     "Count": [
+      4,
+      [
+       145,
+       162,
+       162,
+       180
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -9290,13 +9866,15 @@ var count =
     "timePeriodsKeys": "archaic,classical,hellenistic-republican,modern",
     "timePeriodsRange": "-750.0,2100.0",
     "minDate": -750.0,
-    "maxDate": 2100.0
-   },
-   "Analysis": {
-    "count": 1,
-    "occurrences": [
-     146
-    ]
+    "maxDate": 2100.0,
+    "Analysis": {
+     "Count": [
+      1,
+      [
+       146
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -9315,13 +9893,15 @@ var count =
     "timePeriodsKeys": "archaic,classical,hellenistic-republican,roman",
     "timePeriodsRange": "-750.0,300.0",
     "minDate": -750.0,
-    "maxDate": 300.0
-   },
-   "Analysis": {
-    "count": 1,
-    "occurrences": [
-     146
-    ]
+    "maxDate": 300.0,
+    "Analysis": {
+     "Count": [
+      1,
+      [
+       146
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -9340,14 +9920,16 @@ var count =
     "timePeriodsKeys": "archaic,classical,hellenistic-republican,roman",
     "timePeriodsRange": "-750.0,300.0",
     "minDate": -750.0,
-    "maxDate": 300.0
-   },
-   "Analysis": {
-    "count": 2,
-    "occurrences": [
-     147,
-     151
-    ]
+    "maxDate": 300.0,
+    "Analysis": {
+     "Count": [
+      2,
+      [
+       147,
+       151
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -9366,13 +9948,15 @@ var count =
     "timePeriodsKeys": "archaic,classical,hellenistic-republican,roman,modern",
     "timePeriodsRange": "-750.0,2100.0",
     "minDate": -750.0,
-    "maxDate": 2100.0
-   },
-   "Analysis": {
-    "count": 1,
-    "occurrences": [
-     149
-    ]
+    "maxDate": 2100.0,
+    "Analysis": {
+     "Count": [
+      1,
+      [
+       149
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -9391,13 +9975,15 @@ var count =
     "timePeriodsKeys": "archaic,classical,hellenistic-republican,hellenistic-roman-early-empire,roman",
     "timePeriodsRange": "-750.0,300.0",
     "minDate": -750.0,
-    "maxDate": 300.0
-   },
-   "Analysis": {
-    "count": 1,
-    "occurrences": [
-     151
-    ]
+    "maxDate": 300.0,
+    "Analysis": {
+     "Count": [
+      1,
+      [
+       151
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -9416,15 +10002,17 @@ var count =
     "timePeriodsKeys": "archaic,classical,hellenistic-republican,roman,late-antique",
     "timePeriodsRange": "-750.0,640.0",
     "minDate": -750.0,
-    "maxDate": 640.0
-   },
-   "Analysis": {
-    "count": 3,
-    "occurrences": [
-     151,
-     153,
-     179
-    ]
+    "maxDate": 640.0,
+    "Analysis": {
+     "Count": [
+      3,
+      [
+       151,
+       153,
+       179
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -9443,13 +10031,15 @@ var count =
     "timePeriodsKeys": "archaic,classical,hellenistic-republican,roman",
     "timePeriodsRange": "-750.0,300.0",
     "minDate": -750.0,
-    "maxDate": 300.0
-   },
-   "Analysis": {
-    "count": 1,
-    "occurrences": [
-     151
-    ]
+    "maxDate": 300.0,
+    "Analysis": {
+     "Count": [
+      1,
+      [
+       151
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -9468,13 +10058,15 @@ var count =
     "timePeriodsKeys": "archaic,classical,hellenistic-republican,roman,late-antique",
     "timePeriodsRange": "-750.0,640.0",
     "minDate": -750.0,
-    "maxDate": 640.0
-   },
-   "Analysis": {
-    "count": 1,
-    "occurrences": [
-     152
-    ]
+    "maxDate": 640.0,
+    "Analysis": {
+     "Count": [
+      1,
+      [
+       152
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -9493,13 +10085,15 @@ var count =
     "timePeriodsKeys": "archaic,classical,hellenistic-republican,roman,late-antique,modern",
     "timePeriodsRange": "-750.0,2100.0",
     "minDate": -750.0,
-    "maxDate": 2100.0
-   },
-   "Analysis": {
-    "count": 1,
-    "occurrences": [
-     155
-    ]
+    "maxDate": 2100.0,
+    "Analysis": {
+     "Count": [
+      1,
+      [
+       155
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -9518,13 +10112,15 @@ var count =
     "timePeriodsKeys": "hellenistic-republican,roman,late-antique",
     "timePeriodsRange": "-330.0,640.0",
     "minDate": -330.0,
-    "maxDate": 640.0
-   },
-   "Analysis": {
-    "count": 1,
-    "occurrences": [
-     155
-    ]
+    "maxDate": 640.0,
+    "Analysis": {
+     "Count": [
+      1,
+      [
+       155
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -9543,13 +10139,15 @@ var count =
     "timePeriodsKeys": "archaic,classical,hellenistic-republican,roman,late-antique,modern",
     "timePeriodsRange": "-750.0,2100.0",
     "minDate": -750.0,
-    "maxDate": 2100.0
-   },
-   "Analysis": {
-    "count": 1,
-    "occurrences": [
-     156
-    ]
+    "maxDate": 2100.0,
+    "Analysis": {
+     "Count": [
+      1,
+      [
+       156
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -9568,14 +10166,16 @@ var count =
     "timePeriodsKeys": "classical,hellenistic-republican,roman,modern",
     "timePeriodsRange": "-550.0,2100.0",
     "minDate": -550.0,
-    "maxDate": 2100.0
-   },
-   "Analysis": {
-    "count": 2,
-    "occurrences": [
-     156,
-     156
-    ]
+    "maxDate": 2100.0,
+    "Analysis": {
+     "Count": [
+      2,
+      [
+       156,
+       156
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -9594,14 +10194,16 @@ var count =
     "timePeriodsKeys": "hellenistic-republican,roman",
     "timePeriodsRange": "-330.0,300.0",
     "minDate": -330.0,
-    "maxDate": 300.0
-   },
-   "Analysis": {
-    "count": 2,
-    "occurrences": [
-     157,
-     158
-    ]
+    "maxDate": 300.0,
+    "Analysis": {
+     "Count": [
+      2,
+      [
+       157,
+       158
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -9620,13 +10222,15 @@ var count =
     "timePeriodsKeys": "classical",
     "timePeriodsRange": "-550.0,-330.0",
     "minDate": -550.0,
-    "maxDate": -330.0
-   },
-   "Analysis": {
-    "count": 1,
-    "occurrences": [
-     159
-    ]
+    "maxDate": -330.0,
+    "Analysis": {
+     "Count": [
+      1,
+      [
+       159
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -9645,13 +10249,15 @@ var count =
     "timePeriodsKeys": "roman,late-antique",
     "timePeriodsRange": "-30.0,640.0",
     "minDate": -30.0,
-    "maxDate": 640.0
-   },
-   "Analysis": {
-    "count": 1,
-    "occurrences": [
-     159
-    ]
+    "maxDate": 640.0,
+    "Analysis": {
+     "Count": [
+      1,
+      [
+       159
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -9670,14 +10276,16 @@ var count =
     "timePeriodsKeys": "archaic,classical,hellenistic-republican,roman",
     "timePeriodsRange": "-750.0,300.0",
     "minDate": -750.0,
-    "maxDate": 300.0
-   },
-   "Analysis": {
-    "count": 2,
-    "occurrences": [
-     159,
-     159
-    ]
+    "maxDate": 300.0,
+    "Analysis": {
+     "Count": [
+      2,
+      [
+       159,
+       159
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -9696,14 +10304,16 @@ var count =
     "timePeriodsKeys": "roman,modern",
     "timePeriodsRange": "-30.0,2100.0",
     "minDate": -30.0,
-    "maxDate": 2100.0
-   },
-   "Analysis": {
-    "count": 2,
-    "occurrences": [
-     160,
-     160
-    ]
+    "maxDate": 2100.0,
+    "Analysis": {
+     "Count": [
+      2,
+      [
+       160,
+       160
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -9722,14 +10332,16 @@ var count =
     "timePeriodsKeys": "archaic,classical,hellenistic-republican,roman",
     "timePeriodsRange": "-750.0,300.0",
     "minDate": -750.0,
-    "maxDate": 300.0
-   },
-   "Analysis": {
-    "count": 2,
-    "occurrences": [
-     160,
-     161
-    ]
+    "maxDate": 300.0,
+    "Analysis": {
+     "Count": [
+      2,
+      [
+       160,
+       161
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -9748,13 +10360,15 @@ var count =
     "timePeriodsKeys": "middle-bronze-early-iron-age-iran,1200-bc-middle-east,classical,achaemenid-middle-east,hellenistic-republican,hellenistic-middle-east,roman,roman-early-empire-parthian-middle-east,late-antique-sasanian-middle-east,caliphate-umayyad-middle-east,abassid-middle-east,samanid-ghaznavid-iran,seljuq-khwarezmian-middle-east,khwarezmian-middle-east,ilkhanate-middle-east,mongol-middle-east,timurid-middle-east,1500-ad-middle-east,safavid-middle-east,late-ottoman-empire,ottoman-decline-mandate-middle-east,modern-middle-east",
     "timePeriodsRange": "-2000.0,2000.0",
     "minDate": -2000.0,
-    "maxDate": 2000.0
-   },
-   "Analysis": {
-    "count": 1,
-    "occurrences": [
-     161
-    ]
+    "maxDate": 2000.0,
+    "Analysis": {
+     "Count": [
+      1,
+      [
+       161
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -9773,13 +10387,15 @@ var count =
     "timePeriodsKeys": "archaic,classical,hellenistic-republican,hellenistic-roman-early-empire,roman,late-antique,modern",
     "timePeriodsRange": "-750.0,2100.0",
     "minDate": -750.0,
-    "maxDate": 2100.0
-   },
-   "Analysis": {
-    "count": 1,
-    "occurrences": [
-     162
-    ]
+    "maxDate": 2100.0,
+    "Analysis": {
+     "Count": [
+      1,
+      [
+       162
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -9798,13 +10414,15 @@ var count =
     "timePeriodsKeys": "classical",
     "timePeriodsRange": "-550.0,-330.0",
     "minDate": -550.0,
-    "maxDate": -330.0
-   },
-   "Analysis": {
-    "count": 1,
-    "occurrences": [
-     162
-    ]
+    "maxDate": -330.0,
+    "Analysis": {
+     "Count": [
+      1,
+      [
+       162
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -9823,15 +10441,17 @@ var count =
     "timePeriodsKeys": "hellenistic-republican,roman",
     "timePeriodsRange": "-330.0,300.0",
     "minDate": -330.0,
-    "maxDate": 300.0
-   },
-   "Analysis": {
-    "count": 3,
-    "occurrences": [
-     163,
-     163,
-     163
-    ]
+    "maxDate": 300.0,
+    "Analysis": {
+     "Count": [
+      3,
+      [
+       163,
+       163,
+       163
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -9850,13 +10470,15 @@ var count =
     "timePeriodsKeys": "archaic,classical,hellenistic-republican,modern",
     "timePeriodsRange": "-750.0,2100.0",
     "minDate": -750.0,
-    "maxDate": 2100.0
-   },
-   "Analysis": {
-    "count": 1,
-    "occurrences": [
-     163
-    ]
+    "maxDate": 2100.0,
+    "Analysis": {
+     "Count": [
+      1,
+      [
+       163
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -9875,13 +10497,15 @@ var count =
     "timePeriodsKeys": "archaic,classical,hellenistic-roman-early-empire,modern",
     "timePeriodsRange": "-750.0,2100.0",
     "minDate": -750.0,
-    "maxDate": 2100.0
-   },
-   "Analysis": {
-    "count": 1,
-    "occurrences": [
-     163
-    ]
+    "maxDate": 2100.0,
+    "Analysis": {
+     "Count": [
+      1,
+      [
+       163
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -9900,13 +10524,15 @@ var count =
     "timePeriodsKeys": NaN,
     "timePeriodsRange": NaN,
     "minDate": NaN,
-    "maxDate": NaN
-   },
-   "Analysis": {
-    "count": 1,
-    "occurrences": [
-     163
-    ]
+    "maxDate": NaN,
+    "Analysis": {
+     "Count": [
+      1,
+      [
+       163
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -9925,13 +10551,15 @@ var count =
     "timePeriodsKeys": "classical,hellenistic-republican,roman,modern",
     "timePeriodsRange": "-550.0,2100.0",
     "minDate": -550.0,
-    "maxDate": 2100.0
-   },
-   "Analysis": {
-    "count": 1,
-    "occurrences": [
-     164
-    ]
+    "maxDate": 2100.0,
+    "Analysis": {
+     "Count": [
+      1,
+      [
+       164
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -9950,13 +10578,15 @@ var count =
     "timePeriodsKeys": NaN,
     "timePeriodsRange": NaN,
     "minDate": NaN,
-    "maxDate": NaN
-   },
-   "Analysis": {
-    "count": 1,
-    "occurrences": [
-     165
-    ]
+    "maxDate": NaN,
+    "Analysis": {
+     "Count": [
+      1,
+      [
+       165
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -9975,13 +10605,15 @@ var count =
     "timePeriodsKeys": "hellenistic-republican,roman",
     "timePeriodsRange": "-330.0,300.0",
     "minDate": -330.0,
-    "maxDate": 300.0
-   },
-   "Analysis": {
-    "count": 1,
-    "occurrences": [
-     166
-    ]
+    "maxDate": 300.0,
+    "Analysis": {
+     "Count": [
+      1,
+      [
+       166
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -10000,17 +10632,19 @@ var count =
     "timePeriodsKeys": NaN,
     "timePeriodsRange": NaN,
     "minDate": NaN,
-    "maxDate": NaN
-   },
-   "Analysis": {
-    "count": 5,
-    "occurrences": [
-     166,
-     166,
-     166,
-     166,
-     175
-    ]
+    "maxDate": NaN,
+    "Analysis": {
+     "Count": [
+      5,
+      [
+       166,
+       166,
+       166,
+       166,
+       175
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -10029,13 +10663,15 @@ var count =
     "timePeriodsKeys": "archaic,classical",
     "timePeriodsRange": "-750.0,-330.0",
     "minDate": -750.0,
-    "maxDate": -330.0
-   },
-   "Analysis": {
-    "count": 1,
-    "occurrences": [
-     166
-    ]
+    "maxDate": -330.0,
+    "Analysis": {
+     "Count": [
+      1,
+      [
+       166
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -10054,13 +10690,15 @@ var count =
     "timePeriodsKeys": "classical",
     "timePeriodsRange": "-550.0,-330.0",
     "minDate": -550.0,
-    "maxDate": -330.0
-   },
-   "Analysis": {
-    "count": 1,
-    "occurrences": [
-     167
-    ]
+    "maxDate": -330.0,
+    "Analysis": {
+     "Count": [
+      1,
+      [
+       167
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -10079,14 +10717,16 @@ var count =
     "timePeriodsKeys": NaN,
     "timePeriodsRange": NaN,
     "minDate": NaN,
-    "maxDate": NaN
-   },
-   "Analysis": {
-    "count": 2,
-    "occurrences": [
-     171,
-     171
-    ]
+    "maxDate": NaN,
+    "Analysis": {
+     "Count": [
+      2,
+      [
+       171,
+       171
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -10105,13 +10745,15 @@ var count =
     "timePeriodsKeys": "archaic,classical,hellenistic-republican",
     "timePeriodsRange": "-750.0,-30.0",
     "minDate": -750.0,
-    "maxDate": -30.0
-   },
-   "Analysis": {
-    "count": 1,
-    "occurrences": [
-     172
-    ]
+    "maxDate": -30.0,
+    "Analysis": {
+     "Count": [
+      1,
+      [
+       172
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -10130,14 +10772,16 @@ var count =
     "timePeriodsKeys": "2nd-millenium-bce,archaic,classical,hellenistic-republican,modern",
     "timePeriodsRange": "-2000.0,2100.0",
     "minDate": -2000.0,
-    "maxDate": 2100.0
-   },
-   "Analysis": {
-    "count": 2,
-    "occurrences": [
-     172,
-     172
-    ]
+    "maxDate": 2100.0,
+    "Analysis": {
+     "Count": [
+      2,
+      [
+       172,
+       172
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -10156,13 +10800,15 @@ var count =
     "timePeriodsKeys": "archaic,classical",
     "timePeriodsRange": "-750.0,-330.0",
     "minDate": -750.0,
-    "maxDate": -330.0
-   },
-   "Analysis": {
-    "count": 1,
-    "occurrences": [
-     172
-    ]
+    "maxDate": -330.0,
+    "Analysis": {
+     "Count": [
+      1,
+      [
+       172
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -10181,13 +10827,15 @@ var count =
     "timePeriodsKeys": "roman,modern",
     "timePeriodsRange": "-30.0,2100.0",
     "minDate": -30.0,
-    "maxDate": 2100.0
-   },
-   "Analysis": {
-    "count": 1,
-    "occurrences": [
-     176
-    ]
+    "maxDate": 2100.0,
+    "Analysis": {
+     "Count": [
+      1,
+      [
+       176
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -10206,13 +10854,15 @@ var count =
     "timePeriodsKeys": "classical,roman,modern",
     "timePeriodsRange": "-550.0,2100.0",
     "minDate": -550.0,
-    "maxDate": 2100.0
-   },
-   "Analysis": {
-    "count": 1,
-    "occurrences": [
-     179
-    ]
+    "maxDate": 2100.0,
+    "Analysis": {
+     "Count": [
+      1,
+      [
+       179
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -10231,13 +10881,15 @@ var count =
     "timePeriodsKeys": "modern",
     "timePeriodsRange": "1700.0,2100.0",
     "minDate": 1700.0,
-    "maxDate": 2100.0
-   },
-   "Analysis": {
-    "count": 1,
-    "occurrences": [
-     180
-    ]
+    "maxDate": 2100.0,
+    "Analysis": {
+     "Count": [
+      1,
+      [
+       180
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -10256,13 +10908,15 @@ var count =
     "timePeriodsKeys": "archaic,classical,hellenistic-republican,roman",
     "timePeriodsRange": "-750.0,300.0",
     "minDate": -750.0,
-    "maxDate": 300.0
-   },
-   "Analysis": {
-    "count": 1,
-    "occurrences": [
-     180
-    ]
+    "maxDate": 300.0,
+    "Analysis": {
+     "Count": [
+      1,
+      [
+       180
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -10281,13 +10935,15 @@ var count =
     "timePeriodsKeys": "elamite-western-iran,1200-bc-middle-east,archaic,neo-assyrian-babylonian-middle-east,classical,achaemenid-middle-east,hellenistic-republican,hellenistic-middle-east,roman-middle-east,roman,roman-early-empire-parthian-middle-east,transition-roman-early-empire-late-antique,late-antique,late-antique-sasanian-middle-east,persian-medieval-caucasus,early-byzantine,abassid-middle-east,middle-byzantine,early-medieval-caucasus,crusader-byzantine-seljuq-middle-east,ottoman-rise,early-ottoman-empire,1500-ad-middle-east,perso-ottoman-russian-caucasus,ottoman-empire,late-ottoman-empire,modern-middle-east",
     "timePeriodsRange": "-3200.0,2000.0",
     "minDate": -3200.0,
-    "maxDate": 2000.0
-   },
-   "Analysis": {
-    "count": 1,
-    "occurrences": [
-     180
-    ]
+    "maxDate": 2000.0,
+    "Analysis": {
+     "Count": [
+      1,
+      [
+       180
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -10306,13 +10962,15 @@ var count =
     "timePeriodsKeys": "roman,late-antique",
     "timePeriodsRange": "-30.0,640.0",
     "minDate": -30.0,
-    "maxDate": 640.0
-   },
-   "Analysis": {
-    "count": 1,
-    "occurrences": [
-     180
-    ]
+    "maxDate": 640.0,
+    "Analysis": {
+     "Count": [
+      1,
+      [
+       180
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -10331,13 +10989,15 @@ var count =
     "timePeriodsKeys": "archaic,classical,hellenistic-republican,roman,late-antique,modern",
     "timePeriodsRange": "-750.0,2100.0",
     "minDate": -750.0,
-    "maxDate": 2100.0
-   },
-   "Analysis": {
-    "count": 1,
-    "occurrences": [
-     182
-    ]
+    "maxDate": 2100.0,
+    "Analysis": {
+     "Count": [
+      1,
+      [
+       182
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -10356,13 +11016,15 @@ var count =
     "timePeriodsKeys": "archaic,classical,hellenistic-republican,roman",
     "timePeriodsRange": "-750.0,300.0",
     "minDate": -750.0,
-    "maxDate": 300.0
-   },
-   "Analysis": {
-    "count": 1,
-    "occurrences": [
-     184
-    ]
+    "maxDate": 300.0,
+    "Analysis": {
+     "Count": [
+      1,
+      [
+       184
+      ]
+     ]
+    }
    },
    "geometry": {
     "type": "Point",
