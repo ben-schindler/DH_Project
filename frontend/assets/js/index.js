@@ -234,8 +234,7 @@ function initMap() {
         }
 
         if (loadplaces == 1) {
-
-            alert("Places already loaded");
+            alert("Places already loaded. Please refresh page");
         }
     });
 
@@ -476,22 +475,39 @@ function initMap() {
 
     map.data.setStyle(function (feature) {
         var magnitude = feature.getProperty('count');
-        var topic = "places" //add topic to data when more than one
+        //var topic = "places" //add topic to data when more than one
+        var topic = feature.getProperty('genCategory')
         var color;
 
-        console.log
+        //console.log(topic)
 
-        if (topic.includes("topic1")) {
-            color = 'blue'
-        } else
-            if (topic.includes("topic2")) {
+        if(topic !== undefined){
+            if (topic.includes("Settlement")) {
                 color = 'green'
-            } else {
+            } else
+            if (topic.includes("People")) {
+                color = 'green'
+            }else
+            if (topic.includes("Geographical")) {
+                color = 'purple'
+            }else
+            if (topic.includes("Other")) {
+                color = 'blue'
+            }else{
                 color = 'red'
             }
-        return {
-            icon: getCircle(magnitude, color)
-        };
+            return {
+                icon: getCircle(magnitude, color)
+            }
+        }else{
+            console.log("No Category Data available");
+            color = 'red'
+            return {
+                icon: getCircle(magnitude, color)
+            }
+        }
+
+        
     });
 
     //End Init Map
@@ -505,13 +521,13 @@ function initMap() {
         calcScale = Math.sqrt(magnitude + 60);
         // console.log(calcScale);
 
-        // if (magnitude <= 15) {
-        //     calcScale = magnitude * 2;
-        // } else {
-        //     console.log(magnitude)
-        //     calcScale = 15 + ( (magnitude * 2 ) / 30)
-        //     console.log(calcScale)
-        // }
+        if (magnitude <= 15) {
+            calcScale = magnitude * 2;
+        } else {
+            //console.log(magnitude)
+            calcScale = 15 + ( (magnitude * 2 ) / 30)
+            //console.log(calcScale)
+        }
 
         return {
             path: google.maps.SymbolPath.CIRCLE,
