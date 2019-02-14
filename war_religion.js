@@ -1,4 +1,4 @@
-var War_Topic = 
+var War_Religion_Topic = 
 {
  "type": "FeatureCollection",
  "features": [
@@ -19,6 +19,10 @@ var War_Topic =
      [
       0
      ]
+    ],
+    "Religion": [
+     0,
+     []
     ]
    },
    "geometry": {
@@ -46,6 +50,10 @@ var War_Topic =
      [
       0
      ]
+    ],
+    "Religion": [
+     0,
+     []
     ]
    },
    "geometry": {
@@ -73,6 +81,10 @@ var War_Topic =
      [
       2
      ]
+    ],
+    "Religion": [
+     0,
+     []
     ]
    },
    "geometry": {
@@ -102,6 +114,13 @@ var War_Topic =
       156,
       160
      ]
+    ],
+    "Religion": [
+     2,
+     [
+      30,
+      144
+     ]
     ]
    },
    "geometry": {
@@ -130,6 +149,10 @@ var War_Topic =
       2,
       2
      ]
+    ],
+    "Religion": [
+     0,
+     []
     ]
    },
    "geometry": {
@@ -160,6 +183,10 @@ var War_Topic =
       3,
       13
      ]
+    ],
+    "Religion": [
+     0,
+     []
     ]
    },
    "geometry": {
@@ -188,6 +215,10 @@ var War_Topic =
       2,
       4
      ]
+    ],
+    "Religion": [
+     0,
+     []
     ]
    },
    "geometry": {
@@ -216,6 +247,10 @@ var War_Topic =
       2,
       2
      ]
+    ],
+    "Religion": [
+     0,
+     []
     ]
    },
    "geometry": {
@@ -243,6 +278,10 @@ var War_Topic =
      [
       4
      ]
+    ],
+    "Religion": [
+     0,
+     []
     ]
    },
    "geometry": {
@@ -275,6 +314,14 @@ var War_Topic =
       150,
       159
      ]
+    ],
+    "Religion": [
+     3,
+     [
+      156,
+      156,
+      180
+     ]
     ]
    },
    "geometry": {
@@ -306,6 +353,15 @@ var War_Topic =
       184,
       185
      ]
+    ],
+    "Religion": [
+     4,
+     [
+      42,
+      148,
+      153,
+      177
+     ]
     ]
    },
    "geometry": {
@@ -332,6 +388,13 @@ var War_Topic =
      1,
      [
       11
+     ]
+    ],
+    "Religion": [
+     2,
+     [
+      11,
+      176
      ]
     ]
    },
@@ -361,6 +424,25 @@ var War_Topic =
       11,
       164
      ]
+    ],
+    "Religion": [
+     14,
+     [
+      3,
+      8,
+      11,
+      17,
+      18,
+      67,
+      75,
+      109,
+      132,
+      148,
+      154,
+      162,
+      182,
+      183
+     ]
     ]
    },
    "geometry": {
@@ -388,6 +470,10 @@ var War_Topic =
      [
       14
      ]
+    ],
+    "Religion": [
+     0,
+     []
     ]
    },
    "geometry": {
@@ -415,6 +501,10 @@ var War_Topic =
      [
       15
      ]
+    ],
+    "Religion": [
+     0,
+     []
     ]
    },
    "geometry": {
@@ -442,6 +532,10 @@ var War_Topic =
      [
       15
      ]
+    ],
+    "Religion": [
+     0,
+     []
     ]
    },
    "geometry": {
@@ -469,6 +563,10 @@ var War_Topic =
      [
       20
      ]
+    ],
+    "Religion": [
+     0,
+     []
     ]
    },
    "geometry": {
@@ -498,6 +596,10 @@ var War_Topic =
       36,
       105
      ]
+    ],
+    "Religion": [
+     0,
+     []
     ]
    },
    "geometry": {
@@ -527,6 +629,12 @@ var War_Topic =
       143,
       159
      ]
+    ],
+    "Religion": [
+     1,
+     [
+      18
+     ]
     ]
    },
    "geometry": {
@@ -554,6 +662,10 @@ var War_Topic =
      [
       34
      ]
+    ],
+    "Religion": [
+     0,
+     []
     ]
    },
    "geometry": {
@@ -580,6 +692,13 @@ var War_Topic =
      1,
      [
       72
+     ]
+    ],
+    "Religion": [
+     2,
+     [
+      20,
+      20
      ]
     ]
    },
@@ -608,6 +727,12 @@ var War_Topic =
      [
       72
      ]
+    ],
+    "Religion": [
+     1,
+     [
+      62
+     ]
     ]
    },
    "geometry": {
@@ -634,6 +759,19 @@ var War_Topic =
      1,
      [
       73
+     ]
+    ],
+    "Religion": [
+     8,
+     [
+      8,
+      34,
+      52,
+      52,
+      68,
+      135,
+      135,
+      148
      ]
     ]
    },
@@ -662,6 +800,10 @@ var War_Topic =
      [
       73
      ]
+    ],
+    "Religion": [
+     0,
+     []
     ]
    },
    "geometry": {
@@ -689,6 +831,10 @@ var War_Topic =
      [
       76
      ]
+    ],
+    "Religion": [
+     0,
+     []
     ]
    },
    "geometry": {
@@ -720,6 +866,16 @@ var War_Topic =
       103,
       162
      ]
+    ],
+    "Religion": [
+     5,
+     [
+      69,
+      69,
+      76,
+      120,
+      130
+     ]
     ]
    },
    "geometry": {
@@ -747,6 +903,10 @@ var War_Topic =
      [
       92
      ]
+    ],
+    "Religion": [
+     0,
+     []
     ]
    },
    "geometry": {
@@ -774,6 +934,10 @@ var War_Topic =
      [
       95
      ]
+    ],
+    "Religion": [
+     0,
+     []
     ]
    },
    "geometry": {
@@ -803,6 +967,10 @@ var War_Topic =
       102,
       124
      ]
+    ],
+    "Religion": [
+     0,
+     []
     ]
    },
    "geometry": {
@@ -830,6 +998,10 @@ var War_Topic =
      [
       113
      ]
+    ],
+    "Religion": [
+     0,
+     []
     ]
    },
    "geometry": {
@@ -857,6 +1029,10 @@ var War_Topic =
      [
       123
      ]
+    ],
+    "Religion": [
+     0,
+     []
     ]
    },
    "geometry": {
@@ -883,6 +1059,12 @@ var War_Topic =
      1,
      [
       124
+     ]
+    ],
+    "Religion": [
+     1,
+     [
+      122
      ]
     ]
    },
@@ -911,6 +1093,10 @@ var War_Topic =
      [
       127
      ]
+    ],
+    "Religion": [
+     0,
+     []
     ]
    },
    "geometry": {
@@ -937,6 +1123,12 @@ var War_Topic =
      1,
      [
       132
+     ]
+    ],
+    "Religion": [
+     1,
+     [
+      131
      ]
     ]
    },
@@ -965,6 +1157,10 @@ var War_Topic =
      [
       133
      ]
+    ],
+    "Religion": [
+     0,
+     []
     ]
    },
    "geometry": {
@@ -992,6 +1188,10 @@ var War_Topic =
      [
       138
      ]
+    ],
+    "Religion": [
+     0,
+     []
     ]
    },
    "geometry": {
@@ -1019,6 +1219,10 @@ var War_Topic =
      [
       145
      ]
+    ],
+    "Religion": [
+     0,
+     []
     ]
    },
    "geometry": {
@@ -1046,6 +1250,10 @@ var War_Topic =
      [
       145
      ]
+    ],
+    "Religion": [
+     0,
+     []
     ]
    },
    "geometry": {
@@ -1073,6 +1281,10 @@ var War_Topic =
      [
       145
      ]
+    ],
+    "Religion": [
+     0,
+     []
     ]
    },
    "geometry": {
@@ -1101,6 +1313,10 @@ var War_Topic =
       149,
       149
      ]
+    ],
+    "Religion": [
+     0,
+     []
     ]
    },
    "geometry": {
@@ -1127,6 +1343,13 @@ var War_Topic =
      1,
      [
       149
+     ]
+    ],
+    "Religion": [
+     2,
+     [
+      5,
+      172
      ]
     ]
    },
@@ -1157,6 +1380,12 @@ var War_Topic =
       152,
       179
      ]
+    ],
+    "Religion": [
+     1,
+     [
+      148
+     ]
     ]
    },
    "geometry": {
@@ -1183,6 +1412,13 @@ var War_Topic =
      1,
      [
       157
+     ]
+    ],
+    "Religion": [
+     2,
+     [
+      69,
+      69
      ]
     ]
    },
@@ -1211,6 +1447,10 @@ var War_Topic =
      [
       158
      ]
+    ],
+    "Religion": [
+     0,
+     []
     ]
    },
    "geometry": {
@@ -1238,6 +1478,10 @@ var War_Topic =
      [
       159
      ]
+    ],
+    "Religion": [
+     0,
+     []
     ]
    },
    "geometry": {
@@ -1265,6 +1509,10 @@ var War_Topic =
      [
       159
      ]
+    ],
+    "Religion": [
+     0,
+     []
     ]
    },
    "geometry": {
@@ -1292,6 +1540,10 @@ var War_Topic =
      [
       159
      ]
+    ],
+    "Religion": [
+     0,
+     []
     ]
    },
    "geometry": {
@@ -1318,6 +1570,12 @@ var War_Topic =
      1,
      [
       160
+     ]
+    ],
+    "Religion": [
+     1,
+     [
+      31
      ]
     ]
    },
@@ -1346,6 +1604,10 @@ var War_Topic =
      [
       160
      ]
+    ],
+    "Religion": [
+     0,
+     []
     ]
    },
    "geometry": {
@@ -1373,6 +1635,10 @@ var War_Topic =
      [
       164
      ]
+    ],
+    "Religion": [
+     0,
+     []
     ]
    },
    "geometry": {
@@ -1400,6 +1666,10 @@ var War_Topic =
      [
       165
      ]
+    ],
+    "Religion": [
+     0,
+     []
     ]
    },
    "geometry": {
@@ -1427,6 +1697,10 @@ var War_Topic =
      [
       172
      ]
+    ],
+    "Religion": [
+     0,
+     []
     ]
    },
    "geometry": {
@@ -1453,6 +1727,25 @@ var War_Topic =
      1,
      [
       177
+     ]
+    ],
+    "Religion": [
+     14,
+     [
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      61,
+      69,
+      115,
+      148,
+      178
      ]
     ]
    },
@@ -1483,6 +1776,12 @@ var War_Topic =
       178,
       183
      ]
+    ],
+    "Religion": [
+     1,
+     [
+      10
+     ]
     ]
    },
    "geometry": {
@@ -1509,6 +1808,12 @@ var War_Topic =
      1,
      [
       179
+     ]
+    ],
+    "Religion": [
+     1,
+     [
+      172
      ]
     ]
    },
@@ -1537,6 +1842,10 @@ var War_Topic =
      [
       181
      ]
+    ],
+    "Religion": [
+     0,
+     []
     ]
    },
    "geometry": {
@@ -1564,6 +1873,10 @@ var War_Topic =
      [
       183
      ]
+    ],
+    "Religion": [
+     0,
+     []
     ]
    },
    "geometry": {
@@ -1591,6 +1904,10 @@ var War_Topic =
      [
       185
      ]
+    ],
+    "Religion": [
+     0,
+     []
     ]
    },
    "geometry": {
@@ -1618,6 +1935,10 @@ var War_Topic =
      [
       186
      ]
+    ],
+    "Religion": [
+     0,
+     []
     ]
    },
    "geometry": {
@@ -1625,6 +1946,1564 @@ var War_Topic =
     "coordinates": [
      26.409131,
      40.1951155
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "*Diana",
+    "description": "An ancient place, cited: BAtlas 21 E5 *Diana",
+    "featureTypes": "fort",
+    "timePeriodsKeys": "roman,late-antique",
+    "timePeriodsRange": "-30.0,640.0",
+    "minDate": -30.0,
+    "maxDate": 640.0
+   },
+   "Analysis": {
+    "War": [
+     0,
+     []
+    ],
+    "Religion": [
+     6,
+     [
+      4,
+      4,
+      71,
+      85,
+      112,
+      120
+     ]
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     22.563686999999998,
+     44.6306823333
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Olympos (mountain in Greece)",
+    "description": "Olympus is the highest mountain in Greece, located in the Olympus Range. In Greek mythology, it is the home of the Olympian gods.",
+    "featureTypes": "mountain",
+    "timePeriodsKeys": "archaic,classical,hellenistic-republican,roman,late-antique,modern",
+    "timePeriodsRange": "-750.0,2100.0",
+    "minDate": -750.0,
+    "maxDate": 2100.0
+   },
+   "Analysis": {
+    "War": [
+     0,
+     []
+    ],
+    "Religion": [
+     1,
+     [
+      11
+     ]
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     22.358611,
+     40.085556
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Alea",
+    "description": "An ancient place, cited: BAtlas 58 C2 Alea",
+    "featureTypes": "settlement",
+    "timePeriodsKeys": "classical,hellenistic-republican,roman",
+    "timePeriodsRange": "-550.0,300.0",
+    "minDate": -550.0,
+    "maxDate": 300.0
+   },
+   "Analysis": {
+    "War": [
+     0,
+     []
+    ],
+    "Religion": [
+     1,
+     [
+      11
+     ]
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     22.450785,
+     37.794666
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Ashqelon/Ascalon",
+    "description": "An ancient place, cited: BAtlas 70 F2 Ashqelon/Ascalon",
+    "featureTypes": "settlement",
+    "timePeriodsKeys": "pottery-neolithic-middle-east,early-bronze-age-southern-levant,transition-early-middle-bronze-age-southern-levant,middle-bronze-age-southern-levant,2nd-millennium-bc-egypt,2nd-millennium-bc-levant,late-bronze-age-southern-levant,egyptian-hittite-levant,iron-age-southern-levant,neo-assyrian-babylonian-middle-east,achaemenid-middle-east,achaemenid-roman-republic-middle-east,hellenistic-republican,hellenistic-middle-east,hellenistic-roman-early-empire,ptolemaic-roman-egypt,roman-middle-east,roman-early-byzantine-middle-east,roman,roman-early-empire-parthian-middle-east,roman-early-empire-late-antique,transition-roman-early-empire-late-antique,late-antique,late-antique-sasanian-middle-east,caliphate-umayyad-middle-east,abassid-middle-east,samanid-ghaznavid-iran,crusader-seljuq-ayyubid-levant,ilkhanate-middle-east,early-ottoman-empire,modern-middle-east",
+    "timePeriodsRange": "-6000.0,2000.0",
+    "minDate": -6000.0,
+    "maxDate": 2000.0
+   },
+   "Analysis": {
+    "War": [
+     0,
+     []
+    ],
+    "Religion": [
+     3,
+     [
+      20,
+      20,
+      20
+     ]
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     34.545947,
+     31.665978499999998
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Cyprus (island)",
+    "description": "Third largest island in the Mediterranean Sea.",
+    "featureTypes": "island",
+    "timePeriodsKeys": "roman-early-empire-late-antique,modern",
+    "timePeriodsRange": "-30.0,2100.0",
+    "minDate": -30.0,
+    "maxDate": 2100.0
+   },
+   "Analysis": {
+    "War": [
+     0,
+     []
+    ],
+    "Religion": [
+     2,
+     [
+      20,
+      76
+     ]
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     33.2753371642,
+     35.0408835298
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Halicarnassus/Halikarnassos",
+    "description": "An ancient city in Caria, now known as Bodrum in Turkey.",
+    "featureTypes": "settlement, port",
+    "timePeriodsKeys": "classical,hellenistic-republican,roman,late-antique,mediaeval-byzantine,modern",
+    "timePeriodsRange": "-550.0,2100.0",
+    "minDate": -550.0,
+    "maxDate": 2100.0
+   },
+   "Analysis": {
+    "War": [
+     0,
+     []
+    ],
+    "Religion": [
+     3,
+     [
+      28,
+      28,
+      28
+     ]
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     27.420201000000002,
+     37.042901
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Kos/Cos (island)",
+    "description": "A large island in the Aegean Sea, lying off the modern Turkish coast near Bodrum (ancient Halicarnassus).",
+    "featureTypes": "island",
+    "timePeriodsKeys": "modern",
+    "timePeriodsRange": "1700.0,2100.0",
+    "minDate": 1700.0,
+    "maxDate": 2100.0
+   },
+   "Analysis": {
+    "War": [
+     0,
+     []
+    ],
+    "Religion": [
+     1,
+     [
+      28
+     ]
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     27.17,
+     36.844
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Cnidus",
+    "description": "An ancient settlement located at the western tip of what is now called the Dat\u00e7a peninsula in modern Turkey, which extends from the southwest corner of Asia Minor.",
+    "featureTypes": "settlement",
+    "timePeriodsKeys": "hellenistic-republican,roman,late-antique",
+    "timePeriodsRange": "-330.0,640.0",
+    "minDate": -330.0,
+    "maxDate": 640.0
+   },
+   "Analysis": {
+    "War": [
+     0,
+     []
+    ],
+    "Religion": [
+     1,
+     [
+      28
+     ]
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     27.3728385,
+     36.6881795
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Pan(h)ormus",
+    "description": "First founded in 734 BC by the Phoenicians as Ziz, Pan(h)ormus (modern Palermo) was an important ancient city of the Greek, Roman, and Arabic civilizations.",
+    "featureTypes": "settlement, settlement-modern",
+    "timePeriodsKeys": "archaic,classical,hellenistic-republican,hellenistic-roman-early-empire,roman,late-antique,modern",
+    "timePeriodsRange": "-750.0,2100.0",
+    "minDate": -750.0,
+    "maxDate": 2100.0
+   },
+   "Analysis": {
+    "War": [
+     0,
+     []
+    ],
+    "Religion": [
+     1,
+     [
+      30
+     ]
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     13.3534422,
+     38.111270000000005
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Patara M.",
+    "description": "An ancient place, cited: BAtlas 65 B5 Patara M.",
+    "featureTypes": "mountain",
+    "timePeriodsKeys": "roman,late-antique,modern",
+    "timePeriodsRange": "-30.0,2100.0",
+    "minDate": -30.0,
+    "maxDate": 2100.0
+   },
+   "Analysis": {
+    "War": [
+     0,
+     []
+    ],
+    "Religion": [
+     1,
+     [
+      34
+     ]
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     29.3593733,
+     36.246651799999995
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Araxes (river)",
+    "description": "Araxes fl. is one of the largest rivers of the Caucasus.",
+    "featureTypes": "river",
+    "timePeriodsKeys": "classical,hellenistic-republican,roman,late-antique,modern",
+    "timePeriodsRange": "-550.0,2100.0",
+    "minDate": -550.0,
+    "maxDate": 2100.0
+   },
+   "Analysis": {
+    "War": [
+     0,
+     []
+    ],
+    "Religion": [
+     1,
+     [
+      41
+     ]
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     46.5,
+     38.5
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Colophon/Colophon ad Mare/Notion",
+    "description": "A port city founded by Aeolian settlers at the mouth of the River Avci.",
+    "featureTypes": "settlement, port",
+    "timePeriodsKeys": "archaic,classical,hellenistic-republican,roman,late-antique",
+    "timePeriodsRange": "-750.0,640.0",
+    "minDate": -750.0,
+    "maxDate": 640.0
+   },
+   "Analysis": {
+    "War": [
+     0,
+     []
+    ],
+    "Religion": [
+     1,
+     [
+      41
+     ]
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     27.200852,
+     37.9952785
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Pisa",
+    "description": "An ancient place, cited: BAtlas 58 B2 Pisa",
+    "featureTypes": "settlement",
+    "timePeriodsKeys": "archaic,classical",
+    "timePeriodsRange": "-750.0,-330.0",
+    "minDate": -750.0,
+    "maxDate": -330.0
+   },
+   "Analysis": {
+    "War": [
+     0,
+     []
+    ],
+    "Religion": [
+     1,
+     [
+      42
+     ]
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     21.653041,
+     37.639534999999995
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Nilus (river)",
+    "description": "The Nile is a major river of northeastern Africa and is generally acknowledged as the longest river in the world, measuring some 6,650 km (4,130 miles) from source to mouth.",
+    "featureTypes": "river",
+    "timePeriodsKeys": "neolithic-egypt,pottery-neolithic-middle-east,2nd-millennium-bc-egypt,new-kingdom-egypt,1200-bc-middle-east,archaic,classical,achaemenid-middle-east,achaemenid-roman-republic-middle-east,hellenistic-republican,hellenistic-middle-east,ptolemaic-roman-egypt,roman-middle-east,roman,roman-early-empire-parthian-middle-east,transition-roman-early-empire-late-antique,late-antique,late-antique-sasanian-middle-east,caliphate-umayyad-middle-east,abassid-middle-east,samanid-ghaznavid-iran,early-ottoman-empire,1500-ad-middle-east,ottoman-empire,late-ottoman-empire,modern,khedivate-egypt,modern-middle-east",
+    "timePeriodsRange": "-6000.0,2100.0",
+    "minDate": -6000.0,
+    "maxDate": 2100.0
+   },
+   "Analysis": {
+    "War": [
+     0,
+     []
+    ],
+    "Religion": [
+     2,
+     [
+      44,
+      67
+     ]
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     30.567329633299998,
+     19.2114087667
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Isis (river)",
+    "description": "An ancient place, cited: BAtlas 87 G3 Isis fl.",
+    "featureTypes": "river",
+    "timePeriodsKeys": "hellenistic-republican,roman,late-antique,modern",
+    "timePeriodsRange": "-330.0,2100.0",
+    "minDate": -330.0,
+    "maxDate": 2100.0
+   },
+   "Analysis": {
+    "War": [
+     0,
+     []
+    ],
+    "Religion": [
+     5,
+     [
+      49,
+      49,
+      49,
+      75,
+      135
+     ]
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     41.5,
+     41.5
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Atarbechis",
+    "description": "An ancient place, cited: BAtlas 74 D3 Atarbechis",
+    "featureTypes": "settlement",
+    "timePeriodsKeys": "classical,hellenistic-republican,roman",
+    "timePeriodsRange": "-550.0,300.0",
+    "minDate": -550.0,
+    "maxDate": 300.0
+   },
+   "Analysis": {
+    "War": [
+     0,
+     []
+    ],
+    "Religion": [
+     1,
+     [
+      49
+     ]
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     30.828784000000002,
+     30.713606
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Mendes",
+    "description": "An ancient place, cited: BAtlas 74 F3 Mendes",
+    "featureTypes": "settlement",
+    "timePeriodsKeys": "predynastic-egypt,early-dynastic-egypt,old-kingdom-egypt,first-intermediate-period-egypt,middle-kingdom-egypt,second-intermediate-period-egypt,new-kingdom-egypt,third-intermediate-period-egypt,archaic,late-period-egypt,classical,macedonian-egypt,hellenistic-republican,ptolemaic-egypt,roman,late-antique",
+    "timePeriodsRange": "-4500.0,640.0",
+    "minDate": -4500.0,
+    "maxDate": 640.0
+   },
+   "Analysis": {
+    "War": [
+     0,
+     []
+    ],
+    "Religion": [
+     2,
+     [
+      49,
+      49
+     ]
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     31.517409999999998,
+     30.956115000000004
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Thasos (island)",
+    "description": "An ancient place, cited: BAtlas 51 D3 Thasos Ins.",
+    "featureTypes": "island",
+    "timePeriodsKeys": "archaic,classical,hellenistic-republican,roman,late-antique,modern",
+    "timePeriodsRange": "-750.0,2100.0",
+    "minDate": -750.0,
+    "maxDate": 2100.0
+   },
+   "Analysis": {
+    "War": [
+     0,
+     []
+    ],
+    "Religion": [
+     2,
+     [
+      50,
+      50
+     ]
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     24.65,
+     40.683333000000005
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Heliopolis",
+    "description": "An ancient place, cited: BAtlas 74 E4 Heliopolis",
+    "featureTypes": "settlement",
+    "timePeriodsKeys": "paleolithic-middle-east,neolithic-egypt,old-kingdom-egypt,middle-kingdom-egypt,second-intermediate-period-egypt,new-kingdom-egypt,archaic,neo-assyrian-babylonian-middle-east,classical,achaemenid-middle-east,hellenistic-republican,hellenistic-middle-east,ptolemaic-roman-egypt,roman,roman-early-empire-parthian-middle-east,late-antique,caliphate-umayyad-middle-east,abassid-middle-east,fatimid-middle-east,mamluk-middle-east,modern-middle-east",
+    "timePeriodsRange": "-2600000.0,2000.0",
+    "minDate": -2600000.0,
+    "maxDate": 2000.0
+   },
+   "Analysis": {
+    "War": [
+     0,
+     []
+    ],
+    "Religion": [
+     1,
+     [
+      53
+     ]
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     31.284785999999997,
+     30.131757
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Papremis",
+    "description": "An ancient place, cited: BAtlas 74 D3 Papremis",
+    "featureTypes": "labeled feature",
+    "timePeriodsKeys": "classical,hellenistic-republican,roman",
+    "timePeriodsRange": "-550.0,300.0",
+    "minDate": -550.0,
+    "maxDate": 300.0
+   },
+   "Analysis": {
+    "War": [
+     0,
+     []
+    ],
+    "Religion": [
+     1,
+     [
+      53
+     ]
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     30.75,
+     30.75
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Arabia",
+    "description": "An ancient place, cited: BAtlas 3 D4 Arabia",
+    "featureTypes": "region",
+    "timePeriodsKeys": "neo-assyrian-babylonian-middle-east,classical,hellenistic-republican,roman,late-antique",
+    "timePeriodsRange": "-720.0,640.0",
+    "minDate": -720.0,
+    "maxDate": 640.0
+   },
+   "Analysis": {
+    "War": [
+     0,
+     []
+    ],
+    "Religion": [
+     2,
+     [
+      54,
+      55
+     ]
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     42.5,
+     27.5
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Chemmis",
+    "description": "An ancient place, cited: BAtlas 74 D2 Chemmis",
+    "featureTypes": "settlement",
+    "timePeriodsKeys": "archaic,classical,hellenistic-republican,roman,late-antique",
+    "timePeriodsRange": "-750.0,640.0",
+    "minDate": -750.0,
+    "maxDate": 640.0
+   },
+   "Analysis": {
+    "War": [
+     0,
+     []
+    ],
+    "Religion": [
+     3,
+     [
+      57,
+      57,
+      71
+     ]
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     30.75,
+     31.25
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Lake",
+    "description": "An ancient place, cited: BAtlas 55 unlocated Lake",
+    "featureTypes": "unlocated",
+    "timePeriodsKeys": NaN,
+    "timePeriodsRange": NaN,
+    "minDate": NaN,
+    "maxDate": NaN
+   },
+   "Analysis": {
+    "War": [
+     0,
+     []
+    ],
+    "Religion": [
+     3,
+     [
+      59,
+      71,
+      136
+     ]
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     NaN,
+     NaN
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Memphis",
+    "description": "A city and capital of Ancient Egypt that remained an important center for most of Egyptian history (BAtlas 75 E1 Memphis).",
+    "featureTypes": "urban, settlement",
+    "timePeriodsKeys": "neolithic-egypt,early-dynastic-egypt,old-kingdom-egypt,first-intermediate-period-egypt,middle-kingdom-egypt,2nd-millennium-bc-egypt,second-intermediate-period-egypt,new-kingdom-egypt,third-intermediate-period-egypt,archaic,neo-assyrian-babylonian-middle-east,late-period-egypt,classical,achaemenid-middle-east,achaemenid-roman-republic-middle-east,hellenistic-republican,hellenistic-middle-east,ptolemaic-roman-egypt,roman-middle-east,roman,roman-early-empire-parthian-middle-east,transition-roman-early-empire-late-antique,late-antique,late-antique-sasanian-middle-east,modern-middle-east",
+    "timePeriodsRange": "-6000.0,2000.0",
+    "minDate": -6000.0,
+    "maxDate": 2000.0
+   },
+   "Analysis": {
+    "War": [
+     0,
+     []
+    ],
+    "Religion": [
+     6,
+     [
+      61,
+      71,
+      75,
+      75,
+      75,
+      81
+     ]
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     31.255060999999998,
+     29.849490999999997
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Orontes (river)",
+    "description": "The Orontes River is one of the chief rivers of the Levant.",
+    "featureTypes": "river",
+    "timePeriodsKeys": "hellenistic-republican,roman,late-antique,modern",
+    "timePeriodsRange": "-330.0,2100.0",
+    "minDate": -330.0,
+    "maxDate": 2100.0
+   },
+   "Analysis": {
+    "War": [
+     0,
+     []
+    ],
+    "Religion": [
+     1,
+     [
+      69
+     ]
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     36.482575399999995,
+     35.272833899999995
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Apis",
+    "description": "An ancient place, cited: None",
+    "featureTypes": "settlement",
+    "timePeriodsKeys": "archaic,classical,hellenistic-republican,roman,late-antique",
+    "timePeriodsRange": "-750.0,640.0",
+    "minDate": -750.0,
+    "maxDate": 640.0
+   },
+   "Analysis": {
+    "War": [
+     0,
+     []
+    ],
+    "Religion": [
+     8,
+     [
+      71,
+      71,
+      81,
+      81,
+      81,
+      81,
+      81,
+      89
+     ]
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     27.042137,
+     31.398215999999998
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Grannum",
+    "description": "Grannum was a Gallo-Roman town of the civitas Leucorum.",
+    "featureTypes": "settlement",
+    "timePeriodsKeys": "roman,late-antique,modern",
+    "timePeriodsRange": "-30.0,2100.0",
+    "minDate": -30.0,
+    "maxDate": 2100.0
+   },
+   "Analysis": {
+    "War": [
+     0,
+     []
+    ],
+    "Religion": [
+     1,
+     [
+      71
+     ]
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.484948,
+     48.385397999999995
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Sais",
+    "description": "An ancient place, cited: BAtlas 74 D3 Sais",
+    "featureTypes": "settlement",
+    "timePeriodsKeys": "archaic,classical,hellenistic-republican,roman,late-antique",
+    "timePeriodsRange": "-750.0,640.0",
+    "minDate": -750.0,
+    "maxDate": 640.0
+   },
+   "Analysis": {
+    "War": [
+     0,
+     []
+    ],
+    "Religion": [
+     1,
+     [
+      74
+     ]
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     30.774366999999998,
+     30.96715
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Mytilene",
+    "description": "An ancient place, cited: BAtlas 56 D3 Mytilene",
+    "featureTypes": "settlement",
+    "timePeriodsKeys": "archaic,classical,hellenistic-republican,roman,late-antique",
+    "timePeriodsRange": "-750.0,640.0",
+    "minDate": -750.0,
+    "maxDate": 640.0
+   },
+   "Analysis": {
+    "War": [
+     0,
+     []
+    ],
+    "Religion": [
+     1,
+     [
+      75
+     ]
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     26.547047999999997,
+     39.110475
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Naucratis",
+    "description": "Naucratis was a city of the Nile river delta, located on the Canopic branch. Capital of Ptolemaic Egypt, Naucratis was the site of permanent Greek habitation from the sixth century BC onward.",
+    "featureTypes": "settlement",
+    "timePeriodsKeys": "archaic,classical,hellenistic-republican,roman,late-antique,modern",
+    "timePeriodsRange": "-750.0,2100.0",
+    "minDate": -750.0,
+    "maxDate": 2100.0
+   },
+   "Analysis": {
+    "War": [
+     0,
+     []
+    ],
+    "Religion": [
+     1,
+     [
+      75
+     ]
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     30.5919275,
+     30.900508000000002
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Creta et Cyrene (Roman province)",
+    "description": "A province of the Roman Empire at the death of Trajan (117 CE).",
+    "featureTypes": "province",
+    "timePeriodsKeys": NaN,
+    "timePeriodsRange": NaN,
+    "minDate": NaN,
+    "maxDate": NaN
+   },
+   "Analysis": {
+    "War": [
+     0,
+     []
+    ],
+    "Religion": [
+     1,
+     [
+      75
+     ]
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     22.5,
+     32.5
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Orontes (river)",
+    "description": "The Orontes River is one of the chief rivers of the Levant.",
+    "featureTypes": "river",
+    "timePeriodsKeys": "hellenistic-republican,roman,late-antique,modern",
+    "timePeriodsRange": "-330.0,2100.0",
+    "minDate": -330.0,
+    "maxDate": 2100.0
+   },
+   "Analysis": {
+    "War": [
+     0,
+     []
+    ],
+    "Religion": [
+     1,
+     [
+      106
+     ]
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     36.482575399999995,
+     35.272833899999995
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Opis",
+    "description": "Opis was an ancient city of Babylonia located on the Tigris river close to the site of modern Baghdad.",
+    "featureTypes": "settlement",
+    "timePeriodsKeys": "early-dynastic-mesopotamia,akkadian-ur-iii-mesopotamia,old-babylonian-assyrian-mesopotamia,archaic,neo-assyrian-babylonian-middle-east,classical,achaemenid-middle-east,achaemenid-roman-republic-middle-east,hellenistic-republican",
+    "timePeriodsRange": "-2950.0,-30.0",
+    "minDate": -2950.0,
+    "maxDate": -30.0
+   },
+   "Analysis": {
+    "War": [
+     0,
+     []
+    ],
+    "Religion": [
+     1,
+     [
+      112
+     ]
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     44.702767,
+     33.185613000000004
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Hypanis (river)",
+    "description": "An ancient place, cited: BAtlas 23 E1 Hypanis fl.",
+    "featureTypes": "river",
+    "timePeriodsKeys": "classical,modern",
+    "timePeriodsRange": "-550.0,2100.0",
+    "minDate": -550.0,
+    "maxDate": 2100.0
+   },
+   "Analysis": {
+    "War": [
+     0,
+     []
+    ],
+    "Religion": [
+     2,
+     [
+      115,
+      115
+     ]
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     31.334372700000003,
+     47.5349319
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Pontus",
+    "description": "A region of northeastern Anatolia consisting of the southeastern coast of the Black Sea and the surrounding inland region. ",
+    "featureTypes": "region",
+    "timePeriodsKeys": "classical,hellenistic-republican,roman,late-antique",
+    "timePeriodsRange": "-550.0,640.0",
+    "minDate": -550.0,
+    "maxDate": 640.0
+   },
+   "Analysis": {
+    "War": [
+     0,
+     []
+    ],
+    "Religion": [
+     1,
+     [
+      120
+     ]
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     36.5,
+     40.5
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Byzantium",
+    "description": "An ancient place, cited: BAtlas 53 A2 Byzantium",
+    "featureTypes": "settlement",
+    "timePeriodsKeys": "archaic,classical,hellenistic-republican,roman,late-antique",
+    "timePeriodsRange": "-750.0,640.0",
+    "minDate": -750.0,
+    "maxDate": 640.0
+   },
+   "Analysis": {
+    "War": [
+     0,
+     []
+    ],
+    "Religion": [
+     2,
+     [
+      120,
+      120
+     ]
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.9738815,
+     41.005902
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Pantikapaion/Bosp(h)orus",
+    "description": "The main city and port of the Kimmerian Bosporus, founded by Miletus in the late seventh or early sixth centuries B.C.",
+    "featureTypes": "settlement, port",
+    "timePeriodsKeys": "classical,hellenistic-republican,roman,late-antique",
+    "timePeriodsRange": "-550.0,640.0",
+    "minDate": -550.0,
+    "maxDate": 640.0
+   },
+   "Analysis": {
+    "War": [
+     0,
+     []
+    ],
+    "Religion": [
+     1,
+     [
+      120
+     ]
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     36.470222,
+     45.3532623333
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Getae",
+    "description": "The Greek name given to Thracian tribes dwelling south of the Danube river.",
+    "featureTypes": "people",
+    "timePeriodsKeys": "classical,hellenistic-republican,roman,late-antique",
+    "timePeriodsRange": "-550.0,640.0",
+    "minDate": -550.0,
+    "maxDate": 640.0
+   },
+   "Analysis": {
+    "War": [
+     0,
+     []
+    ],
+    "Religion": [
+     2,
+     [
+      121,
+      121
+     ]
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     25.5,
+     44.5
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Platea? (island)",
+    "description": "An ancient place, cited: BAtlas 57 E6 Platea? Ins.",
+    "featureTypes": "island",
+    "timePeriodsKeys": "modern",
+    "timePeriodsRange": "1700.0,2100.0",
+    "minDate": 1700.0,
+    "maxDate": 2100.0
+   },
+   "Analysis": {
+    "War": [
+     0,
+     []
+    ],
+    "Religion": [
+     1,
+     [
+      131
+     ]
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     26.232296500000004,
+     35.8634532
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Triton",
+    "description": "An ancient place, cited: BAtlas 52 D3 Triton",
+    "featureTypes": "labeled feature",
+    "timePeriodsKeys": "hellenistic-republican,roman",
+    "timePeriodsRange": "-330.0,300.0",
+    "minDate": -330.0,
+    "maxDate": 300.0
+   },
+   "Analysis": {
+    "War": [
+     0,
+     []
+    ],
+    "Religion": [
+     1,
+     [
+      134
+     ]
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.75,
+     40.75
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "A(n)thene",
+    "description": "An ancient place, cited: BAtlas 58 D3 A(n)thene",
+    "featureTypes": "settlement",
+    "timePeriodsKeys": "classical,hellenistic-republican,roman",
+    "timePeriodsRange": "-550.0,300.0",
+    "minDate": -550.0,
+    "maxDate": 300.0
+   },
+   "Analysis": {
+    "War": [
+     0,
+     []
+    ],
+    "Religion": [
+     1,
+     [
+      134
+     ]
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     22.669501,
+     37.450394
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Thebe",
+    "description": "An ancient place, cited: BAtlas 56 E2 Thebe",
+    "featureTypes": "settlement",
+    "timePeriodsKeys": "archaic,classical,hellenistic-republican,roman",
+    "timePeriodsRange": "-750.0,300.0",
+    "minDate": -750.0,
+    "maxDate": 300.0
+   },
+   "Analysis": {
+    "War": [
+     0,
+     []
+    ],
+    "Religion": [
+     1,
+     [
+      151
+     ]
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     27.020171,
+     39.597431
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Didyma/Branchidai/Ioustinianopolis",
+    "description": "The ancient sanctuary of Apollo near Miletos (modern Didim, Turkey).",
+    "featureTypes": "sanctuary, temple-2",
+    "timePeriodsKeys": "archaic,classical,hellenistic-republican,hellenistic-roman-early-empire,roman,late-antique,modern",
+    "timePeriodsRange": "-750.0,2100.0",
+    "minDate": -750.0,
+    "maxDate": 2100.0
+   },
+   "Analysis": {
+    "War": [
+     0,
+     []
+    ],
+    "Religion": [
+     1,
+     [
+      162
+     ]
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     27.256115,
+     37.384828999999996
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Phocis",
+    "description": "An ancient place, cited: BAtlas 55 C4 Phocis",
+    "featureTypes": "unknown",
+    "timePeriodsKeys": NaN,
+    "timePeriodsRange": NaN,
+    "minDate": NaN,
+    "maxDate": NaN
+   },
+   "Analysis": {
+    "War": [
+     0,
+     []
+    ],
+    "Religion": [
+     1,
+     [
+      164
+     ]
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     22.25,
+     38.25
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Boeotia",
+    "description": "A region of central Greece inhabited since prehistoric times. ",
+    "featureTypes": "region",
+    "timePeriodsKeys": "classical,roman",
+    "timePeriodsRange": "-550.0,300.0",
+    "minDate": -550.0,
+    "maxDate": 300.0
+   },
+   "Analysis": {
+    "War": [
+     0,
+     []
+    ],
+    "Religion": [
+     1,
+     [
+      164
+     ]
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     23.1846775333,
+     38.3466880333
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Danae",
+    "description": "An ancient place, cited: BAtlas 87 C4 Danae",
+    "featureTypes": "station",
+    "timePeriodsKeys": "late-antique",
+    "timePeriodsRange": "300.0,640.0",
+    "minDate": 300.0,
+    "maxDate": 640.0
+   },
+   "Analysis": {
+    "War": [
+     0,
+     []
+    ],
+    "Religion": [
+     1,
+     [
+      168
+     ]
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.444731,
+     40.385616
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Glaucus (river)",
+    "description": "An ancient place, cited: BAtlas 65 B4 Glaucus fl.",
+    "featureTypes": "river",
+    "timePeriodsKeys": "roman",
+    "timePeriodsRange": "-30.0,300.0",
+    "minDate": -30.0,
+    "maxDate": 300.0
+   },
+   "Analysis": {
+    "War": [
+     0,
+     []
+    ],
+    "Religion": [
+     2,
+     [
+      174,
+      174
+     ]
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     29.25,
+     36.75
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Triangular Forum",
+    "description": "A triangular plaza with an Ionic propylon that was surrounded by 95 Doric columns. A Doric order temple sits in the forum.",
+    "featureTypes": "plaza",
+    "timePeriodsKeys": "roman,modern",
+    "timePeriodsRange": "-30.0,2100.0",
+    "minDate": -30.0,
+    "maxDate": 2100.0
+   },
+   "Analysis": {
+    "War": [
+     0,
+     []
+    ],
+    "Religion": [
+     1,
+     [
+      176
+     ]
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     14.4877038,
+     40.7488316
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Delos (island)",
+    "description": "The Aegean island of Delos, part of the Cyclades island group.",
+    "featureTypes": "island",
+    "timePeriodsKeys": "archaic,classical,hellenistic-republican,hellenistic-roman-early-empire,roman,late-antique,modern",
+    "timePeriodsRange": "-750.0,2100.0",
+    "minDate": -750.0,
+    "maxDate": 2100.0
+   },
+   "Analysis": {
+    "War": [
+     0,
+     []
+    ],
+    "Religion": [
+     2,
+     [
+      179,
+      179
+     ]
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     25.271110999999998,
+     37.393333
     ]
    }
   }
