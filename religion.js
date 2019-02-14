@@ -11,28 +11,28 @@ var Religion_Topic =
     "timePeriodsKeys": "archaic,classical,hellenistic-republican,roman,late-antique,modern",
     "timePeriodsRange": "-750.0,2100.0",
     "minDate": -750.0,
-    "maxDate": 2100.0
-   },
-   "Analysis": {
-    "Religion": [
-     14,
-     [
-      3,
-      8,
-      11,
-      17,
-      18,
-      67,
-      75,
-      109,
-      132,
-      148,
-      154,
-      162,
-      182,
-      183
+    "maxDate": 2100.0,
+    "Analysis": {
+     "Religion": [
+      14,
+      [
+       3,
+       8,
+       11,
+       17,
+       18,
+       67,
+       75,
+       109,
+       132,
+       148,
+       154,
+       162,
+       182,
+       183
+      ]
      ]
-    ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -51,20 +51,20 @@ var Religion_Topic =
     "timePeriodsKeys": "roman,late-antique",
     "timePeriodsRange": "-30.0,640.0",
     "minDate": -30.0,
-    "maxDate": 640.0
-   },
-   "Analysis": {
-    "Religion": [
-     6,
-     [
-      4,
-      4,
-      71,
-      85,
-      112,
-      120
+    "maxDate": 640.0,
+    "Analysis": {
+     "Religion": [
+      6,
+      [
+       4,
+       4,
+       71,
+       85,
+       112,
+       120
+      ]
      ]
-    ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -83,16 +83,16 @@ var Religion_Topic =
     "timePeriodsKeys": "archaic,classical,hellenistic-republican,roman",
     "timePeriodsRange": "-750.0,300.0",
     "minDate": -750.0,
-    "maxDate": 300.0
-   },
-   "Analysis": {
-    "Religion": [
-     2,
-     [
-      5,
-      172
+    "maxDate": 300.0,
+    "Analysis": {
+     "Religion": [
+      2,
+      [
+       5,
+       172
+      ]
      ]
-    ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -111,22 +111,22 @@ var Religion_Topic =
     "timePeriodsKeys": "archaic,classical,hellenistic-republican,roman,late-antique,modern",
     "timePeriodsRange": "-750.0,2100.0",
     "minDate": -750.0,
-    "maxDate": 2100.0
-   },
-   "Analysis": {
-    "Religion": [
-     8,
-     [
+    "maxDate": 2100.0,
+    "Analysis": {
+     "Religion": [
       8,
-      34,
-      52,
-      52,
-      68,
-      135,
-      135,
-      148
+      [
+       8,
+       34,
+       52,
+       52,
+       68,
+       135,
+       135,
+       148
+      ]
      ]
-    ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -145,15 +145,15 @@ var Religion_Topic =
     "timePeriodsKeys": "classical,hellenistic-republican,roman",
     "timePeriodsRange": "-550.0,300.0",
     "minDate": -550.0,
-    "maxDate": 300.0
-   },
-   "Analysis": {
-    "Religion": [
-     1,
-     [
-      10
+    "maxDate": 300.0,
+    "Analysis": {
+     "Religion": [
+      1,
+      [
+       10
+      ]
      ]
-    ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -172,15 +172,15 @@ var Religion_Topic =
     "timePeriodsKeys": "archaic,classical,hellenistic-republican,roman,late-antique,modern",
     "timePeriodsRange": "-750.0,2100.0",
     "minDate": -750.0,
-    "maxDate": 2100.0
-   },
-   "Analysis": {
-    "Religion": [
-     1,
-     [
-      11
+    "maxDate": 2100.0,
+    "Analysis": {
+     "Religion": [
+      1,
+      [
+       11
+      ]
      ]
-    ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -199,16 +199,16 @@ var Religion_Topic =
     "timePeriodsKeys": "archaic,classical,hellenistic-republican,roman,late-antique",
     "timePeriodsRange": "-750.0,640.0",
     "minDate": -750.0,
-    "maxDate": 640.0
-   },
-   "Analysis": {
-    "Religion": [
-     2,
-     [
-      11,
-      176
+    "maxDate": 640.0,
+    "Analysis": {
+     "Religion": [
+      2,
+      [
+       11,
+       176
+      ]
      ]
-    ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -227,15 +227,15 @@ var Religion_Topic =
     "timePeriodsKeys": "classical,hellenistic-republican,roman",
     "timePeriodsRange": "-550.0,300.0",
     "minDate": -550.0,
-    "maxDate": 300.0
-   },
-   "Analysis": {
-    "Religion": [
-     1,
-     [
-      11
+    "maxDate": 300.0,
+    "Analysis": {
+     "Religion": [
+      1,
+      [
+       11
+      ]
      ]
-    ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -254,15 +254,15 @@ var Religion_Topic =
     "timePeriodsKeys": "archaic,classical,hellenistic-republican,roman,late-antique",
     "timePeriodsRange": "-750.0,640.0",
     "minDate": -750.0,
-    "maxDate": 640.0
-   },
-   "Analysis": {
-    "Religion": [
-     1,
-     [
-      18
+    "maxDate": 640.0,
+    "Analysis": {
+     "Religion": [
+      1,
+      [
+       18
+      ]
      ]
-    ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -281,17 +281,17 @@ var Religion_Topic =
     "timePeriodsKeys": "pottery-neolithic-middle-east,early-bronze-age-southern-levant,transition-early-middle-bronze-age-southern-levant,middle-bronze-age-southern-levant,2nd-millennium-bc-egypt,2nd-millennium-bc-levant,late-bronze-age-southern-levant,egyptian-hittite-levant,iron-age-southern-levant,neo-assyrian-babylonian-middle-east,achaemenid-middle-east,achaemenid-roman-republic-middle-east,hellenistic-republican,hellenistic-middle-east,hellenistic-roman-early-empire,ptolemaic-roman-egypt,roman-middle-east,roman-early-byzantine-middle-east,roman,roman-early-empire-parthian-middle-east,roman-early-empire-late-antique,transition-roman-early-empire-late-antique,late-antique,late-antique-sasanian-middle-east,caliphate-umayyad-middle-east,abassid-middle-east,samanid-ghaznavid-iran,crusader-seljuq-ayyubid-levant,ilkhanate-middle-east,early-ottoman-empire,modern-middle-east",
     "timePeriodsRange": "-6000.0,2000.0",
     "minDate": -6000.0,
-    "maxDate": 2000.0
-   },
-   "Analysis": {
-    "Religion": [
-     3,
-     [
-      20,
-      20,
-      20
+    "maxDate": 2000.0,
+    "Analysis": {
+     "Religion": [
+      3,
+      [
+       20,
+       20,
+       20
+      ]
      ]
-    ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -310,16 +310,16 @@ var Religion_Topic =
     "timePeriodsKeys": "roman-early-empire-late-antique,modern",
     "timePeriodsRange": "-30.0,2100.0",
     "minDate": -30.0,
-    "maxDate": 2100.0
-   },
-   "Analysis": {
-    "Religion": [
-     2,
-     [
-      20,
-      76
+    "maxDate": 2100.0,
+    "Analysis": {
+     "Religion": [
+      2,
+      [
+       20,
+       76
+      ]
      ]
-    ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -338,16 +338,16 @@ var Religion_Topic =
     "timePeriodsKeys": "old-babylonian-assyrian-mesopotamia,later-2nd-millennium-bc-mesopotamia,archaic,neo-assyrian-babylonian-middle-east,classical,hellenistic-republican,roman,late-antique",
     "timePeriodsRange": "-2000.0,640.0",
     "minDate": -2000.0,
-    "maxDate": 640.0
-   },
-   "Analysis": {
-    "Religion": [
-     2,
-     [
-      20,
-      20
+    "maxDate": 640.0,
+    "Analysis": {
+     "Religion": [
+      2,
+      [
+       20,
+       20
+      ]
      ]
-    ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -366,17 +366,17 @@ var Religion_Topic =
     "timePeriodsKeys": "classical,hellenistic-republican,roman,late-antique,mediaeval-byzantine,modern",
     "timePeriodsRange": "-550.0,2100.0",
     "minDate": -550.0,
-    "maxDate": 2100.0
-   },
-   "Analysis": {
-    "Religion": [
-     3,
-     [
-      28,
-      28,
-      28
+    "maxDate": 2100.0,
+    "Analysis": {
+     "Religion": [
+      3,
+      [
+       28,
+       28,
+       28
+      ]
      ]
-    ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -395,15 +395,15 @@ var Religion_Topic =
     "timePeriodsKeys": "modern",
     "timePeriodsRange": "1700.0,2100.0",
     "minDate": 1700.0,
-    "maxDate": 2100.0
-   },
-   "Analysis": {
-    "Religion": [
-     1,
-     [
-      28
+    "maxDate": 2100.0,
+    "Analysis": {
+     "Religion": [
+      1,
+      [
+       28
+      ]
      ]
-    ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -422,15 +422,15 @@ var Religion_Topic =
     "timePeriodsKeys": "hellenistic-republican,roman,late-antique",
     "timePeriodsRange": "-330.0,640.0",
     "minDate": -330.0,
-    "maxDate": 640.0
-   },
-   "Analysis": {
-    "Religion": [
-     1,
-     [
-      28
+    "maxDate": 640.0,
+    "Analysis": {
+     "Religion": [
+      1,
+      [
+       28
+      ]
      ]
-    ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -449,16 +449,16 @@ var Religion_Topic =
     "timePeriodsKeys": "middle-bronze-age-anatolia,early-iron-age-anatolia,archaic,neo-assyrian-babylonian-middle-east,middle-late-iron-age-anatolia,classical,achaemenid-middle-east,hellenistic-republican,hellenistic-middle-east,roman-middle-east,roman,roman-early-empire-parthian-middle-east,transition-roman-early-empire-late-antique,late-antique,late-antique-sasanian-middle-east,late-antique-late-byzantine,proto-byzantine,early-byzantine,abassid-middle-east,middle-byzantine,ottoman-rise,early-ottoman-empire,modern-middle-east",
     "timePeriodsRange": "-1750.0,2000.0",
     "minDate": -1750.0,
-    "maxDate": 2000.0
-   },
-   "Analysis": {
-    "Religion": [
-     2,
-     [
-      30,
-      144
+    "maxDate": 2000.0,
+    "Analysis": {
+     "Religion": [
+      2,
+      [
+       30,
+       144
+      ]
      ]
-    ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -477,15 +477,15 @@ var Religion_Topic =
     "timePeriodsKeys": "archaic,classical,hellenistic-republican,hellenistic-roman-early-empire,roman,late-antique,modern",
     "timePeriodsRange": "-750.0,2100.0",
     "minDate": -750.0,
-    "maxDate": 2100.0
-   },
-   "Analysis": {
-    "Religion": [
-     1,
-     [
-      30
+    "maxDate": 2100.0,
+    "Analysis": {
+     "Religion": [
+      1,
+      [
+       30
+      ]
      ]
-    ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -504,15 +504,15 @@ var Religion_Topic =
     "timePeriodsKeys": "archaic,classical,hellenistic-republican,roman,late-antique",
     "timePeriodsRange": "-750.0,640.0",
     "minDate": -750.0,
-    "maxDate": 640.0
-   },
-   "Analysis": {
-    "Religion": [
-     1,
-     [
-      31
+    "maxDate": 640.0,
+    "Analysis": {
+     "Religion": [
+      1,
+      [
+       31
+      ]
      ]
-    ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -531,15 +531,15 @@ var Religion_Topic =
     "timePeriodsKeys": "roman,late-antique,modern",
     "timePeriodsRange": "-30.0,2100.0",
     "minDate": -30.0,
-    "maxDate": 2100.0
-   },
-   "Analysis": {
-    "Religion": [
-     1,
-     [
-      34
+    "maxDate": 2100.0,
+    "Analysis": {
+     "Religion": [
+      1,
+      [
+       34
+      ]
      ]
-    ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -558,15 +558,15 @@ var Religion_Topic =
     "timePeriodsKeys": "classical,hellenistic-republican,roman,late-antique,modern",
     "timePeriodsRange": "-550.0,2100.0",
     "minDate": -550.0,
-    "maxDate": 2100.0
-   },
-   "Analysis": {
-    "Religion": [
-     1,
-     [
-      41
+    "maxDate": 2100.0,
+    "Analysis": {
+     "Religion": [
+      1,
+      [
+       41
+      ]
      ]
-    ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -585,15 +585,15 @@ var Religion_Topic =
     "timePeriodsKeys": "archaic,classical,hellenistic-republican,roman,late-antique",
     "timePeriodsRange": "-750.0,640.0",
     "minDate": -750.0,
-    "maxDate": 640.0
-   },
-   "Analysis": {
-    "Religion": [
-     1,
-     [
-      41
+    "maxDate": 640.0,
+    "Analysis": {
+     "Religion": [
+      1,
+      [
+       41
+      ]
      ]
-    ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -612,18 +612,18 @@ var Religion_Topic =
     "timePeriodsKeys": "archaic,classical,hellenistic-republican,roman,late-antique,modern",
     "timePeriodsRange": "-750.0,2100.0",
     "minDate": -750.0,
-    "maxDate": 2100.0
-   },
-   "Analysis": {
-    "Religion": [
-     4,
-     [
-      42,
-      148,
-      153,
-      177
+    "maxDate": 2100.0,
+    "Analysis": {
+     "Religion": [
+      4,
+      [
+       42,
+       148,
+       153,
+       177
+      ]
      ]
-    ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -642,15 +642,15 @@ var Religion_Topic =
     "timePeriodsKeys": "archaic,classical",
     "timePeriodsRange": "-750.0,-330.0",
     "minDate": -750.0,
-    "maxDate": -330.0
-   },
-   "Analysis": {
-    "Religion": [
-     1,
-     [
-      42
+    "maxDate": -330.0,
+    "Analysis": {
+     "Religion": [
+      1,
+      [
+       42
+      ]
      ]
-    ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -669,16 +669,16 @@ var Religion_Topic =
     "timePeriodsKeys": "neolithic-egypt,pottery-neolithic-middle-east,2nd-millennium-bc-egypt,new-kingdom-egypt,1200-bc-middle-east,archaic,classical,achaemenid-middle-east,achaemenid-roman-republic-middle-east,hellenistic-republican,hellenistic-middle-east,ptolemaic-roman-egypt,roman-middle-east,roman,roman-early-empire-parthian-middle-east,transition-roman-early-empire-late-antique,late-antique,late-antique-sasanian-middle-east,caliphate-umayyad-middle-east,abassid-middle-east,samanid-ghaznavid-iran,early-ottoman-empire,1500-ad-middle-east,ottoman-empire,late-ottoman-empire,modern,khedivate-egypt,modern-middle-east",
     "timePeriodsRange": "-6000.0,2100.0",
     "minDate": -6000.0,
-    "maxDate": 2100.0
-   },
-   "Analysis": {
-    "Religion": [
-     2,
-     [
-      44,
-      67
+    "maxDate": 2100.0,
+    "Analysis": {
+     "Religion": [
+      2,
+      [
+       44,
+       67
+      ]
      ]
-    ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -697,19 +697,19 @@ var Religion_Topic =
     "timePeriodsKeys": "hellenistic-republican,roman,late-antique,modern",
     "timePeriodsRange": "-330.0,2100.0",
     "minDate": -330.0,
-    "maxDate": 2100.0
-   },
-   "Analysis": {
-    "Religion": [
-     5,
-     [
-      49,
-      49,
-      49,
-      75,
-      135
+    "maxDate": 2100.0,
+    "Analysis": {
+     "Religion": [
+      5,
+      [
+       49,
+       49,
+       49,
+       75,
+       135
+      ]
      ]
-    ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -728,15 +728,15 @@ var Religion_Topic =
     "timePeriodsKeys": "classical,hellenistic-republican,roman",
     "timePeriodsRange": "-550.0,300.0",
     "minDate": -550.0,
-    "maxDate": 300.0
-   },
-   "Analysis": {
-    "Religion": [
-     1,
-     [
-      49
+    "maxDate": 300.0,
+    "Analysis": {
+     "Religion": [
+      1,
+      [
+       49
+      ]
      ]
-    ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -755,16 +755,16 @@ var Religion_Topic =
     "timePeriodsKeys": "predynastic-egypt,early-dynastic-egypt,old-kingdom-egypt,first-intermediate-period-egypt,middle-kingdom-egypt,second-intermediate-period-egypt,new-kingdom-egypt,third-intermediate-period-egypt,archaic,late-period-egypt,classical,macedonian-egypt,hellenistic-republican,ptolemaic-egypt,roman,late-antique",
     "timePeriodsRange": "-4500.0,640.0",
     "minDate": -4500.0,
-    "maxDate": 640.0
-   },
-   "Analysis": {
-    "Religion": [
-     2,
-     [
-      49,
-      49
+    "maxDate": 640.0,
+    "Analysis": {
+     "Religion": [
+      2,
+      [
+       49,
+       49
+      ]
      ]
-    ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -783,28 +783,28 @@ var Religion_Topic =
     "timePeriodsKeys": "hellenistic-republican,roman,modern",
     "timePeriodsRange": "-330.0,2100.0",
     "minDate": -330.0,
-    "maxDate": 2100.0
-   },
-   "Analysis": {
-    "Religion": [
-     14,
-     [
-      50,
-      50,
-      50,
-      50,
-      50,
-      50,
-      50,
-      50,
-      50,
-      61,
-      69,
-      115,
-      148,
-      178
+    "maxDate": 2100.0,
+    "Analysis": {
+     "Religion": [
+      14,
+      [
+       50,
+       50,
+       50,
+       50,
+       50,
+       50,
+       50,
+       50,
+       50,
+       61,
+       69,
+       115,
+       148,
+       178
+      ]
      ]
-    ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -823,16 +823,16 @@ var Religion_Topic =
     "timePeriodsKeys": "archaic,classical,hellenistic-republican,roman,late-antique,modern",
     "timePeriodsRange": "-750.0,2100.0",
     "minDate": -750.0,
-    "maxDate": 2100.0
-   },
-   "Analysis": {
-    "Religion": [
-     2,
-     [
-      50,
-      50
+    "maxDate": 2100.0,
+    "Analysis": {
+     "Religion": [
+      2,
+      [
+       50,
+       50
+      ]
      ]
-    ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -851,15 +851,15 @@ var Religion_Topic =
     "timePeriodsKeys": "paleolithic-middle-east,neolithic-egypt,old-kingdom-egypt,middle-kingdom-egypt,second-intermediate-period-egypt,new-kingdom-egypt,archaic,neo-assyrian-babylonian-middle-east,classical,achaemenid-middle-east,hellenistic-republican,hellenistic-middle-east,ptolemaic-roman-egypt,roman,roman-early-empire-parthian-middle-east,late-antique,caliphate-umayyad-middle-east,abassid-middle-east,fatimid-middle-east,mamluk-middle-east,modern-middle-east",
     "timePeriodsRange": "-2600000.0,2000.0",
     "minDate": -2600000.0,
-    "maxDate": 2000.0
-   },
-   "Analysis": {
-    "Religion": [
-     1,
-     [
-      53
+    "maxDate": 2000.0,
+    "Analysis": {
+     "Religion": [
+      1,
+      [
+       53
+      ]
      ]
-    ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -878,15 +878,15 @@ var Religion_Topic =
     "timePeriodsKeys": "classical,hellenistic-republican,roman",
     "timePeriodsRange": "-550.0,300.0",
     "minDate": -550.0,
-    "maxDate": 300.0
-   },
-   "Analysis": {
-    "Religion": [
-     1,
-     [
-      53
+    "maxDate": 300.0,
+    "Analysis": {
+     "Religion": [
+      1,
+      [
+       53
+      ]
      ]
-    ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -905,16 +905,16 @@ var Religion_Topic =
     "timePeriodsKeys": "neo-assyrian-babylonian-middle-east,classical,hellenistic-republican,roman,late-antique",
     "timePeriodsRange": "-720.0,640.0",
     "minDate": -720.0,
-    "maxDate": 640.0
-   },
-   "Analysis": {
-    "Religion": [
-     2,
-     [
-      54,
-      55
+    "maxDate": 640.0,
+    "Analysis": {
+     "Religion": [
+      2,
+      [
+       54,
+       55
+      ]
      ]
-    ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -933,17 +933,17 @@ var Religion_Topic =
     "timePeriodsKeys": "archaic,classical,hellenistic-republican,roman,late-antique",
     "timePeriodsRange": "-750.0,640.0",
     "minDate": -750.0,
-    "maxDate": 640.0
-   },
-   "Analysis": {
-    "Religion": [
-     3,
-     [
-      57,
-      57,
-      71
+    "maxDate": 640.0,
+    "Analysis": {
+     "Religion": [
+      3,
+      [
+       57,
+       57,
+       71
+      ]
      ]
-    ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -962,17 +962,17 @@ var Religion_Topic =
     "timePeriodsKeys": NaN,
     "timePeriodsRange": NaN,
     "minDate": NaN,
-    "maxDate": NaN
-   },
-   "Analysis": {
-    "Religion": [
-     3,
-     [
-      59,
-      71,
-      136
+    "maxDate": NaN,
+    "Analysis": {
+     "Religion": [
+      3,
+      [
+       59,
+       71,
+       136
+      ]
      ]
-    ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -991,20 +991,20 @@ var Religion_Topic =
     "timePeriodsKeys": "neolithic-egypt,early-dynastic-egypt,old-kingdom-egypt,first-intermediate-period-egypt,middle-kingdom-egypt,2nd-millennium-bc-egypt,second-intermediate-period-egypt,new-kingdom-egypt,third-intermediate-period-egypt,archaic,neo-assyrian-babylonian-middle-east,late-period-egypt,classical,achaemenid-middle-east,achaemenid-roman-republic-middle-east,hellenistic-republican,hellenistic-middle-east,ptolemaic-roman-egypt,roman-middle-east,roman,roman-early-empire-parthian-middle-east,transition-roman-early-empire-late-antique,late-antique,late-antique-sasanian-middle-east,modern-middle-east",
     "timePeriodsRange": "-6000.0,2000.0",
     "minDate": -6000.0,
-    "maxDate": 2000.0
-   },
-   "Analysis": {
-    "Religion": [
-     6,
-     [
-      61,
-      71,
-      75,
-      75,
-      75,
-      81
+    "maxDate": 2000.0,
+    "Analysis": {
+     "Religion": [
+      6,
+      [
+       61,
+       71,
+       75,
+       75,
+       75,
+       81
+      ]
      ]
-    ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -1023,15 +1023,15 @@ var Religion_Topic =
     "timePeriodsKeys": "paleolithic-middle-east,2nd-millennium-bc-levant,egyptian-hittite-levant,1200-bc-middle-east,iron-age-southern-levant,archaic,neo-assyrian-babylonian-middle-east,classical,achaemenid-middle-east,achaemenid-roman-republic-middle-east,hellenistic-republican,hellenistic-middle-east,roman-middle-east,roman,roman-early-empire-parthian-middle-east,transition-roman-early-empire-late-antique,late-antique,late-antique-sasanian-middle-east,caliphate-umayyad-middle-east,abassid-middle-east,middle-byzantine,crusader-byzantine-seljuq-middle-east,crusader-seljuq-ayyubid-levant,ilkhanate-middle-east,early-ottoman-empire,1500-ad-middle-east,ottoman-empire,late-ottoman-empire,khedivate-egypt,modern-middle-east",
     "timePeriodsRange": "-2600000.0,2000.0",
     "minDate": -2600000.0,
-    "maxDate": 2000.0
-   },
-   "Analysis": {
-    "Religion": [
-     1,
-     [
-      62
+    "maxDate": 2000.0,
+    "Analysis": {
+     "Religion": [
+      1,
+      [
+       62
+      ]
      ]
-    ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -1050,15 +1050,15 @@ var Religion_Topic =
     "timePeriodsKeys": "hellenistic-republican,roman,late-antique,modern",
     "timePeriodsRange": "-330.0,2100.0",
     "minDate": -330.0,
-    "maxDate": 2100.0
-   },
-   "Analysis": {
-    "Religion": [
-     1,
-     [
-      69
+    "maxDate": 2100.0,
+    "Analysis": {
+     "Religion": [
+      1,
+      [
+       69
+      ]
      ]
-    ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -1077,16 +1077,16 @@ var Religion_Topic =
     "timePeriodsKeys": "early-iron-age-anatolia,1200-bc-middle-east,archaic,neo-assyrian-babylonian-middle-east,middle-late-iron-age-anatolia,classical,achaemenid-middle-east,hellenistic-republican,hellenistic-middle-east,roman-middle-east,roman,roman-early-empire-parthian-middle-east,transition-roman-early-empire-late-antique,late-antique,late-antique-sasanian-middle-east,late-antique-late-byzantine,proto-byzantine,early-byzantine,abassid-middle-east,middle-byzantine,rum-crusader-anatolia,crusader-byzantine-seljuq-middle-east,ilkhanate-middle-east,mongol-middle-east,ottoman-rise,timurid-middle-east,early-ottoman-empire,late-ottoman-empire,modern-middle-east",
     "timePeriodsRange": "-1200.0,2000.0",
     "minDate": -1200.0,
-    "maxDate": 2000.0
-   },
-   "Analysis": {
-    "Religion": [
-     2,
-     [
-      69,
-      69
+    "maxDate": 2000.0,
+    "Analysis": {
+     "Religion": [
+      2,
+      [
+       69,
+       69
+      ]
      ]
-    ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -1105,19 +1105,19 @@ var Religion_Topic =
     "timePeriodsKeys": "classical,roman,modern",
     "timePeriodsRange": "-550.0,2100.0",
     "minDate": -550.0,
-    "maxDate": 2100.0
-   },
-   "Analysis": {
-    "Religion": [
-     5,
-     [
-      69,
-      69,
-      76,
-      120,
-      130
+    "maxDate": 2100.0,
+    "Analysis": {
+     "Religion": [
+      5,
+      [
+       69,
+       69,
+       76,
+       120,
+       130
+      ]
      ]
-    ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -1136,22 +1136,22 @@ var Religion_Topic =
     "timePeriodsKeys": "archaic,classical,hellenistic-republican,roman,late-antique",
     "timePeriodsRange": "-750.0,640.0",
     "minDate": -750.0,
-    "maxDate": 640.0
-   },
-   "Analysis": {
-    "Religion": [
-     8,
-     [
-      71,
-      71,
-      81,
-      81,
-      81,
-      81,
-      81,
-      89
+    "maxDate": 640.0,
+    "Analysis": {
+     "Religion": [
+      8,
+      [
+       71,
+       71,
+       81,
+       81,
+       81,
+       81,
+       81,
+       89
+      ]
      ]
-    ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -1170,15 +1170,15 @@ var Religion_Topic =
     "timePeriodsKeys": "roman,late-antique,modern",
     "timePeriodsRange": "-30.0,2100.0",
     "minDate": -30.0,
-    "maxDate": 2100.0
-   },
-   "Analysis": {
-    "Religion": [
-     1,
-     [
-      71
+    "maxDate": 2100.0,
+    "Analysis": {
+     "Religion": [
+      1,
+      [
+       71
+      ]
      ]
-    ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -1197,15 +1197,15 @@ var Religion_Topic =
     "timePeriodsKeys": "archaic,classical,hellenistic-republican,roman,late-antique",
     "timePeriodsRange": "-750.0,640.0",
     "minDate": -750.0,
-    "maxDate": 640.0
-   },
-   "Analysis": {
-    "Religion": [
-     1,
-     [
-      74
+    "maxDate": 640.0,
+    "Analysis": {
+     "Religion": [
+      1,
+      [
+       74
+      ]
      ]
-    ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -1224,15 +1224,15 @@ var Religion_Topic =
     "timePeriodsKeys": "archaic,classical,hellenistic-republican,roman,late-antique",
     "timePeriodsRange": "-750.0,640.0",
     "minDate": -750.0,
-    "maxDate": 640.0
-   },
-   "Analysis": {
-    "Religion": [
-     1,
-     [
-      75
+    "maxDate": 640.0,
+    "Analysis": {
+     "Religion": [
+      1,
+      [
+       75
+      ]
      ]
-    ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -1251,15 +1251,15 @@ var Religion_Topic =
     "timePeriodsKeys": "archaic,classical,hellenistic-republican,roman,late-antique,modern",
     "timePeriodsRange": "-750.0,2100.0",
     "minDate": -750.0,
-    "maxDate": 2100.0
-   },
-   "Analysis": {
-    "Religion": [
-     1,
-     [
-      75
+    "maxDate": 2100.0,
+    "Analysis": {
+     "Religion": [
+      1,
+      [
+       75
+      ]
      ]
-    ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -1278,15 +1278,15 @@ var Religion_Topic =
     "timePeriodsKeys": NaN,
     "timePeriodsRange": NaN,
     "minDate": NaN,
-    "maxDate": NaN
-   },
-   "Analysis": {
-    "Religion": [
-     1,
-     [
-      75
+    "maxDate": NaN,
+    "Analysis": {
+     "Religion": [
+      1,
+      [
+       75
+      ]
      ]
-    ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -1305,15 +1305,15 @@ var Religion_Topic =
     "timePeriodsKeys": "hellenistic-republican,roman,late-antique,modern",
     "timePeriodsRange": "-330.0,2100.0",
     "minDate": -330.0,
-    "maxDate": 2100.0
-   },
-   "Analysis": {
-    "Religion": [
-     1,
-     [
-      106
+    "maxDate": 2100.0,
+    "Analysis": {
+     "Religion": [
+      1,
+      [
+       106
+      ]
      ]
-    ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -1332,15 +1332,15 @@ var Religion_Topic =
     "timePeriodsKeys": "early-dynastic-mesopotamia,akkadian-ur-iii-mesopotamia,old-babylonian-assyrian-mesopotamia,archaic,neo-assyrian-babylonian-middle-east,classical,achaemenid-middle-east,achaemenid-roman-republic-middle-east,hellenistic-republican",
     "timePeriodsRange": "-2950.0,-30.0",
     "minDate": -2950.0,
-    "maxDate": -30.0
-   },
-   "Analysis": {
-    "Religion": [
-     1,
-     [
-      112
+    "maxDate": -30.0,
+    "Analysis": {
+     "Religion": [
+      1,
+      [
+       112
+      ]
      ]
-    ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -1359,16 +1359,16 @@ var Religion_Topic =
     "timePeriodsKeys": "classical,modern",
     "timePeriodsRange": "-550.0,2100.0",
     "minDate": -550.0,
-    "maxDate": 2100.0
-   },
-   "Analysis": {
-    "Religion": [
-     2,
-     [
-      115,
-      115
+    "maxDate": 2100.0,
+    "Analysis": {
+     "Religion": [
+      2,
+      [
+       115,
+       115
+      ]
      ]
-    ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -1387,15 +1387,15 @@ var Religion_Topic =
     "timePeriodsKeys": "classical,hellenistic-republican,roman,late-antique",
     "timePeriodsRange": "-550.0,640.0",
     "minDate": -550.0,
-    "maxDate": 640.0
-   },
-   "Analysis": {
-    "Religion": [
-     1,
-     [
-      120
+    "maxDate": 640.0,
+    "Analysis": {
+     "Religion": [
+      1,
+      [
+       120
+      ]
      ]
-    ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -1414,16 +1414,16 @@ var Religion_Topic =
     "timePeriodsKeys": "archaic,classical,hellenistic-republican,roman,late-antique",
     "timePeriodsRange": "-750.0,640.0",
     "minDate": -750.0,
-    "maxDate": 640.0
-   },
-   "Analysis": {
-    "Religion": [
-     2,
-     [
-      120,
-      120
+    "maxDate": 640.0,
+    "Analysis": {
+     "Religion": [
+      2,
+      [
+       120,
+       120
+      ]
      ]
-    ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -1442,15 +1442,15 @@ var Religion_Topic =
     "timePeriodsKeys": "classical,hellenistic-republican,roman,late-antique",
     "timePeriodsRange": "-550.0,640.0",
     "minDate": -550.0,
-    "maxDate": 640.0
-   },
-   "Analysis": {
-    "Religion": [
-     1,
-     [
-      120
+    "maxDate": 640.0,
+    "Analysis": {
+     "Religion": [
+      1,
+      [
+       120
+      ]
      ]
-    ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -1469,16 +1469,16 @@ var Religion_Topic =
     "timePeriodsKeys": "classical,hellenistic-republican,roman,late-antique",
     "timePeriodsRange": "-550.0,640.0",
     "minDate": -550.0,
-    "maxDate": 640.0
-   },
-   "Analysis": {
-    "Religion": [
-     2,
-     [
-      121,
-      121
+    "maxDate": 640.0,
+    "Analysis": {
+     "Religion": [
+      2,
+      [
+       121,
+       121
+      ]
      ]
-    ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -1497,15 +1497,15 @@ var Religion_Topic =
     "timePeriodsKeys": "classical,hellenistic-republican,roman,late-antique",
     "timePeriodsRange": "-550.0,640.0",
     "minDate": -550.0,
-    "maxDate": 640.0
-   },
-   "Analysis": {
-    "Religion": [
-     1,
-     [
-      122
+    "maxDate": 640.0,
+    "Analysis": {
+     "Religion": [
+      1,
+      [
+       122
+      ]
      ]
-    ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -1524,15 +1524,15 @@ var Religion_Topic =
     "timePeriodsKeys": "modern",
     "timePeriodsRange": "1700.0,2100.0",
     "minDate": 1700.0,
-    "maxDate": 2100.0
-   },
-   "Analysis": {
-    "Religion": [
-     1,
-     [
-      131
+    "maxDate": 2100.0,
+    "Analysis": {
+     "Religion": [
+      1,
+      [
+       131
+      ]
      ]
-    ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -1551,15 +1551,15 @@ var Religion_Topic =
     "timePeriodsKeys": "roman,late-antique",
     "timePeriodsRange": "-30.0,640.0",
     "minDate": -30.0,
-    "maxDate": 640.0
-   },
-   "Analysis": {
-    "Religion": [
-     1,
-     [
-      131
+    "maxDate": 640.0,
+    "Analysis": {
+     "Religion": [
+      1,
+      [
+       131
+      ]
      ]
-    ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -1578,15 +1578,15 @@ var Religion_Topic =
     "timePeriodsKeys": "hellenistic-republican,roman",
     "timePeriodsRange": "-330.0,300.0",
     "minDate": -330.0,
-    "maxDate": 300.0
-   },
-   "Analysis": {
-    "Religion": [
-     1,
-     [
-      134
+    "maxDate": 300.0,
+    "Analysis": {
+     "Religion": [
+      1,
+      [
+       134
+      ]
      ]
-    ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -1605,15 +1605,15 @@ var Religion_Topic =
     "timePeriodsKeys": "classical,hellenistic-republican,roman",
     "timePeriodsRange": "-550.0,300.0",
     "minDate": -550.0,
-    "maxDate": 300.0
-   },
-   "Analysis": {
-    "Religion": [
-     1,
-     [
-      134
+    "maxDate": 300.0,
+    "Analysis": {
+     "Religion": [
+      1,
+      [
+       134
+      ]
      ]
-    ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -1632,15 +1632,15 @@ var Religion_Topic =
     "timePeriodsKeys": "archaic,classical,hellenistic-republican,roman,late-antique",
     "timePeriodsRange": "-750.0,640.0",
     "minDate": -750.0,
-    "maxDate": 640.0
-   },
-   "Analysis": {
-    "Religion": [
-     1,
-     [
-      148
+    "maxDate": 640.0,
+    "Analysis": {
+     "Religion": [
+      1,
+      [
+       148
+      ]
      ]
-    ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -1659,15 +1659,15 @@ var Religion_Topic =
     "timePeriodsKeys": "archaic,classical,hellenistic-republican,roman",
     "timePeriodsRange": "-750.0,300.0",
     "minDate": -750.0,
-    "maxDate": 300.0
-   },
-   "Analysis": {
-    "Religion": [
-     1,
-     [
-      151
+    "maxDate": 300.0,
+    "Analysis": {
+     "Religion": [
+      1,
+      [
+       151
+      ]
      ]
-    ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -1686,17 +1686,17 @@ var Religion_Topic =
     "timePeriodsKeys": "middle-bronze-age-anatolia,early-iron-age-anatolia,1200-bc-middle-east,archaic,neo-assyrian-babylonian-middle-east,classical,achaemenid-middle-east,hellenistic-republican,hellenistic-middle-east,roman-middle-east,roman,roman-early-empire-parthian-middle-east,transition-roman-early-empire-late-antique,late-antique,late-antique-sasanian-middle-east,late-antique-late-byzantine,proto-byzantine,early-byzantine,abassid-middle-east,middle-byzantine,rum-crusader-anatolia,early-ottoman-empire,modern-middle-east",
     "timePeriodsRange": "-1750.0,2000.0",
     "minDate": -1750.0,
-    "maxDate": 2000.0
-   },
-   "Analysis": {
-    "Religion": [
-     3,
-     [
-      156,
-      156,
-      180
+    "maxDate": 2000.0,
+    "Analysis": {
+     "Religion": [
+      3,
+      [
+       156,
+       156,
+       180
+      ]
      ]
-    ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -1715,15 +1715,15 @@ var Religion_Topic =
     "timePeriodsKeys": "archaic,classical,hellenistic-republican,hellenistic-roman-early-empire,roman,late-antique,modern",
     "timePeriodsRange": "-750.0,2100.0",
     "minDate": -750.0,
-    "maxDate": 2100.0
-   },
-   "Analysis": {
-    "Religion": [
-     1,
-     [
-      162
+    "maxDate": 2100.0,
+    "Analysis": {
+     "Religion": [
+      1,
+      [
+       162
+      ]
      ]
-    ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -1742,15 +1742,15 @@ var Religion_Topic =
     "timePeriodsKeys": NaN,
     "timePeriodsRange": NaN,
     "minDate": NaN,
-    "maxDate": NaN
-   },
-   "Analysis": {
-    "Religion": [
-     1,
-     [
-      164
+    "maxDate": NaN,
+    "Analysis": {
+     "Religion": [
+      1,
+      [
+       164
+      ]
      ]
-    ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -1769,15 +1769,15 @@ var Religion_Topic =
     "timePeriodsKeys": "classical,roman",
     "timePeriodsRange": "-550.0,300.0",
     "minDate": -550.0,
-    "maxDate": 300.0
-   },
-   "Analysis": {
-    "Religion": [
-     1,
-     [
-      164
+    "maxDate": 300.0,
+    "Analysis": {
+     "Religion": [
+      1,
+      [
+       164
+      ]
      ]
-    ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -1796,15 +1796,15 @@ var Religion_Topic =
     "timePeriodsKeys": "late-antique",
     "timePeriodsRange": "300.0,640.0",
     "minDate": 300.0,
-    "maxDate": 640.0
-   },
-   "Analysis": {
-    "Religion": [
-     1,
-     [
-      168
+    "maxDate": 640.0,
+    "Analysis": {
+     "Religion": [
+      1,
+      [
+       168
+      ]
      ]
-    ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -1823,15 +1823,15 @@ var Religion_Topic =
     "timePeriodsKeys": "middle-geometric,archaic,classical,hellenistic-republican,roman",
     "timePeriodsRange": "-850.0,300.0",
     "minDate": -850.0,
-    "maxDate": 300.0
-   },
-   "Analysis": {
-    "Religion": [
-     1,
-     [
-      172
+    "maxDate": 300.0,
+    "Analysis": {
+     "Religion": [
+      1,
+      [
+       172
+      ]
      ]
-    ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -1850,16 +1850,16 @@ var Religion_Topic =
     "timePeriodsKeys": "roman",
     "timePeriodsRange": "-30.0,300.0",
     "minDate": -30.0,
-    "maxDate": 300.0
-   },
-   "Analysis": {
-    "Religion": [
-     2,
-     [
-      174,
-      174
+    "maxDate": 300.0,
+    "Analysis": {
+     "Religion": [
+      2,
+      [
+       174,
+       174
+      ]
      ]
-    ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -1878,15 +1878,15 @@ var Religion_Topic =
     "timePeriodsKeys": "roman,modern",
     "timePeriodsRange": "-30.0,2100.0",
     "minDate": -30.0,
-    "maxDate": 2100.0
-   },
-   "Analysis": {
-    "Religion": [
-     1,
-     [
-      176
+    "maxDate": 2100.0,
+    "Analysis": {
+     "Religion": [
+      1,
+      [
+       176
+      ]
      ]
-    ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -1905,16 +1905,16 @@ var Religion_Topic =
     "timePeriodsKeys": "archaic,classical,hellenistic-republican,hellenistic-roman-early-empire,roman,late-antique,modern",
     "timePeriodsRange": "-750.0,2100.0",
     "minDate": -750.0,
-    "maxDate": 2100.0
-   },
-   "Analysis": {
-    "Religion": [
-     2,
-     [
-      179,
-      179
+    "maxDate": 2100.0,
+    "Analysis": {
+     "Religion": [
+      2,
+      [
+       179,
+       179
+      ]
      ]
-    ]
+    }
    },
    "geometry": {
     "type": "Point",

@@ -11,20 +11,20 @@ var Croesus =
     "timePeriodsKeys": "archaic,classical",
     "timePeriodsRange": "-750.0,-330.0",
     "minDate": -750.0,
-    "maxDate": -330.0
-   },
-   "Analysis": {
-    "Croesus": [
-     6,
-     [
-      0,
-      4,
-      7,
-      18,
-      18,
-      18
+    "maxDate": -330.0,
+    "Analysis": {
+     "Count": [
+      6,
+      [
+       0,
+       4,
+       7,
+       18,
+       18,
+       18
+      ]
      ]
-    ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -43,16 +43,16 @@ var Croesus =
     "timePeriodsKeys": "archaic,classical,hellenistic-republican,roman,late-antique",
     "timePeriodsRange": "-750.0,640.0",
     "minDate": -750.0,
-    "maxDate": 640.0
-   },
-   "Analysis": {
-    "Croesus": [
-     2,
-     [
-      1,
-      18
+    "maxDate": 640.0,
+    "Analysis": {
+     "Count": [
+      2,
+      [
+       1,
+       18
+      ]
      ]
-    ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -71,20 +71,20 @@ var Croesus =
     "timePeriodsKeys": "archaic,classical,hellenistic-republican,roman,late-antique",
     "timePeriodsRange": "-750.0,640.0",
     "minDate": -750.0,
-    "maxDate": 640.0
-   },
-   "Analysis": {
-    "Croesus": [
-     6,
-     [
-      1,
-      7,
-      8,
-      13,
-      165,
-      165
+    "maxDate": 640.0,
+    "Analysis": {
+     "Count": [
+      6,
+      [
+       1,
+       7,
+       8,
+       13,
+       165,
+       165
+      ]
      ]
-    ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -103,34 +103,34 @@ var Croesus =
     "timePeriodsKeys": "middle-bronze-age-anatolia,early-iron-age-anatolia,1200-bc-middle-east,archaic,neo-assyrian-babylonian-middle-east,classical,achaemenid-middle-east,hellenistic-republican,hellenistic-middle-east,roman-middle-east,roman,roman-early-empire-parthian-middle-east,transition-roman-early-empire-late-antique,late-antique,late-antique-sasanian-middle-east,late-antique-late-byzantine,proto-byzantine,early-byzantine,abassid-middle-east,middle-byzantine,rum-crusader-anatolia,early-ottoman-empire,modern-middle-east",
     "timePeriodsRange": "-1750.0,2000.0",
     "minDate": -1750.0,
-    "maxDate": 2000.0
-   },
-   "Analysis": {
-    "Croesus": [
-     20,
-     [
-      4,
-      4,
-      8,
-      12,
-      12,
-      14,
-      14,
-      14,
-      14,
-      14,
-      15,
-      16,
-      16,
-      17,
-      17,
-      17,
-      18,
-      27,
-      30,
-      180
+    "maxDate": 2000.0,
+    "Analysis": {
+     "Count": [
+      20,
+      [
+       4,
+       4,
+       8,
+       12,
+       12,
+       14,
+       14,
+       14,
+       14,
+       14,
+       15,
+       16,
+       16,
+       17,
+       17,
+       17,
+       18,
+       27,
+       30,
+       180
+      ]
      ]
-    ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -149,18 +149,18 @@ var Croesus =
     "timePeriodsKeys": "archaic,classical,hellenistic-republican,roman,late-antique,modern",
     "timePeriodsRange": "-750.0,2100.0",
     "minDate": -750.0,
-    "maxDate": 2100.0
-   },
-   "Analysis": {
-    "Croesus": [
-     4,
-     [
+    "maxDate": 2100.0,
+    "Analysis": {
+     "Count": [
       4,
-      4,
-      5,
-      180
+      [
+       4,
+       4,
+       5,
+       180
+      ]
      ]
-    ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -179,20 +179,20 @@ var Croesus =
     "timePeriodsKeys": "archaic,classical,hellenistic-republican,roman,late-antique,modern",
     "timePeriodsRange": "-750.0,2100.0",
     "minDate": -750.0,
-    "maxDate": 2100.0
-   },
-   "Analysis": {
-    "Croesus": [
-     6,
-     [
-      5,
-      8,
-      8,
-      8,
-      8,
-      17
+    "maxDate": 2100.0,
+    "Analysis": {
+     "Count": [
+      6,
+      [
+       5,
+       8,
+       8,
+       8,
+       8,
+       17
+      ]
      ]
-    ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -211,17 +211,17 @@ var Croesus =
     "timePeriodsKeys": "middle-geometric,archaic,classical,hellenistic-republican,roman",
     "timePeriodsRange": "-850.0,300.0",
     "minDate": -850.0,
-    "maxDate": 300.0
-   },
-   "Analysis": {
-    "Croesus": [
-     3,
-     [
-      12,
-      12,
-      28
+    "maxDate": 300.0,
+    "Analysis": {
+     "Count": [
+      3,
+      [
+       12,
+       12,
+       28
+      ]
      ]
-    ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -240,15 +240,15 @@ var Croesus =
     "timePeriodsKeys": "archaic,classical",
     "timePeriodsRange": "-750.0,-330.0",
     "minDate": -750.0,
-    "maxDate": -330.0
-   },
-   "Analysis": {
-    "Croesus": [
-     1,
-     [
-      12
+    "maxDate": -330.0,
+    "Analysis": {
+     "Count": [
+      1,
+      [
+       12
+      ]
      ]
-    ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -267,15 +267,15 @@ var Croesus =
     "timePeriodsKeys": "archaic,classical,hellenistic-republican,roman",
     "timePeriodsRange": "-750.0,300.0",
     "minDate": -750.0,
-    "maxDate": 300.0
-   },
-   "Analysis": {
-    "Croesus": [
-     1,
-     [
-      12
+    "maxDate": 300.0,
+    "Analysis": {
+     "Count": [
+      1,
+      [
+       12
+      ]
      ]
-    ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -294,17 +294,17 @@ var Croesus =
     "timePeriodsKeys": "classical,hellenistic-republican,roman,late-antique",
     "timePeriodsRange": "-550.0,640.0",
     "minDate": -550.0,
-    "maxDate": 640.0
-   },
-   "Analysis": {
-    "Croesus": [
-     3,
-     [
-      12,
-      13,
-      14
+    "maxDate": 640.0,
+    "Analysis": {
+     "Count": [
+      3,
+      [
+       12,
+       13,
+       14
+      ]
      ]
-    ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -323,15 +323,15 @@ var Croesus =
     "timePeriodsKeys": "middle-bronze-age-anatolia,middle-hittite-anatolia,early-iron-age-anatolia,1200-bc-middle-east,middle-late-iron-age-anatolia,classical,achaemenid-middle-east,hellenistic-republican,hellenistic-middle-east,roman-middle-east,roman,roman-early-empire-parthian-middle-east,transition-roman-early-empire-late-antique,late-antique,late-antique-sasanian-middle-east,late-antique-late-byzantine,early-byzantine,abassid-middle-east,middle-byzantine,rum-crusader-anatolia,crusader-byzantine-seljuq-middle-east,ottoman-rise,early-ottoman-empire,perso-ottoman-russian-caucasus,late-ottoman-empire,modern,modern-middle-east",
     "timePeriodsRange": "-1750.0,2100.0",
     "minDate": -1750.0,
-    "maxDate": 2100.0
-   },
-   "Analysis": {
-    "Croesus": [
-     1,
-     [
-      14
+    "maxDate": 2100.0,
+    "Analysis": {
+     "Count": [
+      1,
+      [
+       14
+      ]
      ]
-    ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -350,16 +350,16 @@ var Croesus =
     "timePeriodsKeys": "classical,late-antique",
     "timePeriodsRange": "-550.0,640.0",
     "minDate": -550.0,
-    "maxDate": 640.0
-   },
-   "Analysis": {
-    "Croesus": [
-     2,
-     [
-      14,
-      14
+    "maxDate": 640.0,
+    "Analysis": {
+     "Count": [
+      2,
+      [
+       14,
+       14
+      ]
      ]
-    ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -378,15 +378,15 @@ var Croesus =
     "timePeriodsKeys": "middle-bronze-age-anatolia,1200-bc-middle-east,archaic,middle-late-iron-age-anatolia,classical,achaemenid-middle-east,hellenistic-republican,hellenistic-middle-east,roman-middle-east,roman,roman-early-empire-parthian-middle-east,transition-roman-early-empire-late-antique,late-antique,late-antique-sasanian-middle-east,late-antique-late-byzantine,abassid-middle-east,rum-crusader-anatolia,crusader-byzantine-seljuq-middle-east,ottoman-rise,early-ottoman-empire,1500-ad-middle-east,late-ottoman-empire,ottoman-decline-mandate-middle-east,modern-middle-east",
     "timePeriodsRange": "-1750.0,2000.0",
     "minDate": -1750.0,
-    "maxDate": 2000.0
-   },
-   "Analysis": {
-    "Croesus": [
-     1,
-     [
-      14
+    "maxDate": 2000.0,
+    "Analysis": {
+     "Count": [
+      1,
+      [
+       14
+      ]
      ]
-    ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -405,15 +405,15 @@ var Croesus =
     "timePeriodsKeys": "hellenistic-republican",
     "timePeriodsRange": "-330.0,-30.0",
     "minDate": -330.0,
-    "maxDate": -30.0
-   },
-   "Analysis": {
-    "Croesus": [
-     1,
-     [
-      14
+    "maxDate": -30.0,
+    "Analysis": {
+     "Count": [
+      1,
+      [
+       14
+      ]
      ]
-    ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -432,15 +432,15 @@ var Croesus =
     "timePeriodsKeys": "archaic,classical,hellenistic-republican,roman",
     "timePeriodsRange": "-750.0,300.0",
     "minDate": -750.0,
-    "maxDate": 300.0
-   },
-   "Analysis": {
-    "Croesus": [
-     1,
-     [
-      15
+    "maxDate": 300.0,
+    "Analysis": {
+     "Count": [
+      1,
+      [
+       15
+      ]
      ]
-    ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -459,15 +459,15 @@ var Croesus =
     "timePeriodsKeys": "archaic,classical,hellenistic-republican,roman,late-antique,modern",
     "timePeriodsRange": "-750.0,2100.0",
     "minDate": -750.0,
-    "maxDate": 2100.0
-   },
-   "Analysis": {
-    "Croesus": [
-     1,
-     [
-      18
+    "maxDate": 2100.0,
+    "Analysis": {
+     "Count": [
+      1,
+      [
+       18
+      ]
      ]
-    ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -486,15 +486,15 @@ var Croesus =
     "timePeriodsKeys": "classical,roman",
     "timePeriodsRange": "-550.0,300.0",
     "minDate": -550.0,
-    "maxDate": 300.0
-   },
-   "Analysis": {
-    "Croesus": [
-     1,
-     [
-      18
+    "maxDate": 300.0,
+    "Analysis": {
+     "Count": [
+      1,
+      [
+       18
+      ]
      ]
-    ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -513,15 +513,15 @@ var Croesus =
     "timePeriodsKeys": "old-babylonian-assyrian-mesopotamia,later-2nd-millennium-bc-mesopotamia,archaic,neo-assyrian-babylonian-middle-east,classical,achaemenid-middle-east,hellenistic-republican,hellenistic-central-asia,roman,late-antique",
     "timePeriodsRange": "-2000.0,640.0",
     "minDate": -2000.0,
-    "maxDate": 640.0
-   },
-   "Analysis": {
-    "Croesus": [
-     1,
-     [
-      18
+    "maxDate": 640.0,
+    "Analysis": {
+     "Count": [
+      1,
+      [
+       18
+      ]
      ]
-    ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -540,18 +540,18 @@ var Croesus =
     "timePeriodsKeys": "1200-bc-middle-east,archaic,neo-assyrian-babylonian-middle-east,classical,achaemenid-middle-east,hellenistic-republican,hellenistic-middle-east,roman,roman-early-empire-parthian-middle-east,roman-early-empire-late-antique,transition-roman-early-empire-late-antique,late-antique,late-antique-sasanian-middle-east,proto-byzantine,caliphate-umayyad-middle-east,abassid-middle-east,samanid-ghaznavid-iran,seljuq-khwarezmian-middle-east,khwarezmian-middle-east,ilkhanate-middle-east,mongol-middle-east,timurid-middle-east,1500-ad-middle-east,safavid-middle-east,late-ottoman-empire,ottoman-decline-mandate-middle-east,modern-middle-east",
     "timePeriodsRange": "-1200.0,2000.0",
     "minDate": -1200.0,
-    "maxDate": 2000.0
-   },
-   "Analysis": {
-    "Croesus": [
-     4,
-     [
-      29,
-      29,
-      30,
-      30
+    "maxDate": 2000.0,
+    "Analysis": {
+     "Count": [
+      4,
+      [
+       29,
+       29,
+       30,
+       30
+      ]
      ]
-    ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -570,15 +570,15 @@ var Croesus =
     "timePeriodsKeys": "late-antique,modern",
     "timePeriodsRange": "300.0,2100.0",
     "minDate": 300.0,
-    "maxDate": 2100.0
-   },
-   "Analysis": {
-    "Croesus": [
-     1,
-     [
-      30
+    "maxDate": 2100.0,
+    "Analysis": {
+     "Count": [
+      1,
+      [
+       30
+      ]
      ]
-    ]
+    }
    },
    "geometry": {
     "type": "Point",
@@ -597,15 +597,15 @@ var Croesus =
     "timePeriodsKeys": "archaic,classical,hellenistic-republican,roman",
     "timePeriodsRange": "-750.0,300.0",
     "minDate": -750.0,
-    "maxDate": 300.0
-   },
-   "Analysis": {
-    "Croesus": [
-     1,
-     [
-      165
+    "maxDate": 300.0,
+    "Analysis": {
+     "Count": [
+      1,
+      [
+       165
+      ]
      ]
-    ]
+    }
    },
    "geometry": {
     "type": "Point",
