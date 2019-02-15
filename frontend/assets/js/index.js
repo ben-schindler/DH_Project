@@ -74,10 +74,17 @@ $("#placesTimeButton").click(function () {
 
 var labelsGenerator = []
 for(i=0; i<188; i++){
-    labelsGenerator.push(
-        i
-    );
+    if(i%25 == 0 || i == 0){
+        labelsGenerator.push(
+            i
+        );
+    }else{
+        labelsGenerator.push(
+            ""
+        );
+    }
 }
+console.log(labelsGenerator)
 
 //Labels for Time Series
 function labelsForChart() {
