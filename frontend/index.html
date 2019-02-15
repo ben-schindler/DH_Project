@@ -28,6 +28,8 @@
     <link rel="stylesheet" href="assets/css/cs-skin-elastic.css">
     <link rel="stylesheet" href="assets/css/lib/datatable/dataTables.bootstrap.min.css">
     <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,600,700,800' rel='stylesheet' type='text/css'>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.6-rc.0/css/select2.min.css" rel="stylesheet" />
+
 
     <!-- <link rel="stylesheet" href="assets/css/dataTables.min.css"> -->
 
@@ -312,6 +314,23 @@
                     <div class="card">
                         <div class="card-body">
                             <h4 class="box-title">Development over time </h4>
+                            <div class="row">
+                                <div class="col-lg-2" style="margin-top:9px;">
+                                    <h5>Please select:</h5>
+                                </div>
+                                <div class="col-lg-8">
+                                    <select id="selectPlaces" class="card-body js-example-basic-multiple"
+                                        name="states[]" multiple="multiple">
+                                        <optgroup>
+                                        </optgroup>
+                                    </select>
+                                </div>
+                                <div class="col-lg-2">
+                                    <button id="placesTimeButton" type="button" class="btn btn-light">
+                                        <span class="menu-icon fa fa-check"></span> Show
+                                    </button>
+                                </div>
+                            </div>
                         </div>
                         <div class="row">
                             <div class="col-lg-12">
@@ -428,6 +447,9 @@
     <script src="assets/js/lib/data-table/buttons.print.min.js"></script>
     <script src="assets/js/lib/data-table/buttons.colVis.min.js"></script>
     <script src="assets/js/lib/data-table/datatables-init.js"></script>
+
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.6-rc.0/js/select2.min.js"></script>
 
 
 

@@ -1,6 +1,102 @@
 var jsonObject;
 var map;
 
+// https://select2.org/getting-started/basic-usage
+
+
+var chartPlaces = []
+
+$(document).ready(function () {
+    count.features.forEach(function (place) {
+        chartPlaces.push({
+            "id": 1,
+            "text": place.properties.title,
+            "countArray": place.properties.Analysis.Count[1]
+        });
+    });
+    console.log(chartPlaces)
+
+    $('.js-example-basic-multiple').select2({
+        placeholder: 'Places',
+        data: chartPlaces
+    });
+
+});
+
+
+var selectData = [];
+$('#selectPlaces').on('select2:select', function (e) {
+    selectData.push(e.params.data);
+    //console.log(selectData);
+});
+
+
+$("#placesTimeButton").click(function () {
+    //console.log(selectData)
+
+    varsForChart = []
+
+
+    selectData.forEach(function (place) {
+        // XXX: Aggriegiere über einzelne Stellen: +1 wenn Zeile vorkommt. Das ist y-wert, X - Wert ist stelle
+        // console.log(place)
+        // console.log(place.countArray)
+        var counts = {};
+        for (var i = 0; i < place.countArray.length; i++) {
+            var num = place.countArray[i];
+            counts[num] = counts[num] ? counts[num] + 1 : 1;
+        }
+        // console.log(counts);
+        // console.log(counts[4]);
+
+        var varsforPlace = []
+        for(i=0; i<188; i++){
+            if(typeof counts[i] == "undefined"){
+                varsforPlace.push(
+                    0
+                );
+            }else{
+                varsforPlace.push(
+                    counts[i]
+                );
+            }      
+        }
+        varsForChart.push(
+            varsforPlace
+        );
+    });
+    console.log(varsForChart)
+    // labelsForChart();
+    // valuesForChart();
+    $(window).trigger('changeStatData');
+});
+
+
+var labelsGenerator = []
+for(i=0; i<188; i++){
+    labelsGenerator.push(
+        i
+    );
+}
+
+//Labels for Time Series
+function labelsForChart() {
+    console.log(count);
+    var labels = labelsGenerator;
+    //console.log(labels)
+    return labels;
+}
+// Values for Time Series
+function valuesForChart() {
+    var values = varsForChart;
+    //console.log(values)
+    return values;
+}
+
+
+
+
+
 
 //Init GMap
 function initMap() {
@@ -467,7 +563,7 @@ function initMap() {
     // on button click 
     localStorage.setItem('warReligionPlacesloaded', 0);
     $("#warReligionButton").click(function () {
-        
+
         loadwarReligionPlaces = localStorage.getItem('warReligionPlacesloaded');
 
         if (loadwarReligionPlaces == 0) {
@@ -529,36 +625,6 @@ function initMap() {
                     { title: "Description" }
                 ]
             });
-
-            console.log("Time Series Start")
-            //Labels for Time Series
-            function labelsForChart() {
-                var labels = ['Peter', 'Peter', 'Peter', 'Peter', 'Peter', 'Peter'];
-                console.log(labels)
-                return labels;
-            }
-            // Values for Time Series
-            function valuesForChart() {
-                var values = [
-                    [0, 18000, 35000, 25000, 22000, 0],
-                    [0, 33000, 15000, 20000, 15000, 300],
-                    [0, 15000, 28000, 15000, 30000, 5000]
-                ];
-                console.log(values)
-                return values;
-            }
-                // var labels = ['Peter', 'Peter', 'Peter', 'Peter', 'Peter', 'Peter'];
-                // var values = [
-                //     [0, 18000, 35000, 25000, 22000, 0],
-                //     [0, 33000, 15000, 20000, 15000, 300],
-                //     [0, 15000, 28000, 15000, 30000, 5000]
-                // ];
-        
-            $(window).trigger('changeStatData');
-            $(window).trigger('changeStatData', labels, values);
-
-            console.log("Triggered")
-
 
 
             localStorage.setItem('warReligionPlacesloaded', 1);
