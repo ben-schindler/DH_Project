@@ -315,10 +315,7 @@
                         <div class="card-body">
                             <h4 class="box-title">Development over time </h4>
                             <div class="row">
-                                <div class="col-lg-2" style="margin-top:9px;">
-                                    <h5>Please select:</h5>
-                                </div>
-                                <div class="col-lg-8">
+                                <div class="col-lg-10">
                                     <select id="selectPlaces" class="card-body js-example-basic-multiple"
                                         name="states[]" multiple="multiple">
                                         <optgroup>
@@ -326,8 +323,11 @@
                                     </select>
                                 </div>
                                 <div class="col-lg-2">
+                                    <button id="clearPlacesTimeButton" type="button" class="btn btn-light">
+                                        <span class="menu-icon fa fa-trash"></span> Clear
+                                    </button>
                                     <button id="placesTimeButton" type="button" class="btn btn-light">
-                                        <span class="menu-icon fa fa-check"></span> Show
+                                        <span class="menu-icon fa fa-check-circle"></span> Show
                                     </button>
                                 </div>
                             </div>
@@ -551,7 +551,7 @@
                         labels: ['Chapter', 'Next Chapter'],
                         series: [
                             [0, 18000, 35000, 25000, 22000, 0],
-                            [0, 33000, 15000, 20000, 15000, 300]                        ]
+                            [0, 33000, 15000, 20000, 15000, 300]]
                     }, {
                             low: 0,
                             showArea: true,

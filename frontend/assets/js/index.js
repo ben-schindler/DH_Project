@@ -14,20 +14,47 @@ $(document).ready(function () {
             "countArray": place.properties.Analysis.Count[1]
         });
     });
-    console.log(chartPlaces)
+    //console.log(chartPlaces)
 
     $('.js-example-basic-multiple').select2({
-        placeholder: 'Places',
-        data: chartPlaces
+        placeholder: 'Please select places',
+        data: chartPlaces,
+        maximumSelectionLength: 6,
+        allowClear: false
     });
+
 
 });
 
 
 var selectData = [];
-$('#selectPlaces').on('select2:select', function (e) {
-    selectData.push(e.params.data);
-    //console.log(selectData);
+$('#selectPlaces')
+    .on('select2:select', function (e) {
+        selectData.push(e.params.data);
+        //console.log(e.params.data);
+        console.log(selectData)
+    })
+    .on("select2:unselect", function (e) {
+        console.log("unselect")
+        // selectData.forEach(function (data) {
+        //     if (data == e.params.data) {
+
+        //     }
+        // });
+        for (i = 0; i < selectData.length; i++) {
+            if (selectData[i] == e.params.data) {
+                selectData.splice(i, 1);
+                console.log("delete from array")
+            }
+        }
+        console.log(selectData)
+    });
+
+
+
+//clear selections: 
+$("#clearPlacesTimeButton").click(function () {
+    $('#selectPlaces').val(null).trigger('change');
 });
 
 
@@ -36,7 +63,7 @@ $("#placesTimeButton").click(function () {
 
     varsForChart = []
 
-
+    console.log(selectData)
     selectData.forEach(function (place) {
         // XXX: Aggriegiere über einzelne Stellen: +1 wenn Zeile vorkommt. Das ist y-wert, X - Wert ist stelle
         // console.log(place)
@@ -50,16 +77,16 @@ $("#placesTimeButton").click(function () {
         // console.log(counts[4]);
 
         var varsforPlace = []
-        for(i=0; i<188; i++){
-            if(typeof counts[i] == "undefined"){
+        for (i = 0; i < 188; i++) {
+            if (typeof counts[i] == "undefined") {
                 varsforPlace.push(
                     0
                 );
-            }else{
+            } else {
                 varsforPlace.push(
                     counts[i]
                 );
-            }      
+            }
         }
         varsForChart.push(
             varsforPlace
@@ -69,22 +96,23 @@ $("#placesTimeButton").click(function () {
     // labelsForChart();
     // valuesForChart();
     $(window).trigger('changeStatData');
+
 });
 
 
 var labelsGenerator = []
-for(i=0; i<188; i++){
-    if(i%25 == 0 || i == 0){
+for (i = 0; i < 188; i++) {
+    if (i % 25 == 0 || i == 0) {
         labelsGenerator.push(
             i
         );
-    }else{
+    } else {
         labelsGenerator.push(
             ""
         );
     }
 }
-console.log(labelsGenerator)
+//console.log(labelsGenerator)
 
 //Labels for Time Series
 function labelsForChart() {
