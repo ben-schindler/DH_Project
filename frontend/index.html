@@ -28,26 +28,35 @@
     <link rel="stylesheet" href="assets/css/cs-skin-elastic.css">
     <link rel="stylesheet" href="assets/css/lib/datatable/dataTables.bootstrap.min.css">
     <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,600,700,800' rel='stylesheet' type='text/css'>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.6-rc.0/css/select2.min.css" rel="stylesheet" />
+
 
     <!-- <link rel="stylesheet" href="assets/css/dataTables.min.css"> -->
 
 
 
     <style>
+        /* Custom */
+        .pleiabtn {
+            margin-bottom: 4px;
+        }
 
-        #flotPie1  {
+        #flotPie1 {
             height: 130px;
-        } 
+        }
+
         #flotPie1 td {
-            padding:3px;
+            padding: 3px;
         }
+
         #flotPie1 table {
-            top: 20px!important;
-            right: -10px!important;
+            top: 20px !important;
+            right: -10px !important;
         }
+
         .chart-container {
             display: table;
-            min-width: 270px ;
+            min-width: 270px;
             text-align: left;
             padding-top: 10px;
             padding-bottom: 10px;
@@ -56,25 +65,23 @@
         .traffic-chart {
             min-height: 335px;
         }
-        
-
-     #map {
-        height: 100%;
-      }
 
 
-      #pac-input {
-        background-color: #fff;
-        height: 40px;
-        font-size: 15px;
-        font-weight: 300;
-        margin-top: 10px;
-        padding: 0 11px 0 13px;
-        text-overflow: ellipsis;
-        width: 400px;
-      }
-  
+        #map {
+            height: 100%;
+        }
 
+
+        #pac-input {
+            background-color: #fff;
+            height: 40px;
+            font-size: 15px;
+            font-weight: 300;
+            margin-top: 10px;
+            padding: 0 11px 0 13px;
+            text-overflow: ellipsis;
+            width: 400px;
+        }
     </style>
 
 </head>
@@ -93,22 +100,30 @@
                     <li class="menu-title">How-to</li><!-- /.menu-title -->
                     <li>
                         <a>Choose a topic to load the corresponding analysis and display the results</a>
-                        <button id="placesButton" type="button" class="btn btn-light">
+                        <button id="placesButton" type="button" class="pleiabtn btn btn-light">
                             <span class="menu-icon fa fa-folder-open"></span> Places
                         </button>
-                        <button id="warButton" type="button" class="btn btn-light">
+                        <button id="warButton" type="button" class="pleiabtn btn btn-light">
                             <span class="menu-icon fa fa-folder-open"></span> War
                         </button>
-                        <button id="croesusButton" type="button" class="btn btn-light">
+                        <button id="croesusButton" type="button" class="pleiabtn btn btn-light">
                             <span class="menu-icon fa fa-folder-open"></span> Croesus
+                        </button>
+                        <button id="religionButton" type="button" class="pleiabtn btn btn-light">
+                            <span class="menu-icon fa fa-folder-open"></span> Religion
+                        </button>
+                        <button id="warReligionButton" type="button" class="pleiabtn btn btn-light">
+                            <span class="menu-icon fa fa-folder-open"></span> War-Religion
                         </button>
                         <hr>
 
                     <li><a href="https://pleiades.stoa.org/"><i class="menu-icon fa fa-folder-open"></i>Pleiades
                             Gazetteer</a></li>
-                    <li><a href="http://classics.mit.edu/Herodotus/history.html"><i class="menu-icon fa fa-folder-open"></i>Herodotus
+                    <li><a href="http://classics.mit.edu/Herodotus/history.html"><i
+                                class="menu-icon fa fa-folder-open"></i>Herodotus
                             Archive</a></li>
-                    <li><a href="https://developers.google.com/maps/documentation/javascript/tutorial"><i class="menu-icon fa fa-folder-open"></i>Google
+                    <li><a href="https://developers.google.com/maps/documentation/javascript/tutorial"><i
+                                class="menu-icon fa fa-folder-open"></i>Google
                             Maps API</a></li>
 
                     </li>
@@ -127,7 +142,7 @@
         <header id="header" class="header">
             <div class="top-left">
                 <div class="navbar-header">
-                    <a class="navbar-brand" href="./"><img src="images/logo.png" alt="Logo"></a>
+                    <a class="navbar-brand" href="#"><img src="images/logo.png" alt="Logo"></a>
                     <a class="navbar-brand hidden" href="./"><img src="images/logo2.png" alt="Logo"></a>
                     <a id="menuToggle" class="menutoggle"><i class="fa fa-bars"></i></a>
                 </div>
@@ -298,15 +313,32 @@
                 <div class="col-lg-12">
                     <div class="card">
                         <div class="card-body">
-                            <h4 class="box-title">Development over time </h4>
+                            <h4 class="box-title">Occurences in the texts</h4>
+                            <div class="row">
+                                <div class="col-lg-10">
+                                    <select id="selectPlaces" class="card-body js-example-basic-multiple"
+                                        name="states[]" multiple="multiple">
+                                        <optgroup>
+                                        </optgroup>
+                                    </select>
+                                </div>
+                                <div class="col-lg-2">
+                                    <button id="placesTimeButton" type="button" class="btn btn-light">
+                                        <span class="menu-icon fa fa-check-circle"></span> Show
+                                    </button>
+                                    <button id="clearPlacesTimeButton" type="button" class="btn btn-light">
+                                        <span class="menu-icon fa fa-trash"></span> Clear
+                                    </button>
+                                </div>
+                            </div>
                         </div>
                         <div class="row">
-                            <div class="col-lg-8">
+                            <div class="col-lg-12">
                                 <div class="card-body">
                                     <div id="traffic-chart" class="traffic-chart"></div>
                                 </div>
                             </div>
-                            <div class="col-lg-4">
+                            <!-- <div class="col-lg-4">
                                 <div class="card-body">
                                     <div class="progress-box progress-1">
                                         <h4 class="por-title">Public Offenses</h4>
@@ -340,15 +372,15 @@
                                                 aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"></div>
                                         </div>
                                     </div>
-                                </div> 
-                            </div>
-                        </div> 
+                                </div>
+                            </div> -->
+                        </div>
                         <div class="card-body"></div>
                     </div>
                 </div>
             </div>
 
-            
+
             <div class="card">
                 <div class="card-header">
                     <strong class="card-title">Data Table</strong>
@@ -358,7 +390,7 @@
                 </div>
             </div>
 
-    
+
 
         </div> <!-- .content -->
 
@@ -373,8 +405,9 @@
                         Copyright &copy; 2018 Ela Admin
                     </div>
                     <div class="col-sm-4">
-                        Icons made by <a href="https://www.freepik.com/" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/"
-                            title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a>
+                        Icons made by <a href="https://www.freepik.com/" title="Freepik">Freepik</a> from <a
+                            href="https://www.flaticon.com/" title="Creative Commons BY 3.0" target="_blank">CC 3.0
+                            BY</a>
                     </div>
                     <div class="col-sm-4 text-right">
                         Designed by <a href="https://colorlib.com">Colorlib</a>
@@ -416,6 +449,9 @@
     <script src="assets/js/lib/data-table/datatables-init.js"></script>
 
 
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.6-rc.0/js/select2.min.js"></script>
+
+
 
     <script src="assets/js/lib/chart-js/Chart.bundle.js"></script>
 
@@ -444,9 +480,14 @@
 
     <script src="assets/js/credentials.js"></script>
     <script src="assets/js/index.js"></script>
-    <script src="../FeatureCollection.js"></script>
+    <script src="../count.js"></script>
     <script src="../War.js"></script>
     <script src="../croesus.js"></script>
+    <script src="../religion.js"></script>
+    <script src="../war_religion.js"></script>
+
+
+
 
 
 
@@ -507,12 +548,10 @@
                 // Traffic Chart using chartist
                 if ($('#traffic-chart').length) {
                     var chart = new Chartist.Line('#traffic-chart', {
-                        labels: ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun'],
+                        labels: ['Chapter', 'Next Chapter'],
                         series: [
                             [0, 18000, 35000, 25000, 22000, 0],
-                            [0, 33000, 15000, 20000, 15000, 300],
-                            [0, 15000, 28000, 15000, 30000, 5000]
-                        ]
+                            [0, 33000, 15000, 20000, 15000, 300]]
                     }, {
                             low: 0,
                             showArea: true,
@@ -539,12 +578,42 @@
                 }
                 // Traffic Chart using chartist End
 
-
-
-
-
-
             });  // End of Document Ready 
+
+        $(window).on('changeStatData', function ($, countCategory) {
+            "use strict";
+            jQuery(document).ready(function ($, countCategory) {
+                "use strict";
+                if ($('#traffic-chart').length) {
+                    var chart = new Chartist.Line('#traffic-chart', {
+                        labels: labelsForChart(),
+                        series: valuesForChart()
+                    }, {
+                            low: 0,
+                            showArea: true,
+                            showLine: false,
+                            showPoint: false,
+                            fullWidth: true,
+                            axisX: {
+                                showGrid: true
+                            }
+                        });
+                    chart.on('draw', function (data) {
+                        if (data.type === 'line' || data.type === 'area') {
+                            data.element.animate({
+                                d: {
+                                    begin: 2000 * data.index,
+                                    dur: 2000,
+                                    from: data.path.clone().scale(1, 0).translate(0, data.chartRect.height()).stringify(),
+                                    to: data.path.clone().stringify(),
+                                    easing: Chartist.Svg.Easing.easeOutQuint
+                                }
+                            });
+                        }
+                    });
+                }
+            })
+        })
 
 
 

@@ -1439,6 +1439,9 @@ header .form-inline {
     color: #868e96;
     font-family: 'Open Sans';
     font-size: 12px; }
+  #flotPie1 .table .element.style{
+    width: 160px;
+  }
 
 /* Stats Table */
 .table-stats table {
