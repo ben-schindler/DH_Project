@@ -5,46 +5,6 @@ var Religion_Topic =
   {
    "type": "Feature",
    "properties": {
-    "title": "Delphi",
-    "description": "The ancient pan-Hellenic sanctuary of Delphi in Greece, seat of the oracle of Apollo.",
-    "featureTypes": "sanctuary, settlement",
-    "timePeriodsKeys": "archaic,classical,hellenistic-republican,roman,late-antique,modern",
-    "timePeriodsRange": "-750.0,2100.0",
-    "minDate": -750.0,
-    "maxDate": 2100.0,
-    "Analysis": {
-     "Religion": [
-      14,
-      [
-       3,
-       8,
-       11,
-       17,
-       18,
-       67,
-       75,
-       109,
-       132,
-       148,
-       154,
-       162,
-       182,
-       183
-      ]
-     ]
-    }
-   },
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     22.501169,
-     38.482289
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "properties": {
     "title": "*Diana",
     "description": "An ancient place, cited: BAtlas 21 E5 *Diana",
     "featureTypes": "fort",
@@ -54,9 +14,8 @@ var Religion_Topic =
     "maxDate": 640.0,
     "Analysis": {
      "Religion": [
-      6,
+      5,
       [
-       4,
        4,
        71,
        85,
@@ -77,19 +36,24 @@ var Religion_Topic =
   {
    "type": "Feature",
    "properties": {
-    "title": "Argos",
-    "description": "Argos was a city of ancient Greece that reached its cultural highpoint under Pheidon in the seventh century BC.",
-    "featureTypes": "settlement",
-    "timePeriodsKeys": "archaic,classical,hellenistic-republican,roman",
-    "timePeriodsRange": "-750.0,300.0",
+    "title": "Delphi",
+    "description": "The ancient pan-Hellenic sanctuary of Delphi in Greece, seat of the oracle of Apollo.",
+    "featureTypes": "sanctuary, settlement",
+    "timePeriodsKeys": "archaic,classical,hellenistic-republican,roman,late-antique,modern",
+    "timePeriodsRange": "-750.0,2100.0",
     "minDate": -750.0,
-    "maxDate": 300.0,
+    "maxDate": 2100.0,
     "Analysis": {
      "Religion": [
-      2,
+      7,
       [
-       5,
-       172
+       8,
+       17,
+       18,
+       67,
+       75,
+       148,
+       154
       ]
      ]
     }
@@ -97,8 +61,8 @@ var Religion_Topic =
    "geometry": {
     "type": "Point",
     "coordinates": [
-     22.719464000000002,
-     37.631561
+     22.501169,
+     38.482289
     ]
    }
   },
@@ -114,13 +78,11 @@ var Religion_Topic =
     "maxDate": 2100.0,
     "Analysis": {
      "Religion": [
-      8,
+      6,
       [
        8,
        34,
        52,
-       52,
-       68,
        135,
        135,
        148
@@ -166,33 +128,6 @@ var Religion_Topic =
   {
    "type": "Feature",
    "properties": {
-    "title": "Olympos (mountain in Greece)",
-    "description": "Olympus is the highest mountain in Greece, located in the Olympus Range. In Greek mythology, it is the home of the Olympian gods.",
-    "featureTypes": "mountain",
-    "timePeriodsKeys": "archaic,classical,hellenistic-republican,roman,late-antique,modern",
-    "timePeriodsRange": "-750.0,2100.0",
-    "minDate": -750.0,
-    "maxDate": 2100.0,
-    "Analysis": {
-     "Religion": [
-      1,
-      [
-       11
-      ]
-     ]
-    }
-   },
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     22.358611,
-     40.085556
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "properties": {
     "title": "Tegea",
     "description": "Tegea was an ancient city of Arcadia. It is especially noted for its sanctuary dedicated to Athena Alea.",
     "featureTypes": "settlement, church",
@@ -202,10 +137,9 @@ var Religion_Topic =
     "maxDate": 640.0,
     "Analysis": {
      "Religion": [
-      2,
+      1,
       [
-       11,
-       176
+       11
       ]
      ]
     }
@@ -248,33 +182,6 @@ var Religion_Topic =
   {
    "type": "Feature",
    "properties": {
-    "title": "Ionia (region)",
-    "description": "The coast of Asia Minor between Aeolis and Caria.",
-    "featureTypes": "region",
-    "timePeriodsKeys": "archaic,classical,hellenistic-republican,roman,late-antique",
-    "timePeriodsRange": "-750.0,640.0",
-    "minDate": -750.0,
-    "maxDate": 640.0,
-    "Analysis": {
-     "Religion": [
-      1,
-      [
-       18
-      ]
-     ]
-    }
-   },
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     27.3660121333,
-     38.2585728556
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "properties": {
     "title": "Ashqelon/Ascalon",
     "description": "An ancient place, cited: BAtlas 70 F2 Ashqelon/Ascalon",
     "featureTypes": "settlement",
@@ -284,9 +191,8 @@ var Religion_Topic =
     "maxDate": 2000.0,
     "Analysis": {
      "Religion": [
-      3,
+      2,
       [
-       20,
        20,
        20
       ]
@@ -304,34 +210,6 @@ var Religion_Topic =
   {
    "type": "Feature",
    "properties": {
-    "title": "Cyprus (island)",
-    "description": "Third largest island in the Mediterranean Sea.",
-    "featureTypes": "island",
-    "timePeriodsKeys": "roman-early-empire-late-antique,modern",
-    "timePeriodsRange": "-30.0,2100.0",
-    "minDate": -30.0,
-    "maxDate": 2100.0,
-    "Analysis": {
-     "Religion": [
-      2,
-      [
-       20,
-       76
-      ]
-     ]
-    }
-   },
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     33.2753371642,
-     35.0408835298
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "properties": {
     "title": "(As)Syria",
     "description": "Assyria, a region of Upper Mesopotamia that formed the heartland of the Assyrian Empire. The region was known as Subartu prior to the rise of the city-state of A\u0161\u0161ur, the first capital of the Assyrian Empire. Other major cities of the region include Nineveh (the later capital of the Empire), Dur-Sharrukin, and Kalhu. After the fall of the Neo-Assyrian Empire in 609 BCE, the region fell under the control of a succession of other powers, generally remaining as a coherent administrative region. This persisted until the 7th century, when the Rashidun Caliphate incorporated the former Sasanian province of As\u014drist\u0101n within the larger province of al-Jazira.",
     "featureTypes": "region",
@@ -341,9 +219,8 @@ var Religion_Topic =
     "maxDate": 640.0,
     "Analysis": {
      "Religion": [
-      2,
+      1,
       [
-       20,
        20
       ]
      ]
@@ -369,9 +246,8 @@ var Religion_Topic =
     "maxDate": 2100.0,
     "Analysis": {
      "Religion": [
-      3,
+      2,
       [
-       28,
        28,
        28
       ]
@@ -443,61 +319,6 @@ var Religion_Topic =
   {
    "type": "Feature",
    "properties": {
-    "title": "Miletus",
-    "description": "A major ancient city in Caria.",
-    "featureTypes": "settlement, port",
-    "timePeriodsKeys": "middle-bronze-age-anatolia,early-iron-age-anatolia,archaic,neo-assyrian-babylonian-middle-east,middle-late-iron-age-anatolia,classical,achaemenid-middle-east,hellenistic-republican,hellenistic-middle-east,roman-middle-east,roman,roman-early-empire-parthian-middle-east,transition-roman-early-empire-late-antique,late-antique,late-antique-sasanian-middle-east,late-antique-late-byzantine,proto-byzantine,early-byzantine,abassid-middle-east,middle-byzantine,ottoman-rise,early-ottoman-empire,modern-middle-east",
-    "timePeriodsRange": "-1750.0,2000.0",
-    "minDate": -1750.0,
-    "maxDate": 2000.0,
-    "Analysis": {
-     "Religion": [
-      2,
-      [
-       30,
-       144
-      ]
-     ]
-    }
-   },
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     27.2783168333,
-     37.5229047333
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "properties": {
-    "title": "Pan(h)ormus",
-    "description": "First founded in 734 BC by the Phoenicians as Ziz, Pan(h)ormus (modern Palermo) was an important ancient city of the Greek, Roman, and Arabic civilizations.",
-    "featureTypes": "settlement, settlement-modern",
-    "timePeriodsKeys": "archaic,classical,hellenistic-republican,hellenistic-roman-early-empire,roman,late-antique,modern",
-    "timePeriodsRange": "-750.0,2100.0",
-    "minDate": -750.0,
-    "maxDate": 2100.0,
-    "Analysis": {
-     "Religion": [
-      1,
-      [
-       30
-      ]
-     ]
-    }
-   },
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     13.3534422,
-     38.111270000000005
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "properties": {
     "title": "Chios",
     "description": "An ancient place, cited: BAtlas 56 C5 Chios",
     "featureTypes": "settlement",
@@ -552,60 +373,6 @@ var Religion_Topic =
   {
    "type": "Feature",
    "properties": {
-    "title": "Araxes (river)",
-    "description": "Araxes fl. is one of the largest rivers of the Caucasus.",
-    "featureTypes": "river",
-    "timePeriodsKeys": "classical,hellenistic-republican,roman,late-antique,modern",
-    "timePeriodsRange": "-550.0,2100.0",
-    "minDate": -550.0,
-    "maxDate": 2100.0,
-    "Analysis": {
-     "Religion": [
-      1,
-      [
-       41
-      ]
-     ]
-    }
-   },
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     46.5,
-     38.5
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "properties": {
-    "title": "Colophon/Colophon ad Mare/Notion",
-    "description": "A port city founded by Aeolian settlers at the mouth of the River Avci.",
-    "featureTypes": "settlement, port",
-    "timePeriodsKeys": "archaic,classical,hellenistic-republican,roman,late-antique",
-    "timePeriodsRange": "-750.0,640.0",
-    "minDate": -750.0,
-    "maxDate": 640.0,
-    "Analysis": {
-     "Religion": [
-      1,
-      [
-       41
-      ]
-     ]
-    }
-   },
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     27.200852,
-     37.9952785
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "properties": {
     "title": "Athenae",
     "description": "A major Greek city-state and the principal city of Attika. Modern Athens in Greece.",
     "featureTypes": "settlement",
@@ -615,12 +382,11 @@ var Religion_Topic =
     "maxDate": 2100.0,
     "Analysis": {
      "Religion": [
-      4,
+      3,
       [
        42,
        148,
-       153,
-       177
+       153
       ]
      ]
     }
@@ -663,65 +429,6 @@ var Religion_Topic =
   {
    "type": "Feature",
    "properties": {
-    "title": "Nilus (river)",
-    "description": "The Nile is a major river of northeastern Africa and is generally acknowledged as the longest river in the world, measuring some 6,650 km (4,130 miles) from source to mouth.",
-    "featureTypes": "river",
-    "timePeriodsKeys": "neolithic-egypt,pottery-neolithic-middle-east,2nd-millennium-bc-egypt,new-kingdom-egypt,1200-bc-middle-east,archaic,classical,achaemenid-middle-east,achaemenid-roman-republic-middle-east,hellenistic-republican,hellenistic-middle-east,ptolemaic-roman-egypt,roman-middle-east,roman,roman-early-empire-parthian-middle-east,transition-roman-early-empire-late-antique,late-antique,late-antique-sasanian-middle-east,caliphate-umayyad-middle-east,abassid-middle-east,samanid-ghaznavid-iran,early-ottoman-empire,1500-ad-middle-east,ottoman-empire,late-ottoman-empire,modern,khedivate-egypt,modern-middle-east",
-    "timePeriodsRange": "-6000.0,2100.0",
-    "minDate": -6000.0,
-    "maxDate": 2100.0,
-    "Analysis": {
-     "Religion": [
-      2,
-      [
-       44,
-       67
-      ]
-     ]
-    }
-   },
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     30.567329633299998,
-     19.2114087667
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "properties": {
-    "title": "Isis (river)",
-    "description": "An ancient place, cited: BAtlas 87 G3 Isis fl.",
-    "featureTypes": "river",
-    "timePeriodsKeys": "hellenistic-republican,roman,late-antique,modern",
-    "timePeriodsRange": "-330.0,2100.0",
-    "minDate": -330.0,
-    "maxDate": 2100.0,
-    "Analysis": {
-     "Religion": [
-      5,
-      [
-       49,
-       49,
-       49,
-       75,
-       135
-      ]
-     ]
-    }
-   },
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     41.5,
-     41.5
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "properties": {
     "title": "Atarbechis",
     "description": "An ancient place, cited: BAtlas 74 D3 Atarbechis",
     "featureTypes": "settlement",
@@ -758,9 +465,8 @@ var Religion_Topic =
     "maxDate": 640.0,
     "Analysis": {
      "Religion": [
-      2,
+      1,
       [
-       49,
        49
       ]
      ]
@@ -786,22 +492,15 @@ var Religion_Topic =
     "maxDate": 2100.0,
     "Analysis": {
      "Religion": [
-      14,
+      7,
       [
        50,
        50,
        50,
        50,
        50,
-       50,
-       50,
-       50,
-       50,
        61,
-       69,
-       115,
-       148,
-       178
+       148
       ]
      ]
     }
@@ -826,9 +525,8 @@ var Religion_Topic =
     "maxDate": 2100.0,
     "Analysis": {
      "Religion": [
-      2,
+      1,
       [
-       50,
        50
       ]
      ]
@@ -845,60 +543,6 @@ var Religion_Topic =
   {
    "type": "Feature",
    "properties": {
-    "title": "Heliopolis",
-    "description": "An ancient place, cited: BAtlas 74 E4 Heliopolis",
-    "featureTypes": "settlement",
-    "timePeriodsKeys": "paleolithic-middle-east,neolithic-egypt,old-kingdom-egypt,middle-kingdom-egypt,second-intermediate-period-egypt,new-kingdom-egypt,archaic,neo-assyrian-babylonian-middle-east,classical,achaemenid-middle-east,hellenistic-republican,hellenistic-middle-east,ptolemaic-roman-egypt,roman,roman-early-empire-parthian-middle-east,late-antique,caliphate-umayyad-middle-east,abassid-middle-east,fatimid-middle-east,mamluk-middle-east,modern-middle-east",
-    "timePeriodsRange": "-2600000.0,2000.0",
-    "minDate": -2600000.0,
-    "maxDate": 2000.0,
-    "Analysis": {
-     "Religion": [
-      1,
-      [
-       53
-      ]
-     ]
-    }
-   },
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     31.284785999999997,
-     30.131757
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "properties": {
-    "title": "Papremis",
-    "description": "An ancient place, cited: BAtlas 74 D3 Papremis",
-    "featureTypes": "labeled feature",
-    "timePeriodsKeys": "classical,hellenistic-republican,roman",
-    "timePeriodsRange": "-550.0,300.0",
-    "minDate": -550.0,
-    "maxDate": 300.0,
-    "Analysis": {
-     "Religion": [
-      1,
-      [
-       53
-      ]
-     ]
-    }
-   },
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     30.75,
-     30.75
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "properties": {
     "title": "Arabia",
     "description": "An ancient place, cited: BAtlas 3 D4 Arabia",
     "featureTypes": "region",
@@ -908,10 +552,9 @@ var Religion_Topic =
     "maxDate": 640.0,
     "Analysis": {
      "Religion": [
-      2,
+      1,
       [
-       54,
-       55
+       54
       ]
      ]
     }
@@ -965,11 +608,10 @@ var Religion_Topic =
     "maxDate": NaN,
     "Analysis": {
      "Religion": [
-      3,
+      2,
       [
        59,
-       71,
-       136
+       71
       ]
      ]
     }
@@ -994,14 +636,13 @@ var Religion_Topic =
     "maxDate": 2000.0,
     "Analysis": {
      "Religion": [
-      6,
+      5,
       [
        61,
        71,
        75,
        75,
-       75,
-       81
+       75
       ]
      ]
     }
@@ -1017,45 +658,18 @@ var Religion_Topic =
   {
    "type": "Feature",
    "properties": {
-    "title": "Sidon/Col. Aurelia Pia",
-    "description": "Sidon/Col. Aurelia Pia is an ancient maritime city and Phoenician metropolis",
-    "featureTypes": "settlement",
-    "timePeriodsKeys": "paleolithic-middle-east,2nd-millennium-bc-levant,egyptian-hittite-levant,1200-bc-middle-east,iron-age-southern-levant,archaic,neo-assyrian-babylonian-middle-east,classical,achaemenid-middle-east,achaemenid-roman-republic-middle-east,hellenistic-republican,hellenistic-middle-east,roman-middle-east,roman,roman-early-empire-parthian-middle-east,transition-roman-early-empire-late-antique,late-antique,late-antique-sasanian-middle-east,caliphate-umayyad-middle-east,abassid-middle-east,middle-byzantine,crusader-byzantine-seljuq-middle-east,crusader-seljuq-ayyubid-levant,ilkhanate-middle-east,early-ottoman-empire,1500-ad-middle-east,ottoman-empire,late-ottoman-empire,khedivate-egypt,modern-middle-east",
-    "timePeriodsRange": "-2600000.0,2000.0",
-    "minDate": -2600000.0,
-    "maxDate": 2000.0,
-    "Analysis": {
-     "Religion": [
-      1,
-      [
-       62
-      ]
-     ]
-    }
-   },
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     35.37324,
-     33.560328000000005
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "properties": {
-    "title": "Orontes (river)",
-    "description": "The Orontes River is one of the chief rivers of the Levant.",
+    "title": "Nilus (river)",
+    "description": "The Nile is a major river of northeastern Africa and is generally acknowledged as the longest river in the world, measuring some 6,650 km (4,130 miles) from source to mouth.",
     "featureTypes": "river",
-    "timePeriodsKeys": "hellenistic-republican,roman,late-antique,modern",
-    "timePeriodsRange": "-330.0,2100.0",
-    "minDate": -330.0,
+    "timePeriodsKeys": "neolithic-egypt,pottery-neolithic-middle-east,2nd-millennium-bc-egypt,new-kingdom-egypt,1200-bc-middle-east,archaic,classical,achaemenid-middle-east,achaemenid-roman-republic-middle-east,hellenistic-republican,hellenistic-middle-east,ptolemaic-roman-egypt,roman-middle-east,roman,roman-early-empire-parthian-middle-east,transition-roman-early-empire-late-antique,late-antique,late-antique-sasanian-middle-east,caliphate-umayyad-middle-east,abassid-middle-east,samanid-ghaznavid-iran,early-ottoman-empire,1500-ad-middle-east,ottoman-empire,late-ottoman-empire,modern,khedivate-egypt,modern-middle-east",
+    "timePeriodsRange": "-6000.0,2100.0",
+    "minDate": -6000.0,
     "maxDate": 2100.0,
     "Analysis": {
      "Religion": [
       1,
       [
-       69
+       67
       ]
      ]
     }
@@ -1063,8 +677,8 @@ var Religion_Topic =
    "geometry": {
     "type": "Point",
     "coordinates": [
-     36.482575399999995,
-     35.272833899999995
+     30.567329633299998,
+     19.2114087667
     ]
    }
   },
@@ -1139,16 +753,11 @@ var Religion_Topic =
     "maxDate": 640.0,
     "Analysis": {
      "Religion": [
-      8,
+      3,
       [
        71,
        71,
-       81,
-       81,
-       81,
-       81,
-       81,
-       89
+       81
       ]
      ]
     }
@@ -1212,6 +821,33 @@ var Religion_Topic =
     "coordinates": [
      30.774366999999998,
      30.96715
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Isis (river)",
+    "description": "An ancient place, cited: BAtlas 87 G3 Isis fl.",
+    "featureTypes": "river",
+    "timePeriodsKeys": "hellenistic-republican,roman,late-antique,modern",
+    "timePeriodsRange": "-330.0,2100.0",
+    "minDate": -330.0,
+    "maxDate": 2100.0,
+    "Analysis": {
+     "Religion": [
+      1,
+      [
+       75
+      ]
+     ]
+    }
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     41.5,
+     41.5
     ]
    }
   },
@@ -1293,6 +929,33 @@ var Religion_Topic =
     "coordinates": [
      22.5,
      32.5
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "title": "Cyprus (island)",
+    "description": "Third largest island in the Mediterranean Sea.",
+    "featureTypes": "island",
+    "timePeriodsKeys": "roman-early-empire-late-antique,modern",
+    "timePeriodsRange": "-30.0,2100.0",
+    "minDate": -30.0,
+    "maxDate": 2100.0,
+    "Analysis": {
+     "Religion": [
+      1,
+      [
+       76
+      ]
+     ]
+    }
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     33.2753371642,
+     35.0408835298
     ]
    }
   },
@@ -1463,46 +1126,18 @@ var Religion_Topic =
   {
    "type": "Feature",
    "properties": {
-    "title": "Getae",
-    "description": "The Greek name given to Thracian tribes dwelling south of the Danube river.",
-    "featureTypes": "people",
-    "timePeriodsKeys": "classical,hellenistic-republican,roman,late-antique",
-    "timePeriodsRange": "-550.0,640.0",
-    "minDate": -550.0,
-    "maxDate": 640.0,
-    "Analysis": {
-     "Religion": [
-      2,
-      [
-       121,
-       121
-      ]
-     ]
-    }
-   },
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     25.5,
-     44.5
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "properties": {
-    "title": "Sarmatia",
-    "description": "An ancient place, cited: BAtlas 84 E3 Sarmatia",
-    "featureTypes": "unknown",
-    "timePeriodsKeys": "classical,hellenistic-republican,roman,late-antique",
-    "timePeriodsRange": "-550.0,640.0",
-    "minDate": -550.0,
-    "maxDate": 640.0,
+    "title": "Miletus",
+    "description": "A major ancient city in Caria.",
+    "featureTypes": "settlement, port",
+    "timePeriodsKeys": "middle-bronze-age-anatolia,early-iron-age-anatolia,archaic,neo-assyrian-babylonian-middle-east,middle-late-iron-age-anatolia,classical,achaemenid-middle-east,hellenistic-republican,hellenistic-middle-east,roman-middle-east,roman,roman-early-empire-parthian-middle-east,transition-roman-early-empire-late-antique,late-antique,late-antique-sasanian-middle-east,late-antique-late-byzantine,proto-byzantine,early-byzantine,abassid-middle-east,middle-byzantine,ottoman-rise,early-ottoman-empire,modern-middle-east",
+    "timePeriodsRange": "-1750.0,2000.0",
+    "minDate": -1750.0,
+    "maxDate": 2000.0,
     "Analysis": {
      "Religion": [
       1,
       [
-       122
+       144
       ]
      ]
     }
@@ -1510,116 +1145,8 @@ var Religion_Topic =
    "geometry": {
     "type": "Point",
     "coordinates": [
-     39.5,
-     45.5
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "properties": {
-    "title": "Platea? (island)",
-    "description": "An ancient place, cited: BAtlas 57 E6 Platea? Ins.",
-    "featureTypes": "island",
-    "timePeriodsKeys": "modern",
-    "timePeriodsRange": "1700.0,2100.0",
-    "minDate": 1700.0,
-    "maxDate": 2100.0,
-    "Analysis": {
-     "Religion": [
-      1,
-      [
-       131
-      ]
-     ]
-    }
-   },
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     26.232296500000004,
-     35.8634532
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "properties": {
-    "title": "Libya",
-    "description": "An ancient place, cited: None",
-    "featureTypes": "region",
-    "timePeriodsKeys": "roman,late-antique",
-    "timePeriodsRange": "-30.0,640.0",
-    "minDate": -30.0,
-    "maxDate": 640.0,
-    "Analysis": {
-     "Religion": [
-      1,
-      [
-       131
-      ]
-     ]
-    }
-   },
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     26.5,
-     31.5
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "properties": {
-    "title": "Triton",
-    "description": "An ancient place, cited: BAtlas 52 D3 Triton",
-    "featureTypes": "labeled feature",
-    "timePeriodsKeys": "hellenistic-republican,roman",
-    "timePeriodsRange": "-330.0,300.0",
-    "minDate": -330.0,
-    "maxDate": 300.0,
-    "Analysis": {
-     "Religion": [
-      1,
-      [
-       134
-      ]
-     ]
-    }
-   },
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     28.75,
-     40.75
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "properties": {
-    "title": "A(n)thene",
-    "description": "An ancient place, cited: BAtlas 58 D3 A(n)thene",
-    "featureTypes": "settlement",
-    "timePeriodsKeys": "classical,hellenistic-republican,roman",
-    "timePeriodsRange": "-550.0,300.0",
-    "minDate": -550.0,
-    "maxDate": 300.0,
-    "Analysis": {
-     "Religion": [
-      1,
-      [
-       134
-      ]
-     ]
-    }
-   },
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     22.669501,
-     37.450394
+     27.2783168333,
+     37.5229047333
     ]
    }
   },
@@ -1653,33 +1180,6 @@ var Religion_Topic =
   {
    "type": "Feature",
    "properties": {
-    "title": "Thebe",
-    "description": "An ancient place, cited: BAtlas 56 E2 Thebe",
-    "featureTypes": "settlement",
-    "timePeriodsKeys": "archaic,classical,hellenistic-republican,roman",
-    "timePeriodsRange": "-750.0,300.0",
-    "minDate": -750.0,
-    "maxDate": 300.0,
-    "Analysis": {
-     "Religion": [
-      1,
-      [
-       151
-      ]
-     ]
-    }
-   },
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     27.020171,
-     39.597431
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "properties": {
     "title": " Sardis/Hyde?",
     "description": "Sardis was the capital of the Lydian Empire located in western Turkey. In 188 B.C. Sardis became a part of the Attalid kingdom and thus it passed with the territory of Attalus III to Rome in 133 B.C. ",
     "featureTypes": "settlement",
@@ -1689,11 +1189,9 @@ var Religion_Topic =
     "maxDate": 2000.0,
     "Analysis": {
      "Religion": [
-      3,
+      1,
       [
-       156,
-       156,
-       180
+       156
       ]
      ]
     }
@@ -1784,88 +1282,6 @@ var Religion_Topic =
     "coordinates": [
      23.1846775333,
      38.3466880333
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "properties": {
-    "title": "Danae",
-    "description": "An ancient place, cited: BAtlas 87 C4 Danae",
-    "featureTypes": "station",
-    "timePeriodsKeys": "late-antique",
-    "timePeriodsRange": "300.0,640.0",
-    "minDate": 300.0,
-    "maxDate": 640.0,
-    "Analysis": {
-     "Religion": [
-      1,
-      [
-       168
-      ]
-     ]
-    }
-   },
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     37.444731,
-     40.385616
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "properties": {
-    "title": "Sparta",
-    "description": "Sparta was a prominent city-state (polis) of ancient Greece.",
-    "featureTypes": "settlement, temple, temple-2",
-    "timePeriodsKeys": "middle-geometric,archaic,classical,hellenistic-republican,roman",
-    "timePeriodsRange": "-850.0,300.0",
-    "minDate": -850.0,
-    "maxDate": 300.0,
-    "Analysis": {
-     "Religion": [
-      1,
-      [
-       172
-      ]
-     ]
-    }
-   },
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     22.4272985,
-     37.077905
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "properties": {
-    "title": "Glaucus (river)",
-    "description": "An ancient place, cited: BAtlas 65 B4 Glaucus fl.",
-    "featureTypes": "river",
-    "timePeriodsKeys": "roman",
-    "timePeriodsRange": "-30.0,300.0",
-    "minDate": -30.0,
-    "maxDate": 300.0,
-    "Analysis": {
-     "Religion": [
-      2,
-      [
-       174,
-       174
-      ]
-     ]
-    }
-   },
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     29.25,
-     36.75
     ]
    }
   },
